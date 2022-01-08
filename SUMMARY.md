@@ -50,7 +50,6 @@
 
 ## 第4章 安装应用程序: Package 和 Port
 
-* [Page 1](di-4-zhang-an-zhuang-ying-yong-cheng-xu-package-he-port/page-1.md)
 * [4.1.概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-package-he-port/4.1.-gai-shu.md)
 * [4.2.软件安装的概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-package-he-port/4.2.-ruan-jian-an-zhuang-de-gai-shu.md)
 * [4.3.寻找所需的应用程序](di-4-zhang-an-zhuang-ying-yong-cheng-xu-package-he-port/4.3.-xun-zhao-suo-xu-de-ying-yong-cheng-xu.md)
