@@ -31,7 +31,7 @@
 * [2.8.账户、时区、服务和安全](di-2-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan.md)
 * [2.9.网络接口](di-2-zhang-an-zhuang-freebsd/2.9.-wang-luo-jie-kou.md)
 * [2.10.故障排除](di-2-zhang-an-zhuang-freebsd/2.10.-gu-zhang-pai-chu.md)
-* [2.11使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.11-shi-yong-live-cd.md)
+* [2.11.使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.11.-shi-yong-live-cd.md)
 
 ## 第3章 FreeBSD 基础
 
