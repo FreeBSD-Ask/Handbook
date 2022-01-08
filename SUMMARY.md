@@ -19,19 +19,19 @@
 * [1.2.欢迎来到 FreeBSD！](di-1-zhang-jian-jie/1.2.-huan-ying-lai-dao-freebsd.md)
 * [1.3.关于 FreeBSD 项目](di-1-zhang-jian-jie/1.3.-guan-yu-freebsd-xiang-mu.md)
 
-## 第二章 安装 FreeBSD
+## 第2章 安装 FreeBSD
 
-* [2.1. 概述](di-er-zhang-an-zhuang-freebsd/2.1.-gai-shu.md)
-* [2.2.最低硬件要求](di-er-zhang-an-zhuang-freebsd/2.2.-zui-di-ying-jian-yao-qiu.md)
-* [2.3. 安装前的准备工作](di-er-zhang-an-zhuang-freebsd/2.3.-an-zhuang-qian-de-zhun-bei-gong-zuo.md)
-* [2.4. 开始安装](di-er-zhang-an-zhuang-freebsd/2.4.-kai-shi-an-zhuang.md)
-* [2.5.使用 bsdinstall](di-er-zhang-an-zhuang-freebsd/2.5.-shi-yong-bsdinstall.md)
-* [2.6. 分配磁盘空间](di-er-zhang-an-zhuang-freebsd/2.6.-fen-pei-ci-pan-kong-jian.md)
-* [2.7. 获取安装文件](di-er-zhang-an-zhuang-freebsd/2.7.-huo-qu-an-zhuang-wen-jian.md)
-* [2.8.账户、时区、服务和安全](di-er-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan.md)
-* [2.9.网络接口](di-er-zhang-an-zhuang-freebsd/2.9.-wang-luo-jie-kou.md)
-* [2.10.故障排除](di-er-zhang-an-zhuang-freebsd/2.10.-gu-zhang-pai-chu.md)
-* [2.11使用 Live CD](di-er-zhang-an-zhuang-freebsd/2.11-shi-yong-live-cd.md)
+* [2.1. 概述](di-2-zhang-an-zhuang-freebsd/2.1.-gai-shu.md)
+* [2.2.最低硬件要求](di-2-zhang-an-zhuang-freebsd/2.2.-zui-di-ying-jian-yao-qiu.md)
+* [2.3. 安装前的准备工作](di-2-zhang-an-zhuang-freebsd/2.3.-an-zhuang-qian-de-zhun-bei-gong-zuo.md)
+* [2.4. 开始安装](di-2-zhang-an-zhuang-freebsd/2.4.-kai-shi-an-zhuang.md)
+* [2.5.使用 bsdinstall](di-2-zhang-an-zhuang-freebsd/2.5.-shi-yong-bsdinstall.md)
+* [2.6. 分配磁盘空间](di-2-zhang-an-zhuang-freebsd/2.6.-fen-pei-ci-pan-kong-jian.md)
+* [2.7. 获取安装文件](di-2-zhang-an-zhuang-freebsd/2.7.-huo-qu-an-zhuang-wen-jian.md)
+* [2.8.账户、时区、服务和安全](di-2-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan.md)
+* [2.9.网络接口](di-2-zhang-an-zhuang-freebsd/2.9.-wang-luo-jie-kou.md)
+* [2.10.故障排除](di-2-zhang-an-zhuang-freebsd/2.10.-gu-zhang-pai-chu.md)
+* [2.11使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.11-shi-yong-live-cd.md)
 
 ## 第3章 FreeBSD 基础
 
