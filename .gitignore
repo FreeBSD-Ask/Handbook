@@ -1,3 +1,5 @@
+*.md linguist-language=Tex
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
