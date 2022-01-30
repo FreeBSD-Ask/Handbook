@@ -12,8 +12,6 @@ QQ 群 731675387
 
 社区协作 FreeBSD 入门参考书籍 https://book.freebsdcn.org
 
-社区协作 Handbook 机器翻译 https://handbook.freebsdcn.org
-
 社区：https://freebsdcn.org
 
 Telegram 群 https://t.me/freebsdba
