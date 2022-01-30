@@ -16,4 +16,6 @@ QQ 群 731675387
 
 Telegram 群 https://t.me/freebsdba
 
+微信公众号：FreeBSD中文
+
 由于微信群的封闭性，微信群需要先进QQ 群后，由管理员发送新鲜二维码方可加入。
