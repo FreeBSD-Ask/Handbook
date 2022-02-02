@@ -92,6 +92,6 @@
 
 * [8.1.概述](di-ba-zhang-pei-zhi-freebsd-nei-he/8.1.-gai-shu.md)
 * [8.2. 为什么要构建自定义内核](di-ba-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-gou-jian-zi-ding-yi-nei-he.md)
-* [8.3浏览系统硬件](di-ba-zhang-pei-zhi-freebsd-nei-he/8.3-liu-lan-xi-tong-ying-jian.md)
+* [8.3.浏览系统硬件](di-ba-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
 * [8.5.构建与安装自定义内核](di-ba-zhang-pei-zhi-freebsd-nei-he/8.5.-gou-jian-yu-an-zhuang-zi-ding-yi-nei-he.md)
 * [8.6.如果发生了一些错误](di-ba-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
