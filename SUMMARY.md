@@ -140,3 +140,37 @@
 * [12.11. 调整内核限制](di-12-zhang-she-zhi-he-tiao-zheng/12.11.-tiao-zheng-nei-he-xian-zhi.md)
 * [12.12. 添加交换空间](di-12-zhang-she-zhi-he-tiao-zheng/12.12.-tian-jia-jiao-huan-kong-jian.md)
 * [12.13.电源和资源管理](di-12-zhang-she-zhi-he-tiao-zheng/12.13.-dian-yuan-he-zi-yuan-guan-li.md)
+
+## 第13章 FreeBSD 的启动过程
+
+* [13.1.概述](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.1.-gai-shu.md)
+* [13.2. FreeBSD 的启动过程](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.2.-freebsd-de-qi-dong-guo-cheng.md)
+* [13.3. Device Hints](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.3.-device-hints.md)
+* [13.4. 关机顺序](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.4.-guan-ji-shun-xu.md)
+
+## 第14章 安全
+
+* [14.1. 概述](di-14-zhang-an-quan/14.1.-gai-shu.md)
+* [14.2.介绍](di-14-zhang-an-quan/14.2.-jie-shao.md)
+* [14.3. 一次性密码](di-14-zhang-an-quan/14.3.-yi-ci-xing-mi-ma.md)
+* [14.4.TCP Wrapper](di-14-zhang-an-quan/14.4.tcp-wrapper.md)
+* [14.5. Kerberos](di-14-zhang-an-quan/14.5.-kerberos.md)
+* [14.6. OpenSSL](di-14-zhang-an-quan/14.6.-openssl.md)
+* [14.7. IPsec 上的 VPN](di-14-zhang-an-quan/14.7.-ipsec-shang-de-vpn.md)
+* [14.8. OpenSSH](di-14-zhang-an-quan/14.8.-openssh.md)
+* [14.9.文件系统访问控制表](di-14-zhang-an-quan/14.9.-wen-jian-xi-tong-fang-wen-kong-zhi-biao.md)
+* [14.10. 监测第三方安全问题](di-14-zhang-an-quan/14.10.-jian-ce-di-san-fang-an-quan-wen-ti.md)
+* [14.11.FreeBSD 安全公告](di-14-zhang-an-quan/14.11.freebsd-an-quan-gong-gao.md)
+* [14.12. 进程记帐](di-14-zhang-an-quan/14.12.-jin-cheng-ji-zhang.md)
+* [14.13. 资源配额](di-14-zhang-an-quan/14.13.-zi-yuan-pei-e.md)
+* [14.14. 使用 sudo 管理权限](di-14-zhang-an-quan/14.14.-shi-yong-sudo-guan-li-quan-xian.md)
+* [14.15. 使用 doas 作为 sudo 的替代品](di-14-zhang-an-quan/14.15.-shi-yong-doas-zuo-wei-sudo-de-ti-dai-pin.md)
+
+## 第十五章 Jail
+
+* [15.1.概述](di-shi-wu-zhang-jail/15.1.-gai-shu.md)
+* [15.2.与 Jail 有关的术语](di-shi-wu-zhang-jail/15.2.-yu-jail-you-guan-de-shu-yu.md)
+* [15.3. 建立和控制 Jail](di-shi-wu-zhang-jail/15.3.-jian-li-he-kong-zhi-jail.md)
+* [15.4. 微调和管理](di-shi-wu-zhang-jail/15.4.-wei-tiao-he-guan-li.md)
+* [15.5. 更新多个 Jail](di-shi-wu-zhang-jail/15.5.-geng-xin-duo-ge-jail.md)
+* [15.6. 使用 ezjail 管理 Jail](di-shi-wu-zhang-jail/15.6.-shi-yong-ezjail-guan-li-jail.md)
