@@ -90,11 +90,11 @@
 
 ## 第8章 配置 FreeBSD 内核
 
-* [8.1.概述](di-8-zhang-pei-zhi-freebsd-nei-he/8.1.-gai-shu.md)
-* [8.2. 为什么要构建自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-gou-jian-zi-ding-yi-nei-he.md)
-* [8.3.浏览系统硬件](di-8-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
-* [8.5.构建与安装自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.5.-gou-jian-yu-an-zhuang-zi-ding-yi-nei-he.md)
-* [8.6.如果发生了一些错误](di-8-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
+* [8.1.概述](di-ba-zhang-pei-zhi-freebsd-nei-he/8.1.-gai-shu.md)
+* [8.2. 为什么要构建自定义内核](di-ba-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-gou-jian-zi-ding-yi-nei-he.md)
+* [8.3.浏览系统硬件](di-ba-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
+* [8.5.构建与安装自定义内核](di-ba-zhang-pei-zhi-freebsd-nei-he/8.5.-gou-jian-yu-an-zhuang-zi-ding-yi-nei-he.md)
+* [8.6.如果发生了一些错误](di-ba-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
 ## 第9章 打印
 
@@ -105,3 +105,11 @@
 * [9.4. 直接打印](di-9-zhang-da-yin/9.4.-zhi-jie-da-yin.md)
 * [9.5.LPD（行式打印机程序）](di-9-zhang-da-yin/9.5.lpd-hang-shi-da-yin-ji-cheng-xu.md)
 * [9.6. 其他打印系统](di-9-zhang-da-yin/9.6.-qi-ta-da-yin-xi-tong.md)
+
+## 第10章 Linux 二进制兼容层
+
+* [10.1.概述](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.1.-gai-shu.md)
+* [10.2. 配置 Linux 二进制兼容层](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.2.-pei-zhi-linux-er-jin-zhi-jian-rong-ceng.md)
+* [10.3. 从 FreeBSD 软件包安装 CentOS 基础系统](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.3.-cong-freebsd-ruan-jian-bao-an-zhuang-centos-ji-chu-xi-tong.md)
+* [10.4.使用 debootstrap(8) 构建 Debian / Ubuntu 基本系统](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.4.-shi-yong-debootstrap8-gou-jian-debian-ubuntu-ji-ben-xi-tong.md)
+* [10.5. 高级主题](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.5.-gao-ji-zhu-ti.md)
