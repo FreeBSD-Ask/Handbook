@@ -88,10 +88,20 @@
 * [7.5.MythTV](di-7-zhang-duo-mei-ti/7.5.mythtv.md)
 * [7.6.图像扫描仪](di-7-zhang-duo-mei-ti/7.6.-tu-xiang-sao-miao-yi.md)
 
-## 第八章 配置 FreeBSD 内核
+## 第8章 配置 FreeBSD 内核
 
-* [8.1.概述](di-ba-zhang-pei-zhi-freebsd-nei-he/8.1.-gai-shu.md)
-* [8.2. 为什么要构建自定义内核](di-ba-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-gou-jian-zi-ding-yi-nei-he.md)
-* [8.3.浏览系统硬件](di-ba-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
-* [8.5.构建与安装自定义内核](di-ba-zhang-pei-zhi-freebsd-nei-he/8.5.-gou-jian-yu-an-zhuang-zi-ding-yi-nei-he.md)
-* [8.6.如果发生了一些错误](di-ba-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
+* [8.1.概述](di-8-zhang-pei-zhi-freebsd-nei-he/8.1.-gai-shu.md)
+* [8.2. 为什么要构建自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-gou-jian-zi-ding-yi-nei-he.md)
+* [8.3.浏览系统硬件](di-8-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
+* [8.5.构建与安装自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.5.-gou-jian-yu-an-zhuang-zi-ding-yi-nei-he.md)
+* [8.6.如果发生了一些错误](di-8-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
+
+## 第9章 打印
+
+* [9.1. 快速入门](di-9-zhang-da-yin/9.1.-kuai-su-ru-men.md)
+* [9.2. 打印机连接](di-9-zhang-da-yin/9.2.-da-yin-ji-lian-jie.md)
+* [9.2.1. 摘要](di-9-zhang-da-yin/9.2.1.-zhai-yao.md)
+* [9.3.常见的页面描述语言](di-9-zhang-da-yin/9.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
+* [9.4. 直接打印](di-9-zhang-da-yin/9.4.-zhi-jie-da-yin.md)
+* [9.5.LPD（行式打印机程序）](di-9-zhang-da-yin/9.5.lpd-hang-shi-da-yin-ji-cheng-xu.md)
+* [9.6. 其他打印系统](di-9-zhang-da-yin/9.6.-qi-ta-da-yin-xi-tong.md)
