@@ -29,3 +29,6 @@ Telegram 群 https://t.me/freebsdba
 # 激励计划
 
 其他人员每按规范翻译一个大章节，奖励 20-30 元。
+
+【翻译须知】
+https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
