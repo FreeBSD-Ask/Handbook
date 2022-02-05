@@ -124,3 +124,19 @@
 * [11.6. WINE 图形管理用户界面](di-11-zhang-wine/11.6.-wine-tu-xing-guan-li-yong-hu-jie-mian.md)
 * [11.7. FreeBSD 多用户与 WINE](di-11-zhang-wine/11.7.-freebsd-duo-yong-hu-yu-wine.md)
 * [11.8. WINE 与 FreeBSD FAQ](di-11-zhang-wine/11.8.-wine-yu-freebsd-faq.md)
+
+## 第12章 设置和调整
+
+* [12.1. 概述](di-12-zhang-she-zhi-he-tiao-zheng/12.1.-gai-shu.md)
+* [12.2. 启动服务](di-12-zhang-she-zhi-he-tiao-zheng/12.2.-qi-dong-fu-wu.md)
+* [12.3. 配置 cron(8)](di-12-zhang-she-zhi-he-tiao-zheng/12.3.-pei-zhi-cron8.md)
+* [12.4.管理FreeBSD中的服务](di-12-zhang-she-zhi-he-tiao-zheng/12.4.-guan-li-freebsd-zhong-de-fu-wu.md)
+* [12.5. 设置网卡](di-12-zhang-she-zhi-he-tiao-zheng/12.5.-she-zhi-wang-ka.md)
+* [12.6.虚拟主机](di-12-zhang-she-zhi-he-tiao-zheng/12.6.-xu-ni-zhu-ji.md)
+* [12.7. 配置系统日志](di-12-zhang-she-zhi-he-tiao-zheng/12.7.-pei-zhi-xi-tong-ri-zhi.md)
+* [12.8. 配置文件](di-12-zhang-she-zhi-he-tiao-zheng/12.8.-pei-zhi-wen-jian.md)
+* [12.9. 使用 sysctl(8) 进行调整](di-12-zhang-she-zhi-he-tiao-zheng/12.9.-shi-yong-sysctl8-jin-hang-tiao-zheng.md)
+* [12.10. 调整磁盘](di-12-zhang-she-zhi-he-tiao-zheng/12.10.-tiao-zheng-ci-pan.md)
+* [12.11. 调整内核限制](di-12-zhang-she-zhi-he-tiao-zheng/12.11.-tiao-zheng-nei-he-xian-zhi.md)
+* [12.12. 添加交换空间](di-12-zhang-she-zhi-he-tiao-zheng/12.12.-tian-jia-jiao-huan-kong-jian.md)
+* [12.13.电源和资源管理](di-12-zhang-she-zhi-he-tiao-zheng/12.13.-dian-yuan-he-zi-yuan-guan-li.md)
