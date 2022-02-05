@@ -113,3 +113,14 @@
 * [10.3. 从 FreeBSD 软件包安装 CentOS 基础系统](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.3.-cong-freebsd-ruan-jian-bao-an-zhuang-centos-ji-chu-xi-tong.md)
 * [10.4.使用 debootstrap(8) 构建 Debian / Ubuntu 基本系统](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.4.-shi-yong-debootstrap8-gou-jian-debian-ubuntu-ji-ben-xi-tong.md)
 * [10.5. 高级主题](di-10-zhang-linux-er-jin-zhi-jian-rong-ceng/10.5.-gao-ji-zhu-ti.md)
+
+## 第11章 wine
+
+* [11.1. 概述](di-11-zhang-wine/11.1.-gai-shu.md)
+* [11.2. WINE 概述和概念](di-11-zhang-wine/11.2.-wine-gai-shu-he-gai-nian.md)
+* [11.3. 在 FreeBSD 上安装 WINE](di-11-zhang-wine/11.3.-zai-freebsd-shang-an-zhuang-wine.md)
+* [11.4. 在 FreeBSD 上运行第一个 WINE 程序](di-11-zhang-wine/11.4.-zai-freebsd-shang-yun-hang-di-yi-ge-wine-cheng-xu.md)
+* [11.5. 配置 WINE 安装](di-11-zhang-wine/11.5.-pei-zhi-wine-an-zhuang.md)
+* [11.6. WINE 图形管理用户界面](di-11-zhang-wine/11.6.-wine-tu-xing-guan-li-yong-hu-jie-mian.md)
+* [11.7. FreeBSD 多用户与 WINE](di-11-zhang-wine/11.7.-freebsd-duo-yong-hu-yu-wine.md)
+* [11.8. WINE 与 FreeBSD FAQ](di-11-zhang-wine/11.8.-wine-yu-freebsd-faq.md)
