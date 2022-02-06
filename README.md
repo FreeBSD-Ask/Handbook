@@ -10,7 +10,7 @@ https://handbook.freebsdcn.org
 https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
 
 # 简介
-来到这里你可能什么也得不到。也将不会失去任何东西。FreeBSD 中文用户社区！恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。加入我们，共同推进FreeBSD 中国化与世界化。
+来到这里你可能什么也得不到。也将不会失去任何东西。FreeBSD 中文用户社区！恪守古老的法则，追寻真正的自由。BSD 方为真正 UNIX 哲学继承者。加入我们，共同推进 FreeBSD 中国化与世界化。
 
 QQ 群 731675387
 
@@ -22,7 +22,7 @@ QQ 群 731675387
 
 Telegram 群 https://t.me/freebsdba
 
-微信公众号：FreeBSD中文
+微信公众号：FreeBSDzh
 
 由于微信群的封闭性，微信群需要先进 QQ 群后，由管理员发送新鲜二维码方可加入。
 
