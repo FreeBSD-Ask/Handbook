@@ -174,3 +174,21 @@
 * [15.4. 微调和管理](di-15-zhang-jail/15.4.-wei-tiao-he-guan-li.md)
 * [15.5. 更新多个 Jail](di-15-zhang-jail/15.5.-geng-xin-duo-ge-jail.md)
 * [15.6. 使用 ezjail 管理 Jail](di-15-zhang-jail/15.6.-shi-yong-ezjail-guan-li-jail.md)
+
+## 第16章 强制访问控制
+
+* [16.1. 概述](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.1.-gai-shu.md)
+* [16.2. 关键术语](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.2.-guan-jian-shu-yu.md)
+* [16.3. 了解 MAC 标签](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.3.-le-jie-mac-biao-qian.md)
+* [16.4. 规划安全配置](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.4.-gui-hua-an-quan-pei-zhi.md)
+* [16.5. 可用的 MAC 策略](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.5.-ke-yong-de-mac-ce-lve.md)
+* [16.6. 用户锁定](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.6.-yong-hu-suo-ding.md)
+* [16.7. Nagios in a MAC Jail](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.7.-nagios-in-a-mac-jail.md)
+* [16.8. MAC 框架的故障排除](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.8.-mac-kuang-jia-de-gu-zhang-pai-chu.md)
+
+## 第17章 安全事件审计
+
+* [17.1. 概述](di-17-zhang-an-quan-shi-jian-shen-ji/17.1.-gai-shu.md)
+* [17.2. 关键术语](di-17-zhang-an-quan-shi-jian-shen-ji/17.2.-guan-jian-shu-yu.md)
+* [17.3. 审计配置](di-17-zhang-an-quan-shi-jian-shen-ji/17.3.-shen-ji-pei-zhi.md)
+* [17.4. 使用审计追踪](di-17-zhang-an-quan-shi-jian-shen-ji/17.4.-shi-yong-shen-ji-zhui-zong.md)
