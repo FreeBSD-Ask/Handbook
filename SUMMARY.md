@@ -130,7 +130,7 @@
 * [12.1. 概述](di-12-zhang-she-zhi-he-tiao-zheng/12.1.-gai-shu.md)
 * [12.2. 启动服务](di-12-zhang-she-zhi-he-tiao-zheng/12.2.-qi-dong-fu-wu.md)
 * [12.3. 配置 cron(8)](di-12-zhang-she-zhi-he-tiao-zheng/12.3.-pei-zhi-cron8.md)
-* [12.4.管理FreeBSD中的服务](di-12-zhang-she-zhi-he-tiao-zheng/12.4.-guan-li-freebsd-zhong-de-fu-wu.md)
+* [12.4.管理 FreeBSD 中的服务](di-12-zhang-she-zhi-he-tiao-zheng/12.4.-guan-li-freebsd-zhong-de-fu-wu.md)
 * [12.5. 设置网卡](di-12-zhang-she-zhi-he-tiao-zheng/12.5.-she-zhi-wang-ka.md)
 * [12.6.虚拟主机](di-12-zhang-she-zhi-he-tiao-zheng/12.6.-xu-ni-zhu-ji.md)
 * [12.7. 配置系统日志](di-12-zhang-she-zhi-he-tiao-zheng/12.7.-pei-zhi-xi-tong-ri-zhi.md)
