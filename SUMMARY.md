@@ -245,5 +245,5 @@
 * [22.3. 使用 macOS® 上的 VMware Fusion 安装 FreeBSD](di-22-zhang-xu-ni-hua/22.3.-shi-yong-macos-shang-de-vmware-fusion-an-zhuang-freebsd.md)
 * [22.4. 使用 VirtualBox™ 安装 FreeBSD](di-22-zhang-xu-ni-hua/22.4.-shi-yong-virtualbox-an-zhuang-freebsd.md)
 * [22.5. 在 FreeBSD 上安装 VirtualBox™](di-22-zhang-xu-ni-hua/22.5.-zai-freebsd-shang-an-zhuang-virtualbox.md)
-* [22.6. 使用 FreeBSD 上的 bhyve ](di-22-zhang-xu-ni-hua/22.6.-shi-yong-freebsd-shang-de-bhyve.md)
+* [22.6. 使用 FreeBSD 上的 bhyve 虚拟机](di-22-zhang-xu-ni-hua/22.6.-shi-yong-freebsd-shang-de-bhyve-xu-ni-ji.md)
 * [22.7. 使用 FreeBSD 上的 Xen™ 虚拟机](di-22-zhang-xu-ni-hua/22.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
