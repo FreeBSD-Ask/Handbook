@@ -192,3 +192,21 @@
 * [17.2. 关键术语](di-17-zhang-an-quan-shi-jian-shen-ji/17.2.-guan-jian-shu-yu.md)
 * [17.3. 审计配置](di-17-zhang-an-quan-shi-jian-shen-ji/17.3.-shen-ji-pei-zhi.md)
 * [17.4. 使用审计追踪](di-17-zhang-an-quan-shi-jian-shen-ji/17.4.-shi-yong-shen-ji-zhui-zong.md)
+
+## 第18章 存储
+
+* [18.1. 概述](di-18-zhang-cun-chu/18.1.-gai-shu.md)
+* [18.2. 添加磁盘](di-18-zhang-cun-chu/18.2.-tian-jia-ci-pan.md)
+* [18.3. 调整和增加磁盘大小](di-18-zhang-cun-chu/18.3.-tiao-zheng-he-zeng-jia-ci-pan-da-xiao.md)
+* [18.4. USB 存储设备](di-18-zhang-cun-chu/18.4.-usb-cun-chu-she-bei.md)
+* [18.5. 创建和使用 CD 媒体](di-18-zhang-cun-chu/18.5.-chuang-jian-he-shi-yong-cd-mei-ti.md)
+* [18.6. 创建和使用 DVD 媒体](di-18-zhang-cun-chu/18.6.-chuang-jian-he-shi-yong-dvd-mei-ti.md)
+* [18.7. 创建和使用软盘](di-18-zhang-cun-chu/18.7.-chuang-jian-he-shi-yong-ruan-pan.md)
+* [18.8. 使用 NTFS 磁盘](di-18-zhang-cun-chu/18.8.-shi-yong-ntfs-ci-pan.md)
+* [18.9. 备份基础](di-18-zhang-cun-chu/18.9.-bei-fen-ji-chu.md)
+* [18.10. 内存盘](di-18-zhang-cun-chu/18.10.-nei-cun-pan.md)
+* [18.11. 文件系统快照](di-18-zhang-cun-chu/18.11.-wen-jian-xi-tong-kuai-zhao.md)
+* [18.12. 磁盘配额](di-18-zhang-cun-chu/18.12.-ci-pan-pei-e.md)
+* [18.13. 加密磁盘分区](di-18-zhang-cun-chu/18.13.-jia-mi-ci-pan-fen-qu.md)
+* [18.14. 加密交换分区](di-18-zhang-cun-chu/18.14.-jia-mi-jiao-huan-fen-qu.md)
+* [18.15. 高可用性存储（HAST）](di-18-zhang-cun-chu/18.15.-gao-ke-yong-xing-cun-chu-hast.md)
