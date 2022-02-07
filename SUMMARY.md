@@ -232,3 +232,18 @@
 * [20.6. 高级主题](di-20-zhang-z-wen-jian-xi-tong-zfs/20.6.-gao-ji-zhu-ti.md)
 * [20.7. 更多资源](di-20-zhang-z-wen-jian-xi-tong-zfs/20.7.-geng-duo-zi-yuan.md)
 * [20.8. ZFS 特性和术语](di-20-zhang-z-wen-jian-xi-tong-zfs/20.8.-zfs-te-xing-he-shu-yu.md)
+
+## 第21章 其他文件系统
+
+* [21.1. 概述](di-21-zhang-qi-ta-wen-jian-xi-tong/21.1.-gai-shu.md)
+* [21.2. Linux® 文件系统](di-21-zhang-qi-ta-wen-jian-xi-tong/21.2.-linux-wen-jian-xi-tong.md)
+
+## 第22章 虚拟化
+
+* [22.1. 概述](di-22-zhang-xu-ni-hua/22.1.-gai-shu.md)
+* [22.2. 使用 macOS® 上的 Parallels Desktop 安装 FreeBSD](di-22-zhang-xu-ni-hua/22.2.-shi-yong-macos-shang-de-parallels-desktop-an-zhuang-freebsd.md)
+* [22.3. 使用 macOS® 上的 VMware Fusion 安装 FreeBSD](di-22-zhang-xu-ni-hua/22.3.-shi-yong-macos-shang-de-vmware-fusion-an-zhuang-freebsd.md)
+* [22.4. 使用 VirtualBox™ 安装 FreeBSD](di-22-zhang-xu-ni-hua/22.4.-shi-yong-virtualbox-an-zhuang-freebsd.md)
+* [22.5. 在 FreeBSD 上安装 VirtualBox™](di-22-zhang-xu-ni-hua/22.5.-zai-freebsd-shang-an-zhuang-virtualbox.md)
+* [22.6. 使用 FreeBSD 上的 bhyve ](di-22-zhang-xu-ni-hua/22.6.-shi-yong-freebsd-shang-de-bhyve.md)
+* [22.7. 使用 FreeBSD 上的 Xen™ 虚拟机](di-22-zhang-xu-ni-hua/22.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
