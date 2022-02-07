@@ -221,3 +221,14 @@
 * [19.6. GEOM Gate 网络设备](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.6.-geom-gate-wang-luo-she-bei.md)
 * [19.7. 为磁盘设备添加卷标](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.7.-wei-ci-pan-she-bei-tian-jia-juan-biao.md)
 * [19.8. 通过 GEOM 实现 UFS 日志](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.8.-tong-guo-geom-shi-xian-ufs-ri-zhi.md)
+
+## 第20章 Z 文件系统 (ZFS)
+
+* [20.1. 什么使 ZFS 与众不同](di-20-zhang-z-wen-jian-xi-tong-zfs/20.1.-shi-mo-shi-zfs-yu-zhong-bu-tong.md)
+* [20.2. 快速入门指南](di-20-zhang-z-wen-jian-xi-tong-zfs/20.2.-kuai-su-ru-men-zhi-nan.md)
+* [20.3. zpool 管理](di-20-zhang-z-wen-jian-xi-tong-zfs/20.3.-zpool-guan-li.md)
+* [20.4. zfs 管理](di-20-zhang-z-wen-jian-xi-tong-zfs/20.4.-zfs-guan-li.md)
+* [20.5. 委托管理](di-20-zhang-z-wen-jian-xi-tong-zfs/20.5.-wei-tuo-guan-li.md)
+* [20.6. 高级主题](di-20-zhang-z-wen-jian-xi-tong-zfs/20.6.-gao-ji-zhu-ti.md)
+* [20.7. 更多资源](di-20-zhang-z-wen-jian-xi-tong-zfs/20.7.-geng-duo-zi-yuan.md)
+* [20.8. ZFS 特性和术语](di-20-zhang-z-wen-jian-xi-tong-zfs/20.8.-zfs-te-xing-he-shu-yu.md)
