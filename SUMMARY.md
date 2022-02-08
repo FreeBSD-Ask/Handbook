@@ -289,3 +289,20 @@
 * [26.2. USB 虚拟串行端口](di-26-zhang-usb-device-mo-shi-usb-otg/26.2.-usb-xu-ni-chuan-hang-duan-kou.md)
 * [26.3. USB Device 模式网络接口](di-26-zhang-usb-device-mo-shi-usb-otg/26.3.-usb-device-mo-shi-wang-luo-jie-kou.md)
 * [26.4. USB 虚拟存储设备](di-26-zhang-usb-device-mo-shi-usb-otg/26.4.-usb-xu-ni-cun-chu-she-bei.md)
+
+## 第27章 串行通信
+
+* [27.1. 概述](di-27-zhang-chuan-hang-tong-xin/27.1.-gai-shu.md)
+* [27.2. 串行术语和硬件](di-27-zhang-chuan-hang-tong-xin/27.2.-chuan-hang-shu-yu-he-ying-jian.md)
+* [27.3. 终端机](di-27-zhang-chuan-hang-tong-xin/27.3.-zhong-duan-ji.md)
+* [27.4. 拨入服务](di-27-zhang-chuan-hang-tong-xin/27.4.-bo-ru-fu-wu.md)
+* [27.5. 拨出服务](di-27-zhang-chuan-hang-tong-xin/27.5.-bo-chu-fu-wu.md)
+* [27.6. 设置串行控制台](di-27-zhang-chuan-hang-tong-xin/27.6.-she-zhi-chuan-hang-kong-zhi-tai.md)
+
+## 第28章 PPP
+
+* [28.1. 概述](di-28-zhang-ppp/28.1.-gai-shu.md)
+* [28.2. 配置 PPP](di-28-zhang-ppp/28.2.-pei-zhi-ppp.md)
+* [28.3. PPP 连接的故障排除](di-28-zhang-ppp/28.3.-ppp-lian-jie-de-gu-zhang-pai-chu.md)
+* [28.4. 使用以太网 PPP(PPPoE)](di-28-zhang-ppp/28.4.-shi-yong-yi-tai-wang-ppppppoe.md)
+* [28.5. 使用 ATM 上的 PPP (PPPoA)](di-28-zhang-ppp/28.5.-shi-yong-atm-shang-de-ppp-pppoa.md)
