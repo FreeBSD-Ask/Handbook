@@ -13,6 +13,10 @@
 * [本书中使用的一些约定](qian-yan/ben-shu-zhong-shi-yong-de-yi-xie-yue-ding.md)
 * [致谢](qian-yan/zhi-xie.md)
 
+## 第一部分：快速开始
+
+* [第一部分：快速开始](di-yi-bu-fen-kuai-su-kai-shi/di-yi-bu-fen-kuai-su-kai-shi.md)
+
 ## 第1章 简介
 
 * [1.1.概述](di-1-zhang-jian-jie/1.1.-gai-shu.md)
@@ -71,6 +75,10 @@
 * [5.8.使用 Compiz Fusion](di-5-zhang-xwindow-xi-tong/5.8.-shi-yong-compiz-fusion.md)
 * [5.9.故障排除](di-5-zhang-xwindow-xi-tong/5.9.-gu-zhang-pai-chu.md)
 
+## 第二部分：常见任务
+
+* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu/di-er-bu-fen-chang-jian-ren-wu.md)
+
 ## 第6章 桌面应用程序
 
 * [6.1.概述](di-6-zhang-zhuo-mian-ying-yong-cheng-xu/6.1.-gai-shu.md)
@@ -124,6 +132,10 @@
 * [11.6. WINE 图形管理用户界面](di-11-zhang-wine/11.6.-wine-tu-xing-guan-li-yong-hu-jie-mian.md)
 * [11.7. FreeBSD 多用户与 WINE](di-11-zhang-wine/11.7.-freebsd-duo-yong-hu-yu-wine.md)
 * [11.8. WINE 与 FreeBSD FAQ](di-11-zhang-wine/11.8.-wine-yu-freebsd-faq.md)
+
+## 第三部分：系统管理
+
+* [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li/di-san-bu-fen-xi-tong-guan-li.md)
 
 ## 第12章 设置和调整
 
@@ -254,3 +266,19 @@
 * [23.2. 使用本地化](di-23-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/23.2.-shi-yong-ben-di-hua.md)
 * [23.3. 寻找 i18n 应用程序](di-23-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/23.3.-xun-zhao-i18n-ying-yong-cheng-xu.md)
 * [23.4. 特定语言的地域配置](di-23-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/23.4.-te-ding-yu-yan-de-di-yu-pei-zhi.md)
+
+## 第24章 更新与升级 FreeBSD
+
+* [24.1. 概述](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.1.-gai-shu.md)
+* [24.2. FreeBSD 更新](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.2.-freebsd-geng-xin.md)
+* [24.3. 更新文档集](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.3.-geng-xin-wen-dang-ji.md)
+* [24.4. 追踪开发分支](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.4.-zhui-zong-kai-fa-fen-zhi.md)
+* [24.5. 从源代码更新 FreeBSD](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.5.-cong-yuan-dai-ma-geng-xin-freebsd.md)
+* [24.6. 多台机器的升级](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.6.-duo-tai-ji-qi-de-sheng-ji.md)
+
+## 第25章 DTrace
+
+* [25.1. 概述](di-25-zhang-dtrace/25.1.-gai-shu.md)
+* [25.2. 实现上的差异](di-25-zhang-dtrace/25.2.-shi-xian-shang-de-cha-yi.md)
+* [25.3. 开启 DTrace 支持](di-25-zhang-dtrace/25.3.-kai-qi-dtrace-zhi-chi.md)
+* [25.4. 使用 DTrace](di-25-zhang-dtrace/25.4.-shi-yong-dtrace.md)
