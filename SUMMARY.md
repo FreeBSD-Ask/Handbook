@@ -304,5 +304,5 @@
 * [28.1. 概述](di-28-zhang-ppp/28.1.-gai-shu.md)
 * [28.2. 配置 PPP](di-28-zhang-ppp/28.2.-pei-zhi-ppp.md)
 * [28.3. PPP 连接的故障排除](di-28-zhang-ppp/28.3.-ppp-lian-jie-de-gu-zhang-pai-chu.md)
-* [28.4. 使用以太网 PPP(PPPoE)](di-28-zhang-ppp/28.4.-shi-yong-yi-tai-wang-ppppppoe.md)
+* [28.4. 使用以太网 PPP（PPPoE）](di-28-zhang-ppp/28.4.-shi-yong-yi-tai-wang-ppppppoe.md)
 * [28.5. 使用 ATM 上的 PPP (PPPoA)](di-28-zhang-ppp/28.5.-shi-yong-atm-shang-de-ppp-pppoa.md)
