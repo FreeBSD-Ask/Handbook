@@ -373,3 +373,33 @@
 * [A.4. 使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.4.-shi-yong-subversion.md)
 * [A.5. 使用 rsync](fu-lu-a.-huo-qu-freebsd/a.5.-shi-yong-rsync.md)
 * [A.6. CD 和 DVD 套装](fu-lu-a.-huo-qu-freebsd/a.6.-cd-he-dvd-tao-zhuang.md)
+
+## 附录 B. 书目
+
+* [B.1. 专门针对于 FreeBSD 的书籍](fu-lu-b.-shu-mu/b.1.-zhuan-men-zhen-dui-yu-freebsd-de-shu-ji.md)
+* [B.2. 用户指南](fu-lu-b.-shu-mu/b.2.-yong-hu-zhi-nan.md)
+* [B.3. 管理员指南](fu-lu-b.-shu-mu/b.3.-guan-li-yuan-zhi-nan.md)
+* [B.4. 程序员指南](fu-lu-b.-shu-mu/b.4.-cheng-xu-yuan-zhi-nan.md)
+* [B.6. 安全参考](fu-lu-b.-shu-mu/b.6.-an-quan-can-kao.md)
+* [B.7. 硬件参考](fu-lu-b.-shu-mu/b.7.-ying-jian-can-kao.md)
+* [B.8. UNIX® 历史](fu-lu-b.-shu-mu/b.8.-unix-li-shi.md)
+* [B.9. 期刊和杂志](fu-lu-b.-shu-mu/b.9.-qi-kan-he-za-zhi.md)
+
+## 附录 C. 网络资源
+
+* [C.1. 网站](fu-lu-c.-wang-luo-zi-yuan/c.1.-wang-zhan.md)
+
+## 附录 D. OpenPGP 密钥
+
+* [D.1. 官方成员](fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan.md)
+* [C.2. 邮件列表](fu-lu-d.-openpgp-mi-yue/c.2.-you-jian-lie-biao.md)
+* [C.3. Usenet 新闻组](fu-lu-d.-openpgp-mi-yue/c.3.-usenet-xin-wen-zu.md)
+* [C.4. 网站镜像](fu-lu-d.-openpgp-mi-yue/c.4.-wang-zhan-jing-xiang.md)
+
+## 词汇表
+
+* [词汇表](ci-hui-biao/ci-hui-biao.md)
+
+***
+
+* [签名](qian-ming.md)
