@@ -12,7 +12,7 @@
 
 在 PPP 中加入了一个故障排除的部分。
 
-电子邮递增加了使用替代传输代理、SMTP认证、UUCP、fetchmail、procmail 和其他高级主题的有关信息。
+电子邮递增加了使用替代传输代理、SMTP 认证、UUCP、fetchmail、procmail 和其他高级主题的有关信息。
 
 网络服务器是本版的全新内容。该章包括有关设置 Apache HTTP 服务器、ftpd 和为 Microsoft® Windows® 客户设置 Samba 服务器的信息。高级网络中的一些章节被移到这里，以改善表述。
 
