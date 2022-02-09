@@ -381,6 +381,7 @@
 * [B.3. 管理员指南](fu-lu-b.-shu-mu/b.3.-guan-li-yuan-zhi-nan.md)
 * [B.4. 程序员指南](fu-lu-b.-shu-mu/b.4.-cheng-xu-yuan-zhi-nan.md)
 * [B.6. 安全参考](fu-lu-b.-shu-mu/b.6.-an-quan-can-kao.md)
+* [B.5. 操作系统内部](fu-lu-b.-shu-mu/b.5.-cao-zuo-xi-tong-nei-bu.md)
 * [B.7. 硬件参考](fu-lu-b.-shu-mu/b.7.-ying-jian-can-kao.md)
 * [B.8. UNIX® 历史](fu-lu-b.-shu-mu/b.8.-unix-li-shi.md)
 * [B.9. 期刊和杂志](fu-lu-b.-shu-mu/b.9.-qi-kan-he-za-zhi.md)
