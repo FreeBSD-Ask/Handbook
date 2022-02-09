@@ -369,3 +369,7 @@
 
 * [A.1. HTTP 镜像站](fu-lu-a.-huo-qu-freebsd/a.1.-http-jing-xiang-zhan.md)
 * [A.2. FTP 站点](fu-lu-a.-huo-qu-freebsd/a.2.-ftp-zhan-dian.md)
+* [A.3. 使用 Git](fu-lu-a.-huo-qu-freebsd/a.3.-shi-yong-git.md)
+* [A.4. 使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.4.-shi-yong-subversion.md)
+* [A.5. 使用 rsync](fu-lu-a.-huo-qu-freebsd/a.5.-shi-yong-rsync.md)
+* [A.6. CD 和 DVD 套装](fu-lu-a.-huo-qu-freebsd/a.6.-cd-he-dvd-tao-zhuang.md)
