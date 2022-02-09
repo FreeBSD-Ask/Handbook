@@ -346,3 +346,26 @@
 * [31.4. IPFW](di-31-zhang-fang-huo-qiang/31.4.-ipfw.md)
 * [31.5. IPFILTER (IPF)](di-31-zhang-fang-huo-qiang/31.5.-ipfilter-ipf.md)
 * [31.6. 黑名单](di-31-zhang-fang-huo-qiang/31.6.-hei-ming-dan.md)
+
+## 第32章 高级网络
+
+* [32.1. 概述](di-32-zhang-gao-ji-wang-luo/32.1.-gai-shu.md)
+* [32.2. 网关和路由](di-32-zhang-gao-ji-wang-luo/32.2.-wang-guan-he-lu-you.md)
+* [32.3. 无线网络](di-32-zhang-gao-ji-wang-luo/32.3.-wu-xian-wang-luo.md)
+* [32.4. USB Tethering](di-32-zhang-gao-ji-wang-luo/32.4.-usb-tethering.md)
+* [32.5. 蓝牙](di-32-zhang-gao-ji-wang-luo/32.5.-lan-ya.md)
+* [32.6. 桥接](di-32-zhang-gao-ji-wang-luo/32.6.-qiao-jie.md)
+* [32.7. 链接聚合和故障转移](di-32-zhang-gao-ji-wang-luo/32.7.-lian-jie-ju-he-he-gu-zhang-zhuan-yi.md)
+* [32.8. 使用 PXE 进行无盘操作](di-32-zhang-gao-ji-wang-luo/32.8.-shi-yong-pxe-jin-hang-wu-pan-cao-zuo.md)
+* [32.9. IPv6](di-32-zhang-gao-ji-wang-luo/32.9.-ipv6.md)
+* [32.10. 共用地址冗余协议（(CARP)）](di-32-zhang-gao-ji-wang-luo/32.10.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
+* [32.11. VLAN](di-32-zhang-gao-ji-wang-luo/32.11.-vlan.md)
+
+## 第五部分：附录
+
+* [第五部分：附录](di-wu-bu-fen-fu-lu/di-wu-bu-fen-fu-lu.md)
+
+## 附录 A. 获取 FreeBSD
+
+* [A.1. HTTP 镜像站](fu-lu-a.-huo-qu-freebsd/a.1.-http-jing-xiang-zhan.md)
+* [A.2. FTP 站点](fu-lu-a.-huo-qu-freebsd/a.2.-ftp-zhan-dian.md)
