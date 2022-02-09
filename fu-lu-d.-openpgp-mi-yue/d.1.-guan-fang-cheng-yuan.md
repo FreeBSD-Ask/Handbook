@@ -2,7 +2,6 @@
 
 FreeBSD.org 官方成员的 OpenPGP 密钥在此列出。这些密钥可以用来验证签名或向某位官员发送加密的电子邮件。FreeBSD OpenPGP 密钥的完整列表可以在 PGP Keys 文章中找到。完整的密钥链可以在`pgpkeyring.txt`下载。
 
-# D.1. 官方成员
 
 ## D.1.1. 安全长官小组 <security-officer@FreeBSD.org>
 
