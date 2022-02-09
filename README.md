@@ -19,9 +19,9 @@ QQ 群 905149943
 
 Telegram 群 https://t.me/freebsdba
 
-微信公众号：FreeBSDzh
+微信公众号：freebsdzh
 
-由于微信群的封闭性，微信群需要先进 QQ 群后，由管理员发送新鲜二维码方可加入。
+关注公众号可加入微信群。
 
 # 激励计划
 
