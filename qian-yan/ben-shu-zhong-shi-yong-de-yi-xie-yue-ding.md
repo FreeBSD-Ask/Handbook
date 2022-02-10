@@ -28,7 +28,7 @@
 
 ## 示例
 
-以`C:\>`开头的例子表示 MS-DOS® 命令。除非另有说明，这些命令可以在现代 Microsoft® Windows® 环境中的 "命令提示符 "窗口中执行。
+以`C:\>`开头的例子表示 MS-DOS® 命令。除非另有说明，这些命令可以在现代 Microsoft® Windows® 环境中的“命令提示符”窗口中执行。
 
 ```
 C:\> tools\fdimage floppies\kern.flp A。
