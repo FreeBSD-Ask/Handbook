@@ -5,7 +5,7 @@ https://handbook.freebsdcn.org
 
 # Q & A
 
-Q：对 FreeBSD Handbook 进行简体中文翻译的必要性？
+## Q：对 FreeBSD Handbook 进行简体中文翻译的必要性？
 
 A：
 
@@ -16,7 +16,7 @@ A：
 还有些人认为与其翻译 Handbook 不如我们自己去写原创性的文章，其实翻译handbook，恰恰是为了更好地撰写原创性的文章，我们的另一个项目——《FreeBSD 从入门到跑路》（https://github.com/FreeBSD-Ask/FreeBSD-Ask ）目标就是包括所有 Handbook 有与无的内容。我们认为，翻译文档和贡献代码是同样重要的事情；如果您有原创教程，那我们有教程征集计划——https://docs.qq.com/doc/DSUJsUFBHTnVWQmtS
 最重要的是，我们的进程已经过半（20/32）。现在还在纠结这个问题这无异于在中国哲学史课程快要上完的时候还在讨论中国到底有没有哲学。
 
-Q：本项目为什么不能向 FreeBSD 上游进行合并？
+## Q：本项目为什么不能向 FreeBSD 上游进行合并？
 
 A：
 
