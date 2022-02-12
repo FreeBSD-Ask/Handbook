@@ -7,7 +7,7 @@ https://handbook.freebsdcn.org
 
 ## Q：对 FreeBSD Handbook 进行简体中文翻译的必要性？
 
-A：
+## A：
 
 俗话说的好，要想富先修路。要想推广和宣传 FreeBSD，也必须先翻译Handbook。
 
@@ -18,7 +18,7 @@ A：
 
 ## Q：本项目为什么不能向 FreeBSD 上游进行合并？
 
-A：
+## A：
 
 很简单，我们无法向上游贡献。https://wiki.freebsd.org/Doc/Translation 中的指南无法具体落实，其翻译进度一直是（99%）,实际上是 0 。我们多次与 FreeBSD 简体中文翻译负责人（该负责人从 18 年就进行 FreeBSD handbook 的翻译，但始终未能进行）进行联络，始终无法得到及时回应。但本着 FreeBSD 是一个开源的项目，人人都可以 fork 的态度。并不会影响我们的工作进度。也不会导致本项目产生任何问题。我们认为，踏出第一步永远比空谈任何东西都更为重要！
 
