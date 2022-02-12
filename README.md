@@ -1,5 +1,5 @@
 # Handbook
-2022 年 FreeBSD 中文手册翻译项目——采用 Deepl。
+2022 年 FreeBSD 中文手册翻译项目。
 
 https://handbook.freebsdcn.org
 
