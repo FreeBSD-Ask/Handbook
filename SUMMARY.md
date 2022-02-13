@@ -396,10 +396,7 @@
 
 * [D.1.官方成员](fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan.md)
 
-## 词汇表
-
-* [词汇表](ci-hui-biao/ci-hui-biao.md)
-
 ***
 
+* [词汇表](ci-hui-biao.md)
 * [签名](qian-ming.md)
