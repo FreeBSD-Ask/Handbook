@@ -108,7 +108,6 @@
 
 * [9.1. 快速入门](di-9-zhang-da-yin/9.1.-kuai-su-ru-men.md)
 * [9.2. 打印机连接](di-9-zhang-da-yin/9.2.-da-yin-ji-lian-jie.md)
-* [9.2.1. 摘要](di-9-zhang-da-yin/9.2.1.-zhai-yao.md)
 * [9.3.常见的页面描述语言](di-9-zhang-da-yin/9.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
 * [9.4. 直接打印](di-9-zhang-da-yin/9.4.-zhi-jie-da-yin.md)
 * [9.5.LPD（行式打印机程序）](di-9-zhang-da-yin/9.5.lpd-hang-shi-da-yin-ji-cheng-xu.md)
@@ -371,7 +370,7 @@
 * [A.2. FTP 站点](fu-lu-a.-huo-qu-freebsd/a.2.-ftp-zhan-dian.md)
 * [A.3. 使用 Git](fu-lu-a.-huo-qu-freebsd/a.3.-shi-yong-git.md)
 * [A.4. 使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.4.-shi-yong-subversion.md)
-* [A.5. 使用 rsync](fu-lu-a.-huo-qu-freebsd/a.5.-shi-yong-rsync.md)
+* [A.5. 使用 Rsync](fu-lu-a.-huo-qu-freebsd/a.5.-shi-yong-rsync.md)
 * [A.6. CD 和 DVD 套装](fu-lu-a.-huo-qu-freebsd/a.6.-cd-he-dvd-tao-zhuang.md)
 
 ## 附录 B. 书目
