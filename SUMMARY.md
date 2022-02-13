@@ -13,9 +13,9 @@
 * [本书中使用的一些约定](qian-yan/ben-shu-zhong-shi-yong-de-yi-xie-yue-ding.md)
 * [致谢](qian-yan/zhi-xie.md)
 
-## 第一部分：快速开始
+***
 
-* [第一部分：快速开始](di-yi-bu-fen-kuai-su-kai-shi/di-yi-bu-fen-kuai-su-kai-shi.md)
+* [第一部分：快速开始](di-yi-bu-fen-kuai-su-kai-shi.md)
 
 ## 第1章 简介
 
@@ -75,9 +75,9 @@
 * [5.8.使用 Compiz Fusion](di-5-zhang-xwindow-xi-tong/5.8.-shi-yong-compiz-fusion.md)
 * [5.9.故障排除](di-5-zhang-xwindow-xi-tong/5.9.-gu-zhang-pai-chu.md)
 
-## 第二部分：常见任务
+***
 
-* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu/di-er-bu-fen-chang-jian-ren-wu.md)
+* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
 
 ## 第6章 桌面应用程序
 
@@ -289,9 +289,9 @@
 * [26.3.USB Device 模式网络接口](di-26-zhang-usb-device-mo-shi-usb-otg/26.3.-usb-device-mo-shi-wang-luo-jie-kou.md)
 * [26.4.USB 虚拟存储设备](di-26-zhang-usb-device-mo-shi-usb-otg/26.4.-usb-xu-ni-cun-chu-she-bei.md)
 
-## 第四部分：网络通讯
+***
 
-* [第四部分：网络通讯](di-si-bu-fen-wang-luo-tong-xun/di-si-bu-fen-wang-luo-tong-xun.md)
+* [第四部分：网络通讯](di-si-bu-fen-wang-luo-tong-xun.md)
 
 ## 第27章 串行通信
 
@@ -360,9 +360,9 @@
 * [32.10.共用地址冗余协议（(CARP)）](di-32-zhang-gao-ji-wang-luo/32.10.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
 * [32.11.VLAN](di-32-zhang-gao-ji-wang-luo/32.11.-vlan.md)
 
-## 第五部分：附录
+***
 
-* [第五部分：附录](di-wu-bu-fen-fu-lu/di-wu-bu-fen-fu-lu.md)
+* [第五部分：附录](di-wu-bu-fen-fu-lu.md)
 
 ## 附录 A. 获取 FreeBSD
 
