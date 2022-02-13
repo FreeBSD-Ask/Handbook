@@ -52,5 +52,5 @@ Telegram 群 https://t.me/freebsdba
 
 **我希望有更多的人参与进来，一起协作这个开源项目。英语水平和计算机水平固然重要，但是翻译凭借的不是傲慢与偏见，不是苦难哲学，也不是泥潭般的社区，更不是所谓的巨苣，而是我们的心，翻译是用心来完成的！用心，每个人都可以参与，无论是错别字的修正还是大章节的翻译，都是有意义的。**
 
-想参加的朋友可以看看https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
+想参加的朋友可以看看 https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
 
