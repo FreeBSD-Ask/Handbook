@@ -93,8 +93,9 @@
 * [7.2.设置声卡](di-7-zhang-duo-mei-ti/7.2.-she-zhi-sheng-ka.md)
 * [7.3.MP3 音频](di-7-zhang-duo-mei-ti/7.3.mp3-yin-pin.md)
 * [7.4.视频回放](di-7-zhang-duo-mei-ti/7.4.-shi-pin-hui-fang.md)
-* [7.5.MythTV](di-7-zhang-duo-mei-ti/7.5.mythtv.md)
-* [7.6.图像扫描仪](di-7-zhang-duo-mei-ti/7.6.-tu-xiang-sao-miao-yi.md)
+* [7.5.电视卡](di-7-zhang-duo-mei-ti/7.5.-dian-shi-ka.md)
+* [7.6.MythTV](di-7-zhang-duo-mei-ti/7.6.mythtv.md)
+* [7.7.图像扫描仪](di-7-zhang-duo-mei-ti/7.7.-tu-xiang-sao-miao-yi.md)
 
 ## 第8章 配置 FreeBSD 内核
 
