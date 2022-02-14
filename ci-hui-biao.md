@@ -154,7 +154,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 *Central Processing Unit*
 
-也被称为处理器。这是计算机的大脑，所有计算都在这里进行。有许多不同的架构，有不同的指令集。其中比较知名的是 英特尔-x86 及其衍生产品、Arm 和 PowerPC。
+也被称为处理器。这是计算机的大脑，所有计算都在这里进行。有许多不同的架构，有不同的指令集。其中比较知名的是 英特尔 -x86 及其衍生产品、Arm 和 PowerPC。
 
 *Challenge Handshake Authentication Protocol*
 
@@ -274,7 +274,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 *FAT16*
 
-见文件分配表（16位）。
+见文件分配表（16 位）。
 
 *FTP*
 
@@ -328,7 +328,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 *IASL*
 
-见英特尔的ASL编译器。
+见英特尔的 ASL 编译器。
 
 *IMAP*
 
@@ -340,7 +340,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 *IPFW*
 
-见IP防火墙。
+见 IP 防火墙。
 
 *IPP*
 
@@ -362,9 +362,9 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 *IP Version 4*
 
-IP 协议版本4，使用32位进行寻址。这个版本仍然是使用最广泛的，但它正慢慢被 IPv6 取代。
+IP 协议版本 4，使用 32 位进行寻址。这个版本仍然是使用最广泛的，但它正慢慢被 IPv6 取代。
 
-另见IP版本6。
+另见 IP 版本 6。
 
 *IP Version 6*
 
@@ -574,7 +574,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *New Technology File System*
 
-一种由微软开发的文件系统，可用于其 "新技术 "操作系统，如 Windows® 2000、Windows NT® 和 Windows® XP。
+一种由微软开发的文件系统，可用于其 "新技术"操作系统，如 Windows® 2000、Windows NT® 和 Windows® XP。
 
 *Network Time Protocol*
 
@@ -644,7 +644,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *POP3*
 
-见邮局协议版本3。
+见邮局协议版本 3。
 
 *PPD*
 
@@ -682,7 +682,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Physical Address Extensions*
 
-一种使系统能够访问高达64GB的 RAM 的方法，这些系统只具有32位宽的地址空间（因此在没有 PAE 的情况下会被限制在4GB）。
+一种使系统能够访问高达 64GB 的 RAM 的方法，这些系统只具有 32 位宽的地址空间（因此在没有 PAE 的情况下会被限制在4GB）。
 
 *Pluggable Authentication Modules*
 
@@ -710,7 +710,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Principle Of Least Astonishment*
 
-随着FreeBSD的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如， 在 '/etc/defaults/rc.conf' 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑POLA。
+随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如， 在 '/etc/defaults/rc.conf' 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑POLA。
 
 *Problem Report*
 
@@ -756,7 +756,7 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 *RS232C*
 
-见推荐标准232C。
+见推荐标准 232C。
 
 *RTS*
 
@@ -766,7 +766,7 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 *Revision Control System*
 
-修订控制系统（RCS）是对普通文件实施 "修订控制 "的最古老的软件套件之一。它允许对每个文件进行存储、检索、归档、记录、识别和合并多个修订版。RCS 由许多小工具组成，它们一起工作。它缺少一些在更现代的修订控制系统中发现的功能，如 Git，但它的安装、配置和开始用于一小部分文件非常简单。
+修订控制系统（RCS）是对普通文件实施 "修订控制"的最古老的软件套件之一。它允许对每个文件进行存储、检索、归档、记录、识别和合并多个修订版。RCS 由许多小工具组成，它们一起工作。它缺少一些在更现代的修订控制系统中发现的功能，如 Git，但它的安装、配置和开始用于一小部分文件非常简单。
 
 另见Subversion。
 
@@ -790,7 +790,7 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 *Request For Comments*
 
-一套定义互联网标准、协议等的文件。见www.rfc-editor.org。
+一套定义互联网标准、协议等的文件。见 www.rfc-editor.org。
 
 当有人提出修改建议并希望得到反馈时，也可作为一个一般术语使用。
 
@@ -834,7 +834,7 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 *SSH*
 
-见安全壳。
+见安全 shell。
 
 *STR*
 
@@ -924,15 +924,15 @@ Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
 
 *UFS1*
 
-见Unix文件系统版本1。
+见 Unix 文件系统版本 1。
 
 *UFS2*
 
-见Unix文件系统第2版。
+见 Unix 文件系统第2版。
 
 *UID*
 
-见用户ID。
+见用户 ID。
 
 *URL*
 
@@ -952,7 +952,7 @@ Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
 
 *Unix File System Version 2*
 
-UFS1的扩展，在 FreeBSD 5-CURRENT 中引入。UFS2 增加了64位块指针（打破了1T的障碍），支持扩展文件存储和其他功能。
+UFS1 的扩展，在 FreeBSD 5-CURRENT 中引入。UFS2 增加了 64 位块指针（打破了1T的障碍），支持扩展文件存储和其他功能。
 
 *Universal Serial Bus*
 
