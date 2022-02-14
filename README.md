@@ -24,7 +24,9 @@ https://handbook.freebsdcn.org
 
 ## Q：怎样维护？
 
-## A：翻译完毕后约 1 个月整体维护一次。对比官方 Handbook 进行更新。
+## A：
+
+翻译完毕后约 1 个月整体维护一次。对比官方 Handbook 进行更新。
 
 
 # 翻译指南
