@@ -2,6 +2,8 @@
     "default": true,
     "MD045": false,
     "MD040": false,
+    "MD036": false,
+    "MD026": false,
     "MD013": false,
     "MD010": false
 }
