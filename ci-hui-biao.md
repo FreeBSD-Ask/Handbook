@@ -508,7 +508,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Mail Transfer Agent*
 
-一个用于传输电子邮件的应用程序。传统上， MTA 是 BSD 基本系统的一部分。今天，Sendmail 被包含在基本系统中，但还有许多其他的 MTA，如 postfix、qmail和Exim。
+一个用于传输电子邮件的应用程序。传统上，MTA 是 BSD 基本系统的一部分。今天，Sendmail 被包含在基本系统中，但还有许多其他的 MTA，如 postfix、qmail和Exim。
 
 *Mail User Agent*
 
@@ -528,7 +528,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Merge From Stable*
 
-在正常的 FreeBSD 开发过程中， 一个修改在被合并到 -STABLE 之前会被提交到 -CURRENT 分支进行测试。在极少数情况下， 一个改动会先进入 -STABLE， 然后被合并到 -CURRENT。
+在正常的 FreeBSD 开发过程中，一个修改在被合并到 -STABLE 之前会被提交到 -CURRENT 分支进行测试。在极少数情况下，一个改动会先进入 -STABLE，然后被合并到 -CURRENT。
 
 当一个补丁从 -STABLE 合并到安全分支时也会用到这个术语。
 
@@ -602,7 +602,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Overtaken By Events*
 
-表示建议的修改 (例如问题报告或功能请求)， 由于后来 FreeBSD 的变化、 网络标准的变化、 受影响的硬件已经过时等原因， 已经不再相关或适用。
+表示建议的修改 (例如问题报告或功能请求)，由于后来 FreeBSD 的变化、 网络标准的变化、 受影响的硬件已经过时等原因，已经不再相关或适用。
 
 ## P
 
@@ -710,7 +710,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Principle Of Least Astonishment*
 
-随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如， 在 '/etc/defaults/rc.conf' 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑POLA。
+随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如，在 '/etc/defaults/rc.conf' 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑POLA。
 
 *Problem Report*
 

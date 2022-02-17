@@ -6,7 +6,7 @@
 
 - DTrace 增加了强大的 DTrace 性能分析工具的有关信息。
 
-- Other File Systems 增加了 FreeBSD 中的非本地文件系统的有关信息， 例如 Sun™ 的 ZFS。
+- Other File Systems 增加了 FreeBSD 中的非本地文件系统的有关信息，例如 Sun™ 的 ZFS。
 
 - 安全事件审计 增加了关于 FreeBSD 中新的审计功能的信息，并解释了其用途。
 
