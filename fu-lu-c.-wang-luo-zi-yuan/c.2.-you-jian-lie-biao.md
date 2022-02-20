@@ -16,7 +16,7 @@ https://wakatime.com/
 
 一般名单。以下是任何人都可以自由（和鼓励）加入的一般列表。
 
-|List|Purpose|
+|名单|用途|
 |:---:|:---:|
 |[freebsd-advocacy](https://lists.freebsd.org/subscription/freebsd-advocacy)|报道 FreeBSD|
 |[freebsd-announce](https://lists.freebsd.org/subscription/freebsd-announce)|重要事件和项目里程碑（主持）。|
@@ -42,8 +42,8 @@ https://wakatime.com/
 |[freebsd-acpi](https://lists.freebsd.org/subscription/freebsd-acpi)|ACPI 和电源管理开发|
 |[freebsd-amd64](https://lists.freebsd.org/subscription/freebsd-amd64)|将 FreeBSD 移植到 AMD64 系统上(有人主持)|
 |[freebsd-apache](https://lists.freebsd.org/subscription/freebsd-apache)|关于 Apache 相关 port 的讨论|
-|[freebsd-arm](https://lists.freebsd.org/subscription/freebsd-arm)|将 FreeBSD 移植到ARM®处理器上|
-|[freebsd-atm](https://lists.freebsd.org/subscription/freebsd-atm)|在 FreeBSD 中使用ATM网络|
+|[freebsd-arm](https://lists.freebsd.org/subscription/freebsd-arm)|将 FreeBSD 移植到 ARM® 处理器上|
+|[freebsd-atm](https://lists.freebsd.org/subscription/freebsd-atm)|在 FreeBSD 中使用 ATM 网络|
 |[freebsd-bluetooth](https://lists.freebsd.org/subscription/freebsd-bluetooth)|在 FreeBSD 中使用蓝牙®技术|
 |[freebsd-cloud](https://lists.freebsd.org/subscription/freebsd-cloud)|云平台上的 FreeBSD（EC2, GCE, Azure等）。|
 |[freebsd-cluster](https://lists.freebsd.org/subscription/freebsd-cluster)|在集群环境中使用 FreeBSD|
@@ -75,8 +75,8 @@ https://wakatime.com/
 |[freebsd-infiniband](https://lists.freebsd.org/subscription/freebsd-infiniband)|FreeBSD 上的 Infiniband|
 |[freebsd-ipfw](https://lists.freebsd.org/subscription/freebsd-ipfw)|关于重新设计 IP 防火墙代码的技术讨论|
 |[freebsd-isdn](https://lists.freebsd.org/subscription/freebsd-isdn)|ISDN 开发者|
-|[freebsd-jail](https://lists.freebsd.org/subscription/freebsd-jail)|关于jail(8)设施的讨论|
-|[freebsd-java](https://lists.freebsd.org/subscription/freebsd-java)|Java™ 开发人员和将JDK™ 移植到 FreeBSD 的人|
+|[freebsd-jail](https://lists.freebsd.org/subscription/freebsd-jail)|关于 jail(8) 设施的讨论|
+|[freebsd-java](https://lists.freebsd.org/subscription/freebsd-java)|Java™ 开发人员和将 JDK™ 移植到 FreeBSD 的人|
 |[freebsd-kde](https://mail.kde.org/mailman/listinfo/kde-freebsd)|移植 KDE 和 KDE 应用程序|
 |[freebsd-mips](https://lists.freebsd.org/subscription/freebsd-mips)|将 FreeBSD 移植到 MIPS® 上|
 |[freebsd-mono](https://lists.freebsd.org/subscription/freebsd-mono)|FreeBSD 上的 Mono 和 C# 应用程序|
@@ -91,7 +91,7 @@ https://wakatime.com/
 |[freebsd-pf](https://lists.freebsd.org/subscription/freebsd-pf)|关于数据包过滤器防火墙系统的讨论和问题|
 |[freebsd-pkg](https://lists.freebsd.org/subscription/freebsd-pkg)|二进制包管理和包工具讨论|
 |[freebsd-pkg-fallout](https://lists.freebsd.org/subscription/freebsd-pkg-fallout)|打包时的落差记录|
-|[freebsd-pkgbase](https://lists.freebsd.org/subscription/freebsd-pkgbase)|包装FreeBSD基本系统|
+|[freebsd-pkgbase](https://lists.freebsd.org/subscription/freebsd-pkgbase)|包装 FreeBSD 基本系统|
 |[freebsd-platforms](https://lists.freebsd.org/subscription/freebsd-platforms)|关于移植到非英特尔®架构平台的问题|
 |[freebsd-ports](https://lists.freebsd.org/subscription/freebsd-ports)|关于 port 集的讨论|
 |[freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)|关于 Ports Collection 的重要新闻和说明（有主持）。|
@@ -138,7 +138,7 @@ https://wakatime.com/
 
 提交信息列表。下面的列表是为那些有兴趣看到源代码树各个区域的修改的日志信息的人准备的。
 
-|List|Source area|Area Description (source for)|
+|清单|资源地址|描述|
 |:---:|:---:|:---:|
 |[dev-commits-doc-all](https://lists.freebsd.org/subscription/dev-commits-doc-all)|/usr/doc|对文档库的所有更改|
 |[dev-commits-ports-all](https://lists.freebsd.org/subscription/dev-commits-ports-all)|/usr/ports|对 ports 仓库的所有修改|
@@ -150,9 +150,9 @@ https://wakatime.com/
 
 SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准备的，这些日志信息是对源代码树的各个区域的修改。
 
-**只有SVN日志信息会被发送到SVN列表。在SVN向Git迁移后，以下列表不再接收新的提交信息，并且无法订阅。这些列表的地址都指向它们各自的存档。**
+**只有 SVN 日志信息会被发送到 SVN 列表。在 SVN 向 Git 迁移后，以下列表不再接收新的提交信息，并且无法订阅。这些列表的地址都指向它们各自的存档。**
 
-|List|Source area|Area Description (source for)|
+|清单|资源地址|描述|
 |:---:|:---:|:---:|
 |[svn-doc-all](https://lists.freebsd.org/pipermail/svn-doc-all)|/usr/doc|对 doc Subversion 库的所有修改（除了用户、项目和翻译）。|
 |[svn-doc-head](https://lists.freebsd.org/pipermail/svn-doc-head)|/usr/doc|对 doc Subversion 库的`head`分支的所有修改|
@@ -197,7 +197,7 @@ SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准�
 
 - 任何帖子的主题都应该遵守它所发布的列表的基本章程。如果该列表是关于技术问题的，帖子应该包含技术讨论。持续的无关紧要的闲聊或谩骂只会减损邮件列表对每个人的价值，是不能被容忍的。对于没有特定主题的自由讨论，FreeBSD聊天邮件列表是免费提供的，应该使用它。
 
-- 不应该在2个以上的邮件列表上发帖，而且只有在明确和明显需要在两个列表上发帖的情况下才可以。对于大多数列表，已经有大量的订阅者重叠，除了最深奥的混合（例如`-stable & -scsi`），真的没有理由同时发布到一个以上的列表。如果收到的邮件在抄送栏里有多个邮件列表，请在回复前修剪抄送栏。回复的人仍然要对交叉张贴负责，无论发起人是谁。
+- 不应该 在2 个以上的邮件列表上发帖，而且只有在明确和明显需要在两个列表上发帖的情况下才可以。对于大多数列表，已经有大量的订阅者重叠，除了最深奥的混合（例如`-stable & -scsi`），真的没有理由同时发布到一个以上的列表。如果收到的邮件在抄送栏里有多个邮件列表，请在回复前修剪抄送栏。回复的人仍然要对交叉张贴负责，无论发起人是谁。
 
 - 个人攻击和亵渎（在争论的背景下）是不允许的，这包括用户和开发者。严重违反网络礼仪的行为，例如在没有或不会得到许可的情况下摘录或转贴私人邮件，是不被允许的，但没有特别强制执行。然而，也有很少的情况下，这样的内容会符合列表的章程，因此它可能会被警告（或禁止），仅此而已。
 
@@ -421,7 +421,7 @@ Java™ 开发
 
 请注意，这个列表和其他 FreeBSD.org 邮件列表一样，是分布在世界各地的。要清楚地说明地理位置，以及在多大程度上可以进行远程办公或协助搬迁。
 
-电子邮件应该只使用开放的格式--最好是纯文本，但基本的可移植文档格式（PDF）、HTML 和其他一些格式也能被许多读者接受。封闭的格式，如 Microsoft® Word（.doc）将被邮件列表服务器拒绝。
+电子邮件应该只使用开放的格式——最好是纯文本，但基本的可移植文档格式（PDF）、HTML 和其他一些格式也能被许多读者接受。封闭的格式，如 Microsoft® Word（.doc）将被邮件列表服务器拒绝。
 
 [freebsd-kde](https://mail.kde.org/mailman/listinfo/kde-freebsd)
 

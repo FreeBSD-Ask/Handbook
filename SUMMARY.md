@@ -391,7 +391,6 @@
 * [C.1.网站](fu-lu-c.-wang-luo-zi-yuan/c.1.-wang-zhan.md)
 * [C.2.邮件列表](fu-lu-c.-wang-luo-zi-yuan/c.2.-you-jian-lie-biao.md)
 * [C.3.Usenet 新闻组](fu-lu-c.-wang-luo-zi-yuan/c.3.-usenet-xin-wen-zu.md)
-* [C.4.网站镜像](fu-lu-c.-wang-luo-zi-yuan/c.4.-wang-zhan-jing-xiang.md)
 
 ## 附录 D. OpenPGP 密钥
 
