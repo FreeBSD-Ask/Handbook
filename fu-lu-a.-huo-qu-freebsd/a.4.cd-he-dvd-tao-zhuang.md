@@ -1,7 +1,7 @@
 # A.4. CD 和 DVD 套装
 
 
-FreeBSD 的 CD 和 DVD 套装可以从几个在线零售商那里买到。
+FreeBSD 的 CD 和 DVD 套装可以从以下几个在线零售商那里买到：
 
 * FreeBSD Mall, Inc. 
 
