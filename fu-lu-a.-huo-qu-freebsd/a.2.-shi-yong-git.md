@@ -1,82 +1,102 @@
-# A.3.使用 Subversion
+#  A.2.使用Git
 
-## A.3.1.简介
+## A.2.1.简介
 
-从 2020 年 12 月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的源代码和文档。在 stable/11, stable/12 和相关的 releng 分支上的 git repo 的改动会被导出到 subversion 仓库中。这种输出将持续到这些分支的生命周期。从 2012 年 7 月到 2021 年 3 月， FreeBSD 使用 Subversion 作为唯一的版本控制系统来存储所有 FreeBSD 的 Ports Collection。从 2021 年 4 月起， FreeBSD 使用 git 作为存储所有 FreeBSD Ports Collection 的唯一版本控制系统。
+从2020年12月起， FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的基本源代码和文档。从 2021 年 4 月起， FreeBSD 使用 git 作为唯一的版本控制系统来存储所有的 FreeBSD 的 port 集。
 
-**Subversion 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update ("FreeBSD Update") 来更新 FreeBSD 基本系统， 以及 portsnap ("Using the Ports Collection") 来更新 FreeBSD Ports Collection。在2021年3月之后，subversion的使用只针对传统的分支(stable/11和stable/12)。**
+**Git 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update ("FreeBSD Update") 来更新 FreeBSD 基本系统， 以及 portsnap ("Using the Ports Collection") 来更新 FreeBSD Ports Collection。**
 
-这一节演示了如何在 FreeBSD 系统上安装 Subversion 并使用它来创建 FreeBSD 版本库的本地副本。还包括了关于使用 Subversion 的其他信息。
+这一节演示了如何在 FreeBSD 系统上安装 Git 并使用它来创建 FreeBSD 源代码仓库的本地拷贝。
 
-## A.3.2.Svnlite
+## A.2.2.安装
 
-一个轻量级的 Subversion 版本已经作为 svnlite 安装在 FreeBSD 上。只有在需要 Python 或 Perl API，或者需要较高版本的 Subversion 时，才需要移植或软件包版本的 Subversion。
+Git 可以从 Ports Collection 中安装，也可以作为一个软件包安装。
 
-与正常的 Subversion 使用的唯一区别是，命令的名字是 svnlite。
+`# pkg install git`
 
-## A.3.3.安装
+## A.2.3.运行Git
 
-如果 svnlite 不可用或者需要完整版的 Subversion，那么必须安装它。
+要取一个干净的源码拷贝到本地目录，请使用 `git clone`。这个目录下的文件被称为工作树。
 
-Subversion 可以从 Ports Collection 中安装。
+Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 FreeBSD 系统的源代码，doc 是指文档，而 ports 则是指 FreeBSD Ports Collection。这三个库都可以通过两种不同的协议到达。HTTPS 和 SSH。例如， URL https://git.FreeBSD.org/src.git 指定了 src 仓库的主分支， 并使用了 https 协议。
 
-`# cd /usr/ports/devel/subversion`
-`# make install clean`
+表1. FreeBSD Git 仓库的 URL 表
 
-Subversion 也可以作为一个软件包来安装。
+|             **Item**              |                         **Git URL**                          |
+| :-------------------------------: | :----------------------------------------------------------: |
+|   Read-only src repo via HTTPS    | [https://git.FreeBSD.org/src.git](https://git.freebsd.org/src.git) |
+|  Read-only src repo via anon-ssh  |            ssh://anongit@git.FreeBSD.org/src.git             |
+|   Read-only doc repo via HTTPS    | [https://git.FreeBSD.org/doc.git](https://git.freebsd.org/doc.git) |
+|  Read-only doc repo via anon-ssh  |            ssh://anongit@git.FreeBSD.org/doc.git             |
+|  Read-only ports repo via HTTPS   | [https://git.FreeBSD.org/ports.git](https://git.freebsd.org/ports.git) |
+| Read-only ports repo via anon-ssh |           ssh://anongit@git.FreeBSD.org/ports.git            |
 
-`# pkg install subversion`
+由项目成员维护的外部镜像也可以使用，请参考外部镜像部分。
 
-## A.3.4. 运行Subversion
+要克隆一份 FreeBSD 系统源代码库的副本。
 
-要获取一个干净的源代码拷贝到本地目录中，请使用 svn。这个目录中的文件被称为本地工作副本。
+```
+# git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
+```
+-o freebsd 选项指定了起源；根据 FreeBSD 文档的惯例，起源被假定为 freebsd。因为初始签出必须下载远程仓库的完整分支，所以可能需要一些时间。请耐心等待。
 
-**在第一次使用签出之前，移动或删除现有的目标目录。在现有的非svn目录上进行签出会导致现有文件和从版本库带入的文件之间的冲突。**
+最初，工作树包含主分支的源代码，对应的是 CURRENT。要切换到 13-STABLE，而不是
 
-Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostname/path`。路径的第一个组成部分是要访问的 FreeBSD 代码库。有三个不同的版本库， base 是 FreeBSD 基本系统的源代码， ports 是 Ports Collection， doc 是文档。例如， URL https://svn.FreeBSD.org/base/head/ 使用 https 协议指定了 src 代码库的主分支。
+```
+# cd /usr/src
+# git checkout stable/13
+```
+工作树可以用 git pull 更新。要更新上面的例子中创建的`/usr/src`，请使用。
 
-从一个给定的版本库中签出，可以用这样的命令进行。
-
-`# svn checkout https://svn.FreeBSD.org/repository/branch lwcdir`
-
-其中:
-
-- 仓库是项目仓库中的一个：base、ports 或 doc。
-- 分支取决于所使用的版本库。 ports 和 doc 主要在 head 分支中更新，而 base 则在 head 下维护最新的 -CURRENT 版本，在 stable/11 (11.x) 和 stable/12 (12.x) 下维护各自的最新版本 -STABLE 分支。
-- lwcdir 是指定分支的内容应被放置的目标目录。对于 ports 来说， 这通常是 `/usr/ports`， 对于 base 来说是 /usr/src， 而对于 doc 来说是 `/usr/doc`。
-
-这个例子使用 HTTPS 协议从 FreeBSD 版本库中签出源代码树，将本地工作拷贝放在`/usr/src`中。如果`/usr/src`已经存在，但不是由 svn 创建的，记得在签出前重命名或删除它。
-
-`# svn checkout https://svn.FreeBSD.org/base/head /usr/src`
-
-因为初始签出必须下载远程版本库的完整分支，所以可能需要一些时间。请耐心等待。
-
-在初始签出后，可以通过运行本地工作副本来更新。
-
-`# svn update lwcdir`
-
-要更新上面例子中创建的`/usr/src`，请使用。
-
-`# svn update /usr/src`
-
+```
+# cd /usr/src
+# git pull --rebase
+```
 更新比结账要快得多，只传输有变化的文件。
 
-另一种在签出后更新本地工作拷贝的方法是由 `/usr/ports`、 `/usr/src` 和 `/usr/doc` 目录中的 Makefile 提供的。设置 SVN_UPDATE 并使用更新目标。例如，要更新 `/usr/src`。
+## A.2.4.基于网络的资源库浏览器
 
-`# cd /usr/src`
-`# make update SVN_UPDATE=yes`
+FreeBSD 项目使用 cgit 作为基于网络的版本库浏览器：https://cgit.FreeBSD.org/。
 
-## A.3.5.镜像网站
+## A.2.5. 对于开发商来说
 
-FreeBSD 的 Subversion 存储库是:
+关于对存储库的写入权限的信息，请参见《提交人指南》。
 
-`svn.FreeBSD.org`
+## A.2.6. 外部镜面
 
-这是一个可以公开访问的镜像网络，使用 GeoDNS 来选择合适的后端服务器。要通过浏览器查看 FreeBSD Subversion 仓库，请使用 [https://svnweb.FreeBSD.org/](https://svnweb.freebsd.org/)。
+这些镜像并不在 FreeBSD.org 中托管，但仍由项目成员维护。我们欢迎用户和开发人员拉取或浏览这些镜像上的仓库。目前正在接受对 doc GitHub 仓库的拉取请求；除此之外，项目与这些镜像的工作流程仍在讨论中。
 
-HTTPS 是首选协议，但需要安装 security/ca_root_nss 软件包，以便自动验证证书。
+Codeberg
 
-## A.3.6.了解更多信息 
+- doc: https://codeberg.org/FreeBSD/freebsd-doc
+- ports: https://codeberg.org/FreeBSD/freebsd-ports
+- src: https://codeberg.org/FreeBSD/freebsd-src
 
-关于使用 Subversion 的其他信息，请参见`Subversion`，标题为 Subversion 的版本控制，或 Subversion 文档。
+GitHub
 
+- doc: https://github.com/freebsd/freebsd-doc
+- ports: https://github.com/freebsd/freebsd-ports
+- src: https://github.com/freebsd/freebsd-src
+
+GitLab
+
+- doc: https://gitlab.com/FreeBSD/freebsd-doc
+- ports: https://gitlab.com/FreeBSD/freebsd-ports
+- src: https://gitlab.com/FreeBSD/freebsd-src
+
+## A.2.7. 邮件列表
+
+在FreeBSD项目中，关于 git 的一般使用和问题的主要邮件列表是 freebsd-git。更多细节，包括提交信息列表，请参见邮件列表章节。
+
+## A.2.8. SSH主机密钥
+
+- gitrepo.FreeBSD.org host key fingerprints:
+  - ECDSA key fingerprint is `SHA256:seWO5D27ySURcx4bknTNKlC1mgai0whP443PAKEvvZA`
+  - ED25519 key fingerprint is `SHA256:lNR6i4BEOaaUhmDHBA1WJsO7H3KtvjE2r5q4sOxtIWo`
+  - RSA key fingerprint is `SHA256:f453CUEFXEJAXlKeEHV+ajJfeEfx9MdKQUD7lIscnQI`
+- git.FreeBSD.org host key fingerprints:
+  - ECDSA key fingerprint is `SHA256:/UlirUAsGiitupxmtsn7f9b7zCWd0vCs4Yo/tpVWP9w`
+  - ED25519 key fingerprint is `SHA256:y1ljKrKMD3lDObRUG3xJ9gXwEIuqnh306tSyFd1tuZE`
+  - RSA key fingerprint is `SHA256:jBe6FQGoH4HjvrIVM23dcnLZk9kmpdezR/CvQzm7rJM`
+
+这些也作为 SSHFP 记录在 DNS 中公布。
