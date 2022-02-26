@@ -133,9 +133,9 @@
 * [11.7.FreeBSD 多用户与 WINE](di-11-zhang-wine/11.7.-freebsd-duo-yong-hu-yu-wine.md)
 * [11.8.WINE 与 FreeBSD FAQ](di-11-zhang-wine/11.8.-wine-yu-freebsd-faq.md)
 
-## 第三部分：系统管理
+***
 
-* [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li/di-san-bu-fen-xi-tong-guan-li.md)
+* [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li.md)
 
 ## 第12章 设置和调整
 
