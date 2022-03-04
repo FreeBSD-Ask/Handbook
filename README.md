@@ -1,5 +1,6 @@
 # Handbook
-2022 年 FreeBSD 中文手册翻译项目。
+
+2022 年 FreeBSD 中文手册翻译项目
 
 https://handbook.freebsdcn.org
 
