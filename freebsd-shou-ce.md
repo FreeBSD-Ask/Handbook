@@ -10,7 +10,7 @@ IEEE, POSIX, 和 802 是美国电气和电子工程师协会的注册商标。
 
 Red Hat, RPM 是 Red Hat 公司在美国和其他国家的商标或注册商标。
 
-3Com和HomeConnect 是 3Com 公司的注册商标。
+3Com 和 HomeConnect 是 3Com 公司的注册商标。
 
 Adobe、Acrobat、Acrobat Reader、Flash和PostScript是Adobe Systems Incorporated 在美国/其他国家的注册商标或商标。
 
@@ -20,7 +20,7 @@ Intel, Celeron, Centrino, Core, EtherExpress, i386, i486, Itanium, Pentium, and 
 
 Linux 是 Linus Torvalds 的注册商标。
 
-Microsoft, IntelliMouse, MS-DOS, Outlook, Windows, Windows Media和Windows NT 是微软公司在美国/其他国家的注册商标或商标。
+Microsoft, IntelliMouse, MS-DOS, Outlook, Windows, Windows Media 和 Windows NT 是微软公司在美国/其他国家的注册商标或商标。
 
 Motif、OSF/1 和 UNIX 是注册商标，IT DialTone 和 The Open Group 是 The Open Group 在美国和其他国家的商标。
 
