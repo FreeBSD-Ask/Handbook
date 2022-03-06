@@ -4,7 +4,7 @@
 
 从2020年12月起， FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的基本源代码和文档。从 2021 年 4 月起， FreeBSD 使用 git 作为唯一的版本控制系统来存储所有的 FreeBSD 的 port 集。
 
-**Git 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update ("FreeBSD Update") 来更新 FreeBSD 基本系统， 以及 portsnap ("Using the Ports Collection") 来更新 FreeBSD Ports Collection。**
+**Git 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update (“FreeBSD Update”) 来更新 FreeBSD 基本系统， 以及 portsnap ("Using the Ports Collection") 来更新 FreeBSD Ports Collection。**
 
 这一节演示了如何在 FreeBSD 系统上安装 Git 并使用它来创建 FreeBSD 源代码仓库的本地拷贝。
 

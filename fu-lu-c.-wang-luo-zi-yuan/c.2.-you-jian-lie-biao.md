@@ -273,7 +273,7 @@ FreeBSD 特有的 Chromium 问题
 
 关于使用 FreeBSD-CURRENT 的讨论
 
-这是针对 FreeBSD-CURRENT 用户的邮件列表。它包括关于将影响用户的 -CURRENT 新特性的警告，以及为保持 -CURRENT 而必须采取的步骤的说明。任何运行 "CURRENT" 的人都必须订阅这个列表。这是一个技术性的邮件列表，需要有严格的技术内容。
+这是针对 FreeBSD-CURRENT 用户的邮件列表。它包括关于将影响用户的 -CURRENT 新特性的警告，以及为保持 -CURRENT 而必须采取的步骤的说明。任何运行“CURRENT”的人都必须订阅这个列表。这是一个技术性的邮件列表，需要有严格的技术内容。
 
 [freebsd-desktop](https://lists.freebsd.org/subscription/freebsd-desktop)
 
@@ -526,13 +526,13 @@ FreeBSD 上的 Mono 和 C# 应用程序
 
 [freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)
 
-关于FreeBSD "port 集 "的重要消息和说明
+关于FreeBSD“port 集”的重要消息和说明
 
 为开发人员、 移植人员以及 "Ports Collection" (/usr/ports) 的用户提供的重要消息，包括架构/基础设施的变化、 新功能、 关键的升级说明，以及发布工程信息。这是一个低流量的邮件列表，用于发布公告。
 
 [freebsd-ports-bugs](https://lists.freebsd.org/subscription/freebsd-ports-bugs)
 
-关于 "port"错误的讨论
+关于“port”错误的讨论
 
 讨论有关 FreeBSD `ports Collection` (/usr/ports) 的问题报告、 拟议的 port 或对 port 的修改。这是一个技术性的邮件列表，希望有严格的技术内容。
 
