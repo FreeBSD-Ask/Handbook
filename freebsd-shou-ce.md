@@ -12,7 +12,7 @@ Red Hat, RPM 是 Red Hat 公司在美国和其他国家的商标或注册商标�
 
 3Com 和 HomeConnect 是 3Com 公司的注册商标。
 
-Adobe、Acrobat、Acrobat Reader、Flash和PostScript是Adobe Systems Incorporated 在美国/其他国家的注册商标或商标。
+Adobe、Acrobat、Acrobat Reader、Flash 和 PostScript 是 Adobe Systems Incorporated 在美国/其他国家的注册商标或商标。
 
 Apple、AirPort、FireWire、iMac、iPhone、iPad、Mac、Macintosh、Mac OS、Quicktime 和 TrueType 是苹果公司的商标，在美国和其他国家注册。
 
@@ -24,7 +24,7 @@ Microsoft, IntelliMouse, MS-DOS, Outlook, Windows, Windows Media 和 Windows NT 
 
 Motif、OSF/1 和 UNIX 是注册商标，IT DialTone 和 The Open Group 是 The Open Group 在美国和其他国家的商标。
 
-Sun、Sun Microsystems、Java、Java Virtual Machine、JDK、JRE、JSP、JVM、Netra、OpenJDK、Solaris、StarOffice、SunOS 和 VirtualBox 是 Sun Microsystems, Inc.在美国和其他国家的商标或注册商标。
+Sun、Sun Microsystems、Java、Java Virtual Machine、JDK、JRE、JSP、JVM、Netra、OpenJDK、Solaris、StarOffice、SunOS 和 VirtualBox 是 Sun Microsystems 公司在美国和其他国家的商标或注册商标。
 
 RealNetworks、RealPlayer 和 RealAudio 是 RealNetworks 公司的注册商标。
 
@@ -34,7 +34,7 @@ Oracle 是 Oracle 公司的注册商标。
 
 AR M是 ARM Limited 的注册商标。
 
-Adaptec 是 Adaptec, Inc. 的注册商标。
+Adaptec 是 Adaptec 公司的注册商标。
 
 Android 是谷歌公司的商标。
 
@@ -44,16 +44,16 @@ Intuit 和 Quicken 是 Intuit 公司或其子公司在美国和其他国家的�
 
 LSI Logic, AcceleRAID, eXtremeRAID, MegaRAID 和 Mylex 是 LSI Logic 公司的商标或注册商标。
 
-MATLAB 是 The MathWorks, Inc. 的注册商标。
+MATLAB 是 The MathWorks 公司的注册商标。
 
 SpeedTouch 是 Thomson 的商标。
 
-VMware 是 VMware, Inc.的商标。
+VMware 是 VMware 公司的商标。
 
-Mathematica 是 Wolfram Research, Inc.的注册商标。
+Mathematica 是 Wolfram Research公司的注册商标。
 
 Ogg Vorbis 和 Xiph.Org 是 Xiph.Org 的商标。
 
-XFree86 是 The XFree86 Project, Inc.的商标。
+XFree86 是 The XFree86 Project 公司的商标。
 
 许多制造商和销售商用来区分其产品的名称被称为商标。在这份文件中出现的这些名称， 如果 FreeBSD 项目收到了这些商标所有者的要求， 就会在这些名称后面加上`™`或`®`符号。
