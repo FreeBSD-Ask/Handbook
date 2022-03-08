@@ -1,4 +1,4 @@
-#  A.2.使用Git
+#  A.2.使用 Git
 
 ## A.2.1.简介
 
@@ -14,7 +14,7 @@ Git 可以从 Ports Collection 中安装，也可以作为一个软件包安装�
 
 `# pkg install git`
 
-## A.2.3.运行Git
+## A.2.3.运行 Git
 
 要取一个干净的源码拷贝到本地目录，请使用 `git clone`。这个目录下的文件被称为工作树。
 
@@ -88,7 +88,7 @@ GitLab
 
 在FreeBSD项目中，关于 git 的一般使用和问题的主要邮件列表是 freebsd-git。更多细节，包括提交信息列表，请参见邮件列表章节。
 
-## A.2.8. SSH主机密钥
+## A.2.8. SSH 主机密钥
 
 - gitrepo.FreeBSD.org host key fingerprints:
   - ECDSA key fingerprint is `SHA256:seWO5D27ySURcx4bknTNKlC1mgai0whP443PAKEvvZA`

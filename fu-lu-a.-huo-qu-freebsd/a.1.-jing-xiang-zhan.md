@@ -6,17 +6,17 @@ FreeBSD 项目的官方镜像是由许多机器组成的，这些机器由项目
 
 | **Service Name** | **Protocols** | **More information** |
 | :---:            | :---:         | :---:                |
-|**download.FreeBSD.org**|[https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/)|与ftp.FreeBSD.org的内容相同，ftp是一个传统的名字；建议使用download.FreeBSD.org。|
+|**download.FreeBSD.org**|[https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/)|与 ftp.FreeBSD.org 的内容相同，ftp 是一个传统的名字；建议使用 download.FreeBSD.org。|
 | **git.FreeBSD.org** | git over `https` and `ssh`|关于使用 git 部分的更多细节|
 | **pkg.FreeBSD.org** | [pkg(8)](https://www.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https` | pkg(8) 程序所使用的 FreeBSD 官方软件包库。|
 
-所有官方镜像都支持 IPv4 和 IPv6。
+所有的官方镜像都支持 IPv4 和 IPv6。
 
-FreeBSD网站(<https://www.FreeBSD.org> 和 <https://docs.FreeBSD.org>)没有被托管在GeoDNS基础设施中；目前正在对其实施进行研究。
+FreeBSD 网站(<https://www.FreeBSD.org> 和 <https://docs.FreeBSD.org>)没有被托管在 GeoDNS 基础设施中；目前正在对其实施进行研究。
 
 http://ftp-archive.FreeBSD.org 不在 GeoDNS 基础设施内，只在一个地方（美国）托管。
 
-该项目正在寻找新的地点；那些愿意赞助的人，请联系群组管理员团队以获得更多信息。
+该项目正在寻找新的站点；那些愿意赞助的人，请联系群组管理员团队以获得更多信息。
 
 由社区和其他公司维护的镜像列表。
 
@@ -70,4 +70,4 @@ http://ftp-archive.FreeBSD.org 不在 GeoDNS 基础设施内，只在一个地�
 ||ftp14.FreeBSD.org|[ftp](ftp://ftp14.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp14.FreeBSD.org) (Former official tier 1)|
 ||ftp5.FreeBSD.org|[http](http://ftp5.freebsd.org/pub/FreeBSD) [http_v6](http://ftp5.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp5.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp5.freebsd.org/pub/FreeBSD)|
 
-目前社区镜像支持的协议列表最后一次更新是在 2022-01-31，它并不保证。
+目前社区镜像支持的协议列表最后一次更新是在 2022-01-31，但并做不保证。
