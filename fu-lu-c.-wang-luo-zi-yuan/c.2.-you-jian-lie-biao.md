@@ -203,7 +203,7 @@ SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准�
 
 - 严禁宣传非 FreeBSD 相关的产品或服务，如果明显是以垃圾邮件的方式进行宣传，将被立即禁止。
 
-个人名单包机:
+个人名单列表:
 
 [freebsd-acpi](https://lists.freebsd.org/subscription/freebsd-announce)
 
@@ -297,7 +297,7 @@ FreeBSD 特有的 Chromium 问题
 
 文件项目
 
-这个邮件列表是用来讨论与创建 FreeBSD 文档有关的问题和项目的。这个邮件列表的成员被统称为“FreeBSD 文档项目”。这是一个开放的列表；请随时加入并做出贡献!
+这个邮件列表是用来讨论与创建 FreeBSD 文档有关的问题和项目的。这个邮件列表的成员被统称为“FreeBSD 文档项目”。这是一个开放的列表；请随时加入并做出贡献！
 
 [freebsd-drivers](https://lists.freebsd.org/subscription/freebsd-drivers)
 
