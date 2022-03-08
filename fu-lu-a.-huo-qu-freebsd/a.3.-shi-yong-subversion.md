@@ -16,18 +16,22 @@
 
 ## A.3.3.安装
 
-如果 svnlite 不可用或者需要完整版的 Subversion，那么必须安装它。
+如果 svnlite 不可用或者需要完整版的 Subversion，那么必须手动安装它。
 
-Subversion 可以从 Ports Collection 中安装。
+Subversion 可以从 Ports Collection 中安装:
 
-`# cd /usr/ports/devel/subversion`
-`# make install clean`
+···
+# cd /usr/ports/devel/subversion`
+# make install clean`
+···
 
-Subversion 也可以作为一个软件包来安装。
+Subversion 也可以作为一个软件包来安装:
 
-`# pkg install subversion`
+```
+# pkg install subversion
+```
 
-## A.3.4. 运行Subversion
+## A.3.4. 运行 Subversion
 
 要获取一个干净的源代码拷贝到本地目录中，请使用 svn。这个目录中的文件被称为本地工作副本。
 
@@ -37,12 +41,16 @@ Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostnam
 
 从一个给定的版本库中签出，可以用这样的命令进行。
 
-`# svn checkout https://svn.FreeBSD.org/repository/branch lwcdir`
+```
+# svn checkout https://svn.FreeBSD.org/repository/branch lwcdir
+```
 
 其中:
 
 - 仓库是项目仓库中的一个：base、ports 或 doc。
+
 - 分支取决于所使用的版本库。ports 和 doc 主要在 head 分支中更新，而 base 则在 head 下维护最新的 -CURRENT 版本，在 stable/11（11.x）和 stable/12（12.x）下维护各自的最新版本 -STABLE 分支。
+
 - lwcdir 是指定分支的内容应被放置的目标目录。对于 ports 来说，这通常是 `/usr/ports`，对于 base 来说是 /usr/src，而对于 doc 来说是 `/usr/doc`。
 
 这个例子使用 HTTPS 协议从 FreeBSD 版本库中签出源代码树，将本地工作拷贝放在`/usr/src`中。如果`/usr/src`已经存在，但不是由 svn 创建的，记得在签出前重命名或删除它。
@@ -51,26 +59,34 @@ Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostnam
 
 因为初始签出必须下载远程版本库的完整分支，所以可能需要一些时间。请耐心等待。
 
-在初始签出后，可以通过运行本地工作副本来更新。
+在初始签出后，可以通过运行本地工作副本来更新:
 
-`# svn update lwcdir`
+```
+# svn update lwcdir
+```
 
-要更新上面例子中创建的`/usr/src`，请使用。
+要更新上面例子中创建的`/usr/src`，请使用:
 
-`# svn update /usr/src`
+```
+# svn update /usr/src
+```
 
-更新比结账要快得多，只传输有变化的文件。
+更新比结账要快得多，只传输有变化的文件：
 
 另一种在签出后更新本地工作拷贝的方法是由 `/usr/ports`、 `/usr/src` 和 `/usr/doc` 目录中的 Makefile 提供的。设置 SVN_UPDATE 并使用更新目标。例如，要更新 `/usr/src`。
 
-`# cd /usr/src`
-`# make update SVN_UPDATE=yes`
+```
+# cd /usr/src
+# make update SVN_UPDATE=yes
+```
 
 ## A.3.5.镜像网站
 
 FreeBSD 的 Subversion 存储库是:
 
-`svn.FreeBSD.org`
+```
+svn.FreeBSD.org
+```
 
 这是一个可以公开访问的镜像网络，使用 GeoDNS 来选择合适的后端服务器。要通过浏览器查看 FreeBSD Subversion 仓库，请使用 [https://svnweb.FreeBSD.org/](https://svnweb.freebsd.org/)。
 

@@ -52,37 +52,37 @@ Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 Fre
 # cd /usr/src
 # git pull --rebase
 ```
-更新比结账要快得多，只传输有变化的文件。
+更新比 checkout 要快得多，只传输有变化的文件。
 
 ## A.2.4.基于网络的资源库浏览器
 
-FreeBSD 项目使用 cgit 作为基于网络的版本库浏览器：https://cgit.FreeBSD.org/。
+FreeBSD 项目使用 cgit 作为基于网络的版本库浏览器：<https://cgit.FreeBSD.org/>。
 
 ## A.2.5. 对于开发商来说
 
-关于对存储库的写入权限的信息，请参见《提交人指南》。
+关于对存储库的写入权限的信息，请参见《 Committer 指南》。
 
-## A.2.6. 外部镜面
+## A.2.6. 外部镜像
 
 这些镜像并不在 FreeBSD.org 中托管，但仍由项目成员维护。我们欢迎用户和开发人员拉取或浏览这些镜像上的仓库。目前正在接受对 doc GitHub 仓库的拉取请求；除此之外，项目与这些镜像的工作流程仍在讨论中。
 
 Codeberg
 
-- doc: https://codeberg.org/FreeBSD/freebsd-doc
-- ports: https://codeberg.org/FreeBSD/freebsd-ports
-- src: https://codeberg.org/FreeBSD/freebsd-src
+- doc: <https://codeberg.org/FreeBSD/freebsd-doc>
+- ports: <https://codeberg.org/FreeBSD/freebsd-ports>
+- src: <https://codeberg.org/FreeBSD/freebsd-src>
 
 GitHub
 
-- doc: https://github.com/freebsd/freebsd-doc
-- ports: https://github.com/freebsd/freebsd-ports
-- src: https://github.com/freebsd/freebsd-src
+- doc: <https://github.com/freebsd/freebsd-doc>
+- ports: <https://github.com/freebsd/freebsd-ports>
+- src: <https://github.com/freebsd/freebsd-src>
 
 GitLab
 
-- doc: https://gitlab.com/FreeBSD/freebsd-doc
-- ports: https://gitlab.com/FreeBSD/freebsd-ports
-- src: https://gitlab.com/FreeBSD/freebsd-src
+- doc: <https://gitlab.com/FreeBSD/freebsd-doc>
+- ports: <https://gitlab.com/FreeBSD/freebsd-ports>
+- src: <https://gitlab.com/FreeBSD/freebsd-src>
 
 ## A.2.7. 邮件列表
 
