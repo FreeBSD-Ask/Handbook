@@ -348,11 +348,11 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 *IPv4*
 
-见 IP 版本4。
+见 IP 版本 4。
 
 *IPv6*
 
-见 IP 版本6。
+见 IP 版本 6。
 
 *ISP*
 
@@ -368,7 +368,7 @@ IP 协议版本 4，使用 32 位进行寻址。这个版本仍然是使用最�
 
 *IP Version 6*
 
-新的 IP 协议。发明的原因是 IPv4 的地址空间正在耗尽。使用128位进行寻址。
+新的 IP 协议。发明的原因是 IPv4 的地址空间正在耗尽。使用 128 位进行寻址。
 
 *Input/Output*
 
@@ -458,7 +458,7 @@ KAME 是日语“乌龟”的意思，在计算机界被用来指 KAME 项目，
 
 FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 FreeBSD-CURRENT 内核中发现的一个运行时锁诊断系统 (但在发行版中被移除)，称为 witness(4)，用于检测由于锁错误而导致的潜在死锁。(witness(4) 实际上是略微保守的，所以有可能得到假阳性结果）。一个真阳性报告表明“如果你不走运，死锁就会发生在这里”。
 
-真正积极的 LOR 往往很快就会被修复，所以在发布到邮件列表之前，请检查https://lists.FreeBSD.org/subscription/freebsd-current 和 LORs Seen 页面。
+真正积极的 LOR 往往很快就会被修复，所以在发布到邮件列表之前，请检查 <https://lists.FreeBSD.org/subscription/freebsd-current> 和 LORs Seen 页面。
 
 ## M
 
@@ -508,7 +508,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Mail Transfer Agent*
 
-一个用于传输电子邮件的应用程序。传统上，MTA 是 BSD 基本系统的一部分。今天，Sendmail 被包含在基本系统中，但还有许多其他的 MTA，如 postfix、qmail和Exim。
+一个用于传输电子邮件的应用程序。传统上，MTA 是 BSD 基本系统的一部分。今天，Sendmail 被包含在基本系统中，但还有许多其他的 MTA，如 postfix、qmail 和 Exim。
 
 *Mail User Agent*
 
@@ -682,7 +682,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Physical Address Extensions*
 
-一种使系统能够访问高达 64GB 的 RAM 的方法，这些系统只具有 32 位宽的地址空间（因此在没有 PAE 的情况下会被限制在4GB）。
+一种使系统能够访问高达 64GB 的 RAM 的方法，这些系统只具有 32 位宽的地址空间（因此在没有 PAE 的情况下会被限制在 4GB）。
 
 *Pluggable Authentication Modules*
 
@@ -710,7 +710,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Principle Of Least Astonishment*
 
-随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如，在 '/etc/defaults/rc.conf' 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑POLA。
+随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如，在`/etc/defaults/rc.conf`中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑 POLA。
 
 *Problem Report*
 
@@ -722,7 +722,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 *Project Evil*
 
-NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需要有这样的东西是多么的可怕 (从哲学的角度来看)。NDISulator 是一个特殊的兼容模块，允许 Microsoft Windows™ NDIS miniport 网络驱动程序在 FreeBSD/i386 上使用。这通常是使用驱动是闭源的卡的唯一方法。参见 src/sys/compat/ndis/subr_ndis.c。
+NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需要有这样的东西是多么的可怕 (从哲学的角度来看)。NDISulator 是一个特殊的兼容模块，允许 Microsoft Windows™ NDIS miniport 网络驱动程序在 FreeBSD/i386 上使用。这通常是使用驱动是闭源的卡的唯一方法。参见`src/sys/compat/ndis/subr_ndis.c`。
 
 ## R
 
@@ -768,7 +768,7 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 修订控制系统（RCS）是对普通文件实施“修订控制”的最古老的软件套件之一。它允许对每个文件进行存储、检索、归档、记录、识别和合并多个修订版。RCS 由许多小工具组成，它们一起工作。它缺少一些在更现代的修订控制系统中发现的功能，如 Git，但它的安装、配置和开始用于一小部分文件非常简单。
 
-另见Subversion。
+另见 Subversion。
 
 *Received Data*
 
@@ -790,7 +790,7 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 *Request For Comments*
 
-一套定义互联网标准、协议等的文件。见 www.rfc-editor.org。
+一套定义互联网标准、协议等的文件。见 <www.rfc-editor.org>。
 
 当有人提出修改建议并希望得到反馈时，也可作为一个一般术语使用。
 
@@ -928,7 +928,7 @@ Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
 
 *UFS2*
 
-见 Unix 文件系统第2版。
+见 Unix 文件系统第 2 版。
 
 *UID*
 

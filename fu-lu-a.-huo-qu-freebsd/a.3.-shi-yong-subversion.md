@@ -2,9 +2,9 @@
 
 ## A.3.1.简介
 
-从 2020 年 12 月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的源代码和文档。在 stable/11, stable/12 和相关的 releng 分支上的 git repo 的改动会被导出到 subversion 仓库中。这种输出将持续到这些分支的生命周期。从 2012 年 7 月到 2021 年 3 月， FreeBSD 使用 Subversion 作为唯一的版本控制系统来存储所有 FreeBSD 的 Ports Collection。从 2021 年 4 月起， FreeBSD 使用 git 作为存储所有 FreeBSD Ports Collection 的唯一版本控制系统。
+从 2020 年 12 月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的源代码和文档。在 stable/11, stable/12 和相关的 releng 分支上的 git repo 的改动会被导出到 subversion 仓库中。这种输出将持续到这些分支的生命周期。从 2012 年 7 月到 2021 年 3 月，FreeBSD 使用 Subversion 作为唯一的版本控制系统来存储所有 FreeBSD 的 Ports Collection。从 2021 年 4 月起，FreeBSD 使用 git 作为存储所有 FreeBSD Ports Collection 的唯一版本控制系统。
 
-**Subversion 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update (“FreeBSD Update”) 来更新 FreeBSD 基本系统， 以及 portsnap (“使用 Ports Collection”) 来更新 FreeBSD Ports Collection。在 2021 年 3 月之后，subversion的使用只针对传统的分支(stable/11和stable/12)。**
+**Subversion 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update (“FreeBSD Update”) 来更新 FreeBSD 基本系统，以及 portsnap (“使用 Ports Collection”) 来更新 FreeBSD Ports Collection。在 2021 年 3 月之后，subversion的使用只针对传统的分支(stable/11和stable/12)。**
 
 这一节演示了如何在 FreeBSD 系统上安装 Subversion 并使用它来创建 FreeBSD 版本库的本地副本。还包括了关于使用 Subversion 的其他信息。
 
@@ -33,7 +33,7 @@ Subversion 也可以作为一个软件包来安装。
 
 **在第一次使用签出之前，移动或删除现有的目标目录。在现有的非svn目录上进行签出会导致现有文件和从版本库带入的文件之间的冲突。**
 
-Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostname/path`。路径的第一个组成部分是要访问的 FreeBSD 代码库。有三个不同的版本库， base 是 FreeBSD 基本系统的源代码， ports 是 Ports Collection， doc 是文档。例如， URL https://svn.FreeBSD.org/base/head/ 使用 https 协议指定了 src 代码库的主分支。
+Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostname/path`。路径的第一个组成部分是要访问的 FreeBSD 代码库。有三个不同的版本库，base 是 FreeBSD 基本系统的源代码，ports 是 Ports Collection，doc 是文档。例如，URL https://svn.FreeBSD.org/base/head/ 使用 https 协议指定了 src 代码库的主分支。
 
 从一个给定的版本库中签出，可以用这样的命令进行。
 
@@ -42,8 +42,8 @@ Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostnam
 其中:
 
 - 仓库是项目仓库中的一个：base、ports 或 doc。
-- 分支取决于所使用的版本库。 ports 和 doc 主要在 head 分支中更新，而 base 则在 head 下维护最新的 -CURRENT 版本，在 stable/11 (11.x) 和 stable/12 (12.x) 下维护各自的最新版本 -STABLE 分支。
-- lwcdir 是指定分支的内容应被放置的目标目录。对于 ports 来说， 这通常是 `/usr/ports`， 对于 base 来说是 /usr/src， 而对于 doc 来说是 `/usr/doc`。
+- 分支取决于所使用的版本库。ports 和 doc 主要在 head 分支中更新，而 base 则在 head 下维护最新的 -CURRENT 版本，在 stable/11 (11.x) 和 stable/12 (12.x) 下维护各自的最新版本 -STABLE 分支。
+- lwcdir 是指定分支的内容应被放置的目标目录。对于 ports 来说，这通常是 `/usr/ports`，对于 base 来说是 /usr/src，而对于 doc 来说是 `/usr/doc`。
 
 这个例子使用 HTTPS 协议从 FreeBSD 版本库中签出源代码树，将本地工作拷贝放在`/usr/src`中。如果`/usr/src`已经存在，但不是由 svn 创建的，记得在签出前重命名或删除它。
 
