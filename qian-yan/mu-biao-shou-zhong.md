@@ -4,4 +4,4 @@
 
 在你完成了这一部分后，手册的第二部分，也就是更加繁杂的部分，对 FreeBSD 系统管理员提供了感兴趣的各种主题的全面参考。其中一些章节可能会建议您事先进行一些预习，这将在每章开头的概述中注明。
 
-有关其他信息来源的列表，请阅读参考文献。
+有关其他信息来源的列表，请阅读[参考文献](https://docs.freebsd.org/en/books/handbook/bibliography/index.html#bibliography)。
