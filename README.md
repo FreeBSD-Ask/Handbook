@@ -1,5 +1,5 @@
 # FreeBSD 简体中文手册（Handbook）
-## 2022 FreeBSD 中文社区（CFC）中文翻译项目
+## 2022 FreeBSD 中文社区（CFC）翻译项目
 在线阅读地址：<https://handbook.freebsdcn.org>
 
 # Q & A
