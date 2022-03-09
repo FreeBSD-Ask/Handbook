@@ -8,7 +8,7 @@
 
 ## A：
 
-俗话说的好，要想富先修路。要想推广和宣传 FreeBSD，也必须先翻译Handbook。
+俗话说的好，要想富先修路。要想推广和宣传 FreeBSD，也必须先翻译 Handbook。
 
 有些人认为有英语不需要翻译，看不懂的人就不配学习 FreeBSD。此言差矣，Handbook 不专门针对开发者这一个群体，而是针对所有人（https://docs.freebsd.org/en/books/porters-handbook/porting-why/ 专为开发者编写），类似于 Linux 的 wiki，但是对比下手册更有体系结构。FreeBSD 也并非专门为了某些精英而创设，不懂英语是一件很正常的事情，不同的语言有不同的世界观，只有经过翻译才能让更多普通人走近 FreeBSD，发展 FreeBSD，结缘 FreeBSD。你懂英语，别人不一定懂，不能用你的标准去衡量所有人。FreeBSD 项目组从未说过不懂英语就无法使用 FreeBSD 这种话。
 
