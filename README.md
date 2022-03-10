@@ -30,18 +30,18 @@
 
 # 翻译指南
 
-https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
+<https://docs.qq.com/doc/DSUtxYmVwU29EdGVn>
 
 # 简介
 来到这里你可能什么也得不到。也将不会失去任何东西。FreeBSD 中文用户社区！恪守古老的法则，追寻真正的自由。BSD 方为真正 UNIX 哲学继承者。加入我们，共同推进 FreeBSD 中国化与世界化。
 
 QQ 群 905149943
 
-社区协作 FreeBSD 入门参考书籍 https://book.freebsdcn.org
+社区协作 FreeBSD 入门参考书籍 <https://book.freebsdcn.org>
 
-社区：https://freebsdcn.org
+社区：<https://freebsdcn.org>
 
-Telegram 群 https://t.me/freebsdba
+Telegram 群 <https://t.me/freebsdba>
 
 微信公众号：freebsdzh
 
@@ -56,5 +56,5 @@ Telegram 群 https://t.me/freebsdba
 >
 >**我希望有更多的人参与进来，一起协作这个开源项目。英语水平和计算机水平固然重要，但是翻译凭借的不是傲慢与偏见，不是苦难哲学，也不是泥潭般的社区，更不是所谓的巨苣，而是我们的心，翻译是用心来完成的！用心，每个人都可以参与，无论是错别字的修正还是大章节的翻译，都是有意义的。**
 >
->想参加的朋友可以看看 https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
+>想参加的朋友可以看看 <https://docs.qq.com/doc/DSUtxYmVwU29EdGVn>
 
