@@ -378,13 +378,13 @@
 
 ## 附录 B. 书目
 
-* [B.1.专门针对于 FreeBSD 的书籍](fu-lu-b.-shu-mu/b.1.-zhuan-men-zhen-dui-yu-freebsd-de-shu-ji.md)
+* [B.1.FreeBSD 相关书籍](fu-lu-b.-shu-mu/b.1.freebsd-xiang-guan-shu-ji.md)
 * [B.2.用户指南](fu-lu-b.-shu-mu/b.2.-yong-hu-zhi-nan.md)
-* [B.3.管理员指南](fu-lu-b.-shu-mu/b.3.-guan-li-yuan-zhi-nan.md)
-* [B.4.程序员指南](fu-lu-b.-shu-mu/b.4.-cheng-xu-yuan-zhi-nan.md)
-* [B.6.安全参考](fu-lu-b.-shu-mu/b.6.-an-quan-can-kao.md)
-* [B.5.操作系统内部](fu-lu-b.-shu-mu/b.5.-cao-zuo-xi-tong-nei-bu.md)
-* [B.7.硬件参考](fu-lu-b.-shu-mu/b.7.-ying-jian-can-kao.md)
+* [B.3.管理指南](fu-lu-b.-shu-mu/b.3.-guan-li-zhi-nan.md)
+* [B.4.开发指南](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
+* [B.6.安全性参考文献](fu-lu-b.-shu-mu/b.6.-an-quan-xing-can-kao-wen-xian.md)
+* [B.5.深入操作系统](fu-lu-b.-shu-mu/b.5.-shen-ru-cao-zuo-xi-tong.md)
+* [B.7.硬件参考文献](fu-lu-b.-shu-mu/b.7.-ying-jian-can-kao.md)
 * [B.8.UNIX® 历史](fu-lu-b.-shu-mu/b.8.-unix-li-shi.md)
 * [B.9.期刊和杂志](fu-lu-b.-shu-mu/b.9.-qi-kan-he-za-zhi.md)
 
