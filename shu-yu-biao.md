@@ -1,6 +1,6 @@
-# 词汇表
+# 术语表
 
-这个词汇表包含了在 FreeBSD 社区和文档中使用的术语和首字母缩写。
+这个术语表包含了在 FreeBSD 社区和文档中使用的术语和首字母缩写。
 
 ## A
 
@@ -54,7 +54,7 @@
 
 *ACPI Source Language*
 
-AML采用的编程语言。
+AML 采用的编程语言。
 
 *Access Control List*
 
@@ -104,7 +104,7 @@ AML采用的编程语言。
 
 *Base Address Register*
 
-决定PCI设备将响应哪个地址范围的寄存器。
+决定 PCI 设备将响应哪个地址范围的寄存器。
 
 *Basic Input/Output System*
 
@@ -952,7 +952,7 @@ Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
 
 *Unix File System Version 2*
 
-UFS1 的扩展，在 FreeBSD 5-CURRENT 中引入。UFS2 增加了 64 位块指针（打破了1T的障碍），支持扩展文件存储和其他功能。
+UFS1 的扩展，在 FreeBSD 5-CURRENT 中引入。UFS2 增加了 64 位块指针（打破了 1T 的障碍），支持扩展文件存储和其他功能。
 
 *Universal Serial Bus*
 
