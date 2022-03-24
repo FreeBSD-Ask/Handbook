@@ -400,5 +400,5 @@
 
 ***
 
-* [词汇表](ci-hui-biao.md)
+* [术语表](shu-yu-biao.md)
 * [签名](qian-ming.md)
