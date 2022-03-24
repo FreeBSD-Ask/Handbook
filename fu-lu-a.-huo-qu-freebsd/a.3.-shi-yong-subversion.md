@@ -21,8 +21,8 @@
 Subversion 可以从 Ports Collection 中安装:
 
 ···
-# cd /usr/ports/devel/subversion`
-# make install clean`
+# cd /usr/ports/devel/subversio
+# make install clean
 ···
 
 Subversion 也可以作为一个软件包来安装:
@@ -73,14 +73,14 @@ Subversion 使用 URL 来指定一个版本库，其形式为`protocol://hostnam
 
 更新比结账要快得多，只传输有变化的文件：
 
-另一种在签出后更新本地工作拷贝的方法是由 `/usr/ports`、 `/usr/src` 和 `/usr/doc` 目录中的 Makefile 提供的。设置 SVN_UPDATE 并使用更新目标。例如，要更新 `/usr/src`。
+另一种在签出后更新本地工作拷贝的方法是由 `/usr/ports`、 `/usr/src` 和 `/usr/doc` 目录中的 Makefile 提供的。设置 SVN_UPDATE 并使用更新目标。例如，要更新 `/usr/src`：
 
 ```
 # cd /usr/src
 # make update SVN_UPDATE=yes
 ```
 
-## A.3.5.镜像网站
+## A.3.5.Subversion 镜像站
 
 FreeBSD 的 Subversion 存储库是:
 
@@ -94,5 +94,5 @@ HTTPS 是首选协议，但需要安装 security/ca_root_nss 软件包，以便�
 
 ## A.3.6.了解更多信息 
 
-关于使用 Subversion 的其他信息，请参见`Subversion`，标题为 Subversion 的版本控制，或 Subversion 文档。
+关于使用 Subversion 的其他信息，请参见`Subversion`，标题为 使用 Subversion 进行版本控制，或 Subversion 文档。
 
