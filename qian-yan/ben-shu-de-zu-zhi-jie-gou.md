@@ -14,7 +14,7 @@
 
 介绍了 FreeBSD 操作系统的基本命令和功能。如果你熟悉 Linux® 或其他 UNIX®，那么你可以跳过这一章。
 
-*安装应用程序：软件包和 ports*
+*安装应用程序: Package 和 Port*
 
 涵盖了使用 FreeBSD 创新的“Ports Collection”和标准二进制软件包安装第三方软件。
 
