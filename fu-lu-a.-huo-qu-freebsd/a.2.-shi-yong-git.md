@@ -38,7 +38,7 @@ Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 Fre
 ```
 # git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
 ```
--o freebsd 选项指定了起源；根据 FreeBSD 文档的惯例，起源被假定为 freebsd。因为初始签出必须下载远程仓库的完整分支，所以可能需要一些时间。请耐心等待。
+-o freebsd 选项指定了源；根据 FreeBSD 文档的惯例，起源被假定为 freebsd。因为初始签出必须下载远程仓库的完整分支，所以可能需要一些时间。请耐心等待。
 
 最初，工作树包含主分支的源代码，对应的是 CURRENT。要切换到 13-STABLE，而不是
 
@@ -58,7 +58,7 @@ Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 Fre
 
 FreeBSD 项目使用 cgit 作为基于网络的版本库浏览器：<https://cgit.FreeBSD.org/>。
 
-## A.2.5. 对于开发商来说
+## A.2.5. 对于开发者
 
 关于对存储库的写入权限的信息，请参见《 Committer 指南》。
 
@@ -86,7 +86,7 @@ GitLab
 
 ## A.2.7. 邮件列表
 
-在FreeBSD项目中，关于 git 的一般使用和问题的主要邮件列表是 freebsd-git。更多细节，包括提交信息列表，请参见邮件列表章节。
+在 FreeBSD 项目中，关于 git 的一般使用和问题的主要邮件列表是 freebsd-git。更多细节，包括提交信息列表，请参见邮件列表章节。
 
 ## A.2.8. SSH 主机密钥
 
