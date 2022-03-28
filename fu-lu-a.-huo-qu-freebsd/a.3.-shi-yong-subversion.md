@@ -20,10 +20,10 @@
 
 Subversion 可以从 Ports Collection 中安装:
 
-···
-# cd /usr/ports/devel/subversio
+```
+# cd /usr/ports/devel/subversion
 # make install clean
-···
+```
 
 Subversion 也可以作为一个软件包来安装:
 
