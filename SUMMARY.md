@@ -174,7 +174,7 @@
 * [14.9.文件系统访问控制表](di-14-zhang-an-quan/14.9.-wen-jian-xi-tong-fang-wen-kong-zhi-biao.md)
 * [14.10.监测第三方安全问题](di-14-zhang-an-quan/14.10.-jian-ce-di-san-fang-an-quan-wen-ti.md)
 * [14.11.FreeBSD 安全公告](di-14-zhang-an-quan/14.11.freebsd-an-quan-gong-gao.md)
-* [14.12.进程记帐](di-14-zhang-an-quan/14.12.-jin-cheng-ji-zhang.md)
+* [14.12.进程审计](di-14-zhang-an-quan/14.12.-jin-cheng-shen-ji.md)
 * [14.13.资源配额](di-14-zhang-an-quan/14.13.-zi-yuan-pei-e.md)
 * [14.14.使用 sudo 管理权限](di-14-zhang-an-quan/14.14.-shi-yong-sudo-guan-li-quan-xian.md)
 * [14.15.使用 doas 作为 sudo 的替代品](di-14-zhang-an-quan/14.15.-shi-yong-doas-zuo-wei-sudo-de-ti-dai-pin.md)
