@@ -196,7 +196,7 @@
 * [16.4.规划安全配置](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.4.-gui-hua-an-quan-pei-zhi.md)
 * [16.5.可用的 MAC 策略](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.5.-ke-yong-de-mac-ce-lve.md)
 * [16.6.用户锁定](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.6.-yong-hu-suo-ding.md)
-* [16.7.Nagios in a MAC Jail](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.7.-nagios-in-a-mac-jail.md)
+* [16.7.MAC Jail 中的 Nagios](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.7.mac-jail-zhong-de-nagios.md)
 * [16.8.MAC 框架的故障排除](di-16-zhang-qiang-zhi-fang-wen-kong-zhi/16.8.-mac-kuang-jia-de-gu-zhang-pai-chu.md)
 
 ## 第17章 安全事件审计
