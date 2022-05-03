@@ -75,6 +75,7 @@
 * [5.7.桌面环境](di-5-zhang-xwindow-xi-tong/5.7.-zhuo-mian-huan-jing.md)
 * [5.8.使用 Compiz Fusion](di-5-zhang-xwindow-xi-tong/5.8.-shi-yong-compiz-fusion.md)
 * [5.9.故障排除](di-5-zhang-xwindow-xi-tong/5.9.-gu-zhang-pai-chu.md)
+* [5.10.FreeBSD 中的 Wayland](di-5-zhang-xwindow-xi-tong/5.10.freebsd-zhong-de-wayland.md)
 
 ***
 
