@@ -3,7 +3,6 @@ name: Push changes to Handbook-Next
 on:
   push:
     branches: [main]
-  workflow_dispatch:
 
 jobs:
   build:
