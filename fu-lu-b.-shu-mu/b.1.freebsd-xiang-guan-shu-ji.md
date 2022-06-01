@@ -4,41 +4,41 @@
 
 ## 国际性的书籍
 
-- Using FreeBSD (in Traditional Chinese), published by Drmaster, 1997. ISBN 9-578-39435-7.
+- FreeBSD 入門與應用（繁体中文），由博硕文化出版于 1997. ISBN 9-578-39435-7。
 
-- FreeBSD Unleashed (Simplified Chinese translation), published by China Machine Press. ISBN 7-111-10201-0.
+- FreeBSD 技术内幕（简体中文翻译），由中国机械工业出版社出版。ISBN 7-111-10201-0。
 
-- FreeBSD From Scratch Second Edition (in Simplified Chinese), published by China Machine Press. ISBN 7-111-10286-X.
+- FreeBSD 使用大全第二版（简体中文），由中国机械工业出版社出版。ISBN 7-111-10286-X。
 
-- FreeBSD Handbook Second Edition (Simplified Chinese translation), published by Posts & Telecom Press. ISBN 7-115-10541-3.
+- FreeBSD Handbook 第二版（简体中文翻译）由人民邮电出版社出版。ISBN 7-115-10541-3。
 
-- FreeBSD & Windows (in Simplified Chinese), published by China Railway Publishing House. ISBN 7-113-03845-X
+- FreeBSD & Windows 集成组网实务（简体中文）, 由中国铁道出版社出版。ISBN 7-113-03845-X。
 
-- FreeBSD Internet Services HOWTO (in Simplified Chinese), published by China Railway Publishing House. ISBN 7-113-03423-3
+- FreeBSD 网站架设实务（简体中文）, 由中国铁道出版社出版。ISBN 7-113-03423-3。
 
-- FreeBSD (in Japanese), published by CUTT. ISBN 4-906391-22-2 C3055 P2400E.
+- FreeBSD（日语），由 CUTT 出版。ISBN 4-906391-22-2 C3055 P2400E。
 
-- Complete Introduction to FreeBSD (in Japanese), published by Shoeisha Co., Ltd. ISBN 4-88135-473-6 P3600E.
+- Complete Introduction to FreeBSD（日语），由 Shoeisha Co., Ltd 出版。ISBN 4-88135-473-6 P3600E。
 
-- Personal UNIX Starter Kit FreeBSD (in Japanese), published by ASCII. ISBN 4-7561-1733-3 P3000E.
+- Personal UNIX Starter Kit FreeBSD（日语），由 ASCII 出版。ISBN 4-7561-1733-3 P3000E。
 
-- FreeBSD Handbook (Japanese translation), published by ASCII. ISBN 4-7561-1580-2 P3800E.
+- FreeBSD Handbook（日语翻译），由 ASCII 出版。ISBN 4-7561-1580-2 P3800E。
 
-- FreeBSD mit Methode (in German), published by Computer und Literatur Verlag/Vertrieb Hanser, 1998. ISBN 3-932311-31-0.
+- FreeBSD mit Methode（德语），由 Computer und Literatur Verlag/Vertrieb Hanser 出版于 1998。ISBN 3-932311-31-0。
 
-- FreeBSD de Luxe (in German), published by Verlag Modere Industrie, 2003. ISBN 3-8266-1343-0.
+- FreeBSD de Luxe（德语），由 Verlag Modere Industrie 出版于 2003。ISBN 3-8266-1343-0。
 
-- FreeBSD Install and Utilization Manual (in Japanese), published by Mainichi Communications Inc., 1998. ISBN 4-8399-0112-0.
+- FreeBSD Install and Utilization Manual（日语），由 Mainichi Communications Inc. 出版于 1998。ISBN 4-8399-0112-0。
 
-- Onno W Purbo, Dodi Maryanto, Syahrial Hubbany, Widjil Widodo Building Internet Server with FreeBSD (in Indonesia Language), published by Elex Media Komputindo.
+- Onno W Purbo, Dodi Maryanto, Syahrial Hubbany, Widjil Widodo Building Internet Server with FreeBSD（印度尼西亚语）由 Elex Media Komputindo 出版。
 
-- Absolute BSD: The Ultimate Guide to FreeBSD (Traditional Chinese translation), published by GrandTech Press, 2003. ISBN 986-7944-92-5.
+- FreeBSD 完全探索（繁体中文），由上奇科技出版于 2003。ISBN 986-7944-92-5。
 
-- The FreeBSD 6.0 Book (in Traditional Chinese), published by Drmaster, 2006. ISBN 9-575-27878-X.
+- FreeBSD 6.0 架設管理與應用（繁体中文），由博硕出版于 2006。ISBN 9-575-27878-X。
 
 ## 英文书籍
 
-- Absolute FreeBSD, 2nd Edition: The Complete Guide to FreeBSD, published by No Starch Press, 2007. ISBN: 978-1-59327-151-0
+- Absolute FreeBSD: The Complete Guide To FreeBSD, Third Edition, published by No Starch Press, 2018. ISBN: 9781593278922
 
 - The Complete FreeBSD, published by O’Reilly, 2003. ISBN: 0596005164
 
