@@ -273,10 +273,11 @@
 
 * [24.1.概述](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.1.-gai-shu.md)
 * [24.2.FreeBSD 更新](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.2.-freebsd-geng-xin.md)
-* [24.3.更新文档集](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.3.-geng-xin-wen-dang-ji.md)
-* [24.4.追踪开发分支](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.4.-zhui-zong-kai-fa-fen-zhi.md)
-* [24.5.从源代码更新 FreeBSD](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.5.-cong-yuan-dai-ma-geng-xin-freebsd.md)
-* [24.6.多台机器的升级](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.6.-duo-tai-ji-qi-de-sheng-ji.md)
+* [24.3.更新 Bootcode](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.3.-geng-xin-bootcode.md)
+* [24.4.更新文档集](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.4.-geng-xin-wen-dang-ji.md)
+* [24.5.追踪开发分支](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.5.-zhui-zong-kai-fa-fen-zhi.md)
+* [24.6.从源代码更新 FreeBSD](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.6.-cong-yuan-dai-ma-geng-xin-freebsd.md)
+* [24.7.多台机器的升级](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.7.-duo-tai-ji-qi-de-sheng-ji.md)
 
 ## 第25章 DTrace
 
