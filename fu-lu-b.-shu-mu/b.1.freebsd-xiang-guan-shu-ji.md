@@ -10,7 +10,7 @@
 
 - FreeBSD 使用大全第二版（简体中文），由中国机械工业出版社出版。ISBN 7-111-10286-X。
 
-- FreeBSD Handbook 第二版（简体中文翻译）由人民邮电出版社出版。ISBN 7-115-10541-3。
+- FreeBSD Handbook 第二版（简体中文翻译），由人民邮电出版社出版。ISBN 7-115-10541-3。
 
 - FreeBSD & Windows 集成组网实务（简体中文）, 由中国铁道出版社出版。ISBN 7-113-03845-X。
 
@@ -30,7 +30,7 @@
 
 - FreeBSD Install and Utilization Manual（日语），由 Mainichi Communications Inc. 出版于 1998。ISBN 4-8399-0112-0。
 
-- Onno W Purbo, Dodi Maryanto, Syahrial Hubbany, Widjil Widodo Building Internet Server with FreeBSD（印度尼西亚语）由 Elex Media Komputindo 出版。
+- Onno W Purbo, Dodi Maryanto, Syahrial Hubbany, Widjil Widodo Building Internet Server with FreeBSD（印度尼西亚语），由 Elex Media Komputindo 出版。
 
 - FreeBSD 完全探索（繁体中文），由上奇科技出版于 2003。ISBN 986-7944-92-5。
 
