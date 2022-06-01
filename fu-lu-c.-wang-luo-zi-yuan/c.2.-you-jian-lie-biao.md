@@ -94,7 +94,7 @@ https://wakatime.com/
 |[freebsd-pkgbase](https://lists.freebsd.org/subscription/freebsd-pkgbase)|包装 FreeBSD 基本系统|
 |[freebsd-platforms](https://lists.freebsd.org/subscription/freebsd-platforms)|关于移植到非英特尔®架构平台的问题|
 |[freebsd-ports](https://lists.freebsd.org/subscription/freebsd-ports)|关于 port 集的讨论|
-|[freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)|关于 Ports 的重要新闻和说明（有主持）。|
+|[freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)|关于 ports 的重要新闻和说明（有主持）。|
 |[freebsd-ports-bugs](https://lists.freebsd.org/subscription/freebsd-ports-bugs)|讨论 port 的缺陷/PR|
 |[freebsd-ppc](https://lists.freebsd.org/subscription/freebsd-ppc)|将 FreeBSD 移植到 PowerPC® 上|
 |[freebsd-proliant](https://lists.freebsd.org/subscription/freebsd-proliant)|关于 FreeBSD 在 HP ProLiant 服务器平台上的技术讨论|
@@ -369,7 +369,7 @@ Gecko Rendering Engine
 
 这是一个关于使用 FreeBSD 的 Gecko 应用程序的论坛。
 
-讨论的中心是 Gecko Ports 应用程序、它们的安装、它们的开发以及它们在 FreeBSD 中的支持。
+讨论的中心是 Gecko ports 应用程序、它们的安装、它们的开发以及它们在 FreeBSD 中的支持。
 
 [freebsd-geom](https://lists.freebsd.org/subscription/freebsd-geom)
 
@@ -528,7 +528,7 @@ FreeBSD 上的 Mono 和 C# 应用程序
 
 关于FreeBSD“port 集”的重要消息和说明
 
-为开发人员、 移植人员以及 "Ports" (/usr/ports) 的用户提供的重要消息，包括架构/基础设施的变化、 新功能、 关键的升级说明，以及发布工程信息。这是一个低流量的邮件列表，用于发布公告。
+为开发人员、 移植人员以及 "ports" (/usr/ports) 的用户提供的重要消息，包括架构/基础设施的变化、 新功能、 关键的升级说明，以及发布工程信息。这是一个低流量的邮件列表，用于发布公告。
 
 [freebsd-ports-bugs](https://lists.freebsd.org/subscription/freebsd-ports-bugs)
 

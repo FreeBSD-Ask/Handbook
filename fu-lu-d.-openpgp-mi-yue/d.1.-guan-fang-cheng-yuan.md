@@ -259,7 +259,7 @@ giaUjZYpQ21+SHjVKTUnFQiiIDORvs3jdZDaxK/Y/vSoLRUiLBiHZWa6mxQY4uc6
 ```
 pub   rsa2048/D8294EC3BBC4D7D5 2012-07-24 [SC]
       Key fingerprint = FB37 45C8 6F15 E8ED AC81  32FC D829 4EC3 BBC4 D7D5
-uid                            FreeBSD Ports Management Team Secretary <portmgr-secretary@FreeBSD.org>
+uid                            FreeBSD ports Management Team Secretary <portmgr-secretary@FreeBSD.org>
 sub   rsa2048/5CC117965F65CFE7 2012-07-24 [E]
 sub   rsa4096/CA20328577064EB7 2013-10-05 [S]
 sub   rsa4096/8B114B3613867E00 2013-10-05 [E]

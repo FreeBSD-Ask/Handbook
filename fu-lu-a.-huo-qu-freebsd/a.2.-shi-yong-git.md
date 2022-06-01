@@ -4,13 +4,13 @@
 
 从2020年12月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的基本源代码和文档。从 2021 年 4 月起，FreeBSD 使用 git 作为唯一的版本控制系统来存储所有的 FreeBSD 的 port 集。
 
-**Git 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update (“FreeBSD Update”) 来更新 FreeBSD 基本系统，以及 portsnap ("使用 Ports") 来更新 FreeBSD Ports Collection。**
+**Git 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update (“FreeBSD Update”) 来更新 FreeBSD 基本系统，以及 portsnap ("使用 ports") 来更新 FreeBSD ports Collection。**
 
 这一节演示了如何在 FreeBSD 系统上安装 Git 并使用它来创建 FreeBSD 源代码仓库的本地拷贝。
 
 ## A.2.2.安装
 
-Git 可以从 Ports 中安装，也可以作为一个软件包安装。
+Git 可以从 ports 中安装，也可以作为一个软件包安装。
 
 `# pkg install git`
 
@@ -18,7 +18,7 @@ Git 可以从 Ports 中安装，也可以作为一个软件包安装。
 
 要取一个干净的源码拷贝到本地目录，请使用 `git clone`。这个目录下的文件被称为工作树。
 
-Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 FreeBSD 系统的源代码，doc 是指文档，而 ports 则是指 FreeBSD Ports。这三个库都可以通过两种不同的协议到达。HTTPS 和 SSH。例如，URL https://git.FreeBSD.org/src.git 指定了 src 仓库的主分支，并使用了 https 协议。
+Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 FreeBSD 系统的源代码，doc 是指文档，而 ports 则是指 FreeBSD ports。这三个库都可以通过两种不同的协议到达。HTTPS 和 SSH。例如，URL https://git.FreeBSD.org/src.git 指定了 src 仓库的主分支，并使用了 https 协议。
 
 表1. FreeBSD Git 仓库的 URL 表
 
