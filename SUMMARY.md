@@ -313,7 +313,7 @@
 * [28.4.使用以太网 PPP（PPPoE）](di-28-zhang-ppp/28.4.-shi-yong-yi-tai-wang-ppppppoe.md)
 * [28.5.使用 ATM 上的 PPP (PPPoA)](di-28-zhang-ppp/28.5.-shi-yong-atm-shang-de-ppp-pppoa.md)
 
-## 第29章：电子邮件
+## 第29章 电子邮件
 
 * [29.1.概述](di-29-zhang-dian-zi-you-jian/29.1.-gai-shu.md)
 * [29.2.邮件组件](di-29-zhang-dian-zi-you-jian/29.2.-you-jian-zu-jian.md)
