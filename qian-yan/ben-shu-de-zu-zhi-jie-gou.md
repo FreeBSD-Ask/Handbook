@@ -16,7 +16,7 @@
 
 *安装应用程序: Package 和 Port*
 
-涵盖了使用 FreeBSD 创新的“Ports Collection”和标准二进制软件包安装第三方软件。
+涵盖了使用 FreeBSD 创新的“Ports”和标准二进制软件包安装第三方软件。
 
 *X Window*
 

@@ -94,7 +94,7 @@ https://wakatime.com/
 |[freebsd-pkgbase](https://lists.freebsd.org/subscription/freebsd-pkgbase)|包装 FreeBSD 基本系统|
 |[freebsd-platforms](https://lists.freebsd.org/subscription/freebsd-platforms)|关于移植到非英特尔®架构平台的问题|
 |[freebsd-ports](https://lists.freebsd.org/subscription/freebsd-ports)|关于 port 集的讨论|
-|[freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)|关于 Ports Collection 的重要新闻和说明（有主持）。|
+|[freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)|关于 Ports 的重要新闻和说明（有主持）。|
 |[freebsd-ports-bugs](https://lists.freebsd.org/subscription/freebsd-ports-bugs)|讨论 port 的缺陷/PR|
 |[freebsd-ppc](https://lists.freebsd.org/subscription/freebsd-ppc)|将 FreeBSD 移植到 PowerPC® 上|
 |[freebsd-proliant](https://lists.freebsd.org/subscription/freebsd-proliant)|关于 FreeBSD 在 HP ProLiant 服务器平台上的技术讨论|
@@ -522,19 +522,19 @@ FreeBSD 上的 Mono 和 C# 应用程序
 
 关于 `port` 的讨论
 
-讨论有关 FreeBSD 的 `ports Collection` (/usr/ports)，ports 基础架构，以及一般的 ports 协调工作。这是一个技术性的邮件列表，希望有严格的技术内容。
+讨论有关 FreeBSD 的 `ports` (/usr/ports)，ports 基础架构，以及一般的 ports 协调工作。这是一个技术性的邮件列表，希望有严格的技术内容。
 
 [freebsd-ports-announce](https://lists.freebsd.org/subscription/freebsd-ports-announce)
 
 关于FreeBSD“port 集”的重要消息和说明
 
-为开发人员、 移植人员以及 "Ports Collection" (/usr/ports) 的用户提供的重要消息，包括架构/基础设施的变化、 新功能、 关键的升级说明，以及发布工程信息。这是一个低流量的邮件列表，用于发布公告。
+为开发人员、 移植人员以及 "Ports" (/usr/ports) 的用户提供的重要消息，包括架构/基础设施的变化、 新功能、 关键的升级说明，以及发布工程信息。这是一个低流量的邮件列表，用于发布公告。
 
 [freebsd-ports-bugs](https://lists.freebsd.org/subscription/freebsd-ports-bugs)
 
 关于“port”错误的讨论
 
-讨论有关 FreeBSD `ports Collection` (/usr/ports) 的问题报告、 拟议的 port 或对 port 的修改。这是一个技术性的邮件列表，希望有严格的技术内容。
+讨论有关 FreeBSD `ports` (/usr/ports) 的问题报告、 拟议的 port 或对 port 的修改。这是一个技术性的邮件列表，希望有严格的技术内容。
 
 [freebsd-proliant](https://lists.freebsd.org/subscription/freebsd-proliant)
 
