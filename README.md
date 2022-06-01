@@ -1,4 +1,4 @@
-# FreeBSD Hnandbook 中文手册|官方文档简体中文版
+# FreeBSD Handbook 中文手册|官方文档简体中文版
 ## 2022 FreeBSD 中文社区（CFC）翻译项目
 
 >所有章节均已翻译完成，正在校对。
