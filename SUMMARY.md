@@ -342,7 +342,7 @@
 * [30.9.文件传输协议（FTP）](di-30-zhang-wang-luo-fu-wu-qi/30.9.-wen-jian-chuan-shu-xie-yi-ftp.md)
 * [30.10.用于 Microsoft® Windows® 客户端的文件和打印服务（Samba）](di-30-zhang-wang-luo-fu-wu-qi/30.10.-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba.md)
 * [30.11.用 NTP 进行时钟同步](di-30-zhang-wang-luo-fu-wu-qi/30.11.-yong-ntp-jin-hang-shi-zhong-tong-bu.md)
-* [30.12.iSCSI 启动器和目标机器配置](di-30-zhang-wang-luo-fu-wu-qi/30.12.-iscsi-qi-dong-qi-he-mu-biao-ji-qi-pei-zhi.md)
+* [30.12.iSCSI 的 target 和 initiator 配置](di-30-zhang-wang-luo-fu-wu-qi/30.12.iscsi-de-target-he-initiator-pei-zhi.md)
 
 ## 第31章 防火墙
 
