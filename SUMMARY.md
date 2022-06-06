@@ -361,7 +361,7 @@
 * [32.4.USB 网络共享](di-32-zhang-gao-ji-wang-luo/32.4.usb-wang-luo-gong-xiang.md)
 * [32.5.蓝牙](di-32-zhang-gao-ji-wang-luo/32.5.-lan-ya.md)
 * [32.6.桥接](di-32-zhang-gao-ji-wang-luo/32.6.-qiao-jie.md)
-* [32.7.链接聚合和故障转移](di-32-zhang-gao-ji-wang-luo/32.7.-lian-jie-ju-he-he-gu-zhang-zhuan-yi.md)
+* [32.7.链路聚合与故障转移](di-32-zhang-gao-ji-wang-luo/32.7.-lian-lu-ju-he-yu-gu-zhang-zhuan-yi.md)
 * [32.8.使用 PXE 进行无盘操作](di-32-zhang-gao-ji-wang-luo/32.8.-shi-yong-pxe-jin-hang-wu-pan-cao-zuo.md)
 * [32.9.IPv6](di-32-zhang-gao-ji-wang-luo/32.9.-ipv6.md)
 * [32.10.共用地址冗余协议（(CARP)）](di-32-zhang-gao-ji-wang-luo/32.10.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
