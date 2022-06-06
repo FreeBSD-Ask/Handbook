@@ -30,7 +30,7 @@
 |9.1-9.4|潇潇雨竹|第 9 章：打印|ykla|
 |9.5-EOL|ulianchn38|第 9 章：打印|ykla|
 |10.1|Altair|第 10 章：Linux 二进制兼容层|ykla|
-|10.2-EOL|AjiaErin|第 10 章：Linux 二进制兼容层|ykla、冰|
+|10.2-EOL||第 10 章：Linux 二进制兼容层||
 |第 11 章：wine|Jasonlecson||ykla、冰|
 |第 12 章：设置和调整|胞嘧啶||ykla、冰|
 |第 13 章：FreeBSD 的启动过程|徐艺扬||ykla、冰、歸野鴿|
@@ -44,12 +44,12 @@
 |第 21 章：其他文件系统|Jasonlecson||ykla|
 |第 22 章：虚拟化|歸野鴿||ykla、冰|
 |第 23 章：本地化 - i18n/L10n 的使用和设置|郴||ykla、冰|
-|第 24 章：更新与升级 FreeBSD|AjiaErin||ykla|
+|第 24 章：更新与升级 FreeBSD||||
 |第 25 章：DTrace|歸野鴿||ykla、冰|
 |第 26 章：USB Device 模式 / USB OTG|Jasonlecson||ykla|
 |第 27 章：串行通信|胞嘧啶||ykla、冰|
-|第 28 章：PPP|AjiaErin||ykla、冰|
-|第 29 章：电子邮件|AjiaErin||ykla、冰|
+|第 28 章：PPP||||
+|第 29 章：电子邮件||||
 |第 30 章：网络服务器|陈诚||ykla、冰|
 |第 31 章：防火墙|陈诚||ykla、冰|
 |第 32 章：高级网络|陈诚||ykla、冰|
