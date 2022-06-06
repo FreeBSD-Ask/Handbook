@@ -358,7 +358,7 @@
 * [32.1.概述](di-32-zhang-gao-ji-wang-luo/32.1.-gai-shu.md)
 * [32.2.网关和路由](di-32-zhang-gao-ji-wang-luo/32.2.-wang-guan-he-lu-you.md)
 * [32.3.无线网络](di-32-zhang-gao-ji-wang-luo/32.3.-wu-xian-wang-luo.md)
-* [32.4.USB Tethering](di-32-zhang-gao-ji-wang-luo/32.4.-usb-tethering.md)
+* [32.4.USB 网络共享](di-32-zhang-gao-ji-wang-luo/32.4.usb-wang-luo-gong-xiang.md)
 * [32.5.蓝牙](di-32-zhang-gao-ji-wang-luo/32.5.-lan-ya.md)
 * [32.6.桥接](di-32-zhang-gao-ji-wang-luo/32.6.-qiao-jie.md)
 * [32.7.链接聚合和故障转移](di-32-zhang-gao-ji-wang-luo/32.7.-lian-jie-ju-he-he-gu-zhang-zhuan-yi.md)
