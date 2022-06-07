@@ -22,7 +22,7 @@
 |3.3-EOL|亲爱的翻译官|第 3 章：FreeBSD 基础|ykla、歸野鴿|
 |第 4 章：安装应用程序: Package 和 Port|亲爱的翻译官||ykla|
 |5.1-5.2|ykla|翻译工作实际由 ykla 完成|ulianchn38、冰|
-|5.3-5.4.6|冰|重译者|ykla、ulianchn38|
+|5.3-5.4.6|冰|重译|ykla、ulianchn38|
 |5.4.6-EOL|Lin🌠|第 5 章：X Window 系统|ykla、ulianchn38、冰|
 |第 6 章：桌面应用程序|胞嘧啶||ykla|
 |第 7 章：多媒体|无目先生||ykla|
@@ -49,7 +49,7 @@
 |第 26 章：USB Device 模式 / USB OTG|Jasonlecson||ykla|
 |第 27 章：串行通信|胞嘧啶||ykla、冰|
 |第 28 章：PPP||||
-|第 29 章：电子邮件||||
+|第 29 章：电子邮件|ykla|重译||
 |第 30 章：网络服务器|陈诚||ykla、冰|
 |第 31 章：防火墙|陈诚||ykla、冰|
 |第 32 章：高级网络|陈诚||ykla、冰|
