@@ -14,7 +14,7 @@
 
 - 对[安装应用程序: 二进制包和 Ports](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports) 的内容进行了扩充，包含了关于二进制软件包管理的额外信息。
 
-- [X Window 系统](X Window System)已经被完全重写，重点是在 XFree86™ 4.X 上使用现代桌面技术，如 KDE 和 GNOME。
+- [X Window 系统](https://docs.freebsd.org/en/books/handbook/x11/index.html#x11)已经被完全重写，重点是在 XFree86™ 4.X 上使用现代桌面技术，如 KDE 和 GNOME。
 
 - [FreeBSD 的启动过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)得到了扩展。
 
