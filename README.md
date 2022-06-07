@@ -48,7 +48,7 @@
 |第 25 章：DTrace|歸野鴿||ykla、冰|
 |第 26 章：USB Device 模式 / USB OTG|Jasonlecson||ykla|
 |第 27 章：串行通信|胞嘧啶||ykla、冰|
-|第 28 章：PPP||||
+|第 28 章：PPP|ykla|重译||
 |第 29 章：电子邮件|ykla|重译||
 |第 30 章：网络服务器|陈诚||ykla、冰|
 |第 31 章：防火墙|陈诚||ykla、冰|
