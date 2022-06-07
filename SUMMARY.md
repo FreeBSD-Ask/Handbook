@@ -53,7 +53,7 @@
 * [3.11.设备和设备节点](di-3-zhang-freebsd-ji-chu/3.11.-she-bei-he-she-bei-jie-dian.md)
 * [3.12.手册页](di-3-zhang-freebsd-ji-chu/3.12.-shou-ce-ye.md)
 
-## 第4章 安装应用程序: 软件包和 Ports
+## 第4章 安装应用程序：软件包和 Ports
 
 * [4.1.概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)
 * [4.2.软件安装的概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.2.-ruan-jian-an-zhuang-de-gai-shu.md)
