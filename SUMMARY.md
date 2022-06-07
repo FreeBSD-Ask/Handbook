@@ -318,7 +318,7 @@
 
 * [29.1.概述](di-29-zhang-dian-zi-you-jian/29.1.-gai-shu.md)
 * [29.2.邮件组件](di-29-zhang-dian-zi-you-jian/29.2.-you-jian-zu-jian.md)
-* [29.3.sendmail 配置文件](di-29-zhang-dian-zi-you-jian/29.3.-sendmail-pei-zhi-wen-jian.md)
+* [29.3.Sendmail 配置文件](di-29-zhang-dian-zi-you-jian/29.3.sendmail-pei-zhi-wen-jian.md)
 * [29.4.改变邮件传输代理](di-29-zhang-dian-zi-you-jian/29.4.-gai-bian-you-jian-chuan-shu-dai-li.md)
 * [29.5.故障排除](di-29-zhang-dian-zi-you-jian/29.5.-gu-zhang-pai-chu.md)
 * [29.6.高级主题](di-29-zhang-dian-zi-you-jian/29.6.-gao-ji-zhu-ti.md)
