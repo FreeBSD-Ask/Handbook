@@ -1,6 +1,7 @@
 # Table of contents
 
 * [FreeBSD 手册](README.md)
+* [译者说明](yi-zhe-shuo-ming.md)
 * [FreeBSD 手册](freebsd-shou-ce.md)
 * [概述](gai-shu.md)
 
