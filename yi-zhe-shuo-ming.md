@@ -21,16 +21,16 @@
 |Ticket|凭据||||
 |TCP Wrappers|TCP Wrappers|专有名词，维持英文|||
 |Ports Collection|Ports|Collection 似乎无用？|ports 就是指 ports Collection，单个的则为 port||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|raw device|裸设备||原始设备？？？||
+|media|介质|？？？|||
+|PAE（Physical Address Extension）|物理地址扩展||||
+| embedded boards|嵌入式板卡||||
+|system|设备/系统||||
+|MBR|主引导记录||||
+|GPT|全局唯一标识分区表||||
+|UEFI统一可扩展固件接口|||||
+|image|镜像||||
+|bug|bug||||
 ||||||
 ||||||
 ||||||
