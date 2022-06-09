@@ -17,7 +17,7 @@ Red Hat、RPM 是 Red Hat 公司在美国和其他国家的商标或注册商标
 
 Adobe、Acrobat、Acrobat Reader、Flash 和 PostScript 是 Adobe Systems Incorporated 在美国/其他国家的注册商标或商标。
 
-Apple、AirPort、FireWire、iMac、iPhone、iPad、Mac、Macintosh、Mac OS、Quicktime 和 TrueType 是苹果公司的商标，在美国和其他国家注册。
+Apple、AirPort、FireWire、iMac、iPhone、iPad、Mac、Macintosh、Mac OS、Quicktime 和 TrueType 是 Apple 公司的商标，在美国和其他国家注册。
 
 Intel、Celeron、Centrino、Core、EtherExpress、i386、i486、Itanium、Pentium、and Xeon 是 Intel Corporation 或其子公司在美国和其他国家的商标或注册商标。
 
