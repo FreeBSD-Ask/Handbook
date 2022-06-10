@@ -49,7 +49,7 @@
 |partition schemes|分区表||||
 |stripe|条带||||
 |drive |结合语境可能是“磁盘”||||
-||||||
+|Distribution Files|安装文件||||
 ||||||
 ||||||
 ||||||
