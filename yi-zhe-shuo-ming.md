@@ -50,8 +50,8 @@
 |stripe|条带||||
 |drive |结合语境可能是“磁盘”||||
 |Distribution Files|安装文件||||
-||||||
-||||||
+|Hardening Security|强化安全||||
+|scroll-back buffer|回滚缓冲区||||
 ||||||
 ||||||
 ||||||
