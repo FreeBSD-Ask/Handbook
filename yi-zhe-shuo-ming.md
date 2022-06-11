@@ -55,9 +55,9 @@
 |Network Interfaces|网络接口/网卡||||
 |Mirror|镜像站||||
 |build|构建||||
-||||||
-||||||
-||||||
+|Disk Organization|磁盘结构|||3.6. Disk Organization|
+|Video Modes|分辨率||||
+|key bindings|组合键||||
 ||||||
 ||||||
 ||||||
