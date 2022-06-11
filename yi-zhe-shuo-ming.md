@@ -24,7 +24,7 @@
 |raw device|裸设备||原始设备？？？||
 |media|介质|？？？|||
 |PAE（Physical Address Extension）|物理地址扩展||||
-| embedded boards|嵌入式板卡||||
+|embedded boards|嵌入式板卡||||
 |system|设备/系统||||
 |MBR|主引导记录||||
 |GPT|全局唯一标识分区表||||
@@ -58,8 +58,8 @@
 |Disk Organization|磁盘结构|||3.6. Disk Organization|
 |Video Modes|分辨率||||
 |key bindings|组合键||||
-||||||
-||||||
+|sticky directories|粘滞位||||
+|wrapper|wrapper||||
 ||||||
 ||||||
 ||||||
