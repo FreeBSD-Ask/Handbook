@@ -46,7 +46,7 @@
 * [3.3.用户和基本账户管理](di-3-zhang-freebsd-ji-chu/3.3.-yong-hu-he-ji-ben-zhang-hu-guan-li.md)
 * [3.4.权限](di-3-zhang-freebsd-ji-chu/3.4.-quan-xian.md)
 * [3.5.目录结构](di-3-zhang-freebsd-ji-chu/3.5.-mu-lu-jie-gou.md)
-* [3.6.磁盘组织](di-3-zhang-freebsd-ji-chu/3.6.-ci-pan-zu-zhi.md)
+* [3.6.磁盘结构](di-3-zhang-freebsd-ji-chu/3.6.-ci-pan-jie-gou.md)
 * [3.7.文件系统的挂载与卸载](di-3-zhang-freebsd-ji-chu/3.7.-wen-jian-xi-tong-de-gua-zai-yu-xie-zai.md)
 * [3.8.进程和守护进程](di-3-zhang-freebsd-ji-chu/3.8.-jin-cheng-he-shou-hu-jin-cheng.md)
 * [3.9.Shell](di-3-zhang-freebsd-ji-chu/3.9.shell.md)
