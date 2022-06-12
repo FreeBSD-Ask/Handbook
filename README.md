@@ -3,7 +3,6 @@
 
 **版本说明：当前文档版本同步至官方文档 2022-5-31 commit 2d7aa6834f0fe169cad612719ba144a0a80c104f。如需更新请提交 issue**。
 
->校对中发现 10.2-EOL、24、28、29 章节整体引用了大量来自 <https://docs.freebsd.org/zh-cn/books/handbook/> 的过时的内容，需要重新翻译，进行中。
 >
 >>**警告**
 >>
