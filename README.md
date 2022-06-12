@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |前言|ykla||魔王酱|√|
 |第 1 章：简介|ykla||魔王酱|√|
-|第 2 章：安装 FreeBSD|ykla||ulianchn38、歸野鴿||
+|第 2 章：安装 FreeBSD|ykla||ulianchn38、歸野鴿|√|
 |3.1-3.2|ykla|第 3 章：FreeBSD 基础|||
 |3.3-EOL|亲爱的翻译官|第 3 章：FreeBSD 基础|ykla、歸野鴿||
 |第 4 章：安装应用程序: 软件包和 Ports|亲爱的翻译官||ykla||
