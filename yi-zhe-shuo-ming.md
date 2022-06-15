@@ -60,7 +60,7 @@
 |key bindings|组合键||||
 |sticky directories|粘滞位||||
 |wrapper|wrapper||||
-||||||
+|tarball|源码包/压缩文件|？|||
 ||||||
 ||||||
 ||||||
