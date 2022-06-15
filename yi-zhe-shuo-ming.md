@@ -54,7 +54,7 @@
 |scroll-back buffer|回滚缓冲区||||
 |Network Interfaces|网络接口/网卡||||
 |Mirror|镜像站||||
-|build|构建||||
+|build|构建/编译||||
 |Disk Organization|磁盘结构|||3.6. Disk Organization|
 |Video Modes|分辨率||||
 |key bindings|组合键||||
@@ -63,10 +63,10 @@
 |tarball|源码包/压缩文件|？|||
 |Quarterly  Branche|季度分支||||
 |Latest Branche|最新分支||||
-||||||
-||||||
-||||||
-||||||
+|ports tree|树无意义，不翻译||||
+|ports skeleton|ports 框架||||
+|Procedure|过程||||
+|heckout|检出|github 命令参考 https://linux.cn/article-12245-1.html|||
 ||||||
 ||||||
 ||||||
