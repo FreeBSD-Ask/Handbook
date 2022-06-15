@@ -61,8 +61,8 @@
 |sticky directories|粘滞位||||
 |wrapper|wrapper||||
 |tarball|源码包/压缩文件|？|||
-||||||
-||||||
+|Quarterly  Branche|季度分支||||
+|Latest Branche|最新分支||||
 ||||||
 ||||||
 ||||||
