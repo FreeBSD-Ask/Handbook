@@ -1,6 +1,8 @@
 # FreeBSD Handbook 中文手册|官方文档简体中文版
 ## 2022 FreeBSD 中文社区（CFC）翻译项目
 
+>**注意**
+>
 >**当前网站部署域名为 <https://handbook.bsdcn.org>，如果当前使用的不是这个域名，请切换到该域名。**
 
 **版本说明：当前文档版本同步至官方文档 2022-5-31 commit 2d7aa6834f0fe169cad612719ba144a0a80c104f。如需更新请提交 issue**。
