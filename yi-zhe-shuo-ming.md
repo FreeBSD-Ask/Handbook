@@ -67,7 +67,7 @@
 |ports skeleton|ports 框架||||
 |Procedure|过程||||
 |heckout|检出|github 命令参考 https://linux.cn/article-12245-1.html|||
-||||||
+|fork|复刻|github 命令参考 https://linux.cn/article-12245-1.html|||
 ||||||
 ||||||
 ||||||
