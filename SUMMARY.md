@@ -95,7 +95,7 @@
 * [7.1.概述](di-7-zhang-duo-mei-ti/7.1.-gai-shu.md)
 * [7.2.设置声卡](di-7-zhang-duo-mei-ti/7.2.-she-zhi-sheng-ka.md)
 * [7.3.MP3 音频](di-7-zhang-duo-mei-ti/7.3.mp3-yin-pin.md)
-* [7.4.视频回放](di-7-zhang-duo-mei-ti/7.4.-shi-pin-hui-fang.md)
+* [7.4.视频播放](di-7-zhang-duo-mei-ti/7.4.-shi-pin-bo-fang.md)
 * [7.5.电视卡](di-7-zhang-duo-mei-ti/7.5.-dian-shi-ka.md)
 * [7.6.MythTV](di-7-zhang-duo-mei-ti/7.6.mythtv.md)
 * [7.7.图像扫描仪](di-7-zhang-duo-mei-ti/7.7.-tu-xiang-sao-miao-yi.md)
