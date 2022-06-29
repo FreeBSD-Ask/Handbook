@@ -32,8 +32,8 @@
 |第 8 章：配置 FreeBSD 内核|Jasonlecson||ykla、冰||
 |9.1-9.4|潇潇雨竹|第 9 章：打印|ykla||
 |9.5-EOL|ulianchn38|第 9 章：打印|ykla||
-|10.1|Altair|第 10 章：Linux 二进制兼容层|ykla||
-|10.2-EOL||第 10 章：Linux 二进制兼容层|||
+|10.1|Altair|第 10 章：Linux 二进制兼容层|ykla|√|
+|10.2-EOL||第 10 章：Linux 二进制兼容层||√|
 |第 11 章：wine|Jasonlecson||ykla、冰||
 |第 12 章：设置和调整|胞嘧啶||ykla、冰||
 |第 13 章：FreeBSD 的启动过程|徐艺扬||ykla、冰、歸野鴿||
