@@ -95,7 +95,7 @@
 * [7.1.概述](di-7-zhang-duo-mei-ti/7.1.-gai-shu.md)
 * [7.2.设置声卡](di-7-zhang-duo-mei-ti/7.2.-she-zhi-sheng-ka.md)
 * [7.3.MP3 音频](di-7-zhang-duo-mei-ti/7.3.mp3-yin-pin.md)
-* [7.4.视频回放](di-7-zhang-duo-mei-ti/7.4.-shi-pin-hui-fang.md)
+* [7.4.视频播放](di-7-zhang-duo-mei-ti/7.4.-shi-pin-bo-fang.md)
 * [7.5.电视卡](di-7-zhang-duo-mei-ti/7.5.-dian-shi-ka.md)
 * [7.6.MythTV](di-7-zhang-duo-mei-ti/7.6.mythtv.md)
 * [7.7.图像扫描仪](di-7-zhang-duo-mei-ti/7.7.-tu-xiang-sao-miao-yi.md)
@@ -103,9 +103,9 @@
 ## 第8章 配置 FreeBSD 内核
 
 * [8.1.概述](di-8-zhang-pei-zhi-freebsd-nei-he/8.1.-gai-shu.md)
-* [8.2.为什么要构建自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-gou-jian-zi-ding-yi-nei-he.md)
+* [8.2.为什么要编译自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
 * [8.3.浏览系统硬件](di-8-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
-* [8.5.构建与安装自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.5.-gou-jian-yu-an-zhuang-zi-ding-yi-nei-he.md)
+* [8.5.编译与安装自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.5.-bian-yi-yu-an-zhuang-zi-ding-yi-nei-he.md)
 * [8.6.如果发生了一些错误](di-8-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
 ## 第9章 打印
