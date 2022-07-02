@@ -33,7 +33,7 @@ Git 使用 URL 来指定一个仓库。有三个不同的仓库，src 是指 Fre
 
 由项目成员维护的外部镜像也可以使用，请参考外部镜像部分。
 
-要克隆一份 FreeBSD 系统源代码库的副本。
+要克隆一份 FreeBSD 系统源代码的副本。
 
 ```
 # git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
