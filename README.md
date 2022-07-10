@@ -25,11 +25,11 @@
 |第 2 章：安装 FreeBSD|ykla||ulianchn38、歸野鴿|√|
 |3.1-3.2|ykla|第 3 章：FreeBSD 基础||√|
 |3.3-EOL|亲爱的翻译官|第 3 章：FreeBSD 基础|ykla、歸野鴿|√|
-|第 4 章：安装应用程序: 软件包和 Ports|亲爱的翻译官||ykla、skadomsky|√|
+|第 4 章：安装应用程序: 软件包和 Ports|亲爱的翻译官||ykla|√|
 |5.1-5.2|ykla|重译|ulianchn38、冰|√|
 |5.3-5.4.6|冰|重译|ykla、ulianchn38|√|
 |5.4.6-EOL|Lin🌠|第 5 章：X Window 系统|ykla、ulianchn38、冰|√|
-|第 6 章：桌面应用程序|胞嘧啶||ykla||
+|第 6 章：桌面应用程序|胞嘧啶||ykla|√|
 |第 7 章：多媒体|无目先生||ykla||
 |第 8 章：配置 FreeBSD 内核|Jasonlecson||ykla、冰||
 |9.1-9.4|潇潇雨竹|第 9 章：打印|ykla||
