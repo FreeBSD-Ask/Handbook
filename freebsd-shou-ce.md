@@ -1,5 +1,4 @@
 # FreeBSD 手册
-# FreeBSD 手册
 
 版权所有 © 1995-2022 FreeBSD 文档项目
 
