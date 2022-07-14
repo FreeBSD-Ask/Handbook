@@ -7,7 +7,7 @@
 
 >**版本说明**
 >
->当前文档版本同步至官方文档 2022-5-31 commit 2d7aa6834f0fe169cad612719ba144a0a80c104f。如需更新请提交 issue 或 pull request。
+>当前文档版本同步至官方文档 2022-7-15 commit 6f099011531381c041a23bef5fd4181a4b9e76a2。如需更新请提交 issue 或 pull request。
 
 
 >**警告**
