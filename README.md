@@ -108,7 +108,6 @@
 |       资源      |             链接             |
 | :-----------: | :------------------------: |
 |   Telegram 群  |   <https://t.me/freebsdba>   |
-|               |                            |
 |      QQ 群     |          319271312         |
 | Handbook 最新翻译 | <https://handbook.bsdcn.org> |
 |  FreeBSD 入门书籍 |   <https://book.bsdcn.org>   |
