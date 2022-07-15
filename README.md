@@ -115,6 +115,8 @@
 |  FreeBSD 中文论坛 |    https://bbs.bsdcn.org   |
 |     微信公众号     |          freebsdzh         |
 
+扫码关注微信公众号：
+
 ![扫码关注微信公众号](.gitbook/assets/weixin.jpg)
 
 ### FreeBSD 中文社区 寄言：
