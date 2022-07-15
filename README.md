@@ -110,10 +110,14 @@
 ### 简介
 来到这里你可能什么也得不到。也将不会失去任何东西。FreeBSD 中文用户社区！恪守古老的法则，追寻真正的自由。BSD 方为真正 UNIX 哲学继承者。加入我们，共同推进 FreeBSD 中国化与世界化。
 
-QQ 群 319271312
+|资源|链接|
+|:---:|:---:|
+|Telegram 群|https://t.me/freebsdba|
+|QQ 群|319271312|
+|Handbook 最新翻译|https://handbook.bsdcn.org|
+|FreeBSD 入门书籍|https://book.bsdcn.org|
+|FreeBSD 中文论坛|https://bbs.bsdcn.org|
 
-
-Telegram 群 <https://t.me/freebsdba>
 
 微信公众号：freebsdzh
 
