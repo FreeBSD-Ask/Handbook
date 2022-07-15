@@ -117,11 +117,7 @@
 |Handbook 最新翻译|https://handbook.bsdcn.org|
 |FreeBSD 入门书籍|https://book.bsdcn.org|
 |FreeBSD 中文论坛|https://bbs.bsdcn.org|
-
-
-微信公众号：freebsdzh
-
-关注公众号可加入微信群。
+|微信公众号|freebsdzh|
 
 ### FreeBSD 中文社区 寄言：
 
