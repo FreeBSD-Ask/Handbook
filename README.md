@@ -46,7 +46,7 @@
 |第 18 章：存储|Jasonlecson||ykla、冰||
 |第 19 章：GEOM: 模块化磁盘转换框架|Jasonlecson||ykla、冰||
 |第 20 章：Z 文件系统 (ZFS)|徐艺扬、冰||ykla、ulianchn38||
-|第 21 章：其他文件系统|Jasonlecson||ykla||
+|第 21 章：其他文件系统|Jasonlecson||ykla|√|
 |第 22 章：虚拟化|歸野鴿||ykla、冰||
 |第 23 章：本地化 - i18n/L10n 的使用和设置|郴||ykla、冰||
 |第 24 章：更新与升级 FreeBSD|亲爱的翻译官|重译|ykla||
