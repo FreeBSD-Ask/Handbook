@@ -140,21 +140,21 @@
 
 * [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li.md)
 
-## 第12章 设置和调整
+## 第12章 配置与优化
 
-* [12.1.概述](di-12-zhang-she-zhi-he-tiao-zheng/12.1.-gai-shu.md)
-* [12.2.启动服务](di-12-zhang-she-zhi-he-tiao-zheng/12.2.-qi-dong-fu-wu.md)
-* [12.3.配置 cron(8)](di-12-zhang-she-zhi-he-tiao-zheng/12.3.-pei-zhi-cron8.md)
-* [12.4.管理 FreeBSD 中的服务](di-12-zhang-she-zhi-he-tiao-zheng/12.4.-guan-li-freebsd-zhong-de-fu-wu.md)
-* [12.5.设置网卡](di-12-zhang-she-zhi-he-tiao-zheng/12.5.-she-zhi-wang-ka.md)
-* [12.6.虚拟主机](di-12-zhang-she-zhi-he-tiao-zheng/12.6.-xu-ni-zhu-ji.md)
-* [12.7.配置系统日志](di-12-zhang-she-zhi-he-tiao-zheng/12.7.-pei-zhi-xi-tong-ri-zhi.md)
-* [12.8.配置文件](di-12-zhang-she-zhi-he-tiao-zheng/12.8.-pei-zhi-wen-jian.md)
-* [12.9.使用 sysctl(8) 进行调整](di-12-zhang-she-zhi-he-tiao-zheng/12.9.-shi-yong-sysctl8-jin-hang-tiao-zheng.md)
-* [12.10.调整磁盘](di-12-zhang-she-zhi-he-tiao-zheng/12.10.-tiao-zheng-ci-pan.md)
-* [12.11.调整内核限制](di-12-zhang-she-zhi-he-tiao-zheng/12.11.-tiao-zheng-nei-he-xian-zhi.md)
-* [12.12.添加交换空间](di-12-zhang-she-zhi-he-tiao-zheng/12.12.-tian-jia-jiao-huan-kong-jian.md)
-* [12.13.电源和资源管理](di-12-zhang-she-zhi-he-tiao-zheng/12.13.-dian-yuan-he-zi-yuan-guan-li.md)
+* [12.1.概述](di-12-zhang-pei-zhi-yu-you-hua/12.1.-gai-shu.md)
+* [12.2.启动服务](di-12-zhang-pei-zhi-yu-you-hua/12.2.-qi-dong-fu-wu.md)
+* [12.3.配置 cron(8)](di-12-zhang-pei-zhi-yu-you-hua/12.3.-pei-zhi-cron8.md)
+* [12.4.管理 FreeBSD 中的服务](di-12-zhang-pei-zhi-yu-you-hua/12.4.-guan-li-freebsd-zhong-de-fu-wu.md)
+* [12.5.设置网卡](di-12-zhang-pei-zhi-yu-you-hua/12.5.-she-zhi-wang-ka.md)
+* [12.6.虚拟主机](di-12-zhang-pei-zhi-yu-you-hua/12.6.-xu-ni-zhu-ji.md)
+* [12.7.配置系统日志](di-12-zhang-pei-zhi-yu-you-hua/12.7.-pei-zhi-xi-tong-ri-zhi.md)
+* [12.8.配置文件](di-12-zhang-pei-zhi-yu-you-hua/12.8.-pei-zhi-wen-jian.md)
+* [12.9.使用 sysctl(8) 进行优化](di-12-zhang-pei-zhi-yu-you-hua/12.9.-shi-yong-sysctl8-jin-hang-tiao-zheng.md)
+* [12.10.磁盘优化](di-12-zhang-pei-zhi-yu-you-hua/12.10.-tiao-zheng-ci-pan.md)
+* [12.11.内核参数优化](di-12-zhang-pei-zhi-yu-you-hua/12.11.-tiao-zheng-nei-he-xian-zhi.md)
+* [12.12.添加交换空间](di-12-zhang-pei-zhi-yu-you-hua/12.12.-tian-jia-jiao-huan-kong-jian.md)
+* [12.13.电源和资源管理](di-12-zhang-pei-zhi-yu-you-hua/12.13.-dian-yuan-he-zi-yuan-guan-li.md)
 
 ## 第13章 FreeBSD 的启动过程
 
