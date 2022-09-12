@@ -8,7 +8,7 @@
 
 > **版本说明**
 >
-> 当前文档版本同步至官方文档 2022-7-15 commit 6f099011531381c041a23bef5fd4181a4b9e76a2。如需更新请提交 issue 或 pull request。
+> 当前文档版本同步至官方文档 [2022-9-11 commit 7365cde48dc150d03e85c0c42c855136822e586e](https://github.com/freebsd/freebsd-doc/commit/7365cde48dc150d03e85c0c42c855136822e586e)。如需更新请提交 issue 或 pull request。
 
 > **警告**
 >
