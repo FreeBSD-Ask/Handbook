@@ -69,8 +69,8 @@
 |heckout|检出|github 命令参考 https://linux.cn/article-12245-1.html|||
 |log rotation|日志轮替||||
 |fork|复刻|github 命令参考 https://linux.cn/article-12245-1.html|||
-||||||
-||||||
+|Tuning|优化||||
+|Kernel Limits|内核参数|内核限制实际上就是内核参数。见<https://eloquence.marxmeier.com/sdb/html/linux_limits.html>|||
 ||||||
 ||||||
 ||||||
