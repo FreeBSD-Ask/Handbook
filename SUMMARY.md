@@ -150,9 +150,9 @@
 * [12.6.虚拟主机](di-12-zhang-pei-zhi-yu-you-hua/12.6.-xu-ni-zhu-ji.md)
 * [12.7.配置系统日志](di-12-zhang-pei-zhi-yu-you-hua/12.7.-pei-zhi-xi-tong-ri-zhi.md)
 * [12.8.配置文件](di-12-zhang-pei-zhi-yu-you-hua/12.8.-pei-zhi-wen-jian.md)
-* [12.9.使用 sysctl(8) 进行优化](di-12-zhang-pei-zhi-yu-you-hua/12.9.-shi-yong-sysctl8-jin-hang-tiao-zheng.md)
-* [12.10.磁盘优化](di-12-zhang-pei-zhi-yu-you-hua/12.10.-tiao-zheng-ci-pan.md)
-* [12.11.内核参数优化](di-12-zhang-pei-zhi-yu-you-hua/12.11.-tiao-zheng-nei-he-xian-zhi.md)
+* [12.9.使用 sysctl(8) 进行优化](di-12-zhang-pei-zhi-yu-you-hua/12.9.-shi-yong-sysctl8-jin-hang-you-hua.md)
+* [12.10.磁盘优化](di-12-zhang-pei-zhi-yu-you-hua/12.10.-ci-pan-you-hua.md)
+* [12.11.内核参数优化](di-12-zhang-pei-zhi-yu-you-hua/12.11.-nei-he-can-shu-you-hua.md)
 * [12.12.添加交换空间](di-12-zhang-pei-zhi-yu-you-hua/12.12.-tian-jia-jiao-huan-kong-jian.md)
 * [12.13.电源和资源管理](di-12-zhang-pei-zhi-yu-you-hua/12.13.-dian-yuan-he-zi-yuan-guan-li.md)
 
