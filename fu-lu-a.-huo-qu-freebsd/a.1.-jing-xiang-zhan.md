@@ -4,11 +4,12 @@ FreeBSD 项目的官方镜像是由许多机器组成的，这些机器由项目
 
 官方镜像服务:
 
-| **Service Name** | **Protocols** | **More information** |
+| **域名** | **协议** | **详情** |
 | :---:            | :---:         | :---:                |
 |**download.FreeBSD.org**|[https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/)|与 ftp.FreeBSD.org 的内容相同，ftp 是一个传统的名字；建议使用 download.FreeBSD.org。|
 | **git.FreeBSD.org** | git over `https` and `ssh`|关于使用 git 部分的更多细节|
 | **pkg.FreeBSD.org** | [pkg(8)](https://www.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https` | pkg(8) 程序所使用的 FreeBSD 官方软件包库。|
+|**vuxml.FreeBSD.org** / **www.VuXML.org**|[https](https://www.vuxml.org/)|FreeBSD 项目 VuXML 网页。 pkg audit 会从这个服务中获取漏洞列表。|
 
 所有的官方镜像都支持 IPv4 和 IPv6。
 
@@ -48,7 +49,7 @@ http://ftp-archive.FreeBSD.org 不在 GeoDNS 基础设施内，只在一个地�
 | |ftp6.jp.FreeBSD.org|[http](http://ftp6.jp.freebsd.org/pub/FreeBSD) [http_v6](http://ftp6.jp.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp6.jp.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp6.jp.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp6.jp.FreeBSD.org) [rsync_v6](rsync://ftp6.jp.FreeBSD.org)|
 |Korea|ftp.kr.FreeBSD.org|[http](http://ftp.kr.freebsd.org/pub/FreeBSD) [https](https://ftp.kr.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.kr.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.kr.FreeBSD.org)|
 | |ftp2.kr.FreeBSD.org|[rsync](rsync://ftp2.kr.FreeBSD.org)|
-|Latvia|ftp.lv.FreeBSD.org|[ http](http://ftp.lv.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.lv.freebsd.org/pub/FreeBSD)|
+|Latvia|ftp.lv.FreeBSD.org|[ http](http://ftp.lv.freebsd.org/pub/Freebsd) [ftp](ftp://ftp.lv.freebsd.org/pub/freebsd)|
 |Netherlands|ftp.nl.FreeBSD.org|[http](http://ftp.nl.freebsd.org/pub/FreeBSD) [http_v6](http://ftp.nl.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.nl.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp.nl.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.nl.FreeBSD.org) [rsync_v6](rsync://ftp.nl.FreeBSD.org)|
 | |ftp2.nl.FreeBSD.org|[http](http://ftp2.nl.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp2.nl.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp2.nl.FreeBSD.org)|
 |New Zealand|ftp.nz.FreeBSD.org|[http](http://ftp.nz.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.nz.freebsd.org/pub/FreeBSD)|
