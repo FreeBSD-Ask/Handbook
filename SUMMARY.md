@@ -161,7 +161,7 @@
 * [13.1.概述](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.1.-gai-shu.md)
 * [13.2.FreeBSD 的引导过程](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.2.freebsd-de-yin-dao-guo-cheng.md)
 * [13.3.Device Hints](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.3.-device-hints.md)
-* [13.4.关机顺序](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.4.-guan-ji-shun-xu.md)
+* [13.4.关机流程](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.4.-guan-ji-liu-cheng.md)
 
 ## 第14章 安全
 
