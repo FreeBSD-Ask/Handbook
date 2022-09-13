@@ -156,12 +156,12 @@
 * [12.12.添加交换空间](di-12-zhang-pei-zhi-yu-you-hua/12.12.-tian-jia-jiao-huan-kong-jian.md)
 * [12.13.电源和资源管理](di-12-zhang-pei-zhi-yu-you-hua/12.13.-dian-yuan-he-zi-yuan-guan-li.md)
 
-## 第13章 FreeBSD 的启动过程
+## 第13章 FreeBSD 的引导过程
 
-* [13.1.概述](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.1.-gai-shu.md)
-* [13.2.FreeBSD 的启动过程](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.2.-freebsd-de-qi-dong-guo-cheng.md)
-* [13.3.Device Hints](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.3.-device-hints.md)
-* [13.4.关机顺序](di-13-zhang-freebsd-de-qi-dong-guo-cheng/13.4.-guan-ji-shun-xu.md)
+* [13.1.概述](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.1.-gai-shu.md)
+* [13.2.FreeBSD 的引导过程](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.2.freebsd-de-yin-dao-guo-cheng.md)
+* [13.3.Device Hints](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.3.-device-hints.md)
+* [13.4.关机顺序](di-13-zhang-freebsd-de-yin-dao-guo-cheng/13.4.-guan-ji-shun-xu.md)
 
 ## 第14章 安全
 
