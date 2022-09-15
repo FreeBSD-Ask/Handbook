@@ -166,7 +166,7 @@
 ## 第14章 安全
 
 * [14.1.概述](di-14-zhang-an-quan/14.1.-gai-shu.md)
-* [14.2.介绍](di-14-zhang-an-quan/14.2.-jie-shao.md)
+* [14.2.简介](di-14-zhang-an-quan/14.2.-jian-jie.md)
 * [14.3.一次性密码](di-14-zhang-an-quan/14.3.-yi-ci-xing-mi-ma.md)
 * [14.4.TCP Wrapper](di-14-zhang-an-quan/14.4.tcp-wrapper.md)
 * [14.5.Kerberos](di-14-zhang-an-quan/14.5.-kerberos.md)
