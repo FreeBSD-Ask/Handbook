@@ -76,7 +76,7 @@
 |Process Accounting|进程审计||“进程记账”看起来不相干。“审计更符合原意”||
 |hash|哈希\散列，有时代指“加密方式”||||
 |Login Classes|进程分级||||
-||||||
+|Export Regulations|出口管制||||
 ||||||
 ||||||
 ||||||
