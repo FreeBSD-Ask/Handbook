@@ -169,7 +169,7 @@ ykla
 
 > 每一个人的不经意付出和教程完善的分享，都是极具意义的，理论上会长久存在，你做的每一点一滴的努力与付出都会成为历史的印记和未来某些科技的驱动力的先驱。手册是死的，我们对手册的贡献是一直存活的，存活在那些使用 Handbook 的人的心中。
 >
-> **“The best time to plant a tree is 20 years ago. The second-best time is now.”（种一棵树最好的时间是十年前，其次是现在）——Dambisa Moyo, **_**dead aid**_
+> **“The best time to plant a tree is 20 years ago. The second-best time is now.”（种一棵树最好的时间是十年前，其次是现在）——Dambisa Moyo, *dead aid***
 >
 > 我希望有更多的人参与进来，一起协作这个开源项目。英语水平和计算机水平固然重要，但是翻译凭借的不是傲慢与偏见，不是苦难哲学，也不是泥潭般的社区，更不是所谓的巨苣，而是我们的心，翻译是用心来完成的！用心，每个人都可以参与，无论是错别字的修正还是大章节的翻译，都是有意义的。
 >
