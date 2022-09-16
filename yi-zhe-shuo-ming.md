@@ -77,8 +77,8 @@
 |hash|哈希\散列，有时代指“加密方式”||||
 |Login Classes|进程分级||||
 |Export Regulations|出口管制||||
-||||||
-||||||
+|principal|主体|||Kerberos|
+|realm|领域|||Kerberos|
 ||||||
 ||||||
 ||||||
