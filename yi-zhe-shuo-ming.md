@@ -85,7 +85,7 @@
 | security advisory|安全公告||||
 |per-user calls|每用户调用数||||
 |core files|核心转储|等于 core dump|||
-||||||
+|utility |软件|实际上就是软件|||
 ||||||
 ||||||
 ||||||
