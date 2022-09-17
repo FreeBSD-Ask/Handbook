@@ -81,7 +81,7 @@
 |realm|领域|||Kerberos|
 |hardened|强化|||1.2.2. Who Uses FreeBSD?|
 |flag||||ACL|
-||||||
+|programmatic method|计划任务|||14.10. 监测第三方安全问题|
 ||||||
 ||||||
 ||||||
