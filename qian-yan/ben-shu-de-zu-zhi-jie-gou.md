@@ -1,6 +1,6 @@
 # 本书的组织结构
 
-本书在逻辑上被分为五个不同的部分。第一部分，*入门*，包括 FreeBSD 的安装和基本使用。希望读者能按顺序阅读这些章节，可以跳过你熟悉的章节。第二部分，*通用任务*，涵盖了 FreeBSD 的一些常用功能。这一节以及后面的所有章节都可以不按顺序阅读。每一章的开头都有一个简洁的概述，说明了这一章的内容和读者应该已知的内容。这样做的目的是让普通读者能够跳过这些已知章节，找到感兴趣的章节。第三部分，*系统管理*，包括管理主题。第四部分，*网络通信*，包括网络和服务器主题。第五部分包含了参考信息的附录。
+本书在逻辑上被分为五个不同的部分：第一部分，*入门*，包括 FreeBSD 的安装和基本使用。希望读者能按顺序阅读这些章节，但可以跳过你熟悉的章节。第二部分，*常见任务*，涵盖了 FreeBSD 的一些常用功能。这一节以及后面的所有章节都可以不按顺序阅读。每一章的开头都有一个简洁的概述，说明了这一章的内容和读者应该已知的内容。这样做的目的是让普通读者能够跳过这些已知章节，找到感兴趣的章节。第三部分，*系统管理*，包括管理主题。第四部分，*网络通信*，包括网络和服务器主题。第五部分包含了参考信息的附录。
 
 ***[简介](https://docs.freebsd.org/en/books/handbook/introduction/index.html#introduction)***
 
@@ -8,7 +8,7 @@
 
 ***[安装 FreeBSD](https://docs.freebsd.org/en/books/handbook/bsdinstall/index.html#bsdinstall)***
 
-引导用户使用 bsdinstall 完成 FreeBSD 9.x 及以后版本的完整安装过程。
+引导用户使用 bsdinstall 完成 FreeBSD 9.x 及以后版本的整个安装过程。
 
 ***[FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/bsdinstall/index.html#bsdinstall)***
 
@@ -16,11 +16,11 @@
 
 ***[安装应用程序: 软件包和 Ports](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports)***
 
-涵盖了使用 FreeBSD 创新的“ports”和标准二进制软件包安装第三方软件。
+包含了如何使用 FreeBSD 创新的“ports”和标准二进制软件包来安装第三方软件。
 
 ***[X Window](https://docs.freebsd.org/en/books/handbook/x11/index.html#x11)***
 
-介绍了通用的 X Window 系统，特别是在 FreeBSD 上使用 X11。还介绍了常见的桌面环境，如 KDE 和 GNOME。
+介绍了常见的 X Window 系统，特别是在 FreeBSD 上使用 X11。还介绍了常见的桌面环境，如 KDE 和 GNOME。
 
 ***[桌面应用程序](https://docs.freebsd.org/en/books/handbook/desktop/index.html#desktop)***
 
@@ -36,15 +36,15 @@
 
 ***[打印](https://docs.freebsd.org/en/books/handbook/printing/index.html#printing)***
 
-介绍了在 FreeBSD 上管理打印机的情况，包括关于横幅页面、打印机账户和初始设置的信息。
+介绍了在 FreeBSD 上管理打印机的情况，包括关于横幅页面、打印审计和初始设置的信息。
 
 ***[Linux® 二进制兼容层](https://docs.freebsd.org/en/books/handbook/linuxemu/index.html#linuxemu)***
 
-介绍了 FreeBSD 的 Linux® 兼容性。还提供了许多流行的 Linux® 应用程序的详细安装说明，如 Oracle® 和 Mathematica®。
+介绍了 FreeBSD 的 Linux® 兼容层。还提供了许多流行的 Linux® 应用程序的详细安装说明，如 Oracle® 和 Mathematica®。
 
-***[设置和调整](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)***
+***[配置和优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)***
 
-介绍了系统管理员可以用来调整 FreeBSD 系统的参数，以获得最佳性能。还介绍了 FreeBSD 中使用的各种配置文件以及在何处可以找到它们。
+介绍了系统管理员可以用来优化 FreeBSD 系统的参数，以获得最佳性能。还介绍了 FreeBSD 中使用的各种配置文件以及在何处可以找到它们。
 
 ***[FreeBSD 的引导过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)***
 
@@ -56,7 +56,7 @@
 
 ***[Jail](https://docs.freebsd.org/en/books/handbook/jails/index.html#jails)***
 
-介绍了 jail 框架，以及 jail 相对于 FreeBSD 传统的 chroot 支持的改进。
+介绍了 jail 框架，以及 jail 相对于 FreeBSD 传统的 chroot 支持所做的改进。
 
 ***[强制存取控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)***
 
@@ -76,7 +76,7 @@
 
 ***[其他文件系统](https://docs.freebsd.org/en/books/handbook/filesystems/index.html#filesystems)***
 
-查看 FreeBSD 中对非本地文件系统的支持，如 Sun™ 的 Z 文件系统。
+查看 FreeBSD 中对非原生文件系统的支持，如 Sun™ 的 Z 文件系统。
 
 ***[虚拟化](https://docs.freebsd.org/en/books/handbook/virtualization/index.html#virtualization)***
 
@@ -88,7 +88,7 @@
 
 ***[更新与升级 FreeBSD](https://docs.freebsd.org/en/books/handbook/cutting-edge/index.html#updating-upgrading)***
 
-解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和  FreeBSD-RELEASE 之间的区别。说明了哪些用户会从跟踪开发系统中受益，并概述了这个过程。说明了用户可以采取的方法来更新他们的系统到最新的安全版本。
+解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 之间的区别。说明了哪些用户会从跟踪开发系统中受益，并概述了这个过程。说明了用户可以采取的方法来更新他们的系统到最新的安全版本。
 
 ***[DTrace](https://docs.freebsd.org/en/books/handbook/dtrace/index.html#dtrace)***
 
@@ -132,4 +132,4 @@
 
 ***[OpenPGP 密钥](https://docs.freebsd.org/en/books/handbook/pgpkeys/index.html#pgpkeys)***
 
-列出了几个 FreeBSD 开发者的 PGP 公钥。
+列出了一些 FreeBSD 开发者的 PGP 公钥。
