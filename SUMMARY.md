@@ -7,7 +7,7 @@
 
 ## 前言
 
-* [致读者](qian-yan/mu-biao-shou-zhong.md)
+* [致读者](qian-yan/zhi-du-zhe.md)
 * [第四版的主要变化](qian-yan/di-si-ban-de-zhu-yao-bian-hua.md)
 * [第三版的主要变化 (2004)](qian-yan/di-san-ban-de-zhu-yao-bian-hua-2004.md)
 * [第二版的主要变化 (2001)](qian-yan/di-er-ban-de-zhu-yao-bian-hua-2001.md)
