@@ -38,7 +38,7 @@ AR M是 ARM Limited 的注册商标。
 
 Adaptec 是 Adaptec 公司的注册商标。
 
-Android 是谷歌公司的商标。
+Android 是 Google 公司的商标。
 
 Heidelberg、Helvetica、Palatino 和 Times Roman 是 Heidelberger Druckmaschinen AG 在美国和其他国家的注册商标或商标。
 
@@ -58,4 +58,4 @@ Ogg Vorbis 和 Xiph.Org 是 Xiph.Org 的商标。
 
 XFree86 是 The XFree86 Project 公司的商标。
 
-许多制造商和销售商用来区分其产品的名称被称为商标。在这份文件中出现的这些名称，如果 FreeBSD 项目知道这些商标的要求，就会在这些名称后面加上“™”或“®”标记。
+许多制造商和销售商用来区分其产品的名称被称为商标。在本文件中出现的这些名称，如果 FreeBSD 项目知道其商标要求，则在这些名称的后面加上“™”或“®”符号。
