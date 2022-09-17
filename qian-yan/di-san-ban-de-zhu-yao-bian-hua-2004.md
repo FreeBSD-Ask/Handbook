@@ -12,7 +12,7 @@
 
 - 在 [PPP](https://docs.freebsd.org/en/books/handbook/ppp-and-slip/index.html#ppp-and-slip) 中加入了一个故障排除的部分。
 
-- [电子邮件](https://docs.freebsd.org/en/books/handbook/mail/index.html#mail)增加了使用替代传输代理、SMTP 认证、UUCP、fetchmail、procmail 和其他高级主题的有关信息。
+- [电子邮件](https://docs.freebsd.org/en/books/handbook/mail/index.html#mail)增加了如何使用其他邮件传输代理、SMTP 认证、UUCP、fetchmail、procmail 和其他高级主题的有关信息。
 
 - [网络服务器](https://docs.freebsd.org/en/books/handbook/network-servers/index.html#network-servers)是此版的全新内容。该章包括有关设置 Apache HTTP 服务器、ftpd 和为 Microsoft® Windows® 客户设置 Samba 服务器的信息。高级网络中的一些章节被移到这里，以改善表述。
 
