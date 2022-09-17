@@ -4,15 +4,15 @@
 
 - 增加了一个完整的索引。
 
-- 所有的 ASCII 数字都被图表所取代。
+- 所有的 ASCII 插图都被改成了图片。
 
-- 每一章都增加了一个标准的提要，以快速总结该章所包含的信息，以及希望读者了解的内容。
+- 每章都增加了一个标准的概述，以快速总结该章所包含的信息，以及希望读者了解的内容。
 
 - 内容被有次序地重新组织为三个部分：“入门”，“系统管理”，以及“附录”。
 
-- 对 [FreeBSD 基础知识](https://docs.freebsd.org/en/books/handbook/basics/index.html#basics)进行了扩展，包含了关于进程、守护进程和信号的额外信息。
+- 对 [FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/basics/index.html#basics)进行了扩展，包含了关于进程、守护进程和信号的额外信息。
 
-- 对[安装应用程序：软件包和 Ports](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports) 的内容进行了扩充，包含了关于二进制软件包管理的额外信息。
+- 对[安装应用程序：软件包和 Ports](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports) 的内容进行了扩充，包含了关于二进制软件包管理器的额外信息。
 
 - [X Window 系统](https://docs.freebsd.org/en/books/handbook/x11/index.html#x11)已经被完全重写，重点是在 XFree86™ 4.X 上使用现代桌面技术，如 KDE 和 GNOME。
 
