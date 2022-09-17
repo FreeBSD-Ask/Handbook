@@ -1,4 +1,4 @@
-# FreeBSD 手册
+# FreeBSD 手册翻译项目
 
 ## 2022 FreeBSD 中文社区 翻译项目
 
