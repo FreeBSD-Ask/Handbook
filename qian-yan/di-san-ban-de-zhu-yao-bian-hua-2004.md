@@ -2,13 +2,13 @@
 
 第三版是 FreeBSD 文档项目成员两年多来工作的结晶。纸质出版物的内容越来越多，以至于有必要以两卷的形式出版。以下是新版中的主要变化：
 
-- [配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)增加了关于 ACPI 电源和资源管理、`cron` 系统工具和更多内核调整选项的新信息。
+- [配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)增加了关于 ACPI 电源和资源管理、`cron` 系统工具和更多内核参数优化的新信息。
 
 - [安全性](https://docs.freebsd.org/en/books/handbook/security/index.html#security)增加了有关虚拟专用网络（VPN）、文件系统访问控制列表（ACL）和安全建议的新信息。
 
 - [强制存取控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)是此版本的一个新章节。它解释了什么是 MAC 以及如何使用这一机制来保护 FreeBSD 系统。
 
-- [存储部分](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)增加了关于 USB 存储设备、文件系统快照、文件系统配额、文件和网络支持的文件系统，以及加密磁盘分区的新信息。
+- [存储](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)增加了关于 USB 存储设备、文件系统快照、文件系统配额、文件系统和网络文件系统，以及加密磁盘分区的新信息。
 
 - 在 [PPP](https://docs.freebsd.org/en/books/handbook/ppp-and-slip/index.html#ppp-and-slip) 中加入了一个故障排除的部分。
 
