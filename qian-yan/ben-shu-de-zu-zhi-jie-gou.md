@@ -46,9 +46,9 @@
 
 介绍了系统管理员可以用来调整 FreeBSD 系统的参数，以获得最佳性能。还介绍了 FreeBSD 中使用的各种配置文件以及在何处可以找到它们。
 
-***[FreeBSD 的启动过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)***
+***[FreeBSD 的引导过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)***
 
-介绍了 FreeBSD 的启动过程，并解释了如何通过配置选项来控制这个过程。
+介绍了 FreeBSD 的引导过程，并解释了如何通过配置选项来控制这个过程。
 
 ***[安全](https://docs.freebsd.org/en/books/handbook/security/index.html#security)***
 

@@ -16,7 +16,7 @@
 
 - [X Window 系统](https://docs.freebsd.org/en/books/handbook/x11/index.html#x11)已经被完全重写，重点是在 XFree86™ 4.X 上使用现代桌面技术，如 KDE 和 GNOME。
 
-- [FreeBSD 的启动过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)得到了扩展。
+- [FreeBSD 的引导过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)得到了扩展。
 
 - [存储](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)部分由过去的“磁盘”和“备份”两章合并而成。我们认为将这些主题作为一个章节来介绍会更容易理解。还增加了一个关于 RAID（包括硬件和软件）的章节。
 
@@ -32,6 +32,6 @@
 
 - 本书第二版涵盖了以下新主题：
 
-  - [配置和调整](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)。
+  - [配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)。
 
   - [多媒体](https://docs.freebsd.org/en/books/handbook/multimedia/index.html#multimedia)。

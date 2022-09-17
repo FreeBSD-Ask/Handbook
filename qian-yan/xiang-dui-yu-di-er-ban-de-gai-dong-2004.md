@@ -2,7 +2,7 @@
 
 第三版是 FreeBSD 文档项目成员两年多来工作的结晶。纸质出版物的内容越来越多，以至于有必要以两卷的形式出版。以下是新版中的主要变化：
 
-- [配置和调整](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)增加了关于 ACPI 电源和资源管理、`cron` 系统工具和更多内核调整选项的新信息。
+- [配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)增加了关于 ACPI 电源和资源管理、`cron` 系统工具和更多内核调整选项的新信息。
 
 - [安全性](https://docs.freebsd.org/en/books/handbook/security/index.html#security)增加了有关虚拟专用网络（VPN）、文件系统访问控制列表（ACL）和安全建议的新信息。
 
