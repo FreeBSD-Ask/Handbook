@@ -79,7 +79,7 @@
 |Export Regulations|出口管制||||
 |principal|主体|||Kerberos|
 |realm|领域|||Kerberos|
-||||||
+|hardened|强化|||1.2.2. Who Uses FreeBSD?|
 ||||||
 ||||||
 ||||||
