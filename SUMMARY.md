@@ -8,9 +8,9 @@
 ## 前言
 
 * [目标受众](qian-yan/mu-biao-shou-zhong.md)
-* [相对于第三版的改动](qian-yan/xiang-dui-yu-di-san-ban-de-gai-dong.md)
-* [相对于第二版的改动 (2004)](qian-yan/xiang-dui-yu-di-er-ban-de-gai-dong-2004.md)
-* [相对于第一版的改动 (2001)](qian-yan/xiang-dui-yu-di-yi-ban-de-gai-dong-2001.md)
+* [第四版的主要变化](qian-yan/di-si-ban-de-zhu-yao-bian-hua.md)
+* [第三版的主要变化 (2004)](qian-yan/di-san-ban-de-zhu-yao-bian-hua-2004.md)
+* [第二版的主要变化 (2001)](qian-yan/di-er-ban-de-zhu-yao-bian-hua-2001.md)
 * [本书的组织结构](qian-yan/ben-shu-de-zu-zhi-jie-gou.md)
 * [本书中使用的一些约定](qian-yan/ben-shu-zhong-shi-yong-de-yi-xie-yue-ding.md)
 * [致谢](qian-yan/zhi-xie.md)
