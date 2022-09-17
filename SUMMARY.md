@@ -173,7 +173,7 @@
 * [14.6.OpenSSL](di-14-zhang-an-quan/14.6.-openssl.md)
 * [14.7.IPsec VPN](di-14-zhang-an-quan/14.7.ipsec-vpn.md)
 * [14.8.OpenSSH](di-14-zhang-an-quan/14.8.-openssh.md)
-* [14.9.文件系统访问控制表](di-14-zhang-an-quan/14.9.-wen-jian-xi-tong-fang-wen-kong-zhi-biao.md)
+* [14.9.文件系统访问控制列表](di-14-zhang-an-quan/14.9.-wen-jian-xi-tong-fang-wen-kong-zhi-lie-biao.md)
 * [14.10.监测第三方安全问题](di-14-zhang-an-quan/14.10.-jian-ce-di-san-fang-an-quan-wen-ti.md)
 * [14.11.FreeBSD 安全公告](di-14-zhang-an-quan/14.11.freebsd-an-quan-gong-gao.md)
 * [14.12.进程审计](di-14-zhang-an-quan/14.12.-jin-cheng-shen-ji.md)
@@ -239,7 +239,7 @@
 
 ## 第20章 Z 文件系统 (ZFS)
 
-* [20.1.什么使 ZFS 与众不同](di-20-zhang-z-wen-jian-xi-tong-zfs/20.1.-shi-mo-shi-zfs-yu-zhong-bu-tong.md)
+* [20.1.是什么使 ZFS 与众不同](di-20-zhang-z-wen-jian-xi-tong-zfs/20.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong.md)
 * [20.2.快速入门指南](di-20-zhang-z-wen-jian-xi-tong-zfs/20.2.-kuai-su-ru-men-zhi-nan.md)
 * [20.3.zpool 管理](di-20-zhang-z-wen-jian-xi-tong-zfs/20.3.-zpool-guan-li.md)
 * [20.4.zfs 管理](di-20-zhang-z-wen-jian-xi-tong-zfs/20.4.-zfs-guan-li.md)
