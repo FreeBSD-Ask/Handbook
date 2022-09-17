@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |copyleft|版权/著作权|中华人民共和国著作权法 第五十七条　【“著作权”与“版权”的关系】本法所称的著作权即版权。|||
 |Mandatory Access Control|强制存取控制||||
-|masquerade|冒充||||
+|masquerade|冒充||IP masquerading 为 IP 伪装||
 |remote groups|异地团体???|不知道怎么翻译|||
 |layer 4-7|第4-7 层||||
 |load balancing|负载均衡||||
