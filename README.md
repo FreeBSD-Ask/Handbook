@@ -72,8 +72,8 @@
 
 |               章节               |    第一轮校对/审阅   | 第二轮校对/审阅 | 第三轮校对/审阅 |
 | :----------------------------: | :-----------: | :------: | :------: |
-|               前言               | ykla/Shengyun |          |          |
-|            第 1 章：简介            | ykla/Shengyun |          |          |
+|               前言               | ykla |          |          |
+|            第 1 章：简介            | ykla |          |          |
 |        第 2 章：安装 FreeBSD        | ykla/Shengyun |          |          |
 |        第 3 章：FreeBSD 基础        | ykla/Shengyun |          |          |
 |    第 4 章：安装应用程序: 软件包和 Ports    | ykla/Shengyun |          |          |
