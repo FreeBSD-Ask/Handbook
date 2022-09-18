@@ -86,7 +86,7 @@
 |per-user calls|每用户调用数||||
 |core files|核心转储|等于 core dump|||
 |utility |软件/工具|实际上就是软件|||
-||||||
+|jail|jail|||一般应该小写|
 ||||||
 ||||||
 ||||||
