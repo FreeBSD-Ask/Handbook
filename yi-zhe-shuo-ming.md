@@ -90,7 +90,7 @@
 |inode|节点||||
 |loopback|回环||||
 |monitoring |监控||||
-||||||
+| issue command |执行命令||不是“发出”||
 ||||||
 ||||||
 ||||||
