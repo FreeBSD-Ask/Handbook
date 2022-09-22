@@ -44,7 +44,7 @@
 |tip|技巧|应该缩进**加粗**使用|
 |keymap|键盘布局||
 |fully-qualified|完全限定||
-|root-on-ZFS|root 分区使用 ZFS/使用 ZFS 作为 root 分区||
+|root-on-ZFS|使用 ZFS 作为 root 分区||
 |advanced users|专业用户||
 |print spooler|打印后台处理程序|台湾是说法“列印排存器”|
 |partition schemes|分区表||
@@ -71,9 +71,9 @@
 |fork|复刻|[github 命令参考](https://linux.cn/article-12245-1.html) |
 |Tuning|优化|# 15.4. 中为“调整”|
 |Kernel Limits|内核参数|[内核限制实际上就是内核参数](https://eloquence.marxmeier.com/sdb/html/linux_limits.html)|
-|boot|引导|不应该被翻译为“启动”|
+|boot|引导|不是“启动”|
 |Process Accounting|进程审计|“进程记账”看起来不相干。审计更符合原意|
-|hash|哈希\散列，有时代指“加密方式”||
+|hash|哈希\散列|有时代指“加密方式”|
 |Login Classes|进程分级||
 |Export Regulations|出口管制||
 |principal|主体|Kerberos|
