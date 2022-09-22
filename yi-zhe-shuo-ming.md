@@ -4,7 +4,7 @@
 
 |英语|翻译|说明|
 |:---:|:---:|:---:|
-|copyleft|版权/著作权|中华人民共和国著作权法 第五十七条【“著作权”与“版权”的关系】本法所称的著作权即版权|
+|copyleft|版权/著作权|【著作权法】本法所称的著作权即版权|
 |Mandatory Access Control|强制存取控制||
 |masquerade|冒充|IP masquerading 为 IP 伪装|
 |remote groups|异地团体???|不知道怎么翻译|
@@ -16,13 +16,13 @@
 |inquiry|轮询||
 |connection handle|??? 链接柄|不知道怎么翻译|
 |channels|信道||
-|USB dongle|USB 适配器|需要结合语境判断是什么适配器|
-|Internet|互联网|不需要加“公开”，互联网本就是开放的|
+|USB dongle|USB 适配器|需要结合语境判断是具体是什么|
+|Internet|互联网|无需加“公开”，互联网本就是开放的|
 |Ticket|凭据||
 |Wrapper|Wrapper|专有名词，维持英文|
-|Ports Collection|Ports|Collection 似乎无用？ports 就是指 ports Collection，单个的则为 port|
-|raw device|裸设备|原始设备？？？|
-|media|介质|？？？|
+|Ports Collection|Ports|`Collection` 无用。单个的则为 port|
+|raw device|裸设备|原始设备？|
+|media|介质|？|
 |PAE（Physical Address Extension）|物理地址扩展||
 |embedded boards|嵌入式板卡||
 |system|设备/系统||
@@ -46,7 +46,7 @@
 |fully-qualified|完全限定||
 |root-on-ZFS|root 分区使用 ZFS/使用 ZFS 作为 root 分区||
 |advanced users|专业用户||
-|print spooler|打印后台处理程序|“列印排存器”是台湾说法：列印即打印，排存器是不知道什么|
+|print spooler|打印后台处理程序|台湾是说法“列印排存器”|
 |partition schemes|分区表||
 |stripe|条带||
 |drive |结合语境可能是“磁盘”||
@@ -66,13 +66,13 @@
 |ports tree|树无意义，不翻译||
 |ports skeleton|ports 框架||
 |Procedure|过程||
-|heckout|检出|github 命令参考 https://linux.cn/article-12245-1.html|
+|heckout|检出|[github 命令参考](https://linux.cn/article-12245-1.html)|
 |log rotation|日志轮替||
-|fork|复刻|github 命令参考 https://linux.cn/article-12245-1.html|
+|fork|复刻|[github 命令参考](https://linux.cn/article-12245-1.html) |
 |Tuning|优化|# 15.4. 中为“调整”|
-|Kernel Limits|内核参数|内核限制实际上就是内核参数。见<https://eloquence.marxmeier.com/sdb/html/linux_limits.html>|
+|Kernel Limits|内核参数|[内核限制实际上就是内核参数](https://eloquence.marxmeier.com/sdb/html/linux_limits.html)|
 |boot|引导|不应该被翻译为“启动”|
-|Process Accounting|进程审计|“进程记账”看起来不相干。“审计更符合原意”|
+|Process Accounting|进程审计|“进程记账”看起来不相干。审计更符合原意|
 |hash|哈希\散列，有时代指“加密方式”||
 |Login Classes|进程分级||
 |Export Regulations|出口管制||
