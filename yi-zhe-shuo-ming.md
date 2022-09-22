@@ -19,8 +19,8 @@
 |USB dongle|USB 适配器|需要结合语境判断是什么适配器|
 |Internet|互联网|不需要加“公开”，互联网本就是开放的|
 |Ticket|凭据||
-|TCP Wrappers|TCP Wrappers|专有名词，维持英文|
-|Ports Collection|Ports|Collection 似乎无用？|ports 就是指 ports Collection，单个的则为 port|
+|Wrapper|Wrapper|专有名词，维持英文|
+|Ports Collection|Ports|Collection 似乎无用？ports 就是指 ports Collection，单个的则为 port|
 |raw device|裸设备|原始设备？？？|
 |media|介质|？？？|
 |PAE（Physical Address Extension）|物理地址扩展||
@@ -60,7 +60,6 @@
 |Video Modes|分辨率||
 |key bindings|组合键||
 |sticky directories|粘滞位||
-|wrapper|wrapper||
 |tarball|源码包/压缩文件|？|
 |Quarterly  Branche|季度分支||
 |Latest Branche|最新分支||
@@ -72,7 +71,7 @@
 |fork|复刻|github 命令参考 https://linux.cn/article-12245-1.html|
 |Tuning|优化|# 15.4. 中为“调整”|
 |Kernel Limits|内核参数|内核限制实际上就是内核参数。见<https://eloquence.marxmeier.com/sdb/html/linux_limits.html>|
-|boot|引导||不应该被翻译为“启动”||
+|boot|引导|不应该被翻译为“启动”|
 |Process Accounting|进程审计|“进程记账”看起来不相干。“审计更符合原意”|
 |hash|哈希\散列，有时代指“加密方式”||
 |Login Classes|进程分级||
