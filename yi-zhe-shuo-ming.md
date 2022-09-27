@@ -78,7 +78,7 @@
 |Export Regulations|出口管制||
 |principal|主体|Kerberos|
 |realm|领域|Kerberos|
-|hardened|强化|见 1.2.2. Who Uses FreeBSD?|
+|hardened|加固|如，APK 加固，JAVA 加固|
 |flag|标签|ACL|
 |programmatic method|计划任务|14.10. 监测第三方安全问题|
 | security advisory|安全公告||
