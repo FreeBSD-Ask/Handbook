@@ -91,8 +91,8 @@
 |monitoring |监控||
 | issue command |执行命令|不是“发出”|
 |facility |设施/机制/工具||
-||||
-||||
+|Audit Review|审计复核||
+|reduction|精选|用于安全审计|
 ||||
 
 
