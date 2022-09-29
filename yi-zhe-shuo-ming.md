@@ -93,7 +93,7 @@
 |facility |设施/机制/工具||
 |Audit Review|审计复核||
 |reduction|精选|用于安全审计|
-||||
+|disk|磁盘||
 
 
 
