@@ -22,7 +22,7 @@
 |Wrapper|Wrapper|专有名词，维持英文|
 |Ports Collection|Ports|`Collection` 似乎看起来无用。Ports Collection 实际上就是 Ports，但是单个的软件则为 port|
 |raw device|裸设备|原始设备？|
-|media|介质|？|
+|media|介质/光盘||
 |PAE（Physical Address Extension）|物理地址扩展||
 |embedded boards|嵌入式板卡||
 |system|设备/系统||
