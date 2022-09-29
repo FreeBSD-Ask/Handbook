@@ -78,7 +78,7 @@
 | :----------------------------: | :-----------: | :------: | :------: |
 |               前言               | ykla |          |          |
 |            第 1 章：简介            | ykla |          |          |
-|        第 2 章：安装 FreeBSD #111   | ykla/Shengyun |          |          |
+|        第 2 章：安装 FreeBSD    | ykla/Shengyun |          |          |
 |        第 3 章：FreeBSD 基础        | ykla/Shengyun |          |          |
 |    第 4 章：安装应用程序: 软件包和 Ports    | ykla/Shengyun |          |          |
 |        第 5 章：X Window 系统       | ykla/Shengyun |          |          |
