@@ -2,9 +2,13 @@
 
 ## 2022 FreeBSD 中文社区 翻译项目
 
-> **警告**
+> **部署域名**
 >
 > **当前网站部署域名为** [**https://handbook.bsdcn.org**](https://handbook.bsdcn.org)**，如果当前使用的不是这个域名，请切换到该域名。**
+
+> **PDF 文档**
+>
+> **当前文档的 PDF 实时更新地址为** [**https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf**](https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf)**，历史存档在 [Release](https://github.com/FreeBSD-Ask/Handbook/releases)。**
 
 > **版本说明**
 >
