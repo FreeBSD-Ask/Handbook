@@ -207,7 +207,7 @@
 * [17.1.概述](di-17-zhang-an-quan-shi-jian-shen-ji/17.1.-gai-shu.md)
 * [17.2.关键术语](di-17-zhang-an-quan-shi-jian-shen-ji/17.2.-guan-jian-shu-yu.md)
 * [17.3.审计配置](di-17-zhang-an-quan-shi-jian-shen-ji/17.3.-shen-ji-pei-zhi.md)
-* [17.4.使用审计追踪](di-17-zhang-an-quan-shi-jian-shen-ji/17.4.-shi-yong-shen-ji-zhui-zong.md)
+* [17.4.使用审计跟踪](di-17-zhang-an-quan-shi-jian-shen-ji/17.4.-shi-yong-shen-ji-gen-zong.md)
 
 ## 第18章 存储
 
