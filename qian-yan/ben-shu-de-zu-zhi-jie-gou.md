@@ -68,7 +68,7 @@
 
 ***[存储](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)***
 
-介绍了如何用 FreeBSD 管理存储介质和文件系统。这包括物理磁盘、RAID 阵列、光学和磁带介质、内存支持的磁盘以及网络文件系统。
+介绍了如何用 FreeBSD 管理存储设备和文件系统。这包括物理磁盘、RAID 阵列、光学和磁带、内存支持的磁盘以及网络文件系统。
 
 ***[GEOM：模块化磁盘转换框架](https://docs.freebsd.org/en/books/handbook/geom/index.html#geom)***
 
@@ -120,7 +120,7 @@
 
 ***[获取 FreeBSD](https://docs.freebsd.org/en/books/handbook/mirrors/index.html#mirrors)***
 
-列举了获得 FreeBSD CDROM 或 DVD 介质的不同方式，以及互联网上可让你下载 FreeBSD 的网站。
+列举了获得 FreeBSD CDROM 或 DVD 的不同方式，以及互联网上可让你下载 FreeBSD 的网站。
 
 ***[书目](https://docs.freebsd.org/en/books/handbook/bibliography/index.html#bibliography)***
 
