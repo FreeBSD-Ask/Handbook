@@ -5,7 +5,7 @@
 |英语|翻译|说明|
 |:---:|:---:|:---:|
 |copyleft|版权/著作权|根据【著作权法】所述：本法所称的著作权即版权。|
-|Mandatory Access Control|强制存取控制||
+|Mandatory Access Control|强制访问控制||
 |masquerade|冒充|但是 IP masquerading 为 IP 伪装|
 |remote groups|异地团体?|不知道怎么翻译|
 |layer 4-7|第4-7 层||
@@ -22,7 +22,7 @@
 |Wrapper|Wrapper|专有名词，维持英文|
 |Ports Collection|Ports|`Collection` 似乎看起来无用。Ports Collection 实际上就是 Ports，但是单个的软件则为 port|
 |raw device|裸设备|原始设备？|
-|media|介质/光盘||
+|media|光盘/设备|不翻译为不明确的词语“介质”|
 |PAE（Physical Address Extension）|物理地址扩展||
 |embedded boards|嵌入式板卡||
 |system|设备/系统||
@@ -81,7 +81,7 @@
 |hardened|加固|如，APK 加固，JAVA 加固|
 |flag|标签|ACL|
 |programmatic method|计划任务|14.10. 监测第三方安全问题|
-| security advisory|安全公告||
+|security advisory|安全公告||
 |per-user calls|每用户调用数||
 |core files|核心转储|等于 core dump|
 |utility |软件/工具|实际上就是软件|
@@ -89,11 +89,26 @@
 |inode|节点||
 |loopback|回环||
 |monitoring |监控||
-| issue command |执行命令|不是“发出”|
+|issue command |执行命令|不是“发出”|
 |facility |设施/机制/工具||
 |Audit Review|审计复核||
 |reduction|精选|用于安全审计|
 |disk|磁盘||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 
 
 
