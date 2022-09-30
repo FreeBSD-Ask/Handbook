@@ -42,7 +42,7 @@
 
 介绍了 FreeBSD 的 Linux® 兼容层。还提供了许多流行的 Linux® 应用程序的详细安装说明，如 Oracle® 和 Mathematica®。
 
-***[配置和优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)***
+***[配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)***
 
 介绍了系统管理员可以用来优化 FreeBSD 系统的参数，以获得最佳性能。还介绍了 FreeBSD 中使用的各种配置文件以及在何处可以找到它们。
 
