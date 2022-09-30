@@ -92,7 +92,7 @@
 |      第 13 章：FreeBSD 的引导过程      |      ykla     |          |          |
 |            第 14 章：安全           |      ykla          |          |          |
 |           第 15 章：Jail          |       ykla        |          |          |
-|          第 16 章：强制访问控制         |       ykla、KCommit         |          |          |
+|          第 16 章：强制访问控制         |       ykla/KCommit         |          |          |
 |          第 17 章：安全事件审计         |    ykla/KCommit            |          |          |
 |            第 18 章：存储           |               |          |          |
 |     第 19 章：GEOM: 模块化磁盘转换框架     |               |          |          |
