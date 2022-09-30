@@ -6,7 +6,7 @@
 
 - [安全性](https://docs.freebsd.org/en/books/handbook/security/index.html#security)增加了有关虚拟专用网络（VPN）、文件系统访问控制列表（ACL）和安全建议的新信息。
 
-- [强制存取控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)是此版本的一个新章节。它解释了什么是 MAC 以及如何使用这一机制来保护 FreeBSD 系统。
+- [强制访问控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)是此版本的一个新章节。它解释了什么是 MAC 以及如何使用这一机制来保护 FreeBSD 系统。
 
 - [存储](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)增加了关于 USB 存储设备、文件系统快照、文件系统配额、文件系统和网络文件系统，以及加密磁盘分区的新信息。
 

@@ -58,9 +58,9 @@
 
 介绍了 jail 框架，以及 jail 相对于 FreeBSD 传统的 chroot 支持所做的改进。
 
-***[强制存取控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)***
+***[强制访问控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)***
 
-解释了什么是强制存取控制（MAC），以及如何使用这一机制来保护 FreeBSD 系统。
+解释了什么是强制访问控制（MAC），以及如何使用这一机制来保护 FreeBSD 系统。
 
 ***[安全事件审计](https://docs.freebsd.org/en/books/handbook/audit/index.html#audit)***
 
