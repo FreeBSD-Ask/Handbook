@@ -366,7 +366,7 @@
 * [32.7.链路聚合与故障转移](di-32-zhang-gao-ji-wang-luo/32.7.-lian-lu-ju-he-yu-gu-zhang-zhuan-yi.md)
 * [32.8.使用 PXE 进行无盘操作](di-32-zhang-gao-ji-wang-luo/32.8.-shi-yong-pxe-jin-hang-wu-pan-cao-zuo.md)
 * [32.9.IPv6](di-32-zhang-gao-ji-wang-luo/32.9.-ipv6.md)
-* [32.10.共用地址冗余协议（(CARP)）](di-32-zhang-gao-ji-wang-luo/32.10.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
+* [32.10.共用地址冗余协议（CARP）](di-32-zhang-gao-ji-wang-luo/32.10.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
 * [32.11.VLAN](di-32-zhang-gao-ji-wang-luo/32.11.-vlan.md)
 
 ***
