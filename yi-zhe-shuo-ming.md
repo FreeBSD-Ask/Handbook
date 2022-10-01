@@ -94,7 +94,7 @@
 |Audit Review|审计复核||
 |reduction|精选|用于安全审计|
 |disk|磁盘||
-||||
+|off-site |离线||
 ||||
 ||||
 ||||
