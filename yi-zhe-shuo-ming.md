@@ -95,8 +95,8 @@
 |reduction|精选|用于安全审计|
 |disk|磁盘||
 |off-site |离线||
-||||
-||||
+|Memory Disks|内存盘|用于 18 章，不是闪存设备|
+|memory-backed disks|内存盘|用于 18 章，不是闪存设备|
 ||||
 ||||
 ||||
