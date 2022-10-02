@@ -9,8 +9,8 @@
 
 * [致读者](qian-yan/zhi-du-zhe.md)
 * [第四版的主要变化](qian-yan/di-si-ban-de-zhu-yao-bian-hua.md)
-* [第三版的主要变化 (2004)](qian-yan/di-san-ban-de-zhu-yao-bian-hua-2004.md)
-* [第二版的主要变化 (2001)](qian-yan/di-er-ban-de-zhu-yao-bian-hua-2001.md)
+* [第三版的主要变化（2004）](qian-yan/di-san-ban-de-zhu-yao-bian-hua-2004.md)
+* [第二版的主要变化（2001）](qian-yan/di-er-ban-de-zhu-yao-bian-hua-2001.md)
 * [本书的组织结构](qian-yan/ben-shu-de-zu-zhi-jie-gou.md)
 * [本书中使用的一些约定](qian-yan/ben-shu-zhong-shi-yong-de-yi-xie-yue-ding.md)
 * [致谢](qian-yan/zhi-xie.md)
@@ -238,7 +238,7 @@
 * [19.7.为磁盘设备添加卷标](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.7.-wei-ci-pan-she-bei-tian-jia-juan-biao.md)
 * [19.8.通过 GEOM 实现 UFS 日志](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.8.-tong-guo-geom-shi-xian-ufs-ri-zhi.md)
 
-## 第20章 Z 文件系统 (ZFS)
+## 第20章 Z 文件系统（ZFS）
 
 * [20.1.是什么使 ZFS 与众不同](di-20-zhang-z-wen-jian-xi-tong-zfs/20.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong.md)
 * [20.2.快速入门指南](di-20-zhang-z-wen-jian-xi-tong-zfs/20.2.-kuai-su-ru-men-zhi-nan.md)
