@@ -230,9 +230,9 @@
 ## 第19章 GEOM: 模块化磁盘转换框架
 
 * [19.1.概述](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.1.-gai-shu.md)
-* [19.2.RAID0 - 条带](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.2.-raid0-tiao-dai.md)
-* [19.3.RAID1 - 镜像](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.3.-raid1-jing-xiang.md)
-* [19.4.RAID3 - 带有专用奇偶校验的字节级条带](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.4.-raid3-dai-you-zhuan-yong-qi-ou-xiao-yan-de-zi-jie-ji-tiao-dai.md)
+* [19.2.RAID0——条带](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.2.-raid0-tiao-dai.md)
+* [19.3.RAID1——镜像](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.3.-raid1-jing-xiang.md)
+* [19.4.RAID3——带有专用奇偶校验的字节级条带](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.4.-raid3-dai-you-zhuan-yong-qi-ou-xiao-yan-de-zi-jie-ji-tiao-dai.md)
 * [19.5.软件 RAID 设备](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.5.-ruan-jian-raid-she-bei.md)
 * [19.6.GEOM Gate 网络设备](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.6.-geom-gate-wang-luo-she-bei.md)
 * [19.7.为磁盘设备添加卷标](di-19-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/19.7.-wei-ci-pan-she-bei-tian-jia-juan-biao.md)
