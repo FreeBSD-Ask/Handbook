@@ -93,10 +93,10 @@
 |            第 14 章：安全           |      ykla          |          |          |
 |           第 15 章：Jail          |       ykla        |          |          |
 |          第 16 章：强制访问控制         |       ykla/KCommit         |          |          |
-|          第 17 章：安全事件审计         |    ykla/KCommit            |          |          |
-|            第 18 章：存储           |       ykla/KCommit        |          |          
-|     第 19 章：GEOM: 模块化磁盘转换框架     |     ykla/KCommit           |          |          |
-|       第 20 章：Z 文件系统 (ZFS)      |     ykla/KCommit          |          |          |
+|          第 17 章：安全事件审计         |    ykla           |          |          |
+|            第 18 章：存储           |       ykla       |          |          
+|     第 19 章：GEOM: 模块化磁盘转换框架     |     ykla           |          |          |
+|       第 20 章：Z 文件系统 (ZFS)      |     ykla          |          |          |
 |          第 21 章：其他文件系统         |     ykla          |          |          |
 |           第 22 章：虚拟化           |               |          |          |
 |  第 23 章：本地化 - i18n/L10n 的使用和设置 |               |          |          |
