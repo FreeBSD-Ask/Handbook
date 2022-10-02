@@ -264,7 +264,7 @@
 * [22.6.使用 FreeBSD 上的 bhyve 虚拟机](di-22-zhang-xu-ni-hua/22.6.-shi-yong-freebsd-shang-de-bhyve-xu-ni-ji.md)
 * [22.7.使用 FreeBSD 上的 Xen™ 虚拟机](di-22-zhang-xu-ni-hua/22.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
 
-## 第23章 本地化 - i18n/L10n 的使用和设置
+## 第23章 本地化——i18n/L10n 的使用和设置
 
 * [23.1.概述](di-23-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/23.1.-gai-shu.md)
 * [23.2.使用本地化](di-23-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/23.2.-shi-yong-ben-di-hua.md)
