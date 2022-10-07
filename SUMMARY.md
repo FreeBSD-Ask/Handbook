@@ -292,7 +292,7 @@
 
 * [26.1.概述](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.1.-gai-shu.md)
 * [26.2.USB 虚拟串行端口](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.2.-usb-xu-ni-chuan-hang-duan-kou.md)
-* [26.3.USB 设备模式网络接口](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.3.-usb-device-mo-shi-wang-luo-jie-kou.md)
+* [26.3.USB 设备模式网络接口](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.3.usb-she-bei-mo-shi-wang-luo-jie-kou.md)
 * [26.4.USB 虚拟存储设备](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.4.-usb-xu-ni-cun-chu-she-bei.md)
 
 ***
