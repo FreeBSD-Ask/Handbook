@@ -276,7 +276,7 @@
 * [24.1.概述](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.1.-gai-shu.md)
 * [24.2.FreeBSD 更新](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.2.-freebsd-geng-xin.md)
 * [24.3.更新 Bootcode](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.3.-geng-xin-bootcode.md)
-* [24.4.更新文档集](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.4.-geng-xin-wen-dang-ji.md)
+* [24.4.更新文档](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.4.-geng-xin-wen-dang.md)
 * [24.5.追踪开发分支](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.5.-zhui-zong-kai-fa-fen-zhi.md)
 * [24.6.从源代码更新 FreeBSD](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.6.-cong-yuan-dai-ma-geng-xin-freebsd.md)
 * [24.7.多台机器的升级](di-24-zhang-geng-xin-yu-sheng-ji-freebsd/24.7.-duo-tai-ji-qi-de-sheng-ji.md)
@@ -288,12 +288,12 @@
 * [25.3.开启 DTrace 支持](di-25-zhang-dtrace/25.3.-kai-qi-dtrace-zhi-chi.md)
 * [25.4.使用 DTrace](di-25-zhang-dtrace/25.4.-shi-yong-dtrace.md)
 
-## 第26章 USB Device 模式 / USB OTG
+## 第26章 USB 设备模式 / USB OTG
 
-* [26.1.概述](di-26-zhang-usb-device-mo-shi-usb-otg/26.1.-gai-shu.md)
-* [26.2.USB 虚拟串行端口](di-26-zhang-usb-device-mo-shi-usb-otg/26.2.-usb-xu-ni-chuan-hang-duan-kou.md)
-* [26.3.USB Device 模式网络接口](di-26-zhang-usb-device-mo-shi-usb-otg/26.3.-usb-device-mo-shi-wang-luo-jie-kou.md)
-* [26.4.USB 虚拟存储设备](di-26-zhang-usb-device-mo-shi-usb-otg/26.4.-usb-xu-ni-cun-chu-she-bei.md)
+* [26.1.概述](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.1.-gai-shu.md)
+* [26.2.USB 虚拟串行端口](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.2.-usb-xu-ni-chuan-hang-duan-kou.md)
+* [26.3.USB Device 模式网络接口](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.3.-usb-device-mo-shi-wang-luo-jie-kou.md)
+* [26.4.USB 虚拟存储设备](di-26-zhang-usb-she-bei-mo-shi-usb-otg/26.4.-usb-xu-ni-cun-chu-she-bei.md)
 
 ***
 
