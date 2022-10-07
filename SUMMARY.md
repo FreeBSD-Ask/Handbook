@@ -303,7 +303,7 @@
 
 * [27.1.概述](di-27-zhang-chuan-hang-tong-xin/27.1.-gai-shu.md)
 * [27.2.串行术语和硬件](di-27-zhang-chuan-hang-tong-xin/27.2.-chuan-hang-shu-yu-he-ying-jian.md)
-* [27.3.终端机](di-27-zhang-chuan-hang-tong-xin/27.3.-zhong-duan-ji.md)
+* [27.3.终端](di-27-zhang-chuan-hang-tong-xin/27.3.-zhong-duan.md)
 * [27.4.拨入服务](di-27-zhang-chuan-hang-tong-xin/27.4.-bo-ru-fu-wu.md)
 * [27.5.拨出服务](di-27-zhang-chuan-hang-tong-xin/27.5.-bo-chu-fu-wu.md)
 * [27.6.设置串行控制台](di-27-zhang-chuan-hang-tong-xin/27.6.-she-zhi-chuan-hang-kong-zhi-tai.md)
