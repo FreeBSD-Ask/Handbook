@@ -57,7 +57,7 @@
 |  第 23 章：本地化——i18n/L10n 的使用和设置 |      郴      |       ykla、冰      |
 |      第 24 章：更新与升级 FreeBSD      |  亲爱的翻译官【重译】 |        ykla       |
 |          第 25 章：DTrace         |     歸野鴿     |       ykla、冰      |
-| 第 26 章：USB Device 模式 / USB OTG | Jasonlecson |        ykla       |
+| 第 26 章：USB 设备模式/USB OTG | Jasonlecson |        ykla       |
 |           第 27 章：串行通信          |     胞嘧啶     |       ykla、冰      |
 |           第 28 章：PPP           |   ykla【重译】  |        ykla       |
 |           第 29 章：电子邮件          |   ykla【重译】  |        ykla       |
@@ -102,8 +102,8 @@
 |  第 23 章：本地化——i18n/L10n 的使用和设置 |    ykla           |          |          |
 |      第 24 章：更新与升级 FreeBSD      |       ykla        |          |          |
 |          第 25 章：DTrace         |         ykla      |          |          |
-| 第 26 章：USB Device 模式 / USB OTG |               |          |          |
-|           第 27 章：串行通信          |               |          |          |
+| 第 26 章：USB 设备模式/USB OTG |             ykla  |          |          |
+|           第 27 章：串行通信          |        ykla       |          |          |
 |           第 28 章：PPP           |               |          |          |
 |           第 29 章：电子邮件          |               |          |          |
 |          第 30 章：网络服务器          |               |          |          |
