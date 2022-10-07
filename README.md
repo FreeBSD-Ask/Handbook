@@ -101,7 +101,7 @@
 |           第 22 章：虚拟化           |        ykla       |          |          |
 |  第 23 章：本地化——i18n/L10n 的使用和设置 |    ykla           |          |          |
 |      第 24 章：更新与升级 FreeBSD      |       ykla        |          |          |
-|          第 25 章：DTrace         |               |          |          |
+|          第 25 章：DTrace         |         ykla      |          |          |
 | 第 26 章：USB Device 模式 / USB OTG |               |          |          |
 |           第 27 章：串行通信          |               |          |          |
 |           第 28 章：PPP           |               |          |          |
