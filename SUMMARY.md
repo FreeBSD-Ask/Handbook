@@ -106,13 +106,13 @@
 * [8.2.为什么要编译自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
 * [8.3.浏览系统硬件](di-8-zhang-pei-zhi-freebsd-nei-he/8.3.-liu-lan-xi-tong-ying-jian.md)
 * [8.4.配置文件](di-8-zhang-pei-zhi-freebsd-nei-he/8.4.-pei-zhi-wen-jian.md)
-* [8.5.编译与安装自定义内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.5.-bian-yi-yu-an-zhuang-zi-ding-yi-nei-he.md)
+* [8.5.编译与安装定制内核](di-8-zhang-pei-zhi-freebsd-nei-he/8.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
 * [8.6.如果发生了一些错误](di-8-zhang-pei-zhi-freebsd-nei-he/8.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
 ## 第9章 打印
 
 * [9.1.快速入门](di-9-zhang-da-yin/9.1.-kuai-su-ru-men.md)
-* [9.2.打印机连接](di-9-zhang-da-yin/9.2.-da-yin-ji-lian-jie.md)
+* [9.2.连接打印机](di-9-zhang-da-yin/9.2.-lian-jie-da-yin-ji.md)
 * [9.3.常见的页面描述语言](di-9-zhang-da-yin/9.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
 * [9.4.直接打印](di-9-zhang-da-yin/9.4.-zhi-jie-da-yin.md)
 * [9.5.LPD（行式打印机程序）](di-9-zhang-da-yin/9.5.lpd-hang-shi-da-yin-ji-cheng-xu.md)
