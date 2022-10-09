@@ -4,11 +4,11 @@
 
 ***[简介](https://docs.freebsd.org/en/books/handbook/introduction/index.html#introduction)***
 
-向新用户介绍 FreeBSD。其概述了 FreeBSD 项目的历史，它的目标和开发模式。
+向新用户介绍 FreeBSD。并简要说明了 FreeBSD 项目的历史，目标和开发模式。
 
 ***[安装 FreeBSD](https://docs.freebsd.org/en/books/handbook/bsdinstall/index.html#bsdinstall)***
 
-引导用户使用 bsdinstall 完成 FreeBSD 9.x 及以后版本的整个安装过程。
+引导用户使用 bsdinstall 完成 FreeBSD 9.x 及以后版本的完整安装过程。
 
 ***[FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/bsdinstall/index.html#bsdinstall)***
 
@@ -20,7 +20,7 @@
 
 ***[X Window](https://docs.freebsd.org/en/books/handbook/x11/index.html#x11)***
 
-介绍了常见的 X Window 系统，特别是在 FreeBSD 上使用 X11。还介绍了常见的桌面环境，如 KDE 和 GNOME。
+介绍了常见的 X Window 系统，特别是在 FreeBSD 上使用的 X11。还介绍了常见的桌面环境，如 KDE 和 GNOME。
 
 ***[桌面应用程序](https://docs.freebsd.org/en/books/handbook/desktop/index.html#desktop)***
 
@@ -32,7 +32,8 @@
 
 ***[配置 FreeBSD 内核](https://docs.freebsd.org/en/books/handbook/kernelconfig/index.html#kernelconfig)***
 
-介绍了为什么你可能需要配置一个新的内核，并提供了配置、构建和安装定制内核的详细说明。
+
+介绍了为什么你可能需要配置一个新的内核，并提供了配置、编译和安装定制内核的详细说明。
 
 ***[打印](https://docs.freebsd.org/en/books/handbook/printing/index.html#printing)***
 
@@ -40,7 +41,7 @@
 
 ***[Linux® 二进制兼容层](https://docs.freebsd.org/en/books/handbook/linuxemu/index.html#linuxemu)***
 
-介绍了 FreeBSD 的 Linux® 兼容层。还提供了许多流行的 Linux® 应用程序的详细安装说明，如 Oracle® 和 Mathematica®。
+介绍了 FreeBSD 的 Linux® 兼容层。还提供了许多流行的 Linux® 应用程序（如 Oracle® 和 Mathematica®）的详细安装说明。
 
 ***[配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)***
 
@@ -52,7 +53,7 @@
 
 ***[安全](https://docs.freebsd.org/en/books/handbook/security/index.html#security)***
 
-列举了许多不同的工具，包括 Kerberos、IPsec 和 OpenSSH，以帮助保持你的 FreeBSD 系统安全。
+列举了许多不同的工具，包括 Kerberos、IPsec 和 OpenSSH，以帮助确保你的 FreeBSD 系统安全。
 
 ***[Jail](https://docs.freebsd.org/en/books/handbook/jails/index.html#jails)***
 
@@ -60,15 +61,15 @@
 
 ***[强制访问控制](https://docs.freebsd.org/en/books/handbook/mac/index.html#mac)***
 
-解释了什么是强制访问控制（MAC），以及如何使用这一机制来保护 FreeBSD 系统。
+解释了什么是强制访问控制（MAC），以及如何利用这一机制来保护 FreeBSD 系统。
 
 ***[安全事件审计](https://docs.freebsd.org/en/books/handbook/audit/index.html#audit)***
 
-介绍了什么是 FreeBSD 事件审计，如何安装，配置，以及如何检查或监控审计跟踪。
+介绍了什么是 FreeBSD 事件审计，如何安装，配置，以及如何审计和监控审计跟踪。
 
 ***[存储](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)***
 
-介绍了如何用 FreeBSD 管理存储设备和文件系统。这包括物理磁盘、RAID 阵列、光学和磁带、内存支持的磁盘以及网络文件系统。
+介绍了如何用 FreeBSD 管理存储设备和文件系统。这包括物理磁盘、RAID 阵列、光学介质和磁带、内存支持的磁盘以及网络文件系统。
 
 ***[GEOM：模块化磁盘转换框架](https://docs.freebsd.org/en/books/handbook/geom/index.html#geom)***
 
@@ -82,13 +83,13 @@
 
 介绍了虚拟化系统提供的功能，以及如何在 FreeBSD 中使用它们。
 
-***[本地化 - i18n/L10n 的使用和设置](https://docs.freebsd.org/en/books/handbook/l10n/index.html#l10n)***
+***[本地化——i18n/L10n 的使用和设置](https://docs.freebsd.org/en/books/handbook/l10n/index.html#l10n)***
 
 介绍了如何用英语以外的语言使用 FreeBSD。涵盖了系统和应用层面的本地化。
 
 ***[更新与升级 FreeBSD](https://docs.freebsd.org/en/books/handbook/cutting-edge/index.html#updating-upgrading)***
 
-解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 之间的区别。说明了哪些用户会从跟踪开发系统中受益，并概述了这个过程。说明了用户可以采取的方法来更新他们的系统到最新的安全版本。
+阐述了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 之间的区别。说明了哪些用户会从跟踪开发系统中受益，并概述了这个过程。说明了用户可以采取的方法来更新他们的系统到最新的安全版本。
 
 ***[DTrace](https://docs.freebsd.org/en/books/handbook/dtrace/index.html#dtrace)***
 
@@ -96,11 +97,11 @@
 
 ***[串行通信](https://docs.freebsd.org/en/books/handbook/serialcomms/index.html#serialcomms)***
 
-解释了如何将终端和调制解调器连接到你的 FreeBSD 系统上，进行拨入和拨出连接。
+说明了如何将终端和调制解调器连接到你的 FreeBSD 系统上，进行拨入和拨出连接。
 
 ***[PPP](https://docs.freebsd.org/en/books/handbook/ppp-and-slip/index.html#ppp-and-slip)***
 
-介绍了如何使用 PPP 来连接 FreeBSD 的远程系统。
+介绍了如何在 FreeBSD 使用 PPP 来连接远程系统。
 
 ***[电子邮件](https://docs.freebsd.org/en/books/handbook/mail/index.html#mail)***
 
@@ -120,7 +121,7 @@
 
 ***[获取 FreeBSD](https://docs.freebsd.org/en/books/handbook/mirrors/index.html#mirrors)***
 
-列举了获得 FreeBSD CDROM 或 DVD 的不同方式，以及互联网上可让你下载 FreeBSD 的网站。
+列举了获得 FreeBSD CDROM 或 DVD 的不同方式，以及在互联网上可让你下载 FreeBSD 的网站。
 
 ***[书目](https://docs.freebsd.org/en/books/handbook/bibliography/index.html#bibliography)***
 
