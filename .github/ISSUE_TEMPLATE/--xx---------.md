@@ -1,5 +1,5 @@
 ---
-name: 第 xx 章：翻译存在的问题
+name: 第 xx 章：——翻译存在的问题
 about: 报告翻译问题
 title: ''
 labels: ''
