@@ -32,8 +32,8 @@
 |    第 3 章：FreeBSD 基础【3.1-3.2】   |     ykla    |        ykla       |
 |    第 3 章：FreeBSD 基础【3.3-EOL】   |    亲爱的翻译官   |      ykla、歸野鴿     |
 |    第 4 章：安装应用程序: 软件包和 Ports    |    亲爱的翻译官   |   ykla、skadomsky  |
-|   第 5 章：X Window 系统【5.1-5.2】   |  ykla 【重译】  |    ulianchn38、冰   |
-|  第 5 章：X Window 系统 【5.3-5.4.6】 |    冰 【重译】   |  ykla、ulianchn38  |
+|   第 5 章：X Window 系统【5.1-5.2】   |  ykla|    ulianchn38、冰   |
+|  第 5 章：X Window 系统 【5.3-5.4.6】 |    冰   |  ykla、ulianchn38  |
 |  第 5 章：X Window 系统 【5.4.6-EOL】 |    Lin🌠    | ykla、ulianchn38、冰 |
 |          第 6 章：桌面应用程序          |     胞嘧啶     |        ykla       |
 |            第 7 章：多媒体           |     无目先生    |        ykla       |
@@ -41,7 +41,7 @@
 |       第 9 章：打印 【9.1-9.4】       |     潇潇雨竹    |        ykla       |
 |       第 9 章：打印 【9.5-EOL】       |  ulianchn38 |        ykla       |
 |   第 10 章：Linux 二进制兼容层 【10.1】   |    Altair   |        ykla       |
-| 第 10 章：Linux 二进制兼容层 【10.2-EOL】 |  亲爱的翻译官【重译】 |        ykla       |
+| 第 10 章：Linux 二进制兼容层 【10.2-EOL】 |  亲爱的翻译官|        ykla       |
 |           第 11 章：wine          | Jasonlecson |       ykla、冰      |
 |          第 12 章：配置与优化          |     胞嘧啶     |       ykla、冰      |
 |      第 13 章：FreeBSD 的引导过程      |     徐艺扬     |     ykla、冰、歸野鴿    |
@@ -55,12 +55,12 @@
 |          第 21 章：其他文件系统         | Jasonlecson |        ykla       |
 |           第 22 章：虚拟化           |     歸野鴿     |       ykla、冰      |
 |  第 23 章：本地化——i18n/L10n 的使用和设置 |      郴      |       ykla、冰      |
-|      第 24 章：更新与升级 FreeBSD      |  亲爱的翻译官【重译】 |        ykla       |
+|      第 24 章：更新与升级 FreeBSD      |  亲爱的翻译官 |        ykla       |
 |          第 25 章：DTrace         |     歸野鴿     |       ykla、冰      |
 | 第 26 章：USB 设备模式/USB OTG | Jasonlecson |        ykla       |
 |           第 27 章：串行通信          |     胞嘧啶     |       ykla、冰      |
-|           第 28 章：PPP           |   ykla【重译】  |        ykla       |
-|           第 29 章：电子邮件          |   ykla【重译】  |        ykla       |
+|           第 28 章：PPP           |   ykla  |        ykla       |
+|           第 29 章：电子邮件          |   ykla  |        ykla       |
 |          第 30 章：网络服务器          |      陈诚     |       ykla、冰      |
 |           第 31 章：防火墙           |      陈诚     |       ykla、冰      |
 |           第 32 章：高级网络          |      陈诚     |       ykla、冰      |
