@@ -32,6 +32,7 @@
 
 ***[配置 FreeBSD 内核](https://docs.freebsd.org/en/books/handbook/kernelconfig/index.html#kernelconfig)***
 
+
 介绍了为什么你可能需要配置一个新的内核，并提供了配置、编译和安装定制内核的详细说明。
 
 ***[打印](https://docs.freebsd.org/en/books/handbook/printing/index.html#printing)***
