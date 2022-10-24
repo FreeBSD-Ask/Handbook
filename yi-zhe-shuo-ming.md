@@ -100,8 +100,8 @@
 |provider |provider |专有名词，A provider is "a disk-like thing which appears in /dev"|
 |world|世界|指除了内核以外的基本系统的所有部分|
 |sound sink|音频接收器|第 7.2 节出现|
-||||
-||||
+|bootstrap |自举||
+|custom kernel|定制内核||
 ||||
 ||||
 ||||
