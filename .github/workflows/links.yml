@@ -19,6 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
            format: markdown
+           args: --config ./.github/config/lychee.toml
            output: ./lychee/out.md
 
       - name: Create Issue From File
