@@ -35,35 +35,36 @@
 |   第 5 章：X Window 系统【5.1-5.2】   |  ykla|    ulianchn38、冰   |
 |  第 5 章：X Window 系统 【5.3-5.4.6】 |    冰   |  ykla、ulianchn38  |
 |  第 5 章：X Window 系统 【5.4.6-EOL】 |    Lin🌠    | ykla、ulianchn38、冰 |
-|          第 6 章：桌面应用程序          |     胞嘧啶     |        ykla       |
-|            第 7 章：多媒体           |     无目先生    |        ykla       |
-|       第 8 章：配置 FreeBSD 内核      | Jasonlecson |       ykla、冰      |
-|       第 9 章：打印 【9.1-9.4】       |     潇潇雨竹    |        ykla       |
-|       第 9 章：打印 【9.5-EOL】       |  ulianchn38 |        ykla       |
-|   第 10 章：Linux 二进制兼容层 【10.1】   |    Altair   |        ykla       |
-| 第 10 章：Linux 二进制兼容层 【10.2-EOL】 |  亲爱的翻译官|        ykla       |
+|  第 6 章：FreeBSD 中的 Wayland          |    ykla  |          ykla|
+|          第 7 章：桌面应用程序          |     胞嘧啶     |        ykla       |
+|            第 8 章：多媒体           |     无目先生    |        ykla       |
+|       第 9 章：配置 FreeBSD 内核      | Jasonlecson |       ykla、冰      |
+|       第 10 章：打印 【9.1-9.4】       |     潇潇雨竹    |        ykla       |
+|       第 10 章：打印 【9.5-EOL】       |  ulianchn38 |        ykla       |
+|   第 11 章：Linux 二进制兼容层 【10.1】   |    Altair   |        ykla       |
+| 第 11 章：Linux 二进制兼容层 【10.2-EOL】 |  亲爱的翻译官|        ykla       |
 |           第 11 章：wine          | Jasonlecson |       ykla、冰      |
-|          第 12 章：配置与优化          |     胞嘧啶     |       ykla、冰      |
-|      第 13 章：FreeBSD 的引导过程      |     徐艺扬     |     ykla、冰、歸野鴿    |
-|            第 14 章：安全           |      陈诚     |       ykla、冰      |
-|           第 15 章：Jail          |      陈诚     |       ykla、冰      |
+|          第 13 章：配置与优化          |     胞嘧啶     |       ykla、冰      |
+|      第 14 章：FreeBSD 的引导过程      |     徐艺扬     |     ykla、冰、歸野鴿    |
+|            第 15 章：安全           |      陈诚     |       ykla、冰      |
+|           第 16 章：Jail          |      陈诚     |       ykla、冰      |
 |          第 16 章：强制访问控制         |      陈诚     |       ykla、冰      |
-|          第 17 章：安全事件审计         |      冰      |      ykla、歸野鴿     |
-|            第 18 章：存储           | Jasonlecson |       ykla、冰      |
-|     第 19 章：GEOM: 模块化磁盘转换框架     | Jasonlecson |       ykla、冰      |
-|       第 20 章：Z 文件系统（ZFS）|    徐艺扬、冰    |  ykla、ulianchn38  |
-|          第 21 章：其他文件系统         | Jasonlecson |        ykla       |
-|           第 22 章：虚拟化           |     歸野鴿     |       ykla、冰      |
-|  第 23 章：本地化——i18n/L10n 的使用和设置 |      郴      |       ykla、冰      |
-|      第 24 章：更新与升级 FreeBSD      |  亲爱的翻译官 |        ykla       |
-|          第 25 章：DTrace         |     歸野鴿     |       ykla、冰      |
-| 第 26 章：USB 设备模式/USB OTG | Jasonlecson |        ykla       |
-|           第 27 章：串行通信          |     胞嘧啶     |       ykla、冰      |
-|           第 28 章：PPP           |   ykla  |        ykla       |
-|           第 29 章：电子邮件          |   ykla  |        ykla       |
-|          第 30 章：网络服务器          |      陈诚     |       ykla、冰      |
-|           第 31 章：防火墙           |      陈诚     |       ykla、冰      |
-|           第 32 章：高级网络          |      陈诚     |       ykla、冰      |
+|          第 18 章：安全事件审计         |      冰      |      ykla、歸野鴿     |
+|            第 19 章：存储           | Jasonlecson |       ykla、冰      |
+|     第 20 章：GEOM: 模块化磁盘转换框架     | Jasonlecson |       ykla、冰      |
+|       第 21 章：Z 文件系统（ZFS）|    徐艺扬、冰    |  ykla、ulianchn38  |
+|          第 22 章：其他文件系统         | Jasonlecson |        ykla       |
+|           第 23 章：虚拟化           |     歸野鴿     |       ykla、冰      |
+|  第 24 章：本地化——i18n/L10n 的使用和设置 |      郴      |       ykla、冰      |
+|      第 25 章：FreeBSD 更新与升级       |  亲爱的翻译官 |        ykla       |
+|          第 26 章：DTrace         |     歸野鴿     |       ykla、冰      |
+| 第 27 章：USB 设备模式/USB OTG | Jasonlecson |        ykla       |
+|           第 28 章：串行通信          |     胞嘧啶     |       ykla、冰      |
+|           第 29 章：PPP           |   ykla  |        ykla       |
+|           第 30 章：电子邮件          |   ykla  |        ykla       |
+|          第 31 章：网络服务器          |      陈诚     |       ykla、冰      |
+|           第 32 章：防火墙           |      陈诚     |       ykla、冰      |
+|           第 33 章：高级网络          |      陈诚     |       ykla、冰      |
 |         附录 A：获取 FreeBSD        |    亲爱的翻译官   |        ykla       |
 |             附录 B：书目            |     ykla    |        ykla       |
 |            附录 C：网络资源           |    亲爱的翻译官   |        ykla       |
@@ -82,33 +83,34 @@
 |        第 3 章：FreeBSD 基础        | ykla/Shengyun |          |          |
 |    第 4 章：安装应用程序: 软件包和 Ports    | ykla/Shengyun |          |          |
 |        第 5 章：X Window 系统       | ykla/Shengyun |          |          |
-|          第 6 章：桌面应用程序          | ykla/Shengyun |          |          |
-|            第 7 章：多媒体           |      ykla     |          |          |
-|       第 8 章：配置 FreeBSD 内核      |      ykla     |          |          |
-|            第 9 章：打印            |      ykla     |          |          |
-|       第 10 章：Linux 二进制兼容层      |      ykla     |          |          |
-|           第 11 章：wine          |      ykla     |          |          |
-|          第 12 章：配置与优化          |      ykla     |          |          |
-|      第 13 章：FreeBSD 的引导过程      |      ykla     |          |          |
-|            第 14 章：安全           |      ykla          |          |          |
-|           第 15 章：Jail          |       ykla        |          |          |
-|          第 16 章：强制访问控制         |       ykla/KCommit         |          |          |
-|          第 17 章：安全事件审计         |    ykla           |          |          |
-|            第 18 章：存储           |       ykla       |          |          
-|     第 19 章：GEOM: 模块化磁盘转换框架     |     ykla           |          |          |
-|       第 20 章：Z 文件系统 (ZFS)      |     ykla          |          |          |
-|          第 21 章：其他文件系统         |     ykla          |          |          |
-|           第 22 章：虚拟化           |        ykla       |          |          |
-|  第 23 章：本地化——i18n/L10n 的使用和设置 |    ykla           |          |          |
-|      第 24 章：更新与升级 FreeBSD      |       ykla        |          |          |
-|          第 25 章：DTrace         |         ykla      |          |          |
-| 第 26 章：USB 设备模式/USB OTG |             ykla  |          |          |
-|           第 27 章：串行通信          |        ykla       |          |          |
-|           第 28 章：PPP           |         ykla      |          |          |
-|           第 29 章：电子邮件          |               |          |          |
-|          第 30 章：网络服务器          |               |          |          |
-|           第 31 章：防火墙           |               |          |          |
-|           第 32 章：高级网络          |               |          |          |
+|        第 6 章：FreeBSD 中的 Wayland       | ykla/Shengyun |          |          |
+|          第 7 章：桌面应用程序          | ykla/Shengyun |          |          |
+|            第 8 章：多媒体           |      ykla     |          |          |
+|       第 9 章：配置 FreeBSD 内核      |      ykla     |          |          |
+|            第 10 章：打印            |      ykla     |          |          |
+|       第 11 章：Linux 二进制兼容层      |      ykla     |          |          |
+|           第 12 章：wine          |      ykla     |          |          |
+|          第 13 章：配置与优化          |      ykla     |          |          |
+|      第 14 章：FreeBSD 的引导过程      |      ykla     |          |          |
+|            第 15 章：安全           |      ykla          |          |          |
+|           第 16 章：Jail          |       ykla        |          |          |
+|          第 17 章：强制访问控制         |       ykla/KCommit         |          |          |
+|          第 18 章：安全事件审计         |    ykla           |          |          |
+|            第 19 章：存储           |       ykla       |          |          
+|     第 20 章：GEOM: 模块化磁盘转换框架     |     ykla           |          |          |
+|       第 21 章：Z 文件系统 (ZFS)      |     ykla          |          |          |
+|          第 22 章：其他文件系统         |     ykla          |          |          |
+|           第 23 章：虚拟化           |        ykla       |          |          |
+|  第 24 章：本地化——i18n/L10n 的使用和设置 |    ykla           |          |          |
+|      第 25 章：FreeBSD 更新与升级      |       ykla        |          |          |
+|          第 26 章：DTrace         |         ykla      |          |          |
+| 第 27 章：USB 设备模式/USB OTG |             ykla  |          |          |
+|           第 28 章：串行通信          |        ykla       |          |          |
+|           第 29 章：PPP           |         ykla      |          |          |
+|           第 30 章：电子邮件          |               |          |          |
+|          第 31 章：网络服务器          |               |          |          |
+|           第 32 章：防火墙           |               |          |          |
+|           第 33 章：高级网络          |               |          |          |
 |         附录 A：获取 FreeBSD        |               |          |          |
 |             附录 B：书目            |               |          |          |
 |            附录 C：网络资源           |               |          |          |
