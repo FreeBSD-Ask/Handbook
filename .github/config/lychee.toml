@@ -25,7 +25,7 @@ threads = 6
 max_redirects = 10
 
 # Maximum number of concurrent network requests [default: 128]
-max_concurrency = 128
+max_concurrency = 10
 
 #############################  Requests  ############################
 
