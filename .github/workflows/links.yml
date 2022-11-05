@@ -29,9 +29,10 @@ jobs:
             output: ./lychee2/out.md
 
       - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v3
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
         with:
-          title: 🔗 链接检查报告
-          content-filepath: ./lychee2/out.md
-          labels: report, automated issue
+            title: Link Checker Report
+            content-filepath: ./lychee2/out.md
+            labels: report, automated issue
+
