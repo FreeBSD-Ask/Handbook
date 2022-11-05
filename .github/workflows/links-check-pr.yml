@@ -14,7 +14,7 @@ jobs:
             # Use json as output format (instead of markdown)
             format: markdown
             # Use different output file path
-            output: ./lychee/out.md
+            output: ./lychee3/out.md
             # Fail action on broken links
             fail: true
         env:
