@@ -363,7 +363,7 @@
 * [32.3.PF](di-32-zhang-fang-huo-qiang/32.3.pf.md)
 * [32.4.IPFW](di-32-zhang-fang-huo-qiang/32.4.ipfw.md)
 * [32.5.IPFILTER（IPF）](di-32-zhang-fang-huo-qiang/32.5.ipfilter-ipf.md)
-* [31.6.Blacklistd](di-32-zhang-fang-huo-qiang/31.6.blacklistd.md)
+* [32.6.Blacklistd](di-32-zhang-fang-huo-qiang/32.6.blacklistd.md)
 
 ## 第33章 高级网络
 
