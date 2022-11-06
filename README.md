@@ -10,7 +10,7 @@
 >
 > **当前文档的 PDF 实时更新地址为** [**https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf**](https://handbook.bsdcn.org/FreeBSD-简体中文手册.pdf)**，历史存档在 [Release](https://github.com/FreeBSD-Ask/Handbook/releases)。**
 
-> **版本说明**
+> **手册版本说明**
 >
 > 当前文档版本同步至官方文档 [2022-10-10 commit 6feb98a1718ebd4abf0c4cfc0445c1be3337db1a](https://github.com/freebsd/freebsd-doc/commit/6feb98a1718ebd4abf0c4cfc0445c1be3337db1a)。如需更新请提交 issue 或 pull request。
 
