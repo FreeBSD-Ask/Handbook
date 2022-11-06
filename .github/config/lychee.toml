@@ -78,6 +78,7 @@ headers = []
 # File URLs are excluded as they aren't checked properly and error out
 exclude = [
     "developer.aliyun.com/*",
+    "file:///*",
 ]
 
 # Exclude URLs contained in a file from checking
