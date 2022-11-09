@@ -109,12 +109,12 @@
 |           第 29 章：PPP           |         ykla      |          |          |
 |           第 30 章：电子邮件          |         ykla      |          |          |
 |          第 31 章：网络服务器          |          ykla     |          |          |
-|           第 32 章：防火墙           |               |          |          |
-|           第 33 章：高级网络          |               |          |          |
-|         附录 A：获取 FreeBSD        |               |          |          |
-|             附录 B：书目            |               |          |          |
-|            附录 C：网络资源           |               |          |          |
-|         附录 D：OpenPGP 密钥        |               |          |          |
+|           第 32 章：防火墙           |        ykla       |          |          |
+|           第 33 章：高级网络          |         ykla      |          |          |
+|         附录 A：获取 FreeBSD        |         ykla      |          |          |
+|             附录 B：书目            |     ykla          |          |          |
+|            附录 C：网络资源           |      ykla         |          |          |
+|         附录 D：OpenPGP 密钥        |     ykla          |          |          |
 |               术语表              |               |          |          |
 
 >> **章节之间的未标明部分也经过了校对。当前已校对章节仍然可能存在一些问题需要解决，见 [issue](https://github.com/FreeBSD-Ask/Handbook/issues)。**
