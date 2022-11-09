@@ -42,7 +42,7 @@
 |列表|用途|
 |:---:|:---:|
 |[freebsd-acpi](https://lists.freebsd.org/subscription/freebsd-acpi)|ACPI 和电源管理开发|
-|[freebsd-amd64](https://lists.freebsd.org/subscription/freebsd-amd64)|将 FreeBSD 移植到 AMD64 系统上(有人主持)|
+|[freebsd-amd64](https://lists.freebsd.org/subscription/freebsd-amd64)|将 FreeBSD 移植到 AMD64 系统上（有人主持）|
 |[freebsd-apache](https://lists.freebsd.org/subscription/freebsd-apache)|关于 Apache 相关 port 的讨论|
 |[freebsd-arm](https://lists.freebsd.org/subscription/freebsd-arm)|将 FreeBSD 移植到 ARM® 处理器上|
 |[freebsd-atm](https://lists.freebsd.org/subscription/freebsd-atm)|在 FreeBSD 中使用 ATM 网络|
@@ -123,9 +123,9 @@
 |[freebsd-virtualization](https://lists.freebsd.org/subscription/freebsd-virtualization)|讨论 FreeBSD 支持的各种虚拟化技术|
 |[freebsd-vuxml](https://lists.freebsd.org/subscription/freebsd-vuxml)|关于 VuXML 基础设施的讨论|
 |[freebsd-x11](https://lists.freebsd.org/subscription/freebsd-x11)|对 FreeBSD 上的 X11 进行维护和支持|
-|[freebsd-xen](https://lists.freebsd.org/subscription/freebsd-xen)|讨论 FreeBSD 对Xen™ 的移植--实现和使用|
-|[freebsd-xfce](https://lists.freebsd.org/subscription/freebsd-xfce)|XFCE for FreeBSD - 移植和维护|
-|[freebsd-zope](https://lists.freebsd.org/subscription/freebsd-zope)|Zope for FreeBSD - 移植和维护|
+|[freebsd-xen](https://lists.freebsd.org/subscription/freebsd-xen)|讨论 FreeBSD 对Xen™ 的移植——实现和使用|
+|[freebsd-xfce](https://lists.freebsd.org/subscription/freebsd-xfce)|XFCE for FreeBSD——移植和维护|
+|[freebsd-zope](https://lists.freebsd.org/subscription/freebsd-zope)|Zope for FreeBSD——移植和维护|
 
 *有限列表*。以下列表是为更专业的（和要求更高的）听众而设的，一般人可能不感兴趣。在加入这些有限列表之前，在技术列表中建立一个存在感也是一个好主意，以便了解其中的沟通礼仪。
 
@@ -142,13 +142,13 @@
 
 |列表|资源地址|说明|
 |:---:|:---:|:---:|
-|[dev-commits-doc-all](https://lists.freebsd.org/subscription/dev-commits-doc-all)|/usr/doc|对文档库的所有更改|
-|[dev-commits-ports-all](https://lists.freebsd.org/subscription/dev-commits-ports-all)|/usr/ports|对 ports 仓库的所有修改|
-|[dev-commits-ports-main](https://lists.freebsd.org/subscription/dev-commits-ports-main)|/usr/ports|对 ports 仓库的`main`分支的所有改动|
-|[dev-commits-ports-branches](https://lists.freebsd.org/subscription/dev-commits-ports-branches)|/usr/ports|对 ports 仓库的季度分支的所有改动|
-|[dev-commits-src-all](https://lists.freebsd.org/subscription/dev-commits-src-all)|/usr/src|对src版本库的所有修改|
-|[dev-commits-src-main](https://lists.freebsd.org/subscription/dev-commits-src-main)|/usr/src|对 src 仓库的`main`分支 (即 FreeBSD-CURRENT 分支) 所做的所有修改|
-|[dev-commits-src-branches](https://lists.freebsd.org/subscription/dev-commits-src-branches)|/usr/src|对 src 版本库所有稳定分支的所有修改|
+|[dev-commits-doc-all](https://lists.freebsd.org/subscription/dev-commits-doc-all)|**/usr/doc**|对文档库的所有更改|
+|[dev-commits-ports-all](https://lists.freebsd.org/subscription/dev-commits-ports-all)|**/usr/ports**|对 ports 仓库的所有修改|
+|[dev-commits-ports-main](https://lists.freebsd.org/subscription/dev-commits-ports-main)|**/usr/ports**|对 ports 仓库的“main”分支的所有改动|
+|[dev-commits-ports-branches](https://lists.freebsd.org/subscription/dev-commits-ports-branches)|**/usr/ports**|对 ports 仓库的季度分支的所有改动|
+|[dev-commits-src-all](https://lists.freebsd.org/subscription/dev-commits-src-all)|**/usr/src**|对 src 版本库的所有修改|
+|[dev-commits-src-main](https://lists.freebsd.org/subscription/dev-commits-src-main)|**/usr/src**|对 src 仓库的“main”分支 (即 FreeBSD-CURRENT 分支) 所做的所有修改|
+|[dev-commits-src-branches](https://lists.freebsd.org/subscription/dev-commits-src-branches)|**/usr/src**|对 src 版本库所有稳定分支的所有修改|
 
 SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准备的，这些日志信息是对源代码树的各个区域的修改。
 
@@ -158,30 +158,30 @@ SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准�
 
 |列表|资源地址|说明|
 |:---:|:---:|:---:|
-|[svn-doc-all](https://lists.freebsd.org/pipermail/svn-doc-all)|/usr/doc|对 doc Subversion 库的所有修改（除了用户、项目和翻译）。|
-|[svn-doc-head](https://lists.freebsd.org/pipermail/svn-doc-head)|/usr/doc|对 doc Subversion 库的`head`分支的所有修改|
-|[svn-doc-projects](https://lists.freebsd.org/pipermail/svn-doc-projects)|/usr/doc/projects|对 doc Subversion 库的项目区的所有更改|
-|[svn-doc-svnadmin](https://lists.freebsd.org/pipermail/svn-doc-svnadmin)|/usr/doc|对 doc Subversion 库的管理脚本、钩子和其他配置数据的所有更改|
-|[svn-ports-all](https://lists.freebsd.org/pipermail/svn-ports-all)|/usr/ports|对 ports Subversion 仓库的所有修改|
-|[svn-ports-head](https://lists.freebsd.org/pipermail/svn-ports-head)|/usr/ports|对 ports Subversion 仓库的`head`分支的所有修改|
-|[svn-ports-svnadmin](https://lists.freebsd.org/pipermail/svn-ports-svnadmin)|/usr/ports|对 ports Subversion 仓库的管理脚本、钩子和其他配置数据的所有修改|
-|[svn-src-all](https://lists.freebsd.org/pipermail/svn-src-all)|/usr/src|对src Subversion版本库的所有修改（除了用户和项目）。|
-|[svn-src-head](https://lists.freebsd.org/pipermail/svn-src-head)|/usr/src|对 src Subversion 仓库的`head`分支 (FreeBSD-CURRENT 分支) 的所有修改|
-|[svn-src-projects](https://lists.freebsd.org/pipermail/svn-src-projects)|/usr/projects|对 src Subversion 版本库的项目区域的所有更改|
-|[svn-src-release](https://lists.freebsd.org/pipermail/svn-src-release)|/usr/src|对 src Subversion 版本库的发布区域的所有修改|
-|[svn-src-releng](https://lists.freebsd.org/pipermail/svn-src-releng)|/usr/src|对 src Subversion 仓库的 releng 分支（安全/发布工程分支）的所有修改。|
-|[svn-src-stable](https://lists.freebsd.org/pipermail/svn-src-stable)|/usr/src|对 src Subversion 仓库的所有稳定分支的所有更改|
-|[svn-src-stable-6](https://lists.freebsd.org/pipermail/svn-src-stable-6)|/usr/src|对 src Subversion 仓库的 stable/6 分支的所有更改|
-|[svn-src-stable-7](https://lists.freebsd.org/pipermail/svn-src-stable-7)|/usr/src|对 src Subversion 仓库的 stable/7 分支的所有更改|
-|[svn-src-stable-8](https://lists.freebsd.org/pipermail/svn-src-stable-8)|/usr/src|对 src Subversion 仓库的 stable/8 分支的所有更改|
-|[svn-src-stable-9](https://lists.freebsd.org/pipermail/svn-src-stable-9)|/usr/src|对 src Subversion 仓库的 stable/9 分支的所有更改|
-|[svn-src-stable-10](https://lists.freebsd.org/pipermail/svn-src-stable-10)|/usr/src|对 src Subversion 仓库的 stable/10 分支的所有更改|
-|[svn-src-stable-11](https://lists.freebsd.org/pipermail/svn-src-stable-11)|/usr/src|对 src Subversion 仓库的 stable/11 分支的所有更改|
-|[svn-src-stable-12](https://lists.freebsd.org/pipermail/svn-src-stable-12)|/usr/src|对 src Subversion 仓库的 stable/12 分支的所有更改|
-|[svn-src-stable-other](https://lists.freebsd.org/pipermail/svn-src-stable-other)|/usr/src|对 src Subversion 仓库的旧稳定分支的所有更改|
-|[svn-src-svnadmin](https://lists.freebsd.org/pipermail/svn-src-svnadmin)|/usr/src|对 src Subversion 版本库的管理脚本、钩子和其他配置数据的所有更改|
-|[svn-src-user](https://lists.freebsd.org/pipermail/svn-src-user)|/usr/src|对 src Subversion 仓库的实验用户区的所有更改|
-|[svn-src-vendor](https://lists.freebsd.org/pipermail/svn-src-vendor)|/usr/src|对 src Subversion 仓库的供应商工作区的所有更改|
+|[svn-doc-all](https://lists.freebsd.org/pipermail/svn-doc-all)|**/usr/doc**|对 doc Subversion 库的所有修改（除了 **user、projects** 和 **translations**）。|
+|[svn-doc-head](https://lists.freebsd.org/pipermail/svn-doc-head)|**/usr/doc**|对 doc Subversion 库的“head”分支的所有修改|
+|[svn-doc-projects](https://lists.freebsd.org/pipermail/svn-doc-projects)|**/usr/doc/projects**|对doc Subversion 库的 **projects** 的所有修改|
+|[svn-doc-svnadmin](https://lists.freebsd.org/pipermail/svn-doc-svnadmin)|**/usr/doc**|对 doc Subversion 库的管理脚本、钩子和其他配置数据的所有更改|
+|[svn-ports-all](https://lists.freebsd.org/pipermail/svn-ports-all)|**/usr/ports**|对 ports Subversion 仓库的所有修改|
+|[svn-ports-head](https://lists.freebsd.org/pipermail/svn-ports-head)|**/usr/ports**|对 ports Subversion 仓库的“head”分支的所有修改|
+|[svn-ports-svnadmin](https://lists.freebsd.org/pipermail/svn-ports-svnadmin)|**/usr/ports**|对 ports Subversion 仓库的管理脚本、钩子和其他配置数据的所有修改|
+|[svn-src-all](https://lists.freebsd.org/pipermail/svn-src-all)|**/usr/src**|对src Subversion版本库的所有修改（除了用户和项目）。|
+|[svn-src-head](https://lists.freebsd.org/pipermail/svn-src-head)|**/usr/src**|对 src Subversion 仓库的“head”分支 (FreeBSD-CURRENT 分支) 的所有修改|
+|[svn-src-projects](https://lists.freebsd.org/pipermail/svn-src-projects)|**/usr/projects**|对 src Subversion 版本库的 **projects** 区域的所有更改|
+|[svn-src-release](https://lists.freebsd.org/pipermail/svn-src-release)|**/usr/src**|对 src Subversion 版本库的发布区域的所有修改|
+|[svn-src-releng](https://lists.freebsd.org/pipermail/svn-src-releng)|**/usr/src**|对 src Subversion 仓库的 **releng** 分支（安全/发布工程分支）的所有修改。|
+|[svn-src-stable](https://lists.freebsd.org/pipermail/svn-src-stable)|**/usr/src**|对 src Subversion 仓库的所有稳定分支的所有更改|
+|[svn-src-stable-6](https://lists.freebsd.org/pipermail/svn-src-stable-6)|**/usr/src**|对 src Subversion 仓库的 **stable/6** 分支的所有更改|
+|[svn-src-stable-7](https://lists.freebsd.org/pipermail/svn-src-stable-7)|**/usr/src**|对 src Subversion 仓库的 **stable/7** 分支的所有更改|
+|[svn-src-stable-8](https://lists.freebsd.org/pipermail/svn-src-stable-8)|**/usr/src**|对 src Subversion 仓库的 **stable/8** 分支的所有更改|
+|[svn-src-stable-9](https://lists.freebsd.org/pipermail/svn-src-stable-9)|**/usr/src**|对 src Subversion 仓库的 **stable/9** 分支的所有更改|
+|[svn-src-stable-10](https://lists.freebsd.org/pipermail/svn-src-stable-10)|**/usr/src**|对 src Subversion 仓库的 **stable/10** 分支的所有更改|
+|[svn-src-stable-11](https://lists.freebsd.org/pipermail/svn-src-stable-11)|**/usr/src**|对 src Subversion 仓库的 **stable/11** 分支的所有更改|
+|[svn-src-stable-12](https://lists.freebsd.org/pipermail/svn-src-stable-12)|**/usr/sr**|对 src Subversion 仓库的 **stable/12** 分支的所有更改|
+|[svn-src-stable-other](https://lists.freebsd.org/pipermail/svn-src-stable-other)|**/usr/src**|对 src Subversion 仓库的旧 **stable** 分支的所有更改|
+|[svn-src-svnadmin](https://lists.freebsd.org/pipermail/svn-src-svnadmin)|**/usr/src**|对 src Subversion 版本库的管理脚本、钩子和其他配置数据的所有更改|
+|[svn-src-user](https://lists.freebsd.org/pipermail/svn-src-user)|**/usr/src**|对 src Subversion 仓库的实验性的 **user** 区的所有更改|
+|[svn-src-vendor](https://lists.freebsd.org/pipermail/svn-src-vendor)|**/usr/src**|对 src Subversion 仓库的供应商工作区的所有更改|
 
 ## C.2.2.如何订阅
 
