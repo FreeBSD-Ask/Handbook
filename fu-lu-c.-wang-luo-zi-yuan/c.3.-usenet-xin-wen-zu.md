@@ -6,8 +6,8 @@
 
 - [comp.unix.bsd.freebsd.announce](news:comp.unix.bsd.freebsd.announce)
 - [comp.unix.bsd.freebsd.misc](news:comp.unix.bsd.freebsd.misc)
-- [de.comp.os.unix.bsd](news:de.comp.os.unix.bsd) (German)
-- [fr.comp.os.bsd](news:fr.comp.os.bsd) (French)
+- [de.comp.os.unix.bsd](news:de.comp.os.unix.bsd) (德语)
+- [fr.comp.os.bsd](news:fr.comp.os.bsd) (法语)
 
 ### C.3.2.其他可能会感兴趣的 UNIX® 新闻组 
 
