@@ -89,7 +89,7 @@ FreeBSD 项目使用 cgit 作为基于网络的版本仓库浏览器：<https://
 
 ## A.2.7. 邮件列表
 
-在 FreeBSD 项目中，关于 git 的一般使用和问题的主要邮件列表是 freebsd-git。更多细节，包括提交信息列表，请参见邮件列表章节。
+在 FreeBSD 项目中，关于 git 的一般使用和问题的主要邮件列表是 [freebsd-git](https://lists.freebsd.org/subscription/freebsd-git)。更多细节，包括提交信息列表，请参见[邮件列表](https://docs.freebsd.org/en/books/handbook/handbook/eresources/index.html#eresources-mail)章节。
 
 ## A.2.8. SSH 主机密钥
 
