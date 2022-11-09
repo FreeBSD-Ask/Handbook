@@ -2,51 +2,51 @@
 
 这个术语表包含了在 FreeBSD 社区和文档中使用的术语和首字母缩写。
 
-## A
-
+**A**
+***
 *ACL*
 
-见访问控制列表。
+见[访问控制列表](https://docs.freebsd.org/en/books/handbook/glossary/#acl-glossary)。
 
 *ACPI*
 
-见高级配置和电源接口。
+见[高级配置和电源接口](https://docs.freebsd.org/en/books/handbook/glossary/#acpi-glossary)。
 
 *AMD*
 
-见自动挂载程序。
+见[自动挂载守护程序](https://docs.freebsd.org/en/books/handbook/glossary/#amd-glossary)。
 
 *AML*
 
-见 ACPI 机器语言。
+见 [ACPI 机器语言](https://docs.freebsd.org/en/books/handbook/glossary/#aml-glossary)。
 
 *API*
 
-见应用编程接口。
+见[应用编程接口](https://docs.freebsd.org/en/books/handbook/glossary/#api-glossary)。
 
 *APIC*
 
-见高级可编程中断控制器。
+见[高级可编程中断控制器](https://docs.freebsd.org/en/books/handbook/glossary/#apic-glossary)。
 
 *APM*
 
-见高级电源管理。
+见[高级电源管理](https://docs.freebsd.org/en/books/handbook/glossary/#apm-glossary)。
 
 *APOP*
 
-见认证的邮局协议。
+见[经过认证的邮局协议](https://docs.freebsd.org/en/books/handbook/glossary/#apop-glossary)。
 
 *ASL*
 
-见 ACPI 源语言。
+见 [ACPI 源语言](https://docs.freebsd.org/en/books/handbook/glossary/#asl-glossary)。
 
 *ATA*
 
-见先进技术附件。
+见[高级技术附件](https://docs.freebsd.org/en/books/handbook/glossary/#ata-glossary)。
 
 *ATM*
 
-见异步传输模式。
+见[异步传输模式](https://docs.freebsd.org/en/books/handbook/glossary/#atm-glossary)。
 
 *ACPI Machine Language*
 
@@ -84,15 +84,15 @@ AML 采用的编程语言。
 
 一个当文件系统中的文件或目录被访问时自动挂载该文件系统的守护程序。
 
-## B
-
+**B**
+***
 *BAR*
 
-见基址寄存器。
+见[基址寄存器](https://docs.freebsd.org/en/books/handbook/glossary/#bar-glossary)。
 
 *BIND*
 
-见伯克利互联网名称域。
+见[伯克利互联网名称域](https://docs.freebsd.org/en/books/handbook/glossary/#bind-glossary)。
 
 *BIOS*
 
