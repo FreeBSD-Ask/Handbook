@@ -208,7 +208,7 @@ SVN 列表。以下列表是为那些对查看SVN日志信息感兴趣的人准�
 - 严禁宣传非 FreeBSD 相关的产品或服务，如果明显是以垃圾邮件的方式进行宣传，将被立即禁止。
 
 *个人名单列表*:
-***
+
 ***[freebsd-acpi](https://lists.freebsd.org/subscription/freebsd-announce)***
 
 ACPI 和电源管理开发
