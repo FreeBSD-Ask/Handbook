@@ -10,7 +10,7 @@
 
 - McKusick, Marshall Kirk, Keith Bostic, Michael J Karels, and John Quarterman. *The Design and Implementation of the 4.4BSD Operating System*. Reading, Mass. : Addison-Wesley, 1996. ISBN 0-201-54979-4
 
-  (Chapter 2 of this book is available [online](https://docs.freebsd.org/en/books/design-44bsd/) as part of the FreeBSD Documentation Project.)
+  (本书的第 2 章作为 FreeBSD 文档项目的一部分在[网上](https://docs.freebsd.org/en/books/design-44bsd/)提供。)
 
 - Marshall Kirk McKusick, George V. Neville-Neil *The Design and Implementation of the FreeBSD Operating System*. Boston, Mass. : Addison-Wesley, 2004. ISBN 0-201-70245-2
 
