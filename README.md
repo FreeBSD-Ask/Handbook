@@ -14,12 +14,6 @@
 >
 > 当前文档版本同步至官方文档 [2022-10-10 commit 6feb98a1718ebd4abf0c4cfc0445c1be3337db1a](https://github.com/freebsd/freebsd-doc/commit/6feb98a1718ebd4abf0c4cfc0445c1be3337db1a)。如需更新请提交 issue 或 pull request。
 
-> **警告**
->
-> **未校对部分为 Deepl 机器翻译，仅人工做了格式调整，请谨慎参考。**
->
-> 若发现已校对部分存在错误或者纰漏，你可以直接在发起 pull request 或 issue，也可以在交流群里直接 `@` 管理员。
-
 ## 译者相关
 
 **机器翻译相关**
@@ -115,7 +109,7 @@
 |             附录 B：书目            |     ykla          |          |          |
 |            附录 C：网络资源           |      ykla         |          |          |
 |         附录 D：OpenPGP 密钥        |     ykla          |          |          |
-|               术语表              |               |          |          |
+|               术语表              |          ykla       |          |          |
 
 >> **章节之间的未标明部分也经过了校对。当前已校对章节仍然可能存在一些问题需要解决，见 [issue](https://github.com/FreeBSD-Ask/Handbook/issues)。**
 
