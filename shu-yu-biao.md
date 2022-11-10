@@ -6,47 +6,47 @@
 
 ***ACL***
 
-见访问控制列表。
+见[访问控制列表](https://docs.freebsd.org/en/books/handbook/glossary/#acl-glossary)。
 
 ***ACPI***
 
-见高级配置和电源接口。
+见[高级配置和电源接口](https://docs.freebsd.org/en/books/handbook/glossary/#acpi-glossary)。
 
 ***AMD***
 
-见自动挂载程序。
+见[自动挂载程序](https://docs.freebsd.org/en/books/handbook/glossary/#amd-glossary)。
 
 ***AML***
 
-见 ACPI 机器语言。
+见 [ACPI 机器语言](https://docs.freebsd.org/en/books/handbook/glossary/#aml-glossary)。
 
 ***API***
 
-见应用编程接口。
+见[应用编程接口](https://docs.freebsd.org/en/books/handbook/glossary/#api-glossary)。
 
 ***APIC***
 
-见高级可编程中断控制器。
+见[高级可编程中断控制器](https://docs.freebsd.org/en/books/handbook/glossary/#apic-glossary)。
 
 ***APM***
 
-见高级电源管理。
+见[高级电源管理](https://docs.freebsd.org/en/books/handbook/glossary/#apm-glossary)。
 
 ***APOP***
 
-见认证的邮局协议。
+见[经过认证的邮局协议](https://docs.freebsd.org/en/books/handbook/glossary/#apop-glossary)。
 
 ***ASL***
 
-见 ACPI 源语言。
+见 [ACPI 源语言](https://docs.freebsd.org/en/books/handbook/glossary/#asl-glossary)。
 
 ***ATA***
 
-见先进技术附件。
+见[先进技术附件](https://docs.freebsd.org/en/books/handbook/glossary/#ata-glossary)。
 
 ***ATM***
 
-见异步传输模式。
+见[异步传输模式](https://docs.freebsd.org/en/books/handbook/glossary/#atm-glossary)。
 
 ***ACPI Machine Language***
 
@@ -56,31 +56,31 @@
 
 AML 采用的编程语言。
 
-***Access Control List***
+***Access Control List，访问控制列表***
 
 附加到一个对象的权限列表，通常是一个文件或一个网络设备。
 
-***Advanced Configuration and Power Interface***
+***Advanced Configuration and Power Interface，高级配置和电源接口***
 
 一种规范，它提供了硬件呈现给操作系统的接口的抽象，因此，操作系统应该不需要了解底层硬件就可以充分利用它。ACPI 发展并取代了以前由 APM、PNPBIOS 和其他技术提供的功能，并提供了控制功耗、机器暂停、设备启用和禁用等设施。
 
-***Application Programming Interface***
+***Application Programming Interface,应用编程接口***
 
 一套程序、协议和工具，规定了一个或多个程序部分的典型互动；它们如何、何时和为何一起工作，以及它们共享或操作什么数据。
 
-***Advanced Power Management***
+***Advanced Power Management，高级电源管理***
 
 一个 API，使操作系统能够与 BIOS 一起工作，以实现电源管理。在大多数应用中，APM 已经被更为通用和强大的 ACPI 规范所取代。
 
-***Advanced Programmable Interrupt Controller***
+***Advanced Programmable Interrupt Controller，高级可编程中断控制器***
 
-***Advanced Technology Attachment***
+***Advanced Technology Attachment，先进技术附件***
 
-***Asynchronous Transfer Mode***
+***Asynchronous Transfer Mode，异步传输模式***
 
-***Authenticated Post Office Protocol***
+***Authenticated Post Office Protocol，经过认证的邮局协议***
 
-***Automatic Mount Daemon***
+***Automatic Mount Daemon，自动挂载程序***
 
 一个当文件系统中的文件或目录被访问时自动挂载该文件系统的守护程序。
 
@@ -102,23 +102,23 @@ AML 采用的编程语言。
 
 见[伯克利软件套件](https://docs.freebsd.org/en/books/handbook/glossary/#bsd-glossary)。
 
-***Base Address Register***
+***Base Address Register，基址寄存器***
 
 决定 PCI 设备将响应哪个地址范围的寄存器。
 
-***Basic Input/Output System***
+***Basic Input/Output System，基本输入/输出系统***
 
 BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有基本程序集的 ROM 芯片，以提供软件和硬件之间的接口。另一些人把它称为芯片中包含的帮助启动系统的一套程序。有些人可能还把它称为用于配置启动过程的屏幕。BIOS 是 PC 特有的，但其他系统也有类似的东西。
 
-***Berkeley Internet Name Domain***
+***Berkeley Internet Name Domain，伯克利互联网名称域***
 
 一个 DNS 协议的实现。
 
-***Berkeley Software Distribution***
+***Berkeley Software Distribution，伯克利软件套件***
 
 这是[加州大学伯克利分校](http://www.berkeley.edu/)的计算机系统研究小组（CSRG）为他们对 AT&T 的 32V UNIX® 的改进和修改所起的名字。FreeBSD 是 CSRG 工作的后裔。
 
-***Bikeshed Building***
+***Bikeshed Building，自行车棚效应***
 
 一种现象，即许多人对一个不复杂的话题发表意见，而对一个复杂的话题却很少或没有讨论。关于该术语的起源，请参见 [FAQ](https://docs.freebsd.org/en/books/faq/#bikeshed-painting)。
 
@@ -148,27 +148,27 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 见[清除发送](https://docs.freebsd.org/en/books/handbook/glossary/#cts-glossary)。
 
-***Carrier Detect***
+***Carrier Detect，载波检测***
 
 一个 RS232C 信号，表示已经检测到载波。
 
-***Central Processing Unit***
+***Central Processing Unit，中央处理单元***
 
 也被称为处理器。这是计算机的大脑，所有计算都在这里进行。有许多不同的架构，有不同的指令集。其中比较知名的是 英特尔 -x86 及其衍生产品、Arm 和 PowerPC。
 
-***Challenge Handshake Authentication Protocol***
+***Challenge Handshake Authentication Protocol，挑战握手认证协议***
 
 一种基于客户端和服务器之间共享的秘密来验证用户身份的方法。
 
-***Classical IP over ATM***
+***Classical IP over ATM，ATM 上的经典 IP***
 
-***Clear To Send***
+***Clear To Send，，清除发送***
 
 一个 RS232C 信号，给予远程系统发送数据的许可。
 
 另见[请求发送](https://docs.freebsd.org/en/books/handbook/glossary/#rts-glossary)。
 
-***Common Object File Format***
+***Common Object File Format，通用对象文件格式***
 
 ******D******
 *********
@@ -194,7 +194,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 ***DSDT***
 
-见[差异化的系统描述表](https://docs.freebsd.org/en/books/handbook/glossary/#dsdt-glossary)。
+见[区分系统描述表](https://docs.freebsd.org/en/books/handbook/glossary/#dsdt-glossary)。
 
 ***DSR***
 
@@ -206,39 +206,39 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 ***DVMRP***
 
-见[距离矢量多播路由协议](https://docs.freebsd.org/en/books/handbook/glossary/#dvmrp-glossary)。
+见[距离矢量组播路由选择协议](https://docs.freebsd.org/en/books/handbook/glossary/#dvmrp-glossary)。
 
-***Discretionary Access Control***
+***Discretionary Access Control，自由裁量的访问控制***
 
-***Data Encryption Standard***
+***Data Encryption Standard，数据加密标准***
 
 一种加密信息的方法，传统上被用作 UNIX® 密码和 crypt(3) 函数的加密方法。
 
-***Data Set Ready***
+***Data Set Ready，数据集就绪***
 
 从调制解调器发送至计算机或终端的 RS232C 信号，表示准备好发送和接收数据。
 
 另见[数据终端就绪](https://docs.freebsd.org/en/books/handbook/glossary/#dtr-glossary)。
 
-***Data Terminal Ready***
+***Data Terminal Ready，数据终端就绪***
 
 从计算机或终端发送至调制解调器的 RS232C 信号，表示准备好发送和接收数据。
 
-***Debugger***
+***Debugger，调试器***
 
 一种用于检查系统状态的交互式内核设施，通常在系统崩溃后使用，以确定围绕故障的事件。
 
-***Differentiated System Description Table***
+***Differentiated System Description Table，区分系统描述表***
 
-一个ACPI表，提供关于基本系统的基本配置信息。
+ACPI 表，提供关于基本系统的基本配置信息。
 
-***Distance-Vector Multicast Routing Protocol***
+***Distance-Vector Multicast Routing Protocol，距离矢量组播路由选择协议***
 
-***Domain Name System***
+***Domain Name System，域名系统***
 
 将人类可读的主机名（即mail.example.net）转换为互联网地址的系统，反之亦然。
 
-***Dynamic Host Configuration Protocol***
+***Dynamic Host Configuration Protocol，动态主机配置协议***
 
 当一台计算机（主机）向服务器请求 IP 地址时，该协议会动态地分配给它。该地址分配被称为“租赁”。
 
@@ -256,11 +256,11 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 见[封装安全有效载荷](https://docs.freebsd.org/en/books/handbook/glossary/#esp-glossary)。
 
-***Encapsulated Security Payload***
+***Encapsulated Security Payload，封装安全有效载荷***
 
-***Executable and Linking Format***
+***Executable and Linking Format，可执行和链接格式***
 
-***Extended COFF***
+***Extended COFF，扩展的 COFF***
 
 ******F******
 *********
@@ -274,21 +274,21 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 ***FAT16***
 
-见文件分配表（16 位）。
+见[文件分配表（16 位）](https://docs.freebsd.org/en/books/handbook/glossary/#fat16-glossary)。
 
 ***FTP***
 
 见[文件传输协议](https://docs.freebsd.org/en/books/handbook/glossary/#ftp-glossary)。
 
-***File Allocation Table***
+***File Allocation Table，文件分配表***
 
-***File Allocation Table (16-bit)***
+***File Allocation Table (16-bit)，文件分配表（16 位）***
 
-***File Transfer Protocol***
+***File Transfer Protocol，文件传输协议***
 
 在 TCP 基础上实现的高级协议系列的一个成员，可用于在 TCP/IP 网络上传输文件。
 
-***Fixed ACPI Description Table***
+***Fixed ACPI Description Table，固定 ACPI 描述表***
 
 **G**
 ***
@@ -300,7 +300,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 一个保护大量内核资源的互斥机制（sleep `mutex`）的名称。尽管在一台机器可能只有几十个进程，一块网卡，当然也只有一个处理器的时代，简单的锁机制已经足够了，但在现在，它是一个不可接受的性能瓶颈。FreeBSD 的开发者们正在积极努力用保护单个资源的锁来取代它，这将使单处理器和多处理器的机器都能有更大程度的并行性。
 
-***Graphical User Interface***
+***Graphical User Interface，图形用户界面***
 
 一个用户和计算机与图形互动的系统。
 
@@ -316,7 +316,7 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 ***HangUp***
 
-***HyperText Markup Language***
+***HyperText Markup Language，超文本标记语言***
 
 用来创建网页的标记语言。
 
@@ -358,37 +358,37 @@ BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有
 
 见[互联网服务提供商](https://docs.freebsd.org/en/books/handbook/glossary/#isp-glossary)。
 
-***IP Firewall***
+***IP Firewall，IP 防火墙***
 
-***IP Version 4***
+***IP Version 4，第 4 版 IP***
 
 第 4 版 IP，使用 32 位进行寻址。这个版本仍然是使用最广泛的，但它正慢慢被 IPv6 取代。
 
 另见[第 6 版 IP](https://docs.freebsd.org/en/books/handbook/glossary/#ipv6-glossary)。
 
-***IP Version 6***
+***IP Version 6，第 6 版 IP***
 
 新的 IP 协议。发明的原因是 IPv4 的地址空间正在耗尽。使用 128 位进行寻址。
 
-***Input/Output***
+***Input/Output，输入/输出***
 
-***Intel’s ASL compiler***
+***Intel’s ASL compiler，英特尔的 ASL 编译器***
 
 英特尔用于将 ASL 转换为 AML 的编译器。
 
-***Internet Message Access Protocol***
+***Internet Message Access Protocol，互联网信息访问协议***
 
 一种用于访问邮件服务器上的电子邮件信息的协议，其特点是信息通常保存在服务器上，而不是下载到邮件阅读器客户端。
 
-See Also Post Office Protocol Version 3.
+另见邮政协议版本 3。
 
-***Internet Printing Protocol***
+***Internet Printing Protocol，互联网打印协议***
 
-***Internet Protocol***
+***Internet Protocol，互联网协议***
 
 数据包传输协议，是互联网上的基本协议。最初在美国国防部开发，是 TCP/IP 协议栈的一个极其重要的部分。没有互联网协议，互联网就不会成为今天的样子。更多信息，见 [RFC 791](ftp://ftp.rfc-editor.org/in-notes/rfc791.txt)。
 
-***Internet Service Provider***
+***Internet Service Provider，互联网服务提供商***
 
 一家提供互联网接入的公司。
 
@@ -416,23 +416,23 @@ KAME 是日语“乌龟”的意思，在计算机界被用来指 [KAME 项目](
 
 ***Kbps***
 
-见每秒公斤级比特。
+见[千比特每秒](https://docs.freebsd.org/en/books/handbook/glossary/#kbps-glossary)。
 
 ***Kernel [ld(1)](https://www.freebsd.org/cgi/man.cgi?query=ld&sektion=1&format=html)***
 
 一种在不重启系统的情况下动态加载功能到 FreeBSD 内核的方法。
 
-***Kernel Scheduler Entities***
+***Kernel Scheduler Entities，内核调度器实体***
 
 一个由内核支持的线程系统。更多细节请见[项目主页](http://www.freebsd.org/kse)。
 
-***Kernel Virtual Address***
+***Kernel Virtual Address，内核虚拟地址***
 
-***Key Distribution Center***
+***Key Distribution Center，密钥分配中心***
 
-***Kilo Bits Per Second***
+***Kilo Bits Per Second，千比特每秒***
 
-用于测量带宽（在指定的时间内有多少数据可以通过一个给定的点）。Kilo 前缀的替代品包括 Mega、Giga、Tera，等等。
+用于测量带宽（在指定的时间内有多少数据可以通过一个给定的点）。可用 Mega、Giga、Tera 等代替前缀 Kilo。
 
 **L**
 ***
@@ -442,15 +442,15 @@ KAME 是日语“乌龟”的意思，在计算机界被用来指 [KAME 项目](
 
 ***LOR***
 
-见[锁令逆转](https://docs.freebsd.org/en/books/handbook/glossary/#lor-glossary)。
+见[Lock Order Reversal](https://docs.freebsd.org/en/books/handbook/glossary/#lor-glossary)。
 
 ***LPD***
 
 见[行式打印机守护程序](https://docs.freebsd.org/en/books/handbook/glossary/#lpd-glossary)。
 
-***Line Printer Daemon***
+***Line Printer Daemon，行式打印机守护程序***
 
-***Local Area Network***
+***Local Area Network，局域网***
 
 在局部地区使用的网络，如办公室、家庭等。
 
@@ -506,27 +506,27 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 见[邮件用户代理](https://docs.freebsd.org/en/books/handbook/glossary/#mua-glossary)。
 
-***Mail Transfer Agent***
+***Mail Transfer Agent，邮件传输代理***
 
 一个用于传输电子邮件的应用程序。传统上，MTA 是 BSD 基本系统的一部分。今天，Sendmail 被包含在基本系统中，但还有许多其他的 MTA，如 postfix、qmail 和 Exim。
 
-***Mail User Agent***
+***Mail User Agent，邮件用户代理***
 
 用户用于显示和书写电子邮件的应用程序。
 
-***Mandatory Access Control***
+***Mandatory Access Control，强制访问控制***
 
-***Massachusetts Institute of Technology***
+***Massachusetts Institute of Technology，麻省理工学院***
 
-***Merge From Current***
+***Merge From Current，从 Current 合并***
 
 将功能或补丁从 -CURRENT 分支合并到另一个分支，通常是 -STABLE。
 
-***Merge From Head***
+***Merge From Head，从 Head 合并***
 
 将版本库 HEAD 中的功能或补丁合并到一个较早的分支。
 
-***Merge From Stable***
+***Merge From Stable，从 Stable 合并***
 
 在正常的 FreeBSD 开发过程中，一个修改在被合并到 -STABLE 之前会被提交到 -CURRENT 分支进行测试。在极少数情况下，一个改动会先进入 -STABLE，然后被合并到 -CURRENT。
 
@@ -534,15 +534,15 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 另请参见[从 Current 合并](https://docs.freebsd.org/en/books/handbook/glossary/#mfc-glossary)。
 
-***Merge From Vendor***
+***Merge From Vendor，从 Vendor 处合并***
 
-***Message Of The Day***
+***Message Of The Day，今日消息***
 
 一条信息，通常在登录时显示，通常用于向系统的用户分发信息。
 
-***Multi-Level Security***
+***Multi-Level Security，多级安全***
 
-***Multiple APIC Description Table***
+***Multiple APIC Description Table，多 APIC 描述表***
 
 **N**
 ***
@@ -566,17 +566,17 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 见[网络时间协议](https://docs.freebsd.org/en/books/handbook/glossary/#ntp-glossary)。
 
-***Network Address Translation***
+***Network Address Translation，网络地址转换***
 
 一种技术，IP 数据包在通过网关时被改写，使网关后面的许多机器能够有效地共享一个 IP 地址。
 
-***Network File System***
+***Network File System，网络文件系统***
 
-***New Technology File System***
+***New Technology File System，新技术文件系统***
 
 一种由微软开发的文件系统，可用于其“新技术”操作系统，如 Windows® 2000、Windows NT® 和 Windows® XP。
 
-***Network Time Protocol***
+***Network Time Protocol，网络时间协议***
 
 通过网络同步时钟的一种手段。
 
@@ -594,13 +594,13 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 见[操作系统](https://docs.freebsd.org/en/books/handbook/glossary/#os-glossary)。
 
-***On-Demand Mail Relay***
+***On-Demand Mail Relay，按需邮件中继***
 
-***Operating System***
+***Operating System，操作系统***
 
 一组程序、库和工具，提供对计算机硬件资源的访问。今天，操作系统的范围从支持一次只运行一个程序、只访问一个设备的简单设计到完全的多用户、多任务和多进程系统，这些系统可以同时为成千上万的用户服务，每个用户都运行几十个不同的应用程序。
 
-***Overtaken By Events***
+***Overtaken By Events，被事件所取代***
 
 表示建议的修改（例如问题报告或功能请求），由于后来 FreeBSD 的变化、 网络标准的变化、 受影响的硬件已经过时等原因，已经不再相关或适用。
 
@@ -608,7 +608,7 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 ***PAE***
 
-见[物理地址扩展[(https://docs.freebsd.org/en/books/handbook/glossary/#pae-glossary)。
+见[物理地址扩展](https://docs.freebsd.org/en/books/handbook/glossary/#pae-glossary)。
 
 ***PAM***
 
@@ -662,9 +662,9 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 见[以太网上的 PPP](https://docs.freebsd.org/en/books/handbook/glossary/#pppoe-glossary)。
 
-***PPP over ATM***
+***PPP over ATM，ATM 上的 PPP***
 
-***PPP over Ethernet***
+***PPP over Ethernet，以太网上的 PPP***
 
 ***PR***
 
@@ -674,13 +674,13 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 见[预启动执行环境](https://docs.freebsd.org/en/books/handbook/glossary/#pxe-glossary)。
 
-***Password Authentication Protocol***
+***Password Authentication Protocol，密码认证协议***
 
-***Personal Computer***
+***Personal Computer，个人电脑***
 
-***Personal Computer Network File System Daemon***
+***Personal Computer Network File System Daemon，个人计算机网络文件系统守护程序***
 
-***Physical Address Extensions***
+***Physical Address Extensions，物理地址扩展***
 
 一种使系统能够访问高达 64GB 的 RAM 的方法，这些系统只具有 32 位宽的地址空间（因此在没有 PAE 的情况下会被限制在 4GB）。
 
