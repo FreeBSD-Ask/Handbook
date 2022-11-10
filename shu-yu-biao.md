@@ -640,11 +640,11 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 ***POP***
 
-见[邮局协议](https://docs.freebsd.org/en/books/handbook/glossary/#pop-glossary)。
+见[邮件协议](https://docs.freebsd.org/en/books/handbook/glossary/#pop-glossary)。
 
 ***POP3***
 
-见[邮局协议版本 3](https://docs.freebsd.org/en/books/handbook/glossary/#pop3-glossary)。
+见[邮件协议版本 3](https://docs.freebsd.org/en/books/handbook/glossary/#pop3-glossary)。
 
 ***PPD***
 
@@ -684,31 +684,31 @@ FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 Fr
 
 一种使系统能够访问高达 64GB 的 RAM 的方法，这些系统只具有 32 位宽的地址空间（因此在没有 PAE 的情况下会被限制在 4GB）。
 
-***Pluggable Authentication Modules***
+***Pluggable Authentication Modules，可插入式认证模块***
 
-***Point-to-Point Protocol***
+***Point-to-Point Protocol，点对点协议***
 
 ***Pointy Hat***
 
 一件神话般的头饰，很像一顶傻瓜帽，它被授予任何破坏构建、使修订号倒退或在源代码库中制造任何其他破坏的 FreeBSD committer。任何有价值的提交者都会很快积累起一个庞大的收藏。其用法是（几乎总是如此）幽默的。
 
-***Portable Document Format***
+***Portable Document Format，便携式文档格式***
 
-***Post Office Protocol***
+***Post Office Protocol，邮件协议***
 
-[另见邮政协议版本 3](https://docs.freebsd.org/en/books/handbook/glossary/#imap-glossary)。
+[另见邮件协议版本 3](https://docs.freebsd.org/en/books/handbook/glossary/#imap-glossary)。
 
-***Post Office Protocol Version 3***
+***Post Office Protocol Version 3，邮件协议版本 3***
 
 一种用于访问邮件服务器上的电子邮件信息的协议，其特点是信息通常从服务器下载到客户端，而不是留在服务器上。
 
 另见互联网信息访问协议。
 
-***PostScript Printer Description***
+***PostScript Printer Description，PostScript 打印机描述***
 
-***Preboot eXecution Environment***
+***Preboot eXecution Environment，预启动执行环境***
 
-***Principle Of Least Astonishment***
+***Principle Of Least Astonishment,最小惊奇原则***
 
 随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如，在 **/etc/defaults/rc.conf** 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑 POLA。
 
@@ -776,31 +776,31 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 [另见传输的数据](https://docs.freebsd.org/en/books/handbook/glossary/#td-glossary)。
 
-***Recommended Standard 232C***
+***Recommended Standard 232C，232C 标准***
 
 串行设备之间的通信标准。
 
-***Reduced Instruction Set Computer***
+***Reduced Instruction Set Computer，精简指令集计算机***
 
 一种处理器的设计方法，硬件可以执行的操作被简化，但尽可能做到通用。这可以导致更低的功耗，更少的晶体管，在某些情况下，更好的性能和增加代码密度。RISC 处理器的例子包括 Alpha、SPARC®、ARM®和PowerPC®。
 
-***Redundant Array of Inexpensive Disks***
+***Redundant Array of Inexpensive Disks，独立冗余磁盘阵列***
 
-***Remote Procedure Call***
+***Remote Procedure Call，远程过程调用***
 
-***Request For Comments***
+***Request For Comments，征求意见稿***
 
 一套定义互联网标准、协议等的文件。见 <www.rfc-editor.org>。
 
 当有人提出修改建议并希望得到反馈时，也可作为一个一般术语使用。
 
-***Request To Send***
+***Request To Send，请求发送***
 
 一个 RS232C 信号，要求远程系统开始传输数据。
 
 [另见清除发送](https://docs.freebsd.org/en/books/handbook/glossary/#cts-glossary)。
 
-***Router Advertisement***
+***Router Advertisement，路由器通告***
 
 **S**
 ***
@@ -838,35 +838,35 @@ NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需�
 
 ***STR***
 
-见 [Suspend To RAM](https://docs.freebsd.org/en/books/handbook/glossary/#str-glossary)。
+见 [挂起到内存](https://docs.freebsd.org/en/books/handbook/glossary/#str-glossary)。
 
 ***SVN***
 
 见 [Subversion](https://docs.freebsd.org/en/books/handbook/glossary/#svn-glossary)。
 
-***SMTP Authentication***
+***SMTP Authentication，SMTP 认证***
 
-***Server Message Block***
+***Server Message Block，服务器消息区块***
 
-***Signal Ground***
+***Signal Ground，信号地线***
 
 RS232 引脚或导线，是信号的接地参考。
 
-***Simple Mail Transfer Protocol***
+***Simple Mail Transfer Protocol，简单邮件传输协议***
 
-***Secure Shell***
+***Secure Shell，安全 shell***
 
-***Small Computer System Interface***
+***Small Computer System Interface，小型计算机系统接口***
 
 ***Subversion***
 
 Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
 
-***Suspend To RAM***
+***Suspend To RAM，挂起到内存***
 
-***Symmetric MultiProcessor***
+***Symmetric MultiProcessor，对称多处理器***
 
-***System Control Interrupt***
+***System Control Interrupt，系统控制中断***
 
 **T**
 ***
@@ -888,33 +888,33 @@ Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
 
 ***TGT***
 
-见[凭据](https://docs.freebsd.org/en/books/handbook/glossary/#tgt-glossary)。
+见[凭据授予](https://docs.freebsd.org/en/books/handbook/glossary/#tgt-glossary)。
 
 ***TSC***
 
 见[时间戳计数器](https://docs.freebsd.org/en/books/handbook/glossary/#tsc-glossary)。
 
-***Ticket-Granting Ticket***
+***Ticket-Granting Ticket，凭据授予***
 
-***Time Stamp Counter***
+***Time Stamp Counter，时间戳计数器***
 
 现代 Pentium® 处理器内部的剖析计数器，计算核心频率的时钟刻度。
 
-***Transmission Control Protocol***
+***Transmission Control Protocol，传输控制协议***
 
 一种位于（例如）IP 协议之上的协议，保证数据包以可靠、有序的方式交付。
 
-***Transmission Control Protocol/Internet Protocol***
+***Transmission Control Protocol/Internet Protocol，传输控制协议/互联网协议***
 
 在 IP 协议上运行的 TCP 协议的组合术语。互联网的大部分内容都在 TCP/IP 上运行。
 
-***Transmitted Data***
+***Transmitted Data，传输的数据***
 
 一个 RS232C 针脚或电线，数据通过它传输。
 
 [另见接收的数据](https://docs.freebsd.org/en/books/handbook/glossary/#rd-glossary)。
 
-***Trivial FTP***
+***Trivial FTP，简单的 FTP***
 
 **U**
 ***
