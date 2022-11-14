@@ -27,7 +27,7 @@ Subversion 可以从 ports  中安装:
 # make install clean
 ```
 
-也可以作为一个软件包来安装 Subversion：
+也可以通过软件包来安装 Subversion：
 
 ```
 # pkg install subversion
