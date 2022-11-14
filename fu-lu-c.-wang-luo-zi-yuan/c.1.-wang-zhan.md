@@ -22,6 +22,6 @@ FreeBSD 的快速发展使得印刷媒体作为跟踪最新发展的手段变得
 
 - [超级用户](https://superuser.com/questions/tagged/freebsd)和[服务器故障](https://serverfault.com/questions/tagged/freebsd)，系统管理员的 Stack Exchange 服务。
 
-- {FreeBSD Discord 服务器](https://wiki.freebsd.org/Discord)，是一个通信和社区建设服务，FreeBSD 社区成员可以在这里进行社交，获得支持或支持他人，学习，贡献，合作，并保持与所有 FreeBSD 相关的最新信息。
+- [FreeBSD Discord 服务器](https://wiki.freebsd.org/Discord)，是一个通信和社区建设服务，FreeBSD 社区成员可以在这里进行社交，获得支持或支持他人，学习，贡献，合作，并保持与所有 FreeBSD 相关的最新信息。
 
 - [IRC 频道](https://wiki.freebsd.org/IRC/Channels)，广泛实施的、技术成熟的、开放标准的文本聊天。
