@@ -4,7 +4,7 @@
 
 ## 国际性的书籍
 
-- [FreeBSD 入門與應用](http://jdli.tw.freebsd.org/publication/book/freebsd2/index.htm)（繁体中文），由[博硕文化](http://www.drmaster.com.tw/)出版于 1997。ISBN 9-578-39435-7。
+- [FreeBSD 入门与应用](http://jdli.tw.freebsd.org/publication/book/freebsd2/index.htm)（繁体中文），由[博硕文化](http://www.drmaster.com.tw/)出版于 1997。ISBN 9-578-39435-7。
 
 - FreeBSD 技术内幕（简体中文翻译），由[中国机械工业出版社](http://www.hzbook.com/)出版。ISBN 7-111-10201-0。
 
@@ -38,16 +38,16 @@
 
 ## 英文书籍
 
-- Absolute FreeBSD: The Complete Guide To FreeBSD, Third Edition, published by [No Starch Press](http://www.nostarch.com/), 2018. ISBN: 9781593278922
+- Absolute FreeBSD: The Complete Guide To FreeBSD 第三版，由 [No Starch Press](http://www.nostarch.com/) 出版于 2018。ISBN: 9781593278922
 
-- The Complete FreeBSD, published by [O’Reilly](http://www.oreilly.com/), 2003. ISBN: 0596005164
+- The Complete FreeBSD，由 [O’Reilly](http://www.oreilly.com/) 出版于 2003，ISBN: 0596005164
 
-- [The FreeBSD Corporate Networker’s Guide]([http://www.freebsdmall.com/cgi-bin/fm/bsdcomp](http://www.freebsd-corp-net-guide.com/)), published by [Addison-Wesley](http://www.awl.com/aw/), 2000. ISBN: 0201704811
+- [The FreeBSD Corporate Networker’s Guide]([http://www.freebsdmall.com/cgi-bin/fm/bsdcomp](http://www.freebsd-corp-net-guide.com/)) 由 [Addison-Wesley](http://www.awl.com/aw/) 出版于 2000，ISBN: 0201704811
 
-- FreeBSD: An Open-Source Operating System for Your Personal Computer, published by The Bit Tree Press, 2001. ISBN: 0971204500
+- FreeBSD: An Open-Source Operating System for Your Personal Computer，由 The Bit Tree Press 出版于 2001。ISBN: 0971204500
 
-- Teach Yourself FreeBSD in 24 Hours, published by [Sams](http://www.samspublishing.com/), 2002. ISBN: 0672324245
+- Teach Yourself FreeBSD in 24 Hours，由 [Sams](http://www.samspublishing.com/) 出版于 2002。ISBN: 0672324245
 
-- FreeBSD 6 Unleashed, published by [Sams](http://www.samspublishing.com/), 2006. ISBN: 0672328755
+- FreeBSD 6 Unleashed 由 [Sams](http://www.samspublishing.com/) 出版于 2006。ISBN: 0672328755
 
-- FreeBSD: The Complete Reference, published by [McGrawHill](http://books.mcgraw-hill.com/), 2003. ISBN: 0072224096
+- FreeBSD: The Complete Reference，由 [McGrawHill](http://books.mcgraw-hill.com/) 出版于 2003。ISBN: 0072224096
