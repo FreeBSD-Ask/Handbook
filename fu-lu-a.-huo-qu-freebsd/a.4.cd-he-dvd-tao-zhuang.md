@@ -13,9 +13,9 @@ FreeBSD 的 CD 和 DVD 套装可以从以下几个在线零售商那里买到：
   
   　　USA 
 
-　　Phone: +1 925 240-6652 
+　　手机： +1 925 240-6652 
 
-　　Fax: +1 925 674-0821 
+　　传真：+1 925 674-0821 
 
 　　Email: info@freebsdmall.com 
 
@@ -33,7 +33,7 @@ FreeBSD 的 CD 和 DVD 套装可以从以下几个在线零售商那里买到：
   
   　　Germany 
 
-　　Phone: +49 171 417 544 6 
+　　手机： +49 171 417 544 6 
 
 　　Email: infow@hinner.de 
 
