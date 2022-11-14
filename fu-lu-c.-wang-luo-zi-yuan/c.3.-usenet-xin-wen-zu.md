@@ -1,6 +1,6 @@
 # C.3. Usenet 新闻组
 
-除了两个专门的FreeBSD新闻组之外，还有许多其他讨论 FreeBSD 或与 FreeBSD 用户相关的新闻组。
+除了两个专门的 FreeBSD 新闻组之外，还有许多其他讨论 FreeBSD 或与 FreeBSD 用户相关的新闻组。
 
 ### C.3.1.BSD 专用新闻组
 
