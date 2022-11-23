@@ -4,7 +4,7 @@
 
 |英语|翻译|说明|
 |:---:|:---:|:---:|
-|copyleft|版权/著作权|根据【著作权法】所述：本法所称的著作权即版权。copyleft 即不会施加类似于 GPL 这种版权协议的限制，如强制开源等。|
+|copyleft|著佐权|copyleft 即不会施加类似于 GPL 这种版权协议的限制，如强制开源等。|
 |Mandatory Access Control|强制访问控制||
 |masquerade|冒充|但是 IP masquerading 为 IP 伪装|
 |remote groups|异地团体?|不知道怎么翻译|
