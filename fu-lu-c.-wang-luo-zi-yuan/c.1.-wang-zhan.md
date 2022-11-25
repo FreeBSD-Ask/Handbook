@@ -4,7 +4,7 @@ FreeBSD 的快速发展使得印刷媒体作为跟踪最新发展的手段变得
 
 下面列出了与 FreeBSD 用户社区最重要的联系点。在 [FreeBSD Wiki](https://wiki.freebsd.org/Community) 上的社区门户网站上有一个可能是最新的列表。请将这里没有提到的其他资源发送到 [FreeBSD 文档项目的邮件列表](https://lists.freebsd.org/subscription/freebsd-doc)中，以便它们也能被包括在内。
 
-## C.1. 网站
+# C.1. 网站
 
 - [FreeBSD 论坛](https://forums.freebsd.org/)为 FreeBSD 问题和技术讨论提供了一个基于网络的讨论区。
 
