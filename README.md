@@ -145,6 +145,8 @@
 
 ## 翻译指南
 
+翻译人员应该加入 **QQ 群** _**512905950**_。**注意，此群仅讨论翻译相关事宜，其他事项者将被移出。**
+
 [https://docs.qq.com/doc/DSUtxYmVwU29EdGVn](https://docs.qq.com/doc/DSUtxYmVwU29EdGVn)
 
 ## 关于
