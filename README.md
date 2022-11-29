@@ -42,7 +42,7 @@
 |      第 14 章：FreeBSD 的引导过程      |     徐艺扬     |     ykla、冰、歸野鴿    |
 |            第 15 章：安全           |      陈诚     |       ykla、冰      |
 |           第 16 章：Jail          |      陈诚     |       ykla、冰      |
-|          第 16 章：强制访问控制         |      陈诚     |       ykla、冰      |
+|          第 17 章：强制访问控制         |      陈诚     |       ykla、冰      |
 |          第 18 章：安全事件审计         |      冰      |      ykla、歸野鴿     |
 |            第 19 章：存储           | Jasonlecson |       ykla、冰      |
 |     第 20 章：GEOM: 模块化磁盘转换框架     | Jasonlecson |       ykla、冰      |
