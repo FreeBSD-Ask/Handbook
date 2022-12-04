@@ -63,7 +63,7 @@ FreeBSD 项目使用 cgit 作为基于网络的版本仓库浏览器：<https://
 
 ## A.2.5. 对于开发者
 
-关于对存储库的写入权限的信息，请参见 [Committer 指南](https://docs.freebsd.org/en/articles/committers-guide/#git-mini-primer)。
+关于对存储库的写入权限的信息，请参见 [提交者指南](https://docs.freebsd.org/en/articles/committers-guide/#git-mini-primer)。
 
 ## A.2.6. 外部镜像
 

@@ -6,6 +6,7 @@
 |:---:|:---:|:---:|
 |copyleft|著佐权|copyleft 即不会施加类似于 GPL 这种版权协议的限制，如强制开源等。|
 |Mandatory Access Control|强制访问控制||
+|committers|提交者||
 |masquerade|冒充|但是 IP masquerading 为 IP 伪装|
 |remote groups|异地团体?|不知道怎么翻译|
 |layer 4-7|第4-7 层||
