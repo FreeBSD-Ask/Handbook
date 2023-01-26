@@ -1,6 +1,6 @@
 # 目录
 
-* [FreeBSD 手册翻译项目](./)
+* [FreeBSD 手册翻译项目](README.md)
 * [译者说明](yi-zhe-shuo-ming.md)
 * [目录](mu-lu.md)
 * [FreeBSD 手册](freebsd-shou-ce.md)
@@ -9,9 +9,10 @@
 ## 前言
 
 * [致读者](qian-yan/zhi-du-zhe.md)
-* [第四版的主要变化](qian-yan/di-san-ban.md)
-* [第三版的主要变化（2004）](qian-yan/di-er-ban-2004.md)
-* [第二版的主要变化（2001）](qian-yan/di-yi-ban-2001.md)
+* [第四版](qian-yan/di-si-ban.md)
+* [第三版](qian-yan/di-san-ban.md)
+* [第二版（2004）](qian-yan/di-er-ban-2004.md)
+* [第一版（2001）](qian-yan/di-yi-ban-2001.md)
 * [本书的组织结构](qian-yan/ben-shu-de-zu-zhi-jie-gou.md)
 * [本书中使用的一些约定](qian-yan/ben-shu-zhong-shi-yong-de-yi-xie-yue-ding.md)
 * [致谢](qian-yan/zhi-xie.md)
@@ -36,9 +37,8 @@
 * [2.6.分配磁盘空间](di-2-zhang-an-zhuang-freebsd/2.6.-fen-pei-ci-pan-kong-jian.md)
 * [2.7.获取安装文件](di-2-zhang-an-zhuang-freebsd/2.7.-huo-qu-an-zhuang-wen-jian.md)
 * [2.8.账户、时区、服务和安全](di-2-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan.md)
-* [2.9.网络接口](broken-reference)
-* [2.10.故障排除](di-2-zhang-an-zhuang-freebsd/2.9.-gu-zhang-pai-chu.md)
-* [2.11.使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.10.-shi-yong-live-cd.md)
+* [2.9.故障排除](di-2-zhang-an-zhuang-freebsd/2.9.-gu-zhang-pai-chu.md)
+* [2.10.使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.10.-shi-yong-live-cd.md)
 
 ## 第3章 FreeBSD 基础
 
@@ -394,14 +394,9 @@
 ## 附录 B. 书目
 
 * [B.1.FreeBSD 相关书籍](fu-lu-b.-shu-mu/b.1.freebsd-xiang-guan-shu-ji.md)
-* [B.2.用户指南](fu-lu-b.-shu-mu/b.2.-an-quan-xing-can-kao-wen-xian.md)
-* [B.3.管理指南](fu-lu-b.-shu-mu/b.3.unix-li-shi.md)
-* [B.4.开发指南](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
-* [B.6.安全性参考文献](broken-reference)
-* [B.5.深入操作系统](broken-reference)
-* [B.7.硬件参考文献](broken-reference)
-* [B.8.UNIX® 历史](broken-reference)
-* [B.9.期刊和杂志](broken-reference)
+* [B.2.安全性参考文献](fu-lu-b.-shu-mu/b.2.-an-quan-xing-can-kao-wen-xian.md)
+* [B.3.UNIX 历史](fu-lu-b.-shu-mu/b.3.unix-li-shi.md)
+* [B.4.期刊与杂志](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
 
 ## 附录 C. 网络资源
 
