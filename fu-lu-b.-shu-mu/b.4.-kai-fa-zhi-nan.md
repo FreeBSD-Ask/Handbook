@@ -1,4 +1,4 @@
-# B.4. 程序员指南
+# B.4. 期刊和杂志
 
  - [Admin Magazin](https://www.admin-magazin.de/) (in German), published by Medialinx AG. ISSN: 2190-1066
 
