@@ -22,6 +22,10 @@
 
 介绍了常见的 X Window 系统，特别是在 FreeBSD 上使用的 X11。还介绍了常见的桌面环境，如 KDE 和 GNOME。
 
+***[Wayland](https://docs.freebsd.org/en/books/handbook/book/#wayland)***
+
+介绍了 Wayland 显示服务器的一般情况，特别是在 FreeBSD 上使用的 Wayland。还介绍了常见的合成器，如 Wayfire、Hikari 和 Sway。
+
 ***[桌面应用程序](https://docs.freebsd.org/en/books/handbook/desktop/index.html#desktop)***
 
 列出了一些常见的桌面应用程序，如网络浏览器和生产力工具，并介绍了如何在 FreeBSD 上安装它们。
@@ -32,7 +36,6 @@
 
 ***[配置 FreeBSD 内核](https://docs.freebsd.org/en/books/handbook/kernelconfig/index.html#kernelconfig)***
 
-
 介绍了为什么你可能需要配置一个新的内核，并提供了配置、编译和安装定制内核的详细说明。
 
 ***[打印](https://docs.freebsd.org/en/books/handbook/printing/index.html#printing)***
@@ -40,6 +43,10 @@
 介绍了在 FreeBSD 上管理打印机的情况，包括关于横幅页面、打印审计和初始设置的信息。
 
 ***[Linux® 二进制兼容层](https://docs.freebsd.org/en/books/handbook/linuxemu/index.html#linuxemu)***
+
+***[WINE](https://docs.freebsd.org/en/books/handbook/book/#wine)***
+
+介绍了 WINE 并提供了详细的安装说明。还说明了 WINE 的操作方式，如何安装 GUI 助手，如何在 FreeBSD 上运行 Windows® 应用程序，并提供了其他提示和解决方案。
 
 介绍了 FreeBSD 的 Linux® 兼容层。还提供了许多流行的 Linux® 应用程序（如 Oracle® 和 Mathematica®）的详细安装说明。
 
@@ -75,9 +82,13 @@
 
 介绍了什么是 FreeBSD 中的 GEOM 框架，以及如何配置各种支持的 RAID 级别。
 
+***[OpenZFS 存储平台](https://docs.freebsd.org/en/books/handbook/book/#zfs)***
+
+介绍了 OpenZFS 存储平台，并提供了快速入门指南和有关在 FreeBSD 下运行 OpenZFS 的高级主题的信息。
+
 ***[其他文件系统](https://docs.freebsd.org/en/books/handbook/filesystems/index.html#filesystems)***
 
-查看 FreeBSD 中对非原生文件系统的支持，如 Sun™ 的 Z 文件系统。
+检查对 FreeBSD 下的非原生文件系统的支持，如 ext2、ext3 和 ext4。
 
 ***[虚拟化](https://docs.freebsd.org/en/books/handbook/virtualization/index.html#virtualization)***
 
@@ -95,9 +106,9 @@
 
 介绍了如何在 FreeBSD 中配置和使用 Sun™ 的 DTrace 工具。动态跟踪可以通过进行实时的系统分析来帮助定位性能问题。
 
-***[串行通信](https://docs.freebsd.org/en/books/handbook/serialcomms/index.html#serialcomms)***
+***[USB Device Mode / USB OTG](https://docs.freebsd.org/en/books/handbook/book/#usb-device-mode)***
 
-说明了如何将终端和调制解调器连接到你的 FreeBSD 系统上，进行拨入和拨出连接。
+解释 FreeBSD 上 USB Device Mode 和 USB On The Go (USB OTG) 的使用。
 
 ***[PPP](https://docs.freebsd.org/en/books/handbook/ppp-and-slip/index.html#ppp-and-slip)***
 
