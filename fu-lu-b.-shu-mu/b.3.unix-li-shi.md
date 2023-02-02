@@ -16,4 +16,4 @@
 
  - *Old BSD releases from the Computer Systems Research group (CSRG).* <http://www.mckusick.com/csrg/>: The 4CD set covers all BSD versions from 1BSD to 4.4BSD and 4.4BSD-Lite2 (but not 2.11BSD, unfortunately). The last disk also holds the final sources plus the SCCS files.
 
- - *Kernighan, Brian Unix: A History and a Memoir.* Kindle Direct Publishing, 2020. ISBN 978-169597855-3
+ - Kernighan, Brian *Unix: A History and a Memoir.* Kindle Direct Publishing, 2020. ISBN 978-169597855-3
