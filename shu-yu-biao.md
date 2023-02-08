@@ -456,9 +456,9 @@
 
 ***Lock Order Reversal***
 
-　　FreeBSD 内核使用大量的资源锁来仲裁对这些资源的争夺。在 FreeBSD-CURRENT 内核中发现的一个运行时锁诊断系统 (但在发行版中被移除)，称为 [witness(4)](https://www.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)，用于检测由于锁错误而导致的潜在死锁。（[witness(4)](https://www.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上是略微保守的，所以有可能得到假阳性结果）。一个真阳性报告表明“如果你不走运，死锁就会发生在这里”。
+　　FreeBSD 内核采用了一系列资源锁来判定抢占资源的行为。位于 FreeBSD-CURRENT 内核的“运行程序锁诊断系统”，又称 [witness(4)](https://www.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)（Release 中已移除）用来检测因加锁错误可能发生的死锁。（[witness(4)](https://www.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上略微保守，有出现误报的可能）。准确的报告意味着“如果你运气再差点，这里已经出现死锁了”。    
 
-　　真正积极的 LOR 往往很快就会被修复，所以在发布到邮件列表之前，请检查 <https://lists.FreeBSD.org/subscription/freebsd-current> 和 [LORs Seen](http://sources.zabbadoz.net/freebsd/lor.html) 页面。
+　　真正重要的 LOR 往往很快就会被修复，所以在发布到邮件列表之前，请检查 <https://lists.FreeBSD.org/subscription/freebsd-current> 和 [LORs Seen](http://sources.zabbadoz.net/freebsd/lor.html) 页面。
 
 **M**
 ***
