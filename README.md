@@ -37,7 +37,7 @@
 |       第 10 章：打印 【9.5-EOL】       |  ulianchn38 |        ykla       |
 |   第 11 章：Linux 二进制兼容层 【10.1】   |    Altair   |        ykla       |
 | 第 11 章：Linux 二进制兼容层 【10.2-EOL】 |  亲爱的翻译官|        ykla       |
-|           第 11 章：wine          | Jasonlecson |       ykla、冰      |
+|           第 12 章：wine          | Jasonlecson |       ykla、冰      |
 |          第 13 章：配置与优化          |     胞嘧啶     |       ykla、冰      |
 |      第 14 章：FreeBSD 的引导过程      |     徐艺扬     |     ykla、冰、歸野鴿    |
 |            第 15 章：安全           |      陈诚     |       ykla、冰      |
