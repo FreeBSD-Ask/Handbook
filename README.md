@@ -77,28 +77,28 @@
 |        第 3 章：FreeBSD 基础        | ykla/Shengyun |    罗胜(superluosheng)        |        |
 |    第 4 章：安装应用程序: 软件包和 Ports    | ykla/Shengyun |       罗胜(superluosheng)   |          |
 |        第 5 章：X Window 系统       | ykla/Shengyun |   罗胜(superluosheng)         |       |
-|        第 6 章：FreeBSD 中的 Wayland       | ykla/Shengyun |     罗胜(superluosheng)     |          |
+|        第 6 章：FreeBSD 中的 Wayland       | ykla/Shengyun |        |          |
 |          第 7 章：桌面应用程序          | ykla/Shengyun |     罗胜(superluosheng)     |          |
 |            第 8 章：多媒体           |      ykla     |  罗胜(superluosheng)        |          |
 |       第 9 章：配置 FreeBSD 内核      |      ykla     |  罗胜(superluosheng)        |          |
-|            第 10 章：打印            |      ykla     |   罗胜(superluosheng)       |          |
+|            第 10 章：打印            |      ykla     |      |          |
 |       第 11 章：Linux 二进制兼容层      |      ykla     | 罗胜(superluosheng)         |          |
-|           第 12 章：wine          |      ykla     |   罗胜(superluosheng)       |          |
+|           第 12 章：wine          |      ykla     |        |          |
 |          第 13 章：配置与优化          |      ykla     |  罗胜(superluosheng)        |          |
-|      第 14 章：FreeBSD 的引导过程      |      ykla     |   罗胜(superluosheng)       |          |
+|      第 14 章：FreeBSD 的引导过程      |      ykla     |         |          |
 |            第 15 章：安全           |      ykla          |   罗胜(superluosheng)       |          |
 |           第 16 章：Jail          |       ykla        |   罗胜(superluosheng)       |          |
 |          第 17 章：强制访问控制         |       ykla/KCommit         |    罗胜(superluosheng)      |          |
-|          第 18 章：安全事件审计         |    ykla           |   罗胜(superluosheng)       |          |
-|            第 19 章：存储           |       ykla       |   罗胜(superluosheng)       |          
-|     第 20 章：GEOM: 模块化磁盘转换框架     |     ykla           |  罗胜(superluosheng)        |          |
+|          第 18 章：安全事件审计         |    ykla           |         |          |
+|            第 19 章：存储           |       ykla       |        |          
+|     第 20 章：GEOM: 模块化磁盘转换框架     |     ykla           |        |          |
 |       第 21 章：Z 文件系统 (ZFS)      |     ykla          |   罗胜(superluosheng)       |          |
 |          第 22 章：其他文件系统         |     ykla          |   罗胜(superluosheng)       |          |
 |           第 23 章：虚拟化           |        ykla       |    罗胜(superluosheng)      |          |
-|  第 24 章：本地化——i18n/L10n 的使用和设置 |    ykla           |    罗胜(superluosheng)      |          |
+|  第 24 章：本地化——i18n/L10n 的使用和设置 |    ykla           |      |          |
 |      第 25 章：FreeBSD 更新与升级      |       ykla        |   罗胜(superluosheng)       |          |
 |          第 26 章：DTrace         |         ykla      |    罗胜(superluosheng)      |          |
-| 第 27 章：USB 设备模式/USB OTG |             ykla  |      罗胜(superluosheng)    |          |
+| 第 27 章：USB 设备模式/USB OTG |             ykla  |        |          |
 |           第 28 章：串行通信          |        ykla       |    罗胜(superluosheng)      |          |
 |           第 29 章：PPP           |         ykla      |   罗胜(superluosheng)       |          |
 |           第 30 章：电子邮件          |         ykla      |    罗胜(superluosheng)      |          |
