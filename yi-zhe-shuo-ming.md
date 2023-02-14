@@ -104,7 +104,7 @@
 |bootstrap |自举||
 |custom kernel|定制内核||
 |stateful firewall|状态防火墙||
-||||
+|cluster|集群/族||
 ||||
 ||||
 ||||
