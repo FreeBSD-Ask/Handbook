@@ -42,7 +42,7 @@
 
 ***ATA***
 
-　　见[先进技术附件](https://docs.freebsd.org/en/books/handbook/glossary/#ata-glossary)。
+　　见[高级技术附加](https://docs.freebsd.org/en/books/handbook/glossary/#ata-glossary)。
 
 ***ATM***
 
@@ -74,7 +74,7 @@
 
 ***Advanced Programmable Interrupt Controller，高级可编程中断控制器***
 
-***Advanced Technology Attachment，先进技术附件***
+***Advanced Technology Attachment，高级技术附加***
 
 ***Asynchronous Transfer Mode，异步传输模式***
 
@@ -158,7 +158,7 @@
 
 ***Challenge Handshake Authentication Protocol，挑战握手认证协议***
 
-　　一种基于客户端和服务器之间共享的秘密来验证用户身份的方法。
+　　一种基于客户端和服务器之间共享的秘钥来验证用户身份的方法。
 
 ***Classical IP over ATM，ATM 上的经典 IP***
 
@@ -302,7 +302,7 @@
 
 ***Graphical User Interface，图形用户界面***
 
-　　一个用户和计算机与图形互动的系统。
+　　一个用户和计算机图形互动的系统。
 
 **H**
 ***
@@ -400,7 +400,7 @@
 
 ***KDC***
 
-　　见[密钥分配中心](https://docs.freebsd.org/en/books/handbook/glossary/#kdc-glossary)。
+　　见[密钥分发中心](https://docs.freebsd.org/en/books/handbook/glossary/#kdc-glossary)。
 
 ***KLD***
 
@@ -766,7 +766,7 @@
 
 ***Revision Control System***
 
-　　*修订控制系统（RCS）* 是对普通文件实施“修订控制”的最古老的软件套件之一。它允许对每个文件进行存储、检索、归档、记录、识别和合并多个修订版。RCS 由许多小工具组成，它们一起工作。它缺少一些在更现代的修订控制系统中发现的功能，如 Git，但它的安装、配置和开始用于一小部分文件非常简单。
+　　*修订控制系统（RCS）* 是对普通文件实施“修订控制”的最古老的软件套件之一。它允许对每个文件进行存储、检索、归档、记录、识别和合并多个修订版。RCS 由许多小工具组成，它们一起工作。它缺少一些在更现代的修订控制系统中发现的功能，如 Git，但它的安装、配置和使用于一小部分文件非常简单。
 
 　　[另见 Subversion](https://docs.freebsd.org/en/books/handbook/glossary/#svn-glossary)。
 

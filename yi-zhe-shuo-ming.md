@@ -8,14 +8,14 @@
 |Mandatory Access Control|强制访问控制||
 |committers|提交者||
 |masquerade|冒充|但是 IP masquerading 为 IP 伪装|
-|remote groups|异地团体?|不知道怎么翻译|
+|remote groups|异地团体?|不知道怎么翻译|结合语境远程团队或离岸团队或远程组
 |layer 4-7|第4-7 层||
 |load balancing|负载均衡||
 |URL|网址||
 |Installing Applications: Packages and Ports|安装应用程序：软件包和 Ports||
 |glossary|术语表||
 |inquiry|轮询||
-|connection handle|??? 链接柄|不知道怎么翻译|
+|connection handle|连接句柄|不知道怎么翻译|
 |channels|信道||
 |USB dongle|USB 适配器|需要结合语境判断是具体是什么|
 |Internet|互联网|无需加“公开”，互联网在理论上本就是开放的|
@@ -23,7 +23,7 @@
 |Wrapper|Wrapper|专有名词，维持英文|
 |Ports Collection|Ports|`Collection` 似乎看起来无用。Ports Collection 实际上就是 Ports，但是单个的软件则为 port|
 |raw device|裸设备|原始设备？|
-|media|光盘/设备|不翻译为不明确的词语“介质”|
+|media|光盘/设备/介质|不翻译为不明确的词语“介质”|
 |PAE（Physical Address Extension）|物理地址扩展||
 |embedded boards|嵌入式板卡||
 |system|设备/系统||
@@ -32,7 +32,7 @@
 |UEFI|统一可扩展固件接口||
 |image|镜像||
 |bug|bug|专有名词，维持英文|
-|slices|slices||
+|slices|分片/切片|结合语境|
 |note|注意|应该缩进**加粗**使用|
 |warning|警告|应该缩进**加粗**使用|
 |important|重要|应该缩进**加粗**使用|
@@ -48,11 +48,11 @@
 |root-on-ZFS|使用 ZFS 作为 root 分区/ root 分区使用 ZFS||
 |advanced users|专业用户||
 |print spooler|打印后台处理程序|台湾是说法“列印排存器”，列印即打印，排存器不知道是什么东西|
-|partition schemes|分区表||
-|stripe|条带||
-|drive |结合语境可能是“磁盘”||
-|Distribution Files|安装文件||
-|Hardening Security|强化安全||
+|partition schemes|分区表/分区方案||
+|stripe|条带/剥离|结合具体语境|
+|drive |结合语境可能是“磁盘”/驱动器装置/设备|结合语境|
+|Distribution Files|安装文件/分发文件|结合语境|
+|Hardening Security|强化安全性||
 |scroll-back buffer|回滚缓冲区||
 |Network Interfaces|网络接口/网卡||
 |Mirror|镜像站||
@@ -60,7 +60,7 @@
 |Disk Organization|磁盘结构|3.6. Disk Organization|
 |Video Modes|分辨率||
 |key bindings|组合键||
-|sticky directories|粘滞位||
+|sticky directories|粘滞目录||
 |tarball|源码包/压缩文件|？|
 |Quarterly Branche|季度分支||
 |Latest Branche|最新分支||
@@ -68,9 +68,9 @@
 |ports skeleton|ports 框架||
 |Procedure|过程||
 |heckout|检出|[github 命令参考此处](https://linux.cn/article-12245-1.html)|
-|log rotation|日志轮替||
-|fork|复刻|[github 命令参考此处](https://linux.cn/article-12245-1.html) |
-|Tuning|优化|# 15.4. 中为“调整”|
+|log rotation|日志轮替/日志滚动|都可以|
+|fork|复刻/派生|[github 命令参考此处](https://linux.cn/article-12245-1.html) |
+|Tuning|优化/调整/调谐|# 15.4. 中为“调整”|
 |Kernel Limits|内核参数|[内核限制实际上就是内核参数](https://eloquence.marxmeier.com/sdb/html/linux_limits.html)|
 |boot|引导|不是“启动”|
 |Process Accounting|进程审计|“进程记账”看起来不相干。“审计”更符合原意|
@@ -80,31 +80,31 @@
 |principal|主体|Kerberos|
 |realm|领域|Kerberos|
 |hardened|加固|如，APK 加固，JAVA 加固|
-|flag|标签|ACL|
+|flag|标签/标志|ACL|
 |programmatic method|计划任务|14.10. 监测第三方安全问题|
 |security advisory|安全公告||
 |per-user calls|每用户调用数||
-|core files|核心转储|等于 core dump|
+|core files|核心转储文件|等于 core dump|
 |utility |软件/工具|实际上就是软件|
 |jail|jail|一般应该小写|
-|inode|节点||
+|inode|索引节点||
 |loopback|回环||
 |monitoring |监控||
 |issue command |执行命令|不是“发出”|
 |facility |设施/机制/工具||
 |Audit Review|审计复核||
-|reduction|精选|用于安全审计|
+|reduction|精选或精简|用于安全审计|
 |disk|磁盘||
 |off-site |离线||
 |Memory Disks|内存盘|用于 18 章，不是闪存设备|
 |memory-backed disks|内存盘|用于 18 章，不是闪存设备|
 |provider |provider |专有名词，A provider is "a disk-like thing which appears in /dev"|
 |world|世界|指除了内核以外的基本系统的所有部分|
-|sound sink|音频接收器|第 7.2 节出现|
+|sound sink|声音/音频接收器|第 7.2 节出现|
 |bootstrap |自举||
 |custom kernel|定制内核||
 |stateful firewall|状态防火墙||
-||||
+|cluster|集群/族||
 ||||
 ||||
 ||||
