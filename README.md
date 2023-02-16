@@ -161,6 +161,7 @@
 |      QQ 群     |                         787969044                        |
 | Handbook 最新翻译 | [https://handbook.bsdcn.org](https://handbook.bsdcn.org) |
 |  FreeBSD 入门书籍 |     [https://book.bsdcn.org](https://book.bsdcn.org)     |
+|FreeBSD 开发者手册 最新翻译|       <https://porters-handbook.bsdcn.org>              |
 |     微信公众号     |                         freebsdzh                        |
 
 扫码关注微信公众号：
