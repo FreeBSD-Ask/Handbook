@@ -93,13 +93,15 @@
 
 * [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
 
-## 第7章 桌面应用程序
+## 第7章 桌面环境
 
-* [7.1.概述](di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.1.-gai-shu.md)
-* [7.2.浏览器](di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.2.-liu-lan-qi.md)
-* [7.3.生产力工具](di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.3.-sheng-chan-li-gong-ju.md)
-* [7.4.文档阅读器](di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.4.-wen-dang-yue-du-qi.md)
-* [7.5.财务](di-7-zhang-zhuo-mian-ying-yong-cheng-xu/7.5.-cai-wu.md)
+* [7.1.概述](di-7-zhang-zhuo-mian-huan-jing/7.1.-gai-shu.md)
+* [7.2.桌面环境](di-7-zhang-zhuo-mian-huan-jing/7.2.-zhuo-mian-huan-jing.md)
+* [7.3.浏览器](di-7-zhang-zhuo-mian-huan-jing/7.3.-liu-lan-qi.md)
+* [7.4.开发工具](di-7-zhang-zhuo-mian-huan-jing/7.4.-kai-fa-gong-ju.md)
+* [7.5.桌面生产力工具](di-7-zhang-zhuo-mian-huan-jing/7.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
+* [7.6.文档阅读器](di-7-zhang-zhuo-mian-huan-jing/7.6.-wen-dang-yue-du-qi.md)
+* [7.7.财务](di-7-zhang-zhuo-mian-huan-jing/7.7.-cai-wu.md)
 
 ## 第8章 多媒体
 
