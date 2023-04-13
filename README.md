@@ -30,7 +30,7 @@
 |  第 5 章：X Window 系统 【5.3-5.4.6】 |    冰   |  ykla、ulianchn38  |
 |  第 5 章：X Window 系统 【5.4.6-EOL】 |    Lin🌠    | ykla、ulianchn38、冰 |
 |  第 6 章：FreeBSD 中的 Wayland          |    ykla  |          ykla|
-|          第 7 章：桌面应用程序          |     胞嘧啶     |        ykla       |
+|          第 7 章：桌面环境          |     胞嘧啶     |        ykla       |
 |            第 8 章：多媒体           |     无目先生    |        ykla       |
 |       第 9 章：配置 FreeBSD 内核      | Jasonlecson |       ykla、冰      |
 |       第 10 章：打印 【9.1-9.4】       |     潇潇雨竹    |        ykla       |
@@ -78,7 +78,7 @@
 |    第 4 章：安装应用程序: 软件包和 Ports    | ykla/Shengyun |       罗胜(superluosheng)   |          |
 |        第 5 章：X Window 系统       | ykla/Shengyun |   罗胜(superluosheng)         |       |
 |        第 6 章：FreeBSD 中的 Wayland       | ykla/Shengyun |        |          |
-|          第 7 章：桌面应用程序          | ykla/Shengyun |     罗胜(superluosheng)     |          |
+|          第 7 章：桌面环境          | ykla/Shengyun |     罗胜(superluosheng)     |          |
 |            第 8 章：多媒体           |      ykla     |  罗胜(superluosheng)        |          |
 |       第 9 章：配置 FreeBSD 内核      |      ykla     |  罗胜(superluosheng)        |          |
 |            第 10 章：打印            |      ykla     |      |          |
