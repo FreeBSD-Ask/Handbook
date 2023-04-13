@@ -8,11 +8,11 @@
 
 > **获取 PDF 文档**
 >
-> 点击 <https://freebsd.gitbook.io/freebsd-handbook/>，选择右上角的“导出为 PDF”，如不成功可多重试几次。
+> 点击 <https://freebsd.gitbook.io/freebsd-handbook/>，选择右上角的“导出为 PDF”，如不成功可多试几次。
 
 > **手册版本说明**
 >
-> 当前文档版本同步至官方文档 [2023-1-22 commit d3edb5256cea7daffbd0e95e989030c2bce5a04c](d3edb5256cea7daffbd0e95e989030c2bce5a04c)。如需更新请提交 issue 或 pull request。
+> 当前文档版本同步至官方文档 [2023-3-5 commit 8cd114521263d52494afebc6d74472f9f38a99ab](https://github.com/freebsd/freebsd-doc/commit/8cd114521263d52494afebc6d74472f9f38a99ab)。如需更新请提交 issue 或 pull request。
 
 ## 译者相关
 
