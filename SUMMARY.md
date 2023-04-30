@@ -103,11 +103,10 @@
 
 * [8.1.概述](di-8-zhang-duo-mei-ti/8.1.-gai-shu.md)
 * [8.2.设置声卡](di-8-zhang-duo-mei-ti/8.2.-she-zhi-sheng-ka.md)
-* [8.3.MP3 音频](di-8-zhang-duo-mei-ti/8.3.mp3-yin-pin.md)
-* [8.4.视频播放](di-8-zhang-duo-mei-ti/8.4.-shi-pin-bo-fang.md)
-* [8.5.电视卡](di-8-zhang-duo-mei-ti/8.5.-dian-shi-ka.md)
-* [8.6.MythTV](di-8-zhang-duo-mei-ti/8.6.mythtv.md)
-* [8.7.图像扫描仪](di-8-zhang-duo-mei-ti/8.7.-tu-xiang-sao-miao-yi.md)
+* [8.3.音频播放器](di-8-zhang-duo-mei-ti/8.3.-yin-pin-bo-fang-qi.md)
+* [8.4.视频播放器](di-8-zhang-duo-mei-ti/8.4.-shi-pin-bo-fang-qi.md)
+* [8.5.视频会议](di-8-zhang-duo-mei-ti/8.5.-shi-pin-hui-yi.md)
+* [8.6.图像扫描仪](di-8-zhang-duo-mei-ti/8.6.-tu-xiang-sao-miao-yi.md)
 
 ## 第9章 配置 FreeBSD 内核
 
