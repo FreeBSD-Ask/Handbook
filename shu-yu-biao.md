@@ -520,7 +520,7 @@
 
 ***Merge From Current，从 Current 合并***
 
-　　将功能或补丁从 -CURRENT 分支合并到另一个分支，通常是 -STABLE。
+　　将功能或补丁从 `main` 分支 (-CURRENT) 合并到另一个分支，通常是 -STABLE。
 
 ***Merge From Head，从 Head 合并***
 
