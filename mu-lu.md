@@ -133,9 +133,8 @@
 
 * [11.1.概述](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.1.-gai-shu.md)
 * [11.2.配置 Linux 二进制兼容层](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.2.-pei-zhi-linux-er-jin-zhi-jian-rong-ceng.md)
-* [10.3.从 FreeBSD 软件包安装 CentOS 基础系统](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/10.3.-cong-freebsd-ruan-jian-bao-an-zhuang-centos-ji-chu-xi-tong.md)
-* [11.4.使用 debootstrap(8) 构建 Debian / Ubuntu 基本系统](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.4.-shi-yong-debootstrap8-gou-jian-debian-ubuntu-ji-ben-xi-tong.md)
-* [11.5. 高级主题](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.5.-gao-ji-zhu-ti.md)
+* [11.3.Linux 用户空间](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.3.-linux-yong-hu-kong-jian.md)
+* [11.4.高级主题](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.4.-gao-ji-zhu-ti.md)
 
 ## 第12章 WINE
 
