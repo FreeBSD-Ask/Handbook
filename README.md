@@ -14,7 +14,7 @@
 
 > **手册版本说明**
 >
-> 当前文档版本同步至官方文档 [2023-4-28 commit 7e1d9ec3e02487f6b6d7662e70783cf00196e630](https://github.com/freebsd/freebsd-doc/commit/7e1d9ec3e02487f6b6d7662e70783cf00196e630)。如需更新请提交 issue 或 pull request。
+> 当前文档版本同步至官方文档 [2023-5-18 commit d206f52a928454c12d4dab920337d320765511ec](https://github.com/freebsd/freebsd-doc/commit/d206f52a928454c12d4dab920337d320765511ec)。如需更新请提交 issue 或 pull request。
 
 ## 译者相关
 
