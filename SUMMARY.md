@@ -130,7 +130,7 @@
 
 * [11.1.概述](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.1.-gai-shu.md)
 * [11.2.配置 Linux 二进制兼容层](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.2.-pei-zhi-linux-er-jin-zhi-jian-rong-ceng.md)
-* [11.3.Linux 用户区](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.3.-linux-yong-hu-qu.md)
+* [11.3.Linux 用户空间](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.3.-linux-yong-hu-kong-jian.md)
 * [11.4.高级主题](di-11-zhang-linux-er-jin-zhi-jian-rong-ceng/11.4.-gao-ji-zhu-ti.md)
 
 ## 第12章 WINE
