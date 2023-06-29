@@ -10,7 +10,7 @@
 
 > **获取 PDF 文档**
 >
-> 点击 <https://freebsd.gitbook.io/freebsd-handbook/>，选择右上角的“导出为 PDF”，如不成功可多试几次。
+> 点击 <https://freebsd.gitbook.io/freebsd-handbook/>，选择右上角的“导出为 PDF”，如不成功你可多试几次。
 
 > **手册版本说明**
 >
