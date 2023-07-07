@@ -1,40 +1,39 @@
 # A.4. CD 和 DVD 套装
 
-
 FreeBSD 的 CD 和 DVD 套装可以从以下几个在线零售商那里买到：
 
-* FreeBSD Mall, Inc. 
+- FreeBSD Mall, Inc.
 
-　　1164 Claremont Dr 
-  
-  　　Brentwood, CA 
-  
-  　　94513 
-  
-  　　USA 
+1164 Claremont Dr
 
-　　手机： +1 925 240-6652 
+Brentwood, CA
 
-　　传真：+1 925 674-0821 
+94513
 
-　　Email: info@freebsdmall.com 
+USA
 
-　　WWW: https://www.freebsdmall.com
+手机： +1 925 240-6652
 
-* Getlinux 
+传真：+1 925 674-0821
 
-　　WWW: https://www.getlinux.fr/
+Email: info@freebsdmall.com
 
-* Dr. Hinner EDV 
+WWW: https://www.freebsdmall.com
 
-　　Schäftlarnstr. 10 // 4. Stock 
+- Getlinux
 
-　　D-81371 München 
-  
-  　　Germany 
+WWW: https://www.getlinux.fr/
 
-　　手机： +49 171 417 544 6 
+- Dr. Hinner EDV
 
-　　Email: infow@hinner.de 
+Schäftlarnstr. 10 // 4. Stock
 
-　　WWW: http://www.hinner.de/linux/freebsd.html
+D-81371 München
+
+Germany
+
+手机： +49 171 417 544 6
+
+Email: infow@hinner.de
+
+WWW: http://www.hinner.de/linux/freebsd.html

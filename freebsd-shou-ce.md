@@ -34,7 +34,7 @@ Oracle 是 Oracle 公司的注册商标。
 
 3ware 是 3ware 公司的注册商标。
 
-AR M是 ARM Limited 的注册商标。
+AR M 是 ARM Limited 的注册商标。
 
 Adaptec 是 Adaptec 公司的注册商标。
 

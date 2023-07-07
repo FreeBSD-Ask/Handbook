@@ -9,7 +9,7 @@
 - [de.comp.os.unix.bsd](news:de.comp.os.unix.bsd) (德语)
 - [fr.comp.os.bsd](news:fr.comp.os.bsd) (法语)
 
-### C.3.2.其他可能会感兴趣的 UNIX® 新闻组 
+### C.3.2.其他可能会感兴趣的 UNIX® 新闻组
 
 - [comp.unix](news:comp.unix)
 - [comp.unix.questions](news:comp.unix.questions)

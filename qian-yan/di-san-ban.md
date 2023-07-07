@@ -12,4 +12,4 @@
 
 - [虚拟化](https://docs.freebsd.org/en/books/handbook/virtualization/index.html#virtualization)增加了在虚拟化软件上安装 FreeBSD 的有关信息。
 
-- [安装 FreeBSD](https://docs.freebsd.org/en/books/handbook/bsdinstall/index.html#bsdinstall) 增加了关于使用新的安装工具bsdinstall 安装 FreeBSD 的章节。
+- [安装 FreeBSD](https://docs.freebsd.org/en/books/handbook/bsdinstall/index.html#bsdinstall) 增加了关于使用新的安装工具 bsdinstall 安装 FreeBSD 的章节。

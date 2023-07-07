@@ -4,9 +4,9 @@
 
 从 2020 年 12 月起，FreeBSD 使用 git 作为主要的版本控制系统来存储所有 FreeBSD 的源代码和文档。在 stable/11, stable/12 和相关的 releng 分支上的 git repo 的改动会被导出到 subversion 仓库中。这种输出将持续到这些分支的生命周期。从 2012 年 7 月到 2021 年 3 月，FreeBSD 使用 Subversion 作为唯一的版本控制系统来存储所有 FreeBSD 的 ports。从 2021 年 4 月起，FreeBSD 使用 git 作为存储所有 FreeBSD ports 的唯一版本控制系统。
 
->**注意**
+> **注意**
 >
->Subversion 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update（[“更新 FreeBSD”](https://docs.freebsd.org/en/books/handbook/cutting-edge/index.html#updating-upgrading-freebsdupdate)）来更新 FreeBSD 基本系统，以及 `git` ([“使用 ports”](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports-using)) 来更新 FreeBSD ports。在 2021 年 3 月之后，subversion 的使用只针对传统的分支（`stable/11` 和 `stable/12`）。
+> Subversion 通常是一个开发者工具。用户可能更喜欢使用 freebsd-update（[“更新 FreeBSD”](https://docs.freebsd.org/en/books/handbook/cutting-edge/index.html#updating-upgrading-freebsdupdate)）来更新 FreeBSD 基本系统，以及 `git` ([“使用 ports”](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports-using)) 来更新 FreeBSD ports。在 2021 年 3 月之后，subversion 的使用只针对传统的分支（`stable/11` 和 `stable/12`）。
 
 这一节演示了如何在 FreeBSD 系统上安装 Subversion 并使用它来创建 FreeBSD 仓库的本地副本。还包括了关于使用 Subversion 的其他信息。
 
@@ -20,7 +20,7 @@
 
 如果 svnlite 不可用或者需要完整版的 Subversion，那么必须手动安装它。
 
-Subversion 可以从 ports  中安装:
+Subversion 可以从 ports 中安装:
 
 ```
 # cd /usr/ports/devel/subversion
@@ -37,11 +37,11 @@ Subversion 可以从 ports  中安装:
 
 要获取一个干净的源代码拷贝到本地目录中，请使用 svn。这个目录中的文件被称为本地工作副本。
 
->**警告**
+> **警告**
 >
->在第一次使用 `checkout` 之前，移动或删除现有的目标目录。在现有的非 `svn` 目录上进行检出会导致现有文件和从版本库带入的文件之间的冲突。**
+> 在第一次使用 `checkout` 之前，移动或删除现有的目标目录。在现有的非 `svn` 目录上进行检出会导致现有文件和从版本库带入的文件之间的冲突。\*\*
 
-Subversion 使用 URL 来指定一个版本库，其形式为 *protocol://hostname/path*。路径的第一个组成部分是要访问的 FreeBSD 代码库。有三个不同的版本库，base 是 FreeBSD 基本系统的源代码，ports 是 ports，doc 是文档。例如，URL https://svn.FreeBSD.org/base/head/ 使用 https 协议指定了 src 代码库的主分支。
+Subversion 使用 URL 来指定一个版本库，其形式为 _protocol://hostname/path_。路径的第一个组成部分是要访问的 FreeBSD 代码库。有三个不同的版本库，base 是 FreeBSD 基本系统的源代码，ports 是 ports，doc 是文档。例如，URL https://svn.FreeBSD.org/base/head/ 使用 https 协议指定了 src 代码库的主分支。
 
 从一个给定的版本库中检出，可以用这样的命令进行：
 
@@ -98,7 +98,6 @@ svn.FreeBSD.org
 
 HTTPS 是首选协议，但需要安装 **security/ca_root_nss** 软件包，以便自动验证证书。
 
-## A.3.6.了解更多信息 
+## A.3.6.了解更多信息
 
 关于使用 Subversion 的其他信息，请参见 `Subversion`，标题为[使用 Subversion 进行版本控制](http://svnbook.red-bean.com/)，或 [Subversion 文档](http://subversion.apache.org/docs/)。
-
