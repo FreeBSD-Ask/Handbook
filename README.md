@@ -174,7 +174,7 @@
 
 扫码关注微信公众号：
 
-![扫码关注微信公众号](./.gitbook/assets/weixin.jpg)
+![扫码关注微信公众号](./.gitbook/assets/qr.png)
 
 ### FreeBSD 中文社区 寄言：
 
