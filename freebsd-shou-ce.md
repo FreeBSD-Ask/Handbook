@@ -1,6 +1,6 @@
 # FreeBSD 手册
 
-FreeBSD 是 FreeBSD 基金会 的注册商标。
+FreeBSD 是 FreeBSD 基金会的注册商标。
 
 IBM，AIX，OS/2，PowerPC，PS/2，S/390 和 ThinkPad 是 International Business Machines Corporation 在美国、其他国家或两者都注册的商标。
 
@@ -54,4 +54,4 @@ Ogg Vorbis 和 Xiph.Org 是 Xiph.Org 的商标。
 
 XFree86 是 The XFree86 Project, Inc. 的商标。
 
-许多制造商和销售商用来区分其产品的名称被声明为商标。在本文档中出现这些名称时，如果 FreeBSD Project 意识到了商标声明，这些名称后面会跟随 ™ 或 ® 符号。
+许多制造商和销售商用来区分其产品的名称被声明为商标。在本文档中出现这些名称时，如果 FreeBSD 项目意识到了商标声明，这些名称后面会跟随 ™ 或 ® 符号。
