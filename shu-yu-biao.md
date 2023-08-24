@@ -544,7 +544,7 @@ FreeBSD 内核采用了一系列资源锁来判定抢占资源的行为。位于
 
 **_Merge From Current，从 Current 合并_**
 
-将功能或补丁从 `main` 分支 (-CURRENT) 合并到另一个分支，通常是 -STABLE。
+将功能或补丁从 -CURRENT 分支合并到另一个分支，通常是 -STABLE。
 
 **_Merge From Head，从 Head 合并_**
 
