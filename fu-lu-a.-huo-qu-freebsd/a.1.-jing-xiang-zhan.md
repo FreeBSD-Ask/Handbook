@@ -6,11 +6,12 @@ FreeBSD 项目的官方镜像站是由许多机器组成的，这些机器由项
 
 |                    域名                    |                                                 协议                                                  |                                                       详情                                                        |
 | :----------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+|          **docs.FreeBSD.org**              |                                  [https](https://docs.freebsd.org/)                                   |                                                 FreeBSD 文档门户。                                                |
 |          **download.FreeBSD.org**          |         [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/)         |               与 ftp.FreeBSD.org 的内容相同，ftp 是一个传统的名字；建议使用 download.FreeBSD.org。                |
 |            **git.FreeBSD.org**             |                                      git over `https` and `ssh`                                       |                更多细节见[使用 git](https://docs.freebsd.org/en/books/handbook/mirrors/#git) 章节                 |
 |            **pkg.FreeBSD.org**             | [pkg(8)](https://www.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https` | [pkg(8)](https://www.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) 程序所使用的 FreeBSD 官方软件包库。 |
 | **vuxml.FreeBSD.org** / **www.VuXML.org**  |                                    [https](https://www.vuxml.org/)                                    |                          FreeBSD 项目 VuXML 网页。pkg audit 会从这个服务中获取漏洞列表。                          |
-| **www.FreeBSD.org** / **docs.FreeBSD.org** |                                                `https`                                                |           [FreeBSD 网站](https://www.freebsd.org/)和 [FreeBSD 文档门户网站](https://docs.freebsd.org/)            |
+|           **www.FreeBSD.org**              |                                   [https](https://www.freebsd.org/)                                   |                                                   FreeBSD 网站                                                    |
 
 所有的官方镜像都支持 IPv4 和 IPv6。
 
