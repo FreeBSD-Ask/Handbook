@@ -72,3 +72,4 @@ FreeBSD 项目的官方镜像站是由许多机器组成的，这些机器由项
 |                                                       |  ftp5.FreeBSD.org   |                                                         [http](http://ftp5.freebsd.org/pub/FreeBSD) [http_v6](http://ftp5.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp5.freebsd.org/pub/FreeBSD) [ftp_v6](ftp://ftp5.freebsd.org/pub/FreeBSD)                                                          |
 
 目前社区镜像站支持的协议列表最后一次更新是在 2022-01-31，但并做不保证。
+
