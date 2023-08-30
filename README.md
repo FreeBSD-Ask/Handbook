@@ -3,10 +3,6 @@
 
 ## 2022 FreeBSD 中文社区 翻译项目
 
-> **部署域名**
->
-> **当前网站部署域名为** [**https://handbook.bsdcn.org**](https://handbook.bsdcn.org)**，如果当前使用的不是这个域名，请切换到该域名。**
-
 > **获取 PDF 文档**
 >
 > 点击 <https://freebsd.gitbook.io/freebsd-handbook/>，选择右上角的“导出为 PDF”，如不成功你可多试几次。
