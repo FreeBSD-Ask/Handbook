@@ -55,3 +55,4 @@ Ogg Vorbis 和 Xiph.Org 是 Xiph.Org 的商标。
 XFree86 是 The XFree86 Project, Inc. 的商标。
 
 许多制造商和销售商用来区分其产品的名称被声明为商标。在本文档中出现这些名称时，如果 FreeBSD 项目意识到了商标声明，这些名称后面会跟随 ™ 或 ® 符号。
+
