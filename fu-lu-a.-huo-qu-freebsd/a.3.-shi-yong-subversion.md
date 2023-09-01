@@ -22,14 +22,14 @@
 
 Subversion 可以从 ports 中安装:
 
-```shell-sessionl
+```shell-session
 # cd /usr/ports/devel/subversion
 # make install clean
 ```
 
 也可以通过软件包来安装 Subversion：
 
-```shell-sessionl
+```shell-session
 # pkg install subversion
 ```
 
@@ -45,7 +45,7 @@ Subversion 使用 URL 来指定一个版本库，其形式为 _protocol://hostna
 
 从一个给定的版本库中检出，可以用这样的命令进行：
 
-```shell-sessionl
+```shell-session
 # svn checkout https://svn.FreeBSD.org/repository/branch lwcdir
 ```
 
@@ -59,7 +59,7 @@ Subversion 使用 URL 来指定一个版本库，其形式为 _protocol://hostna
 
 这个例子使用 HTTPS 协议从 FreeBSD 版本库中检出源代码树，将本地工作拷贝放在 **/usr/src** 中。如果 **/usr/src** 已经存在，但不是由 `svn` 创建的，记得在签出前重命名或删除它。
 
-```shell-sessionl
+```shell-session
 # svn checkout https://svn.FreeBSD.org/base/head /usr/src
 ```
 
@@ -67,13 +67,13 @@ Subversion 使用 URL 来指定一个版本库，其形式为 _protocol://hostna
 
 在初始检出后，可以通过运行本地工作副本来更新:
 
-```shell-sessionl
+```shell-session
 # svn update lwcdir
 ```
 
 要更新上面例子中创建的 **/usr/src**，请使用:
 
-```shell-sessionl
+```shell-session
 # svn update /usr/src
 ```
 
@@ -81,7 +81,7 @@ update 比 checkout 要快得多，只传输有变化的文件：
 
 另一种在签出后更新本地工作拷贝的方法是由 **/usr/ports**、**/usr/src** 和 **/usr/doc** 目录中的 **Makefile** 提供的。设置 `SVN_UPDATE` 并使用 `update` 目标。例如，要更新 **/usr/src**：
 
-```shell-sessionl
+```shell-session
 # cd /usr/src
 # make update SVN_UPDATE=yes
 ```
@@ -90,7 +90,7 @@ update 比 checkout 要快得多，只传输有变化的文件：
 
 FreeBSD 的 Subversion 存储库是:
 
-```shell-sessionl
+```shell-session
 svn.FreeBSD.org
 ```
 

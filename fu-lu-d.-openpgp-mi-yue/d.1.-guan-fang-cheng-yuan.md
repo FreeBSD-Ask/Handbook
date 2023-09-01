@@ -4,14 +4,14 @@ FreeBSD.org 官方成员的 OpenPGP 密钥在此列出。这些密钥可以用�
 
 ## D.1.1. 安全长官小组 <security-officer@FreeBSD.org>
 
-```shell-sessionl
+```shell-session
 pub   rsa4096/D39792F49EA7E5C2 2017-08-16 [SC] [expires: 2023-01-02]
       Key fingerprint = FC0E 878A E5AF E788 028D  6355 D397 92F4 9EA7 E5C2
 uid                            FreeBSD Security Officer <security-officer@FreeBSD.org>
 sub   rsa4096/6DD0A349F26ADEFD 2017-08-16 [E] [expires: 2023-01-02]
 ```
 
-```shell-sessionl
+```shell-session
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFmT2+ABEACrTVJ7Z/MuDeyKFqoTFnm5FrGG55k66RLeKivzQzq/tT/6RKO9
@@ -86,14 +86,14 @@ HdqEpirrVLMpxPttUB2xxbo947nMj7/Bnme2gvb0vxaC9xSGVxrpW9cg5iCwSdc=
 
 ## D.1.2. 安全小组秘书 <secteam-secretary@FreeBSD.org>
 
-```shell-sessionl
+```shell-session
 pub   4096R/3CB2EAFCC3D6C666 2013-09-24 [expires: 2018-01-01]
       Key fingerprint = FA97 AA04 4DF9 0969 D5EF  4ADA 3CB2 EAFC C3D6 C666
 uid                          FreeBSD Security Team Secretary <secteam-secretary@FreeBSD.org>
 sub   4096R/509B26612335EB65 2013-09-24 [expires: 2018-01-01]
 ```
 
-```shell-sessionl
+```shell-session
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFJBjIIBEADadvvpXSkdnBOGV2xcsFwBBcSwAdryWuLk6v2VxjwsPcY6Lwqz
@@ -173,7 +173,7 @@ lIjBtlclVhaUrE2uLx/yTz2Apbm+GAmD8M0dQ7IYsOFlZNBW9zjgLLCtWDW+p1A=
 
 ## D.1.3. 核心小组秘书 <core-secretary@FreeBSD.org>
 
-```shell-sessionl
+```shell-session
 pub   rsa4096/BE3DF7A86914D607 2022-07-29 [SC] [expires: 2024-07-28]
       Key fingerprint = E0C0 73CF 01A2 A902 800C  3680 BE3D F7A8 6914 D607
 uid                            FreeBSD Core Team Secretary <core-secretary@freebsd.org>
@@ -181,7 +181,7 @@ sub   rsa4096/7882C7A2CA320B52 2022-07-29 [E] [expires: 2024-07-28]
       Key fingerprint = 7828 1422 F522 802B 00AE  0410 7882 C7A2 CA32 0B52
 ```
 
-```shell-sessionl
+```shell-session
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGLkULYBEACsS9RbAv8gIyZWtIWgBeK6+ircHRW0LsetvHqQYlY6gfRWDLN+
@@ -250,7 +250,7 @@ GT6wtOZXl/ri7I8x3Fr89V3sUvmg1w==
 
 ## D.1.4. Ports 管理小组秘书 <portmgr-secretary@FreeBSD.org>
 
-```shell-sessionl
+```shell-session
 pub   rsa2048/D8294EC3BBC4D7D5 2012-07-24 [SC]
       Key fingerprint = FB37 45C8 6F15 E8ED AC81  32FC D829 4EC3 BBC4 D7D5
 uid                            FreeBSD Ports Management Team Secretary <portmgr-secretary@FreeBSD.org>
@@ -259,7 +259,7 @@ sub   rsa4096/CA20328577064EB7 2013-10-05 [S]
 sub   rsa4096/8B114B3613867E00 2013-10-05 [E]
 ```
 
-```shell-sessionl
+```shell-session
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFAOzqYBCACYd+KGv0/DduIRpSEKWZG2yfDILStzWfdaQMD+8zdWihB0x7dd
@@ -370,14 +370,14 @@ WLuj9Q==
 
 ## D.1.5. <doceng-secretary@FreeBSD.org>
 
-```shell-sessionl
+```shell-session
 pub   rsa2048/E1C03580AEB45E58 2019-10-31 [SC] [expires: 2022-10-30]
       Key fingerprint = F24D 7B32 B864 625E 5541  A0E4 E1C0 3580 AEB4 5E58
 uid                            FreeBSD Doceng Team Secretary <doceng-secretary@freebsd.org>
 sub   rsa2048/9EA8D713509472FC 2019-10-31 [E] [expires: 2022-10-30]
 ```
 
-```shell-sessionl
+```shell-session
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBF27FFcBCADeoSsIgyQUY8vREwkTikwFFlNg31MVy5s/Nq1cNK1PRfRMnprS
