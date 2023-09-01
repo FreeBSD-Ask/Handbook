@@ -14,7 +14,7 @@
 
 Git 可以从 ports 中安装，也可以作为一个软件包安装。
 
-```shell
+```shell-sessionl
 # pkg install git
 ```
 
@@ -38,7 +38,7 @@ Git 使用链接来指定一个仓库。有三个不同的仓库，`src` 是指 
 
 要克隆一份 FreeBSD 系统源代码的副本。
 
-```shell
+```shell-sessionl
 # git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
 ```
 
@@ -46,14 +46,14 @@ Git 使用链接来指定一个仓库。有三个不同的仓库，`src` 是指 
 
 最开始的工作树包含主分支的源代码，对应的是 CURRENT。要切换到 13-STABLE：
 
-```shell
+```shell-sessionl
 # cd /usr/src
 # git checkout stable/13
 ```
 
 可以用 `git pull` 更新工作树。要更新上面的例子中创建的 **/usr/src**，请使用：
 
-```shell
+```shell-sessionl
 # cd /usr/src
 # git pull --rebase
 ```
