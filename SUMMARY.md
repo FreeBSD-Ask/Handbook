@@ -17,8 +17,8 @@
 * [本书中使用的一些约定](qian-yan/ben-shu-zhong-shi-yong-de-yi-xie-yue-ding.md)
 * [致谢](qian-yan/zhi-xie.md)
 
-***
 
+# 第一部分：快速开始
 * [第一部分：快速开始](di-yi-bu-fen-kuai-su-kai-shi.md)
 
 ## 第1章 简介
@@ -85,8 +85,7 @@
 * [6.7. Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.7.-wayland-deng-lu-guan-li-qi.md)
 * [6.8. 实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.8.-shi-yong-gong-ju.md)
 
-***
-
+# 第二部分：常见任务
 * [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
 
 ## 第7章 网络
@@ -154,8 +153,8 @@
 * [13.7.FreeBSD 多用户与 WINE](di-13-zhang-wine/13.7.-freebsd-duo-yong-hu-yu-wine.md)
 * [13.8.WINE 与 FreeBSD FAQ](di-13-zhang-wine/13.8.-wine-yu-freebsd-faq.md)
 
-***
 
+## 第三部分：系统管理
 * [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li.md)
 
 ## 第14章 配置与优化
@@ -308,8 +307,8 @@
 * [28.3.USB 设备模式网络接口](di-28-zhang-usb-she-bei-mo-shi-usb-otg/28.3.-usb-she-bei-mo-shi-wang-luo-jie-kou.md)
 * [28.4.USB 虚拟存储设备](di-28-zhang-usb-she-bei-mo-shi-usb-otg/28.4.-usb-xu-ni-cun-chu-she-bei.md)
 
-***
 
+# 第四部分：网络通讯
 * [第四部分：网络通讯](di-si-bu-fen-wang-luo-tong-xun.md)
 
 ## 第29章 串行通信
@@ -383,8 +382,8 @@
 * [34.11.共用地址冗余协议（CARP）](di-34-zhang-gao-ji-wang-luo/34.11.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
 * [34.12.VLAN](di-34-zhang-gao-ji-wang-luo/34.11.-vlan.md)
 
-***
 
+# 第五部分：附录
 * [第五部分：附录](di-wu-bu-fen-fu-lu.md)
 
 ## 附录 A. 获取 FreeBSD
