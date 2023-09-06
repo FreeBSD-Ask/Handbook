@@ -380,7 +380,7 @@
 * [34.9.链路聚合与故障转移](di-34-zhang-gao-ji-wang-luo/34.9.-lian-lu-ju-he-yu-gu-zhang-zhuan-yi.md)
 * [34.10.使用 PXE 进行无盘操作](di-34-zhang-gao-ji-wang-luo/34.10.-shi-yong-pxe-jin-hang-wu-pan-cao-zuo.md)
 * [34.11.共用地址冗余协议（CARP）](di-34-zhang-gao-ji-wang-luo/34.11.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
-* [34.12.VLAN](di-34-zhang-gao-ji-wang-luo/34.11.-vlan.md)
+* [34.12.VLAN](di-34-zhang-gao-ji-wang-luo/34.12.-vlan.html)
 
 
 # 第五部分：附录
