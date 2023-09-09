@@ -193,7 +193,7 @@
 * [16.10.FreeBSD 安全公告](di-16-zhang-an-quan/16.10.-freebsd-an-quan-gong-gao.md)
 * [16.11.进程审计](di-16-zhang-an-quan/16.11.-jin-cheng-shen-ji.md)
 * [16.12.使用 sudo 管理权限](di-16-zhang-an-quan/16.12.-zi-yuan-pei-e.md)
-* [16.13.使用 doas 来代替 sudo](di-16-zhang-an-quan/16.13.-shi-yong-doas-lai-dai-ti-sudo.md)
+* [16.13.使用 doas 来代替 sudo](di-16-zhang-an-quan/16.13.-shi-yong-sudo-guan-li-quan-xian.md)
 
 ## 第17章 Jail
 
