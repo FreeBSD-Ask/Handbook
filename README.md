@@ -3,9 +3,18 @@
 
 ## 2022 FreeBSD 中文社区 翻译项目
 
-> **获取 PDF 文档**
+> **PDF 文档**
 >
-> 点击 <https://freebsd.gitbook.io/freebsd-handbook/>，选择右上角的“导出为 PDF”，如不成功你可多试几次。
+> - 使用社区成员提供的脚本：
+>   
+>> 　　<https://github.com/safreya/tobook> 用于导出本书的 pdf，打印的话比 gitbook 导出的应该要好点。该脚本运行于 FreeBSD。
+>> 
+>> 　　先安装需要的东西：
+>> 
+>> ```shell-session
+>> # pkg install git graphicsmagick
+>> ```
+>>　　 如需设置 git 代理请按跑路教程提前设置以免无法拉取项目。具体使用方法见该项目的 README.
 
 > **手册版本说明**
 >
