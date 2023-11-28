@@ -171,6 +171,7 @@
 |FreeBSD 开发者手册 最新翻译|       <https://porters-handbook.bsdcn.org>              |
 |     微信公众号     |                         freebsdzh                        |
 |BiliBili【B站】|<https://space.bilibili.com/2120246893>|
+|    FreeBSD 中文 man 手册       |         [https://man.bsdcn.org](https://man.bsdcn.org)                           |
 
 扫码关注微信公众号：
 
