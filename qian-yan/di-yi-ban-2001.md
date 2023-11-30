@@ -1,21 +1,22 @@
 # 第一版（2001）
 
-第二版是 FreeBSD 文档项目忠实的成员们两年多来工作的结晶。以下是本版中的主要变化：
+第二版是 FreeBSD 文档项目专注成员超过两年工作的成果。以下是这个版本中的主要变化：
 
-- 增加了一个完整的索引。
-- 所有的 ASCII 图表都被图片所取代。
-- 每章都增加了一个标准的概述，以快速总结该章所包含的信息，以及希望读者了解的内容。
-- 内容被有次序地重新组织为三个部分：“入门”，“系统管理”，以及“附录”。
-- 对 [FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/basics/index.html#basics)进行了扩展，包含了关于进程、守护进程和信号的额外信息。
-- 对[安装应用程序：软件包和 Ports](https://docs.freebsd.org/en/books/handbook/ports/index.html#ports) 的内容进行了扩充，包含了关于二进制软件包管理器的额外信息。
-- [X Window 系统](https://docs.freebsd.org/en/books/handbook/x11/index.html#x11)已经被完全重写，重点是在 XFree86™ 4.X 上使用现代桌面技术，如 KDE 和 GNOME。
-- [FreeBSD 的引导过程](https://docs.freebsd.org/en/books/handbook/boot/index.html#boot)得到了扩展。
-- [存储](https://docs.freebsd.org/en/books/handbook/disks/index.html#disks)部分由过去的“磁盘”和“备份”两章合并而成。我们认为将这些主题作为一个章节来介绍会更容易理解。还增加了一个关于 RAID（包括硬件和软件）的章节。
-- [串行通信](https://docs.freebsd.org/en/books/handbook/serialcomms/index.html#serialcomms)已被完全重新组织，并针对 FreeBSD 4.X/5.X 进行了更新。
-- 对 [PPP](https://docs.freebsd.org/en/books/handbook/ppp-and-slip/index.html#ppp-and-slip) 进行了大幅更新。
-- [高级网络](https://docs.freebsd.org/en/books/handbook/advanced-networking/index.html#advanced-networking)中加入了许多新的章节。
-- [电子邮件](https://docs.freebsd.org/en/books/handbook/mail/index.html#mail)增加了关于配置 sendmail 的更多信息。
-- [Linux® 二进制兼容层](https://docs.freebsd.org/en/books/handbook/linuxemu/index.html#linuxemu)已经扩展到包括关于安装 Oracle® 和 SAP® R/3® 的信息。
-- 本书第二版包括了以下新主题：
-  - [配置与优化](https://docs.freebsd.org/en/books/handbook/config/index.html#config-tuning)。
-  - [多媒体](https://docs.freebsd.org/en/books/handbook/multimedia/index.html#multimedia)。
+- 添加了完整的索引。
+- 所有 ASCII 图已被图形图表替换。
+- 每个章节添加了标准概要，快速总结章节包含的信息以及读者预期了解的内容。
+- 内容进行了逻辑重新组织，分为三个部分：“入门”，“系统管理”和“附录”。
+- [FreeBSD Basics](https://docs.freebsd.org/en/books/handbook/book/#basics)已扩展，包含有关进程、守护进程和信号的附加信息。
+- [Installing Applications: Packages and Ports](https://docs.freebsd.org/en/books/handbook/book/#ports)已扩展，包含有关二进制软件包管理的附加信息。
+- [The X Window System](https://docs.freebsd.org/en/books/handbook/book/#x11)已完全重写，重点是在 XFree86™ 4.X 上使用现代桌面技术，如 KDE 和 GNOME。
+- [The FreeBSD Booting Process](https://docs.freebsd.org/en/books/handbook/book/#boot)已扩展。
+- [Storage](https://docs.freebsd.org/en/books/handbook/book/#disks)从过去的两个分开的章节“Disks”和“Backups”中编写而成。我们认为将这些主题呈现为一个章节时更容易理解。还添加了有关 RAID（硬件和软件）的部分。
+- [Serial Communications](https://docs.freebsd.org/en/books/handbook/book/#serialcomms)已进行完全重新组织和更新，适用于 FreeBSD 4.X/5.X。
+- [PPP](https://docs.freebsd.org/en/books/handbook/book/#ppp-and-slip)已大幅更新。
+- 在[Advanced Networking](https://docs.freebsd.org/en/books/handbook/book/#advanced-networking)中添加了许多新的章节。
+- [Electronic Mail](https://docs.freebsd.org/en/books/handbook/book/#mail)已扩展，包括有关配置 sendmail 的更多信息。
+- [Linux® Binary Compatibility](https://docs.freebsd.org/en/books/handbook/book/#linuxemu)已扩展，包括有关安装 Oracle® 和 SAP® R/3® 的信息。
+- 此第二版中涵盖了以下新主题：
+
+  - [Configuration and Tuning](https://docs.freebsd.org/en/books/handbook/book/#config-tuning).
+  - [Multimedia](https://docs.freebsd.org/en/books/handbook/book/#multimedia)。
