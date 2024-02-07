@@ -67,7 +67,7 @@ bsdcn.org 及子域名上的服务（包括上述手册和文章）和邮箱地�
 |       第 9 章：配置 FreeBSD 内核      | Jasonlecson |       ykla、冰      |
 |       第 10 章：打印 【9.1-9.4】       |     潇潇雨竹    |        ykla       |
 |       第 10 章：打印 【9.5-EOL】       |  ulianchn38 |        ykla       |
-|   第 11 章：Linux 二进制兼容层 【10.1】   |    Altair   |        ykla       |
+|   第 11 章：Linux 二进制兼容层 【10.1】   |    Sayunosyjou   |        ykla       |
 | 第 11 章：Linux 二进制兼容层 【10.2-EOL】 |  亲爱的翻译官|        ykla       |
 |           第 12 章：wine          | Jasonlecson |       ykla、冰      |
 |          第 13 章：配置与优化          |     胞嘧啶     |       ykla、冰      |
