@@ -52,7 +52,7 @@ retry_wait_time = 2
 # accept = "200..=204, 429"
 # accept = ["200", "429"]
 # accept = "200, 429"
-accept = ["200", "429"]
+accept = ["200", "429", "403"]
 
 # Proceed for server connections considered insecure (invalid TLS).
 insecure = false
@@ -95,7 +95,7 @@ include_verbatim = true
 glob_ignore_case = false
 
 # Exclude URLs and mail addresses from checking (supports regex).
-exclude = ['^https://www\.stanford\.edu', '^https://plato\.stanford\.edu/entries/']
+exclude = ['^https://www\.stanford\.edu', '^https://plato\.stanford\.edu/entries/', 'https://philpapers.org', '^https://philpapers\.org/', 'http://philpapers.org', '^https://doi\.org/']
 
 # Exclude these filesystem paths from getting checked.
 exclude_path = [".github"]
