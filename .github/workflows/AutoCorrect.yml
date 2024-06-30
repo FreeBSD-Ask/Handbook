@@ -18,15 +18,18 @@ jobs:
           with:
             node-version: '20'
           
-        - name: Install nodejs dependencies
-          run: yarn add autocorrect-node
+        - name: Install autocorrect 
+          run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
         
         - name: Run autocorrect lint
           run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
           
         - name: Run autocorrect fix
           run: yarn autocorrect --fix **/*.md
-
+          
+        - name: remove autocorrect node
+          run: rm -rf *.node
+          
         - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v6
           with:

@@ -1,0 +1,12 @@
+name: 🔗 git-gc-bfg-action
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+
+jobs:
+  test_job:
+    runs-on: ubuntu-24.04
+    name: TEST
+    steps:
+      - uses: taophilosophy/git-gc-bfg-action@v1.0.34
