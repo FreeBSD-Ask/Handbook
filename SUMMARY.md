@@ -161,16 +161,12 @@
 ## 第14章 配置与优化
 
 * [14.1.概述](di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)
-* [14.2.启动服务](di-14-zhang-pei-zhi-yu-you-hua/14.2.-qi-dong-fu-wu.md)
-* [14.3.配置 cron(8)](di-14-zhang-pei-zhi-yu-you-hua/14.3.-pei-zhi-cron8.md)
-* [14.4.管理 FreeBSD 中的服务](di-14-zhang-pei-zhi-yu-you-hua/14.4.-guan-li-freebsd-zhong-de-fu-wu.md)
+* [14.2.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.2.-pei-zhi-wen-jian.md)
+* [14.3.管理 FreeBSD 中的服务](di-14-zhang-pei-zhi-yu-you-hua/14.3.-guan-li-freebsd-zhong-de-fu-wu.md.md)
+* [14.4.Cron 和 Periodic](di-14-zhang-pei-zhi-yu-you-hua/14.4.-cron-he-peropdic.md)
 * [14.5.配置系统日志](di-14-zhang-pei-zhi-yu-you-hua/14.5.-pei-zhi-xi-tong-ri-zhi.md)
-* [14.6.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.6.-pei-zhi-wen-jian.md)
-* [14.7.使用 sysctl(8) 进行优化](di-14-zhang-pei-zhi-yu-you-hua/14.7.-shi-yong-sysctl8-jin-hang-you-hua.md)
-* [14.8.磁盘优化](di-14-zhang-pei-zhi-yu-you-hua/14.8.-ci-pan-you-hua.md)
-* [14.9.内核参数优化](di-14-zhang-pei-zhi-yu-you-hua/14.9.-nei-he-can-shu-you-hua.md)
-* [14.10.添加交换空间](di-14-zhang-pei-zhi-yu-you-hua/14.10.-tian-jia-jiao-huan-kong-jian.md)
-* [14.11.电源和资源管理](di-14-zhang-pei-zhi-yu-you-hua/14.11.-dian-yuan-he-zi-yuan-guan-li.md)
+* [14.6.电源和资源管理](di-14-zhang-pei-zhi-yu-you-hua/14.6.-dian-yuan-he-zi-yuan-guan-li.md)
+* [14.7.添加交换空间](di-14-zhang-pei-zhi-yu-you-hua/14.7.-tian-jia-jiao-huan-kong-jian.md)
 
 ## 第15章 FreeBSD 的引导过程
 
