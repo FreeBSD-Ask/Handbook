@@ -152,7 +152,7 @@
 * [13.5.配置 WINE 安装程序](di-13-zhang-wine/13.5.-pei-zhi-wine-an-zhuang.md)
 * [13.6.WINE 图形化用户管理界面](di-13-zhang-wine/13.6.-wine-tu-xing-guan-li-yong-hu-jie-mian.md)
 * [13.7.多用户 FreeBSD 与 WINE](di-13-zhang-wine/13.7.-freebsd-duo-yong-hu-yu-wine.md)
-* [13.8.WINE 与 FreeBSD FAQ](di-13-zhang-wine/13.8.-wine-yu-freebsd-faq.md)
+* [13.8.FreeBSD 上的 WINE 常见问题](di-13-zhang-wine/13.8.-wine-yu-freebsd-faq.md)
 
 ***
 
