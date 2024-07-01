@@ -83,7 +83,7 @@
 * [6.6.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.6.shi-yong-xwayland.md)
 * [6.7.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.7.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
 * [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-wayland-deng-lu-guan-li-qi.md)
-* [6.9.实用工具](6.9.-shi-yong-gong-ju.md)
+* [6.9.实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.9.-shi-yong-gong-ju.md)
 
 ***
 
