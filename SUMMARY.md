@@ -105,7 +105,7 @@
 * [8.2.桌面环境](di-8-zhang-zhuo-mian-huan-jing/8.2.-zhuo-mian-huan-jing.md)
 * [8.3.浏览器](di-8-zhang-zhuo-mian-huan-jing/8.3.-liu-lan-qi.md)
 * [8.4.开发工具](di-8-zhang-zhuo-mian-huan-jing/8.4.-kai-fa-gong-ju.md)
-* [8.5.桌面生产力工具](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
+* [8.5.桌面办公应用](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
 * [8.6.文档阅读器](di-8-zhang-zhuo-mian-huan-jing/8.6.-wen-dang-yue-du-qi.md)
 * [8.7.财务](di-8-zhang-zhuo-mian-huan-jing/8.7.-cai-wu.md)
 
