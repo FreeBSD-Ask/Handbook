@@ -75,14 +75,15 @@
 
 ## 第6章 FreeBSD 中的 Wayland
 
-* [6.1. 简介](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-gai-shu.md)
+* [6.1.简介](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-gai-shu.md)
 * [6.2.Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.2.wayfire-hun-cheng-qi.md)
 * [6.3.Wayfire 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.3.hikari-hun-cheng-qi.md)
-* [6.4.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.sway-hun-cheng-qi.md)
-* [6.5.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.5.-shi-yong-xwayland.md)
-* [6.6.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.6.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
-* [6.7. Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.7.-wayland-deng-lu-guan-li-qi.md)
-* [6.8. 实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.8.-shi-yong-gong-ju.md)
+* [6.4.Hikari 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.sway-hun-cheng-qi.md)
+* [6.5.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.5.-shi-yong-xwayland.md)
+* [6.6.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.6.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
+* [6.7.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.7.-wayland-deng-lu-guan-li-qi.md)
+* [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-shi-yong-gong-ju.md)
+* [6.9.实用工具](6.9.-shi-yong-gong-ju.md)
 
 ***
 
@@ -386,27 +387,27 @@
 
 * [第五部分：附录](di-wu-bu-fen-fu-lu.md)
 
-## 附录 A. 获取 FreeBSD
+## 附录 A.获取 FreeBSD
 
 * [A.1.镜像站](fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan.md)
 * [A.2.使用 Git](fu-lu-a.-huo-qu-freebsd/a.2.-shi-yong-git.md)
 * [A.3.使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.3.-shi-yong-subversion.md)
 * [A.4.CD 和 DVD 套装](fu-lu-a.-huo-qu-freebsd/a.4.cd-he-dvd-tao-zhuang.md)
 
-## 附录 B. 书目
+## 附录 B.书目
 
 * [B.1.FreeBSD 相关书籍](fu-lu-b.-shu-mu/b.1.freebsd-xiang-guan-shu-ji.md)
 * [B.2.安全性参考文献](fu-lu-b.-shu-mu/b.2.-an-quan-xing-can-kao-wen-xian.md)
 * [B.3.UNIX 历史](fu-lu-b.-shu-mu/b.3.unix-li-shi.md)
 * [B.4.期刊与杂志](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
 
-## 附录 C. 网络资源
+## 附录 C.网络资源
 
 * [C.1.网站](fu-lu-c.-wang-luo-zi-yuan/c.1.-wang-zhan.md)
 * [C.2.邮件列表](fu-lu-c.-wang-luo-zi-yuan/c.2.-you-jian-lie-biao.md)
 * [C.3.Usenet 新闻组](fu-lu-c.-wang-luo-zi-yuan/c.3.-usenet-xin-wen-zu.md)
 
-## 附录 D. OpenPGP 密钥
+## 附录 D.OpenPGP 密钥
 
 * [D.1.官方成员](fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan.md)
 
