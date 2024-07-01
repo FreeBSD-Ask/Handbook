@@ -198,14 +198,15 @@
 * [16.15.监控第三方安全问题](di-16-zhang-an-quan/16.15.-jian-kong-di-san-fang-an-quan-wen-ti.md)
 * [16.16.FreeBSD 安全公告](di-16-zhang-an-quan/16.16.-freebsd-an-quan-gong-gao.md)
 
-## 第17章 Jail
+## 第17章 jail 与容器
 
 * [17.1.概述](di-17-zhang-jail/17.1.-gai-shu.md)
-* [17.2.与 Jail 有关的术语](di-17-zhang-jail/17.2.-yu-jail-you-guan-de-shu-yu.md)
-* [17.3.建立和控制 Jail](di-17-zhang-jail/17.3.-jian-li-he-kong-zhi-jail.md)
-* [17.4.微调和管理](di-17-zhang-jail/17.4.-wei-tiao-he-guan-li.md)
-* [17.5.更新多个 Jail](di-17-zhang-jail/17.5.-geng-xin-duo-ge-jail.md)
-* [17.6.使用 ezjail 管理 Jail](di-17-zhang-jail/17.6.-shi-yong-ezjail-guan-li-jail.md)
+* [17.2.jail 的类型](di-17-zhang-jail/17.2.-yu-jail-you-guan-de-shu-yu.md)
+* [17.3.主机配置 Jail](di-17-zhang-jail/17.3.-jian-li-he-kong-zhi-jail.md)
+* [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-wei-tiao-he-guan-li.md)
+* [17.5.瘦 jail](di-17-zhang-jail/17.5.-geng-xin-duo-ge-jail.md)
+* [17.6.管理 jail](di-17-zhang-jail/17.6.-shi-yong-ezjail-guan-li-jail.md)
+
 
 ## 第18章 强制访问控制
 
