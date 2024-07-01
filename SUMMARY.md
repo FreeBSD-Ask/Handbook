@@ -75,8 +75,8 @@
 
 ## 第6章 FreeBSD 中的 Wayland
 
-* [6.1. Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-gai-shu.md)
-* [6.2.Wayfire 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.2.wayfire-hun-cheng-qi.md)
+* [6.1. 简介](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-gai-shu.md)
+* [6.2.Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.2.wayfire-hun-cheng-qi.md)
 * [6.3.Hikari 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.3.hikari-hun-cheng-qi.md)
 * [6.4.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.sway-hun-cheng-qi.md)
 * [6.5.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.5.-shi-yong-xwayland.md)
