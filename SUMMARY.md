@@ -125,7 +125,7 @@
 * [10.3.浏览系统硬件](di-10-zhang-pei-zhi-freebsd-nei-he/10.3.-liu-lan-xi-tong-ying-jian.md)
 * [10.4.配置文件](di-10-zhang-pei-zhi-freebsd-nei-he/10.4.-pei-zhi-wen-jian.md)
 * [10.5.构建并安装定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
-* [10.6.如果发生了一些错误](di-10-zhang-pei-zhi-freebsd-nei-he/10.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
+* [10.6.如果发生了错误](di-10-zhang-pei-zhi-freebsd-nei-he/10.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
 ## 第11章 打印
 
