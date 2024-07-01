@@ -75,14 +75,14 @@
 
 ## 第6章 FreeBSD 中的 Wayland
 
-* [6.1.简介](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-gai-shu.md)
-* [6.2.Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.2.wayfire-hun-cheng-qi.md)
-* [6.3.Wayfire 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.3.hikari-hun-cheng-qi.md)
-* [6.4.Hikari 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.sway-hun-cheng-qi.md)
-* [6.5.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.5.-shi-yong-xwayland.md)
-* [6.6.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.6.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
-* [6.7.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.7.-wayland-deng-lu-guan-li-qi.md)
-* [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-shi-yong-gong-ju.md)
+* [6.1.简介](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-jian-jie.md)
+* [6.2.Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.2.-wayland-gai-shu.md)
+* [6.3.Wayfire 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.3.wayfire-hun-cheng-qi.md)
+* [6.4.Hikari 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.hikari-hun-cheng-qi.md)
+* [6.5.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.5.sway-hun-cheng-qi.md)
+* [6.6.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.6.shi-yong-xwayland.md)
+* [6.7.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.7.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
+* [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-wayland-deng-lu-guan-li-qi.md)
 * [6.9.实用工具](6.9.-shi-yong-gong-ju.md)
 
 ***
