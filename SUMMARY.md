@@ -121,10 +121,10 @@
 ## 第10章 配置 FreeBSD 内核
 
 * [10.1.概述](di-10-zhang-pei-zhi-freebsd-nei-he/10.1.-gai-shu.md)
-* [10.2.为什么要编译定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
+* [10.2.为什么要构建定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
 * [10.3.浏览系统硬件](di-10-zhang-pei-zhi-freebsd-nei-he/10.3.-liu-lan-xi-tong-ying-jian.md)
 * [10.4.配置文件](di-10-zhang-pei-zhi-freebsd-nei-he/10.4.-pei-zhi-wen-jian.md)
-* [10.5.编译与安装定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
+* [10.5.构建并安装定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
 * [10.6.如果发生了一些错误](di-10-zhang-pei-zhi-freebsd-nei-he/10.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
 ## 第11章 打印
