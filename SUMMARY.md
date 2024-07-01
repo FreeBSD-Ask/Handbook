@@ -85,10 +85,6 @@
 * [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-wayland-deng-lu-guan-li-qi.md)
 * [6.9.实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.9.-shi-yong-gong-ju.md)
 
-***
-
-* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
-
 ## 第7章 网络
 
 * [7.1.概述](di-7-zhang-wang-luo/7.1.-gai-shu.md)
@@ -98,6 +94,10 @@
 * [7.5.主机名](di-7-zhang-wang-luo/7.5.-zhu-ji-ming.md)
 * [7.6.DNS](di-7-zhang-wang-luo/7.6.-dns.md)
 * [7.7.故障排除](di-7-zhang-wang-luo/7.7.-gu-zhang-pai-chu.md)
+
+***
+
+* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
 
 ## 第8章 桌面环境
 
