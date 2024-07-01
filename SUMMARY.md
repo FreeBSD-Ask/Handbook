@@ -131,7 +131,7 @@
 
 * [11.1.快速入门](di-11-zhang-da-yin/11.1.-kuai-su-ru-men.md)
 * [11.2.连接打印机](di-11-zhang-da-yin/11.2.-lian-jie-da-yin-ji.md)
-* [11.3.常见的页面描述语言](di-11-zhang-da-yin/11.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
+* [11.3.常见的页面描述语言（PDL）](di-11-zhang-da-yin/11.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
 * [11.4.直接打印](di-11-zhang-da-yin/11.4.-zhi-jie-da-yin.md)
 * [11.5.LPD（行式打印机程序）](di-11-zhang-da-yin/11.5.-lpd-hang-shi-da-yin-ji-cheng-xu.md)
 * [11.6.其他打印系统](di-11-zhang-da-yin/11.6.-qi-ta-da-yin-xi-tong.md)
