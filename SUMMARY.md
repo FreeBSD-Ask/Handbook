@@ -206,9 +206,9 @@
 * [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-chuan-tong-jail-hou-jail.md)
 * [17.5.瘦 jail](di-17-zhang-jail/17.5.-shou-jail.md)
 * [17.6.管理 jail](di-17-zhang-jail/17.6.-guan-li-jail.md)
-* [17.7.更新 jail](di-17-zhang-jail/17.7.-geng-xin-jail)
-* [17.8.jail 资源限制](di-17-zhang-jail/17.8.-jail-zi-yuan-xian-zhi)
-* [17.9.jail 管理器与容器](di-17-zhang-jail/17.9.-jail-guan-li-qi-yu-rong-qi)
+* [17.7.更新 jail](di-17-zhang-jail/17.7.-geng-xin-jail.md)
+* [17.8.jail 资源限制](di-17-zhang-jail/17.8.-jail-zi-yuan-xian-zhi.md)
+* [17.9.jail 管理器与容器](di-17-zhang-jail/17.9.-jail-guan-li-qi-yu-rong-qi.md)
 
 ## 第18章 强制访问控制
 
