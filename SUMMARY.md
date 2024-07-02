@@ -306,7 +306,8 @@
 * [27.1.概述](di-27-zhang-dtrace/27.1.-gai-shu.md)
 * [27.2.实现上的差异](di-27-zhang-dtrace/27.2.-shi-xian-shang-de-cha-yi.md)
 * [27.3.开启 DTrace 支持](di-27-zhang-dtrace/27.3.-kai-qi-dtrace-zhi-chi.md)
-* [27.4.使用 DTrace](di-27-zhang-dtrace/27.4.-shi-yong-dtrace.md)
+* [27.4.启用内核外部模块 DTrace](di-27-zhang-dtrace/27.4.-nei-he-wai-bu-mo-kuai.md)
+* [27.5.使用 DTrace](di-27-zhang-dtrace/27.5.-shi-yong-dtrace.md)
 
 ## 第28章 USB 设备模式/USB OTG
 
