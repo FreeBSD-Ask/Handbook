@@ -341,16 +341,13 @@
 
 * [31.1.概述](di-31-zhang-dian-zi-you-jian/31.1.-gai-shu.md)
 * [31.2.邮件组件](di-31-zhang-dian-zi-you-jian/31.2.-you-jian-zu-jian.md)
-* [31.3.Sendmail 配置文件](di-31-zhang-dian-zi-you-jian/31.3.-sendmail-pei-zhi-wen-jian.md)
-* [31.4.改变邮件传输代理](di-31-zhang-dian-zi-you-jian/31.4.-gai-bian-you-jian-chuan-shu-dai-li.md)
-* [31.5.故障排除](di-31-zhang-dian-zi-you-jian/31.5.-gu-zhang-pai-chu.md)
-* [31.6.高级主题](di-31-zhang-dian-zi-you-jian/31.6.-gao-ji-zhu-ti.md)
-* [31.7.设置为仅发送](di-31-zhang-dian-zi-you-jian/31.7.-she-zhi-wei-jin-fa-song.md)
-* [31.8.在拨号连接中使用邮件](di-31-zhang-dian-zi-you-jian/31.8.-zai-bo-hao-lian-jie-zhong-shi-yong-you-jian.md)
-* [31.9.SMTP 认证](di-31-zhang-dian-zi-you-jian/31.9.-smtp-ren-zheng.md)
-* [31.10.邮件用户代理](di-31-zhang-dian-zi-you-jian/31.10.-you-jian-yong-hu-dai-li.md)
-* [31.11.使用 fetchmail](di-31-zhang-dian-zi-you-jian/31.11.-shi-yong-fetchmail.md)
-* [31.12.使用 procmail](di-31-zhang-dian-zi-you-jian/31.12.-shi-yong-procmail.md)
+* [31.3.DragonFly 邮件代理（DMA）](di-31-zhang-dian-zi-you-jian/31.3.-dma.md)
+* [31.4.Sendmail](di-31-zhang-dian-zi-you-jian/31.4.-sendmail.md)
+* [31.5.修改邮件传输代理](di-31-zhang-dian-zi-you-jian/31.5.-gai-bian-you-jian-chuan-shu-dai-li.md)
+* [31.6.邮件用户代理](di-31-zhang-dian-zi-you-jian/31.6.-you-jian-yong-hu-dai-li.md)
+* [31.7.高级主题](di-31-zhang-dian-zi-you-jian/31.7.-gao-ji-zhu-ti.md)
+
+
 
 ## 第32章 网络服务器
 
