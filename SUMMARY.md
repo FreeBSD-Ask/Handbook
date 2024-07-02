@@ -380,7 +380,7 @@
 * [34.2.网关和路由](di-34-zhang-gao-ji-wang-luo/34.2.-wang-guan-he-lu-you.md)
 * [34.3.虚拟主机](di-34-zhang-gao-ji-wang-luo/34.3.-xu-ni-zhu-ji.md)
 * [34.4.无线高级身份验证](di-34-zhang-gao-ji-wang-luo/34.4.-wu-xian-gao-ji-shen-fen-yan-zheng.md)
-* [34.5.无线点对点模式](di-34-zhang-gao-ji-wang-luo/34.5.-wu-xian-dian-dui-dian-mo-shi.md)
+* [34.5.无线自组织（Ad-hoc）模式](di-34-zhang-gao-ji-wang-luo/34.5.-wu-xian-dian-dui-dian-mo-shi.md)
 * [34.6.USB 网络共享](di-34-zhang-gao-ji-wang-luo/34.6.-usb-wang-luo-gong-xiang.md)
 * [34.7.蓝牙](di-34-zhang-gao-ji-wang-luo/34.7.-lan-ya.md)
 * [34.8.桥接](di-34-zhang-gao-ji-wang-luo/34.8.-qiao-jie.md)
