@@ -358,11 +358,12 @@
 * [32.5.轻型目录访问协议（LDAP）](di-32-zhang-wang-luo-fu-wu-qi/32.5.-qing-xing-mu-lu-fang-wen-xie-yi-ldap.md)
 * [32.6.动态主机设置协议（DHCP）](di-32-zhang-wang-luo-fu-wu-qi/32.6.-dong-tai-zhu-ji-she-zhi-xie-yi-dhcp.md)
 * [32.7.域名系统（DNS）](di-32-zhang-wang-luo-fu-wu-qi/32.7.-yu-ming-xi-tong-dns.md)
-* [32.8.Apache HTTP 服务器](di-32-zhang-wang-luo-fu-wu-qi/32.8.-apache-http-fu-wu-qi.md)
-* [32.9.文件传输协议（FTP）](di-32-zhang-wang-luo-fu-wu-qi/32.9.-wen-jian-chuan-shu-xie-yi-ftp.md)
-* [32.10.用于 Microsoft® Windows® 客户端的文件和打印服务（Samba）](di-32-zhang-wang-luo-fu-wu-qi/32.10.-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba.md)
-* [32.11.用 NTP 进行时钟同步](di-32-zhang-wang-luo-fu-wu-qi/32.11.-yong-ntp-jin-hang-shi-zhong-tong-bu.md)
-* [32.12.iSCSI target 和 initiator 的配置](di-32-zhang-wang-luo-fu-wu-qi/32.12.-iscsi-target-he-initiator-de-pei-zhi.md)
+* [32.8.零配置网络（mDNS/DNS-SD）](di-32-zhang-wang-luo-fu-wu-qi/32.8.-ling-pei-zhi-wang-luo.md)
+* [32.9.Apache HTTP 服务器](di-32-zhang-wang-luo-fu-wu-qi/32.9.-apache-http-fu-wu-qi.md)
+* [32.10.文件传输协议（FTP）](di-32-zhang-wang-luo-fu-wu-qi/32.10.-wen-jian-chuan-shu-xie-yi-ftp.md)
+* [32.11.用于 Microsoft® Windows® 客户端的文件和打印服务（Samba）](di-32-zhang-wang-luo-fu-wu-qi/32.11.-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba.md)
+* [32.12.用 NTP 进行时钟同步](di-32-zhang-wang-luo-fu-wu-qi/32.12.-yong-ntp-jin-hang-shi-zhong-tong-bu.md)
+* [32.13.iSCSI target 和 initiator 的配置](di-32-zhang-wang-luo-fu-wu-qi/32.13.-iscsi-target-he-initiator-de-pei-zhi.md)
 
 ## 第33章 防火墙
 
