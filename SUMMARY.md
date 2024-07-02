@@ -299,6 +299,7 @@
 * [26.5.追踪开发分支](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.5.-zhui-zong-kai-fa-fen-zhi.md)
 * [26.6.从源代码更新 FreeBSD](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.6.-cong-yuan-dai-ma-geng-xin-freebsd.md)
 * [26.7.多台机器的追踪](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.7.-duo-tai-ji-qi-de-zhui-zong.md)
+* [26.8.在非 FreeBSD 主机上进行构建](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.8.-zai-fei-freebsd-zhu-ji-shang-jin-xing-gou-jian.md)
 
 ## 第27章 DTrace
 
