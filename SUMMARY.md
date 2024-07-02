@@ -281,7 +281,7 @@
 * [24.4.使用 VirtualBox™ 安装 FreeBSD](di-24-zhang-xu-ni-hua/24.4.-shi-yong-virtualbox-an-zhuang-freebsd.md)
 * [24.5.在 FreeBSD 上安装 VirtualBox™](di-24-zhang-xu-ni-hua/24.5.-zai-freebsd-shang-an-zhuang-virtualbox.md)
 * [24.6.使用 FreeBSD 上的 bhyve 虚拟机](di-24-zhang-xu-ni-hua/24.6.-shi-yong-freebsd-shang-de-bhyve-xu-ni-ji.md)
-* [24.7.使用 FreeBSD 上的 Xen™ 虚拟机](di-24-zhang-xu-ni-hua/24.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
+* [24.7.基于 FreeBSD 的 Xen™ 虚拟机](di-24-zhang-xu-ni-hua/24.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
 
 ## 第25章 本地化——i18n/L10n 的使用和设置
 
