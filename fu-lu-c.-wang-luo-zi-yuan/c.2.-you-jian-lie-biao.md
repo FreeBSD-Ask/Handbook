@@ -39,7 +39,7 @@ To post, after subscribing, send mail to `listname@FreeBSD.org`. The message wil
 
 ### C.2.2. Lists Basic Rules
 
-*All* FreeBSD mailing lists have certain basic rules which must be adhered to by anyone using them. Failure to comply with these guidelines will result in two (2) written warnings from the FreeBSD Postmaster [postmaster@FreeBSD.org](mailto:postmaster@FreeBSD.org), after which, on a third offense, the poster will removed from all FreeBSD mailing lists and filtered from further posting to them. We regret that such rules and measures are necessary at all, but today’s Internet is a pretty harsh environment, it would seem, and many fail to appreciate just how fragile some of its mechanisms are.
+所有 FreeBSD 邮件列表都有一些基本规则，所有使用者必须遵守。如果不遵守这些指导方针，将会收到两封来自 FreeBSD 邮件管理员 postmaster@FreeBSD.org 的书面警告。在第三次违规后，将从所有 FreeBSD 邮件列表中删除该用户，并且不允许继续发布。我们很遗憾必须制定这些规则和措施，但今天的互联网环境似乎相当恶劣，许多人未能意识到一些机制是多么脆弱。
 
 道路规则：
 
