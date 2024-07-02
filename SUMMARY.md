@@ -201,12 +201,14 @@
 ## 第17章 jail 与容器
 
 * [17.1.概述](di-17-zhang-jail/17.1.-gai-shu.md)
-* [17.2.jail 的类型](di-17-zhang-jail/17.2.-yu-jail-you-guan-de-shu-yu.md)
-* [17.3.主机配置 Jail](di-17-zhang-jail/17.3.-jian-li-he-kong-zhi-jail.md)
-* [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-wei-tiao-he-guan-li.md)
-* [17.5.瘦 jail](di-17-zhang-jail/17.5.-geng-xin-duo-ge-jail.md)
-* [17.6.管理 jail](di-17-zhang-jail/17.6.-shi-yong-ezjail-guan-li-jail.md)
-
+* [17.2.jail 的类型](di-17-zhang-jail/17.2.jail-de-lei-xing.md)
+* [17.3.主机配置](di-17-zhang-jail/17.3.-zhu-ji-pei-zhi-jail.md)
+* [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-chuan-tong-jail-hou-jail.md)
+* [17.5.瘦 jail](di-17-zhang-jail/17.5.-shou-jail.md)
+* [17.6.管理 jail](di-17-zhang-jail/17.6.-guan-li-jail.md)
+* [17.7.更新 jail](di-17-zhang-jail/17.7.-geng-xin-jail)
+* [17.8.jail 资源限制](di-17-zhang-jail/17.8.-jail-zi-yuan-xian-zhi)
+* [17.9.jail 管理器与容器](di-17-zhang-jail/17.9.-jail-guan-li-qi-yu-rong-qi)
 
 ## 第18章 强制访问控制
 
