@@ -1,30 +1,30 @@
 # 本书的组织结构
 
-这本书分为五个逻辑上独立的部分。第一部分是入门，涵盖了 FreeBSD 的安装和基本用法。预计读者会按顺序阅读这些章节，可能会跳过涉及熟悉话题的章节。第二部分是常见任务，涵盖了 FreeBSD 的一些常用功能。这部分和所有后续部分都可以无需按顺序阅读。每个章节都以简洁的概要开头，描述了本章涵盖的内容以及读者预期应该已经了解的内容。这样设计是为了让随意浏览的读者能够找到感兴趣的章节。第三部分是系统管理，涵盖了管理主题。第四部分是网络通信，涵盖了网络和服务器主题。第五部分包含参考信息的附录。
+这本书在逻辑上被分为五个独立的部分。第一部分是入门，涵盖了 FreeBSD 的安装和基本用法。预设读者会按顺序阅读这些章节，但读者可以跳过已经熟悉的话题章节。第二部分是常见任务，涵盖了 FreeBSD 的一些常用功能。这部分和所有后续部分都可以以任何顺序进行阅读。每个章节都以简洁的概述开头，说明了本章包含的内容以及读者预期应该已经了解的内容。这样设计是为了让泛读的读者能够找到感兴趣的章节。第三部分是系统管理，涵盖了管理主题。第四部分是网络通信，涵盖了网络和服务器主题。第五部分包含参考信息的附录。
 
 *[简介](https://docs.freebsd.org/en/books/handbook/introduction/#introduction)*
 
-介绍了 FreeBSD 给新用户。它描述了 FreeBSD 项目的历史、目标和开发模型。
+给新用户介绍 FreeBSD。它诉说了 FreeBSD 项目的历史、目标和开发模型。
 
 *[安装 FreeBSD](https://docs.freebsd.org/en/books/handbook/bsdinstall/#bsdinstall)*
 
-引导用户完成 FreeBSD 9.x 及更高版本的整个安装过程，使用 bsdinstall。
+引导用户使用 bsdinstall，来完成 FreeBSD 9.x 及更高版本的完整安装过程。
 
 *[FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/basics/#basics)*
 
-涵盖 FreeBSD 操作系统的基本命令和功能。如果您熟悉 Linux®或其他 UNIX®版本，那么您可能可以跳过本章节。
+涵盖了 FreeBSD 操作系统的基本命令和功能。如果您熟悉 Linux® 或其他 UNIX® 版本，那么您大可以跳过本章节。
 
 *[安装应用程序：软件包和端口](https://docs.freebsd.org/en/books/handbook/ports/#ports)*
 
-介绍使用 FreeBSD 创新的“Ports Collection”和标准二进制包安装第三方软件。
+介绍使用 FreeBSD 创新的“Ports”和标准二进制包来安装第三方软件。
 
-*[X 窗口系统](https://docs.freebsd.org/en/books/handbook/x11/#x11)*
+*[X Window 系统](https://docs.freebsd.org/en/books/handbook/x11/#x11)*
 
-描述了 X 窗口系统一般情况以及在 FreeBSD 上使用 X11。还描述了常见的桌面环境，如 KDE 和 GNOME。
+描述了 X Window 系统一般情况以及在 FreeBSD 上使用 X11。还描述了常见的桌面环境，如 KDE 和 GNOME。
 
 *[Wayland](https://docs.freebsd.org/en/books/handbook/wayland/#wayland)*
 
-描述了 Wayland 显示服务器一般情况以及在 FreeBSD 上使用 Wayland。还描述了常见的合成器，如 Wayfire、Hikari 和 Sway。
+描述了 Wayland 显示服务器一般情况以及在 FreeBSD 上使用 Wayland。还描述了常见的混成器，如 Wayfire、Hikari 和 Sway。
 
 *[桌面应用程序](https://docs.freebsd.org/en/books/handbook/desktop/#desktop)*
 
@@ -36,7 +36,7 @@
 
 *[配置 FreeBSD 内核](https://docs.freebsd.org/en/books/handbook/kernelconfig/#kernelconfig)*
 
-解释为什么您可能需要配置一个新的内核，并提供详细的指导以配置、构建和安装自定义内核。
+解释为什么您可能需要自定义一个新的内核，并为配置、构建和安装自定义内核提供了详细的指导。
 
 *[打印](https://docs.freebsd.org/en/books/handbook/printing/#printing)*
 
@@ -44,7 +44,7 @@
 
 *[Linux® 二进制兼容性](https://docs.freebsd.org/en/books/handbook/linuxemu/#linuxemu)*
 
-描述了 FreeBSD 的 Linux®兼容功能。还为许多流行的 Linux®应用程序提供了详细的安装说明，如 Oracle®和 Mathematica®。
+说明了 FreeBSD 的 Linux® 兼容功能。还为许多常用的 Linux® 应用程序提供了详细的安装说明，如 Oracle® 和 Mathematica®。
 
 *[WINE](https://docs.freebsd.org/en/books/handbook/wine/#wine)*
 
@@ -62,9 +62,9 @@
 
 描述了许多可用于帮助保持您的 FreeBSD 系统安全的工具，包括 Kerberos、IPsec 和 OpenSSH。
 
-*[监狱](https://docs.freebsd.org/en/books/handbook/jails/#jails)*
+*[jail](https://docs.freebsd.org/en/books/handbook/jails/#jails)*
 
-描述了 FreeBSD 中监狱框架的功能，以及监狱相较于传统 chroot 支持的改进。
+描述了 FreeBSD 中 jail 框架的功能，以及 jail 相较于传统 chroot 支持的改进。
 
 *[强制访问控制](https://docs.freebsd.org/en/books/handbook/mac/#mac)*
 
@@ -80,7 +80,7 @@
 
 *[GEOM：模块化磁盘转换框架](https://docs.freebsd.org/en/books/handbook/geom/#geom)*
 
-描述了在 FreeBSD 中的 GEOM 框架是什么，以及如何配置各种支持的 RAID 级别。
+描述了在 FreeBSD 中，什么是 GEOM 框架，以及如何配置各种级别受支持的 RAID 。
 
 *[OpenZFS 存储平台](https://docs.freebsd.org/en/books/handbook/zfs/#zfs)*
 
@@ -142,6 +142,6 @@
 
 描述了供 FreeBSD 用户发布问题并参与有关 FreeBSD 的技术对话的许多论坛。
 
-*[开放 PGP 密钥](https://docs.freebsd.org/en/books/handbook/pgpkeys/#pgpkeys)*
+*[OpenPGP 密钥](https://docs.freebsd.org/en/books/handbook/pgpkeys/#pgpkeys)*
 
 列出了几位 FreeBSD 开发人员的 PGP 指纹。
