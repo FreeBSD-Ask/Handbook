@@ -4,5 +4,5 @@
 
 * 手册已从 Docbook 转换为 Hugo 和 AsciiDoctor
 * 创建了 FreeBSD 文档门户
-* 已添加有关在 FreeBSD 上安装和配置 Wayland 的信息
+* 增加了 Wayland。有关在 FreeBSD 上安装和配置 Wayland 的信息
 * 参考书目大规模更新。
