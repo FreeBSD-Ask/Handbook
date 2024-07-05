@@ -12,7 +12,7 @@
 
 *[FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/basics/#basics)*
 
-涵盖了 FreeBSD 操作系统的基本命令和功能。如果您熟悉 Linux® 或其他 UNIX® 版本，那么您大可以跳过本章节。
+涵盖了 FreeBSD 操作系统的基本命令和功能。如果你熟悉 Linux® 或其他 UNIX® 版本，那么你大可以跳过本章节。
 
 *[安装应用程序：软件包和端口](https://docs.freebsd.org/en/books/handbook/ports/#ports)*
 
@@ -32,11 +32,11 @@
 
 *[多媒体](https://docs.freebsd.org/en/books/handbook/multimedia/#multimedia)*
 
-展示如何为您的系统设置音频和视频播放支持。还描述了一些示例音频和视频应用程序。
+展示如何为你的系统设置音频和视频播放支持。还描述了一些示例音频和视频应用程序。
 
 *[配置 FreeBSD 内核](https://docs.freebsd.org/en/books/handbook/kernelconfig/#kernelconfig)*
 
-解释为什么您可能需要自定义一个新的内核，并为配置、构建和安装自定义内核提供了详细的指导。
+解释为什么你可能需要自定义一个新的内核，并为配置、构建和安装自定义内核提供了详细的指导。
 
 *[打印](https://docs.freebsd.org/en/books/handbook/printing/#printing)*
 
@@ -60,7 +60,7 @@
 
 *[安全性](https://docs.freebsd.org/en/books/handbook/security/#security)*
 
-描述了许多可用于帮助保持您的 FreeBSD 系统安全的工具，包括 Kerberos、IPsec 和 OpenSSH。
+描述了许多可用于帮助保持你的 FreeBSD 系统安全的工具，包括 Kerberos、IPsec 和 OpenSSH。
 
 *[jail](https://docs.freebsd.org/en/books/handbook/jails/#jails)*
 
@@ -80,7 +80,7 @@
 
 *[GEOM：模块化磁盘转换框架](https://docs.freebsd.org/en/books/handbook/geom/#geom)*
 
-描述了在 FreeBSD 中，什么是 GEOM 框架，以及如何配置各种级别受支持的 RAID 。
+描述了在 FreeBSD 中，什么是 GEOM 框架，以及如何配置各种级别受支持的 RAID。
 
 *[OpenZFS 存储平台](https://docs.freebsd.org/en/books/handbook/zfs/#zfs)*
 
@@ -120,7 +120,7 @@
 
 *[网络服务器](https://docs.freebsd.org/en/books/handbook/network-servers/#network-servers)*
 
-提供详细的说明和示例配置文件，以将您的 FreeBSD 机器设置为网络文件系统服务器、域名服务器、网络信息系统服务器或时间同步服务器。
+提供详细的说明和示例配置文件，以将你的 FreeBSD 机器设置为网络文件系统服务器、域名服务器、网络信息系统服务器或时间同步服务器。
 
 *[防火墙](https://docs.freebsd.org/en/books/handbook/firewalls/#firewalls)*
 
@@ -132,11 +132,11 @@
 
 *[获取 FreeBSD](https://docs.freebsd.org/en/books/handbook/mirrors/#mirrors)*
 
-列出获取 FreeBSD 光盘或 DVD 的不同来源，以及允许您下载并安装 FreeBSD 的互联网上的不同站点。
+列出获取 FreeBSD 光盘或 DVD 的不同来源，以及允许你下载并安装 FreeBSD 的互联网上的不同站点。
 
 *[参考书目](https://docs.freebsd.org/en/books/handbook/bibliography/#bibliography)*
 
-这本书涉及许多不同主题，可能会让您渴望更详细的解释。参考书目列出了文中引用的许多优秀书籍。
+这本书涉及许多不同主题，可能会让你渴望更详细的解释。参考书目列出了文中引用的许多优秀书籍。
 
 *[互联网资源](https://docs.freebsd.org/en/books/handbook/eresources/#eresources)*
 

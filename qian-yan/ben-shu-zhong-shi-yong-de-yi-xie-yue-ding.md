@@ -14,11 +14,11 @@
 
 **加粗**
 
- 应用程序、命令和按键均使用 **粗体** 字体 。
+ 应用程序、命令和按键均使用 **粗体** 字体。
 
 ### 用户输入
 
-**按键以粗体** 显示，  以便与其他文本区分开来。需要同时输入的按键组合以 `+` 按键之间显示，例如：
+**按键以粗体** 显示， 以便与其他文本区分开来。需要同时输入的按键组合以 `+` 按键之间显示，例如：
 
 Ctrl+Alt+Del
 
@@ -38,13 +38,13 @@ Ctrl+X、Ctrl+S
 C:\> tools\fdimage floppies\kern.flp A:
 ```
 
-以 # 开头的示例表示该命令必须以 FreeBSD 中的超级用户身份调用。您可以以普通用户身份登录以 `root` 键入命令，或以普通用户身份登录并使用 [su(1)](https://man.freebsd.org/cgi/man.cgi?query=su&sektion=1&format=html) 获得超级用户权限。
+以 # 开头的示例表示该命令必须以 FreeBSD 中的超级用户身份调用。你可以以普通用户身份登录以 `root` 键入命令，或以普通用户身份登录并使用 [su(1)](https://man.freebsd.org/cgi/man.cgi?query=su&sektion=1&format=html) 获得超级用户权限。
 
 ```
 # dd if=kern.flp of=/dev/fd0
 ```
 
-以 % 开头的示例表示应从普通用户帐户调用的命令。除非另有说明，否则 C-shell 语法用于设置环境变量和其他 shell 命令。
+以 % 开头的示例表示应从普通用户账户调用的命令。除非另有说明，否则 C-shell 语法用于设置环境变量和其他 shell 命令。
 
 ```
 % top

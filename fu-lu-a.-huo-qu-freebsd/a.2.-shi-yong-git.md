@@ -2,16 +2,16 @@
 
 ### A.2.1. 介绍
 
-截至 2020 年 12 月，FreeBSD 使用 git 作为存储所有 FreeBSD 基础源代码和文档的主要版本控制系统。截至 2021 年 4 月，FreeBSD 使用 git 作为存储所有 FreeBSDPorts收藏品的唯一版本控制系统。
+截至 2020 年 12 月，FreeBSD 使用 git 作为存储所有 FreeBSD 基础源代码和文档的主要版本控制系统。截至 2021 年 4 月，FreeBSD 使用 git 作为存储所有 FreeBSD ports收藏品的唯一版本控制系统。
 
-|  | Git 通常是开发者工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统。 |
+|  | Git 通常是开发者工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统。|
 | -- | --------------------------------------------------------------------------------------------------------- |
 
 本节演示了如何在 FreeBSD 系统上安装 Git 并使用它创建 FreeBSD 源代码存储库的本地副本。
 
 ### A.2.2. 安装
 
-Git 可以从 Ports 集合中安装，或者作为软件包安装：
+Git 可以从 Ports 中安装，或者作为软件包安装：
 
 ```
 # pkg install git
@@ -19,9 +19,9 @@ Git 可以从 Ports 集合中安装，或者作为软件包安装：
 
 ### A.2.3. 运行 Git
 
-要将源代码的干净副本提取到本地目录中，请使用 git clone 。这些文件的目录称为工作树。
+要将源代码的干净副本提取到本地目录中，请使用 git clone。这些文件的目录称为工作树。
 
-Git 使用 URL 来指定存储库。有三个不同的存储库， src 用于 FreeBSD 系统源代码， doc 用于文档， ports 用于 FreeBSD Ports 集合。所有三个存储库都可以通过两种不同的协议访问：HTTPS 和 SSH。例如，URL https://git.FreeBSD.org/src.git 指定了 src 存储库的主分支，使用 https 协议。
+Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 FreeBSD 系统源代码，doc 用于文档，ports 用于 FreeBSD Ports 。所有三个存储库都可以通过两种不同的协议访问：HTTPS 和 SSH。例如，URL https://git.FreeBSD.org/src.git 指定了 src 存储库的主分支，使用 https 协议。
 
 表 1. FreeBSD Git 存储库 URL 表
 
@@ -42,7 +42,7 @@ Git 使用 URL 来指定存储库。有三个不同的存储库， src 用于 Fr
 # git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
 ```
 
--o freebsd 选项指定源头；按照 FreeBSD 文档规定，源头默认为 freebsd 。由于初始的检出必须下载远程存储库的完整分支，可能需要一些时间。请耐心等待。
+-o freebsd 选项指定源头；按照 FreeBSD 文档规定，源头默认为 freebsd。由于初始的检出必须下载远程存储库的完整分支，可能需要一些时间。请耐心等待。
 
 最初，工作树包含 main 分支的源代码，对应于 CURRENT。要改为使用 13-STABLE：
 
