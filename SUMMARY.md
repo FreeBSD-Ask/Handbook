@@ -63,7 +63,7 @@
 * [4.1.概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)
 * [4.2.软件安装的概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.2.-ruan-jian-an-zhuang-de-gai-shu.md)
 * [4.3.寻找所需的应用程序](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.3.-xun-zhao-suo-xu-de-ying-yong-cheng-xu.md)
-* [4.4.使用 pkg 进行二进制包管理](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.4.-shi-yong-pkg-jin-hang-er-jin-zhi-bao-guan-li.md)
+* [4.4.使用 pkg 管理二进制包](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.4.-shi-yong-pkg-jin-hang-er-jin-zhi-bao-guan-li.md)
 * [4.5.使用 Ports](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.5.-shi-yong-ports.md)
 * [4.6.使用 Poudriere 构建软件包](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.6.-shi-yong-poudriere-gou-jian-ruan-jian-bao.md)
 * [4.7.安装后的注意事项](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.7.-an-zhuang-hou-de-zhu-yi-shi-xiang.md)
