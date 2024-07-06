@@ -1,6 +1,6 @@
 # 第三版
 
-当前版本的在线手册代表着过去十年间许多贡献者的不懈努力。自 2004 年第三版两卷本出版以来，以下是一些重要变化：
+当前版本的在线手册代表着过去十年间许多贡献者的不懈努力。自 2004 年两卷本的第三版出版以来，以下是一些重要变化：
 
 - 新增了 [WINE](https://docs.freebsd.org/en/books/handbook/book/#wine)，介绍了如何在 FreeBSD 上运行 Windows® 应用程序。
 - 新增了 [DTrace](https://docs.freebsd.org/en/books/handbook/book/#dtrace) 的有关信息，它是一款功能强大的性能分析工具。
