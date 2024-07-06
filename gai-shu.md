@@ -1,5 +1,5 @@
 # 概述
 
-欢迎来到 FreeBSD！这本手册涵盖了 FreeBSD 14.0-RELEASE 和 13.2-RELEASE 的安装和日常使用。这本书是许多个人不断努力的结果。有些部分可能已经过时。有兴趣帮助更新和扩展此文档的人应该发送电子邮件到 FreeBSD 文档项目邮件列表。
+欢迎来到 FreeBSD！这本手册涵盖了 ***FreeBSD 14.0-RELEASE*** 和 ***13.2-RELEASE*** 的安装和日常使用。本书是许多人不懈努力的成果。有些部分可能已经过时。有志于帮助更新和增补此文档的人可以发送电子邮件至 [FreeBSD 文档项目邮件列表](https://lists.freebsd.org/subscription/freebsd-doc)。
 
-这本书的最新版本可以从 FreeBSD 网站获得。以前的版本可以从 https://docs.FreeBSD.org/doc/获取。这本书可以从 FreeBSD 下载服务器或众多镜像站点之一以各种格式和压缩选项下载。可以在手册和其他文档搜索页面上执行搜索。
+可以从 [FreeBSD 官网获得](https://www.freebsd.org/)本书的最新版本。还可以从 <https://docs.FreeBSD.org/doc/> 获取旧版本。本书可以从 [FreeBSD 下载服务器](https://download.freebsd.org/doc/)和众多镜像站中下载（提供多种文件格式和压缩方式）。可以在手册和其他文档[搜索页面](https://www.freebsd.org/search/)上进行搜索。
