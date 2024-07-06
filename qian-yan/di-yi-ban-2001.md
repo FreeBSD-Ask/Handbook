@@ -16,6 +16,6 @@
 * [高级网络](https://docs.freebsd.org/en/books/handbook/book/#advanced-networking)中添加了许多新章节。
 * [电子邮件](https://docs.freebsd.org/en/books/handbook/book/#mail)已增补，包括有关配置 sendmail 的更多信息。
 * [Linux® 二进制兼容层](https://docs.freebsd.org/en/books/handbook/book/#linuxemu)已增补，包括了有关安装 Oracle®和 SAP® R/3® 的信息。
-* 第二版涵盖了以下新主题：
+* 第二版涉及以下新主题：
   * [配置和调优](https://docs.freebsd.org/en/books/handbook/book/#config-tuning)。
   * [多媒体](https://docs.freebsd.org/en/books/handbook/book/#multimedia)。

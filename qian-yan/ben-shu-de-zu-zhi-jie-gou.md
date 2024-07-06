@@ -12,7 +12,7 @@
 
 **[FreeBSD 基础](https://docs.freebsd.org/en/books/handbook/basics/#basics)**
 
-涵盖了 FreeBSD 操作系统的基础命令和功能。如果你熟悉 Linux® 或其他版本的 UNIX®，那么你大可以跳过本章节。
+涉及 FreeBSD 操作系统的基础命令和功能。如果你熟悉 Linux® 或其他版本的 UNIX®，那么你大可以跳过本章节。
 
 **[安装应用程序：软件包和 Ports](https://docs.freebsd.org/en/books/handbook/ports/#ports)**
 
@@ -96,11 +96,11 @@
 
 **[本地化——i18n/L10n 的使用和配置](https://docs.freebsd.org/en/books/handbook/l10n/#l10n)**
 
-讲解了如何配置 FreeBSD 使用除英语以外的其他语言，涵盖系统和应用程序级别的本地化。
+讲解了如何配置 FreeBSD 使用除英语以外的其他语言，涉及系统和应用程序级别的本地化。
 
 **[更新和升级 FreeBSD](https://docs.freebsd.org/en/books/handbook/cutting-edge/#updating-upgrading)**
 
-解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD 发布版之间的区别。讲解了何者可以从跟踪开发系统中获益，并概述了该过程。涵盖了用户将其系统更新到最新安全发行版本的几种方法。
+解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD 发布版之间的区别。讲解了何者可以从跟踪开发系统中获益，并概述了该过程。涉及用户将其系统更新到最新安全发行版本的几种方法。
 
 **[DTrace](https://docs.freebsd.org/en/books/handbook/dtrace/#dtrace)**
 
