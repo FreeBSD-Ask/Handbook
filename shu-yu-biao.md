@@ -649,7 +649,7 @@ POP3
 
 PPD
 
-查看后置脚本打印机描述。
+查看后置脚本打印机说明。
 
 PPP
 
@@ -705,7 +705,7 @@ PXE
 
 查看 Internet 消息访问协议。
 
-PostScript 打印机描述
+PostScript 打印机说明
 
 预引导执行环境
 
@@ -715,7 +715,7 @@ PostScript 打印机描述
 
  问题报告
 
-已经在 FreeBSD 源代码或文档中发现的某种问题描述。请参阅撰写 FreeBSD 问题报告。
+已经在 FreeBSD 源代码或文档中发现的某种问题说明。请参阅撰写 FreeBSD 问题报告。
 
  进程 ID
 
