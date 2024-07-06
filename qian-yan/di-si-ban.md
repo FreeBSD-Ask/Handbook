@@ -4,5 +4,5 @@
 
 * 手册已从 [Docbook](https://docbook.org/) 转换为 [Hugo](https://gohugo.io/) 和 [AsciiDoctor](https://asciidoctor.org/)。
 * 创建了 [FreeBSD 文档网站](https://docs.freebsd.org/)。
-* 增加了 [Wayland](https://docs.freebsd.org/en/books/handbook/book/#wayland) 及有关在 FreeBSD 上安装和配置 Wayland 的信息。
+* 新增了 [Wayland](https://docs.freebsd.org/en/books/handbook/book/#wayland) 及有关在 FreeBSD 上安装和配置 Wayland 的信息。
 * [参考文献](https://docs.freebsd.org/en/books/handbook/book/#bibliography)得到大规模更新。。
