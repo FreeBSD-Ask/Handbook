@@ -1,6 +1,6 @@
 # 第二版（2004）
 
-第三版是 FreeBSD 文档项目专员连续两年工作的成果。纸质版变得非常厚重，以至于必须分成两卷本出版。以下是新版本的主要变化：
+第三版是 FreeBSD 文档项目专员连续两年工作的成果。纸质版变得非常厚重，所以必须分成两卷本来出版。以下是新版本的主要变化：
 
 * [配置和调优](https://docs.freebsd.org/en/books/handbook/book/#config-tuning)已增补，提供了有关 ACPI 电源和资源管理、系统实用程序 `cron` 以及更多内核调优参数的新内容。
 * [安全](https://docs.freebsd.org/en/books/handbook/book/#security)已增补，提供有关虚拟专用网络（VPN）、文件系统访问控制列表（ACL）和安全通告的新内容。
