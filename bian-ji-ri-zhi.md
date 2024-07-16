@@ -3,6 +3,7 @@
 - 2024.7.1 机器翻译至 16.16
 - 2024.7.2 机器翻译完成
 - 2024.7.6 前言部分校对完成
+- 2024.7.7 1.1、1.2 校对完成
 
 ```
 You are a professional, authentic translation engine. You only return the translated text, without any explanations. 
