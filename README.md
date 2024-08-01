@@ -4,9 +4,9 @@
 
 > **PDF 文档**
 >
-> - 使用社区成员提供的脚本：
+> - 使用由 [safreya](https://github.com/safreya) 提供的脚本：
 >   
->> 　　<https://github.com/safreya/tobook> 用于导出本书的 pdf，打印的话比 gitbook 导出的应该要好点。该脚本运行于 FreeBSD。
+>> 　　<https://github.com/FreeBSD-Ask/gitbook-pdf-export> 用于导出本书的 PDF 文档。该脚本使用 Python 3 编写，仅在 Windows 10、FreeBSD 14 上测试过。
 >> 
 >> 具体使用方法见该项目的 README.
 
