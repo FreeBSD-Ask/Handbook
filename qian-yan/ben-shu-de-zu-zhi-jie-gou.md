@@ -100,7 +100,7 @@
 
 **[更新和升级 FreeBSD](https://docs.freebsd.org/en/books/handbook/cutting-edge/#updating-upgrading)**
 
-解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD 发布版之间的区别。讲解了何者可以从跟踪开发系统中获益，并概述了该过程。涉及用户将其系统更新到最新安全发行版本的几种方法。
+解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 间的区别。讲解了何者可以从跟踪开发系统中获益，并简述了该过程。包含用户将其系统更新到最新安全发行版本的几种方法。
 
 **[DTrace](https://docs.freebsd.org/en/books/handbook/dtrace/#dtrace)**
 
