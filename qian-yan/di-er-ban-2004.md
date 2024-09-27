@@ -11,4 +11,4 @@
 * 此版新增了[网络服务器](https://docs.freebsd.org/en/books/handbook/book/#network-servers)这一章。本章包含了有关设置 Apache HTTP 服务器、ftpd 以及为 Microsoft® Windows® 客户端设置服务器的方法。有些来自[高级网络](https://docs.freebsd.org/en/books/handbook/book/#advanced-networking)部分的内容被移至此处，以改进章节排布。
 * [高级网络](https://docs.freebsd.org/en/books/handbook/book/#advanced-networking)部分已增补，新增了有关在 FreeBSD 上使用蓝牙®设备、设置无线网络以及异步传输模式（ATM）网络的教程。
 * 书中增加了一个词汇表，为全书所用技术术语的定义提供了一个集中的位置。
-* 对全书的表格和图表进行了许多美化。
+* 对全书的表格和图表进行了诸多美化。
