@@ -25,7 +25,7 @@ jobs:
           run: find "$(pwd)" -type f -name "*.md" | npx md-padding --ignore-words='-' '=' ':' '>' '<' '→' '"）' '[…]' '[' '（1"）' ']' '!' ',' -f --read-files -i
 
         - name: PR Changes by md-padding
-          uses: peter-evans/create-pull-request@v6
+          uses: peter-evans/create-pull-request@v7
           with:
              commit-message: "Markdown add spaces"
              labels: "Markdown"
