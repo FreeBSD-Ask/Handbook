@@ -1,1015 +1,978 @@
 # 术语表
 
-这个术语表包含了在 FreeBSD 社区和文档中使用的术语和首字母缩写。
 
-**A**
+此术语表包含在 FreeBSD 社区和文档中使用的术语和缩写。
 
----
+## A
 
-**_ACL_**
+`ACL`
 
-见[访问控制列表](https://docs.freebsd.org/en/books/handbook/glossary/#acl-glossary)。
+ 查看访问控制列表。
 
-**_ACPI_**
+`ACPI`
 
-见[高级配置和电源接口](https://docs.freebsd.org/en/books/handbook/glossary/#acpi-glossary)。
+查看高级配置和电源接口。
 
-**_AMD_**
+`AMD`
 
-见[自动挂载程序](https://docs.freebsd.org/en/books/handbook/glossary/#amd-glossary)。
+查看自动挂载守护程序。
 
-**_AML_**
+`AML`
 
-见 [ACPI 机器语言](https://docs.freebsd.org/en/books/handbook/glossary/#aml-glossary)。
+查看 ACPI 机器语言。
 
-**_API_**
+`API`
 
-见[应用编程接口](https://docs.freebsd.org/en/books/handbook/glossary/#api-glossary)。
+查看应用程序编程接口。
 
-**_APIC_**
+`APIC`
 
-见[高级可编程中断控制器](https://docs.freebsd.org/en/books/handbook/glossary/#apic-glossary)。
+查看高级可编程中断控制器。
 
-**_APM_**
+`APM`
 
-见[高级电源管理](https://docs.freebsd.org/en/books/handbook/glossary/#apm-glossary)。
+查看高级电源管理。
 
-**_APOP_**
+`APOP`
 
-见[经过认证的邮局协议](https://docs.freebsd.org/en/books/handbook/glossary/#apop-glossary)。
+查看认证邮局协议。
 
-**_ASL_**
+`ASL`
 
-见 [ACPI 源语言](https://docs.freebsd.org/en/books/handbook/glossary/#asl-glossary)。
+查看 ACPI 源语言。
 
-**_ATA_**
+`ATA`
 
-见[高级技术附加](https://docs.freebsd.org/en/books/handbook/glossary/#ata-glossary)。
+查看高级技术附件。
 
-**_ATM_**
+`ATM`
 
-见[异步传输模式](https://docs.freebsd.org/en/books/handbook/glossary/#atm-glossary)。
+查看异步传输模式。
 
-**_ACPI Machine Language，ACPI 机器语言_**
+`ACPI Machine Language`
 
-伪代码，由符合 ACPI 标准的操作系统内的虚拟机解释，在底层硬件和呈现给操作系统的文件接口之间提供一个层次。
+由 ACPI 兼容的操作系统内的虚拟机解释的伪代码，提供底层硬件和向操作系统呈现的文档化接口之间的一层。
 
-**_ACPI Source Language，ACPI 源语言_**
+`ACPI Source Language`
 
-AML 采用的编程语言。
+编写的编程语言 AML。
 
-**_Access Control List，访问控制列表_**
+`Access Control List`
 
-附加到一个对象的权限列表，通常是一个文件或一个网络设备。
+附加到对象（通常为文件或网络设备）的权限列表。
 
-**_Advanced Configuration and Power Interface，高级配置和电源接口_**
+`Advanced Configuration and Power Interface`
 
-一种规范，它提供了硬件呈现给操作系统的接口的抽象，因此，操作系统应该不需要了解底层硬件就可以充分利用它。ACPI 发展并取代了以前由 APM、PNPBIOS 和其他技术提供的功能，并提供了控制功耗、机器暂停、设备启用和禁用等设施。
+一个规范，它提供了操作系统与硬件接口的抽象，使操作系统在最大程度利用硬件的同时，无需了解底层硬件的具体情况。ACPI 发展并取代了以前由 APM、PNPBIOS 和其他技术提供的功能，提供了控制功耗、系统暂停、设备启用和禁用等功能。
 
-**_Application Programming Interface,应用编程接口_**
+`Application Programming Interface`
 
-一套程序、协议和工具，规定了一个或多个程序部分的典型互动；它们如何、何时和为何一起工作，以及它们共享或操作什么数据。
+一组过程、协议和工具，规定了一个或多个程序部分的标准互动方式；它们如何、何时以及为什么协同工作，以及它们共享或操作的数据。
 
-**_Advanced Power Management，高级电源管理_**
+`Advanced Power Management`
 
-一个 API，使操作系统能够与 BIOS 一起工作，以实现电源管理。在大多数应用中，APM 已经被更为通用和强大的 ACPI 规范所取代。
+一个 API，使操作系统能够与 BIOS 协同工作，以实现电源管理。对于大多数应用程序来说，APM 已被更通用且功能更强大的 ACPI 规范所取代。
 
-**_Advanced Programmable Interrupt Controller，高级可编程中断控制器_**
+`Advanced Programmable Interrupt Controller`
 
-**_Advanced Technology Attachment，高级技术附加_**
+高级技术附件
 
-**_Asynchronous Transfer Mode，异步传输模式_**
+`Asynchronous Transfer Mode`
 
-**_Authenticated Post Office Protocol，经过认证的邮局协议_**
+认证后的邮局协议
 
-**_Automatic Mount Daemon，自动挂载程序_**
+`Automatic Mount Daemon`
 
-一个当文件系统中的文件或目录被访问时自动挂载该文件系统的守护程序。
+当文件系统中的文件或目录被访问时自动挂载文件系统的守护程序
 
-**B**
+## B
 
----
+`BAR`
 
-**_BAR_**
+查看基址寄存器。
 
-见[基址寄存器](https://docs.freebsd.org/en/books/handbook/glossary/#bar-glossary)。
+`BIND`
 
-**_BIND_**
+查看伯克利互联网名称域。
 
-见[伯克利互联网名称域](https://docs.freebsd.org/en/books/handbook/glossary/#bind-glossary)。
+`BIOS`
 
-**_BIOS_**
+查看基本输入输出系统。
 
-见[基本输入/输出系统](https://docs.freebsd.org/en/books/handbook/glossary/#bios-glossary)。
+`BSD`
 
-**_BSD_**
+查看伯克利软件套装。
 
-见[伯克利软件套件](https://docs.freebsd.org/en/books/handbook/glossary/#bsd-glossary)。
+`Base Address Register`
 
-**_Base Address Register，基址寄存器_**
+确定 PCI 设备响应的地址范围的寄存器。
 
-决定 PCI 设备将响应哪个地址范围的寄存器。
+`Basic Input/Output System`
 
-**_Basic Input/Output System，基本输入/输出系统_**
+BIOS 的定义在不同的上下文中有所不同。一些人将其称为带有基本例程的 ROM 芯片，用于提供软件与硬件之间的接口。其他人可能将其称为存储在芯片中的一组例程，帮助引导系统启动。有些人还可能将其称为用于配置引导过程的屏幕。BIOS 是针对 PC 的，但其他系统也有类似的东西。
 
-BIOS 的定义在一定程度上取决于上下文。有些人把它称为具有基本程序集的 ROM 芯片，以提供软件和硬件之间的接口。另一些人把它称为芯片中包含的帮助启动系统的一套程序。有些人可能还把它称为用于配置启动过程的屏幕。BIOS 是 PC 特有的，但其他系统也有类似的东西。
+`Berkeley Internet Name Domain`
 
-**_Berkeley Internet Name Domain，伯克利互联网名称域_**
+DNS 协议的实现。
 
-一个 DNS 协议的实现。
+`Berkeley Software Distribution`
 
-**_Berkeley Software Distribution，伯克利软件套件_**
+这是加利福尼亚大学伯克利分校的计算机系统研究组（CSRG）对他们对 AT&T 的 32V UNIX® 进行的改进和修改所给出的名称。FreeBSD 是 CSRG 工作的后代。
 
-这是[加州大学伯克利分校](http://www.berkeley.edu/)的计算机系统研究小组（CSRG）为他们对 AT&T 的 32V UNIX® 的改进和修改所起的名字。FreeBSD 是 CSRG 工作的后裔。
+`Bikeshed Building`
 
-**_Bikeshed Building，自行车棚效应_**
+一种现象，即许多人会对一个简单的话题发表意见，而一个复杂的话题却很少或没有讨论。请参阅常见问题解答以了解术语的起源。
 
-一种现象，即许多人对一个不复杂的话题发表意见，而对一个复杂的话题却很少或没有讨论。关于该术语的起源，请参见 [FAQ](https://docs.freebsd.org/en/books/faq/#bikeshed-painting)。
+## C
 
-**C**
+`CD`
 
----
+ 参见载波检测。
 
-**_CD_**
+`CHAP`
 
-见[载波检测](https://docs.freebsd.org/en/books/handbook/glossary/#cd-glossary)。
+查看挑战握手认证协议。
 
-**_CHAP_**
+`CLIP`
 
-见[挑战握手认证协议](https://docs.freebsd.org/en/books/handbook/glossary/#chap-glossary)。
+查看经典的 ATM 上的 IP。
 
-**_CLIP_**
+`COFF`
 
-见 [ATM 上的经典 IP](https://docs.freebsd.org/en/books/handbook/glossary/#clip-glossary)。
+查看常见对象文件格式。
 
-**_COFF_**
+`CPU`
 
-见[通用对象文件格式](https://docs.freebsd.org/en/books/handbook/glossary/#coff-glossary)。
+查看中央处理器。
 
-**_CPU_**
+`CTS`
 
-见[中央处理单元](https://docs.freebsd.org/en/books/handbook/glossary/#cpu-glossary)。
+ 查看清空发送。
 
-**_CTS_**
+`Carrier Detect`
 
-见[清除发送](https://docs.freebsd.org/en/books/handbook/glossary/#cts-glossary)。
+RS232C 信号，指示检测到载波。
 
-**_Carrier Detect，载波检测_**
+`Central Processing Unit`
 
-一个 RS232C 信号，表示已经检测到载波。
+也被称为处理器。这是计算机的大脑，所有的计算都在这里进行。有多种不同的架构，具有不同的指令集。其中比较知名的有 Intel-x86 及其衍生产品、Arm 和 PowerPC。
 
-**_Central Processing Unit，中央处理单元_**
+`Challenge Handshake Authentication Protocol`
 
-也被称为处理器。这是计算机的大脑，所有计算都在这里进行。有许多不同的架构，有不同的指令集。其中比较知名的是 英特尔 -x86 及其衍生产品、Arm 和 PowerPC。
+一种基于客户端和服务器之间共享的秘钥进行用户认证的方法。
 
-**_Challenge Handshake Authentication Protocol，挑战握手认证协议_**
+`Classical IP over ATM`
 
-一种基于客户端和服务器之间共享的秘钥来验证用户身份的方法。
+`Clear To Send`
 
-**_Classical IP over ATM，ATM 上的经典 IP_**
+一种 RS232C 信号，表示远程系统有权限发送数据。
 
-**_Clear To Send，，清除发送_**
+请参见请求发送。
 
-一个 RS232C 信号，给予远程系统发送数据的许可。
+`Common Object File Format`
 
-另见[请求发送](https://docs.freebsd.org/en/books/handbook/glossary/#rts-glossary)。
+## D
 
-**_Common Object File Format，通用对象文件格式_**
+`DAC`
 
-**\*\***D**\*\***
+请参见自主访问控制。
 
----
+`DDB`
 
-**_DAC_**
+ 请参见调试器。
 
-见[自由裁量的访问控制](https://docs.freebsd.org/en/books/handbook/glossary/#dac-glossary)。
+`DES`
 
-**_DDB_**
+请参见数据加密标准。
 
-见[调试器](https://docs.freebsd.org/en/books/handbook/glossary/#ddb-glossary)。
+`DHCP`
 
-**_DES_**
+请参见动态主机配置协议。
 
-见[数据加密标准](https://docs.freebsd.org/en/books/handbook/glossary/#des-glossary)。
+`DNS`
 
-**_DHCP_**
+ 查看域名系统。
 
-见[动态主机配置协议](https://docs.freebsd.org/en/books/handbook/glossary/#dhcp-glossary)。
+`DSDT`
 
-**_DNS_**
+查看差异化系统描述表。
 
-见[域名系统](https://docs.freebsd.org/en/books/handbook/glossary/#dns-glossary)。
+`DSR`
 
-**_DSDT_**
+ 查看数据集准备。
 
-见[区分系统描述表](https://docs.freebsd.org/en/books/handbook/glossary/#dsdt-glossary)。
+`DTR`
 
-**_DSR_**
+ 查看数据终端就绪。
 
-见[数据集就绪](https://docs.freebsd.org/en/books/handbook/glossary/#dtr-glossary)。
+`DVMRP`
 
-**_DTR_**
+查看距离矢量组播路由协议。
 
-见[数据终端就绪](https://docs.freebsd.org/en/books/handbook/glossary/#dtr-glossary)。
+`Discretionary Access Control`
 
-**_DVMRP_**
+`Data Encryption Standard`
 
-见[距离矢量组播路由选择协议](https://docs.freebsd.org/en/books/handbook/glossary/#dvmrp-glossary)。
+一种加密信息的方法，传统上用作 UNIX®密码的加密方法和 crypt(3)函数的加密方法。
 
-**_Discretionary Access Control，自由裁量的访问控制_**
+`Data Set Ready`
 
-**_Data Encryption Standard，数据加密标准_**
+从调制解调器发送到计算机或终端的 RS232C 信号，表示准备好发送和接收数据。
 
-一种加密信息的方法，传统上被用作 UNIX® 密码和 crypt(3) 函数的加密方法。
+另请参阅数据终端就绪。
 
-**_Data Set Ready，数据集就绪_**
+D`ata Terminal Ready`
 
-从调制解调器发送至计算机或终端的 RS232C 信号，表示准备好发送和接收数据。
+计算机或终端向调制解调器发送的 RS232C 信号，表示准备好发送和接收数据。
 
-另见[数据终端就绪](https://docs.freebsd.org/en/books/handbook/glossary/#dtr-glossary)。
+`Debugger`
 
-**_Data Terminal Ready，数据终端就绪_**
+一种交互式的内核工具，用于检查系统状态，通常在系统崩溃后使用，以确定失败事件的详细情况。
 
-从计算机或终端发送至调制解调器的 RS232C 信号，表示准备好发送和接收数据。
+`Differentiated System Description Table`
 
-**_Debugger，调试器_**
+ACPI 表，提供关于基本系统配置信息的基本信息。
 
-一种用于检查系统状态的交互式内核设施，通常在系统崩溃后使用，以确定围绕故障的事件。
+`Distance-Vector Multicast Routing Protocol`
 
-**_Differentiated System Description Table，区分系统描述表_**
+`Domain Name System`
 
-ACPI 表，提供关于基本系统的基本配置信息。
+将人类可读的主机名（即 mail.example.net）转换为互联网地址及反之的系统。
 
-**_Distance-Vector Multicast Routing Protocol，距离矢量组播路由选择协议_**
+`Dynamic Host Configuration Protocol`
 
-**_Domain Name System，域名系统_**
+当计算机（主机）从服务器请求 IP 地址时动态分配 IP 地址的协议。地址分配称为“租约”。
 
-将人类可读的主机名（即 mail.example.net）转换为互联网地址的系统，反之亦然。
+## E
 
-**_Dynamic Host Configuration Protocol，动态主机配置协议_**
+`ECOFF`
 
-当一台计算机（主机）向服务器请求 IP 地址时，该协议会动态地分配给它。该地址分配被称为“租赁”。
+ 查看扩展 COFF。
 
-**E**
+`ELF`
 
----
+查看可执行和链接格式。
 
-**_ECOFF_**
+`ESP`
 
-见[扩展的 COFF](https://docs.freebsd.org/en/books/handbook/glossary/#ecoff-glossary)。
+查看封装安全载荷。
 
-**_ELF_**
+`Encapsulated Security Payload`
 
-见[可执行和链接格式](https://docs.freebsd.org/en/books/handbook/glossary/#elf-glossary)。
+`Executable and Linking Format`
 
-**_ESP_**
+`Extended COFF`
 
-见[封装安全有效载荷](https://docs.freebsd.org/en/books/handbook/glossary/#esp-glossary)。
+## F
 
-**_Encapsulated Security Payload，封装安全有效载荷_**
+`FADT`
 
-**_Executable and Linking Format，可执行和链接格式_**
+查看固定 ACPI 描述表。
 
-**_Extended COFF，扩展的 COFF_**
+`FAT`
 
-**F**
+查看文件分配表。
 
----
+`FAT16`
 
-**_FADT_**
+查看文件分配表（16 位）。
 
-见[固定 ACPI 描述表](https://docs.freebsd.org/en/books/handbook/glossary/#fadt-glossary)。
+`FTP`
 
-**_FAT_**
+查看文件传输协议。
 
-见[文件分配表](https://docs.freebsd.org/en/books/handbook/glossary/#fat-glossary)。
+`File Allocation Table`
 
-**_FAT16_**
+`File Allocation Table (16-bit)`
 
-见[文件分配表（16 位）](https://docs.freebsd.org/en/books/handbook/glossary/#fat16-glossary)。
+`File Transfer Protocol`
 
-**_FTP_**
+TCP/IP 网络上传输文件时可用的高级协议族中的一员。
 
-见[文件传输协议](https://docs.freebsd.org/en/books/handbook/glossary/#ftp-glossary)。
+`Fixed ACPI Description Table`
 
-**_File Allocation Table，文件分配表_**
+## G
 
-**_File Allocation Table (16-bit)，文件分配表（16 位）_**
+`GUI`
 
-**_File Transfer Protocol，文件传输协议_**
+查看图形用户界面。
 
-在 TCP 基础上实现的高级协议系列的一个成员，可用于在 TCP/IP 网络上传输文件。
+`Giant`
 
-**_Fixed ACPI Description Table，固定 ACPI 描述表_**
+一个相互排斥机制的名称（一个睡眠 mutex ），用于保护大量内核资源。尽管在机器可能仅有几十个进程、一个网络卡，当然只有一个处理器的时代，简单的锁定机制是足够的，在当前时代，这是无法接受的性能瓶颈。FreeBSD 开发人员正在积极努力将其替换为保护各个资源的锁，这将能让单处理器和多处理器机器的更高程度的并行性。
 
-**G**
+`Graphical User Interface`
 
----
+一个用户与计算机通过图形交互的系统。
 
-**_GUI_**
+## H
 
-见[图形用户界面](https://docs.freebsd.org/en/books/handbook/glossary/#gui-glossary)。
+`HTML`
 
-**_Giant_**
+参见超文本标记语言。
 
-一个保护大量内核资源的互斥机制（sleep `mutex`）的名称。尽管在一台机器可能只有几十个进程，一块网卡，当然也只有一个处理器的时代，简单的锁机制已经足够了，但在现在，它是一个不可接受的性能瓶颈。FreeBSD 的开发者们正在积极努力用保护单个资源的锁来取代它，这将使单处理器和多处理器的机器都能有更大程度的并行性。
+`HUP`
 
-**_Graphical User Interface，图形用户界面_**
+ 看挂机。
 
-一个用户和计算机图形互动的系统。
+`HangUp`
 
-**H**
+超文本标记语言
 
----
+用于创建网页的标记语言。
 
-**_HTML_**
+## 我
 
-见[超文本标记语言](https://docs.freebsd.org/en/books/handbook/glossary/#html-glossary)。
+`I/O`
 
-**_HUP_**
+ 看见输入/输出。
 
-请看 [HangUp](https://docs.freebsd.org/en/books/handbook/glossary/#hup-glossary)。
+`IASL`
 
-**_HangUp_**
+查看英特尔的 ASL 编译器。
 
-**_HyperText Markup Language，超文本标记语言_**
+`IMAP`
 
-用来创建网页的标记语言。
+查看互联网消息访问协议。
 
-**I**
+`IP`
 
----
+ 查看互联网协议。
 
-**_I/O_**
+`IPFW`
 
-见[输入/输出](https://docs.freebsd.org/en/books/handbook/glossary/#io-glossary)。
+ 查看 IP 防火墙。
 
-**_IASL_**
+`IPP`
 
-见[英特尔的 ASL 编译器](https://docs.freebsd.org/en/books/handbook/glossary/#iasl-glossary)。
+参见 Internet 打印协议。
 
-**_IMAP_**
+`IPv4`
 
-见[互联网信息访问协议](https://docs.freebsd.org/en/books/handbook/glossary/#imap-glossary)。
+ 参见 IP 版本 4。
 
-**_IP_**
+`IPv6`
 
-见[互联网协议](https://docs.freebsd.org/en/books/handbook/glossary/#ip-glossary)。
+ 参见 IP 版本 6。
 
-**_IPFW_**
+`ISP`
 
-见 [IP 防火墙](https://docs.freebsd.org/en/books/handbook/glossary/#ipfw-glossary)。
+查看互联网服务提供商。
 
-**_IPP_**
+`IP Firewall`
 
-见[互联网打印协议](https://docs.freebsd.org/en/books/handbook/glossary/#ipp-glossary)。
+`IP Version 4`
 
-**_IPv4_**
+IP 协议版本 4，使用 32 位地址。这个版本仍然是最广泛使用的，但正逐渐被 IPv6 取代。
 
-见 [第 4 版 IP](https://docs.freebsd.org/en/books/handbook/glossary/#ipv4-glossary)。
+另请参阅 IP 版本 6。
 
-**_IPv6_**
+`IP Version 6`
 
-见 [第 6 版 IP](https://docs.freebsd.org/en/books/handbook/glossary/#ipv6-glossary)。
+新的 IP 协议。因为 IPv4 的地址空间即将耗尽而发明。使用 128 位地址。
 
-**_ISP_**
+`Input/Output`
 
-见[互联网服务提供商](https://docs.freebsd.org/en/books/handbook/glossary/#isp-glossary)。
+`Intel’s ASL compiler`
 
-**_IP Firewall，IP 防火墙_**
+Intel 的编译器，用于将 ASL 转换为 AML。
 
-**_IP Version 4，第 4 版 IP_**
+`Internet Message Access Protocol`
 
-第 4 版 IP，使用 32 位进行寻址。这个版本仍然是使用最广泛的，但它正慢慢被 IPv6 取代。
+一种用于访问邮件服务器上电子邮件的协议，其特点是邮件通常保存在服务器上，而不是下载到邮件阅读客户端。
 
-另见[第 6 版 IP](https://docs.freebsd.org/en/books/handbook/glossary/#ipv6-glossary)。
+查看邮政协议版本 3。
 
-**_IP Version 6，第 6 版 IP_**
+`Internet Printing Protocol`
 
-新的 IP 协议。发明的原因是 IPv4 的地址空间正在耗尽。使用 128 位进行寻址。
+`Internet Protocol`
 
-**_Input/Output，输入/输出_**
+这是互联网上的基本协议，用于传输数据包。最初由美国国防部开发，是 TCP/IP 协议栈的重要组成部分。没有互联网协议，互联网就不可能成为今天的样子。更多信息，请参阅 RFC 791。
 
-**_Intel’s ASL compiler，英特尔的 ASL 编译器_**
-
-英特尔用于将 ASL 转换为 AML 的编译器。
-
-**_Internet Message Access Protocol，互联网信息访问协议_**
-
-一种用于访问邮件服务器上的电子邮件信息的协议，其特点是信息通常保存在服务器上，而不是下载到邮件阅读器客户端。
-
-另见邮政协议版本 3。
-
-**_Internet Printing Protocol，互联网打印协议_**
-
-**_Internet Protocol，互联网协议_**
-
-数据包传输协议，是互联网上的基本协议。最初在美国国防部开发，是 TCP/IP 协议栈的一个极其重要的部分。没有互联网协议，互联网就不会成为今天的样子。更多信息，见 [RFC 791](ftp://ftp.rfc-editor.org/in-notes/rfc791.txt)。
-
-**_Internet Service Provider，互联网服务提供商_**
+`Internet Service Provider`
 
 一家提供互联网接入的公司。
 
-**K**
+## K
 
----
+`KAME`
 
-**_KAME_**
+日本译为“乌龟”，在计算机界中用于指代 KAME 项目，他们致力于 IPv6 的实现。
 
-KAME 是日语“乌龟”的意思，在计算机界被用来指 [KAME 项目](http://www.kame.net/)，他们致力于 IPv6 的实施。
+`KDC`
 
-**_KDC_**
+参见密钥分发中心。
 
-见[密钥分发中心](https://docs.freebsd.org/en/books/handbook/glossary/#kdc-glossary)。
+`KLD`
 
-**_KLD_**
+ 查看内核 ld(1)。
 
-参见[内核 ld(1)](https://docs.freebsd.org/en/books/handbook/glossary/#kld-glossary)。
+`KSE`
 
-**_KSE_**
+查看内核调度程序实体。
 
-见[内核调度器实体](https://docs.freebsd.org/en/books/handbook/glossary/#kse-glossary)。
+`KVA`
 
-**_KVA_**
+查看内核虚拟地址。
 
-见[内核虚拟地址](https://docs.freebsd.org/en/books/handbook/glossary/#kva-glossary)。
+`Kbps`
 
-**_Kbps_**
+见每秒千比特。
 
-见[千比特每秒](https://docs.freebsd.org/en/books/handbook/glossary/#kbps-glossary)。
+`Kernel`​[ld(1)](https://man.freebsd.org/cgi/man.cgi?query=ld&sektion=1&format=html)
 
-**_Kernel [ld(1)](https://www.freebsd.org/cgi/man.cgi?query=ld&sektion=1&format=html)_**
+一种在不重启系统的情况下将功能动态加载到 FreeBSD 内核的方法。
 
-一种在不重启系统的情况下动态加载功能到 FreeBSD 内核的方法。
+`Kernel Scheduler Entities`
 
-**_Kernel Scheduler Entities，内核调度器实体_**
+内核支持的线程系统。有关详细信息，请参阅项目主页。
 
-一个由内核支持的线程系统。更多细节请见[项目主页](http://www.freebsd.org/kse)。
+`Kernel Virtual Address`
 
-**_Kernel Virtual Address，内核虚拟地址_**
+`Key Distribution Center`
 
-**_Key Distribution Center，密钥分配中心_**
+`Kilo Bits Per Second`
 
-**_Kilo Bits Per Second，千比特每秒_**
+用于测量带宽（数据在指定时间内通过给定点的量）。与千（Kilo）前缀的替代包括兆（Mega）、吉（Giga）、太（Tera）等。
 
-用于测量带宽（在指定的时间内有多少数据可以通过一个给定的点）。可用 Mega、Giga、Tera 等代替前缀 Kilo。
+## L
 
-**L**
+`LAN`
 
----
+ 查看本地区域网络。
 
-**_LAN_**
+`LOR`
 
-见[局域网](https://docs.freebsd.org/en/books/handbook/glossary/#lan-glossary)。
+ 查看锁定顺序颠倒。
 
-**_LOR_**
+`LPD`
 
-见[Lock Order Reversal](https://docs.freebsd.org/en/books/handbook/glossary/#lor-glossary)。
+ 查看行式打印机守护进程。
 
-**_LPD_**
+`Line Printer Daemon`
 
-见[行式打印机守护程序](https://docs.freebsd.org/en/books/handbook/glossary/#lpd-glossary)。
+`Local Area Network`
 
-**_Line Printer Daemon，行式打印机守护程序_**
+局域网是指在办公室、家庭等本地区域使用的网络。
 
-**_Local Area Network，局域网_**
+`Lock Order Reversal`
 
-在局部地区使用的网络，如办公室、家庭等。
+FreeBSD 内核使用多个资源锁来调节对这些资源的竞争。在 FreeBSD-CURRENT 内核中存在一个运行时锁诊断系统（在发布版中已移除），称为 witness(4)，用于检测由于锁定错误而导致死锁的潜在问题。（witness(4)实际上稍微保守，因此可能会产生误报。）真实的正报告表示，“如果你运气不好，死锁可能会在这里发生”。
 
-**_Lock Order Reversal_**
+真实的正报告的锁定竞争条件（LOR）通常会被快速修复，请在发布到邮件列表之前检查 https://lists.FreeBSD.org/subscription/freebsd-current 和已看到的 LOR 页面。
 
-FreeBSD 内核采用了一系列资源锁来判定抢占资源的行为。位于 FreeBSD-CURRENT 内核的“运行程序锁诊断系统”，又称 [witness(4)](https://www.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)（Release 中已移除）用来检测因加锁错误可能发生的死锁。（[witness(4)](https://www.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上略微保守，有出现误报的可能）。准确的报告意味着“如果你运气再差点，这里已经出现死锁了”。
+## M
 
-真正重要的 LOR 往往很快就会被修复，所以在发布到邮件列表之前，请检查 <https://lists.FreeBSD.org/subscription/freebsd-current> 和 [LORs Seen](http://sources.zabbadoz.net/freebsd/lor.html) 页面。
+`MAC`
 
-**M**
+查看强制访问控制。
 
----
+`MADT`
 
-**_MAC_**
+查看多个 APIC 描述表。
 
-见[强制访问控制](https://docs.freebsd.org/en/books/handbook/glossary/#mac-glossary)。
+`MFC`
 
-**_MADT_**
+ 看到从当前合并。
 
-请参阅[多 APIC 描述表](https://docs.freebsd.org/en/books/handbook/glossary/#madt-glossary)。
+`MFH`
 
-**_MFC_**
+ 看到从头合并。
 
-请参阅[从 Current 合并](https://docs.freebsd.org/en/books/handbook/glossary/#mfc-glossary)。
+MFS
 
-**_MFH_**
+ 从稳定版合并查看。
 
-见[从 Head 合并](https://docs.freebsd.org/en/books/handbook/glossary/#mfh-glossary)。
+MFV
 
-**_MFS_**
+ 从供应商合并查看。
 
-见[从 Stable 合并](https://docs.freebsd.org/en/books/handbook/glossary/#mfs-glossary)。
+ 麻省理工学院
 
-**_MFV_**
+参见麻省理工学院。
 
-参见[从 Vendor 处合并](https://docs.freebsd.org/en/books/handbook/glossary/#mfv-glossary)。
+MLS
 
-**_MIT_**
+查看多级安全。
 
-见[麻省理工学院](https://docs.freebsd.org/en/books/handbook/glossary/#mit-glossary)。
+MOTD
 
-**_MLS_**
+查看今日消息。
 
-见[多级安全](https://docs.freebsd.org/en/books/handbook/glossary/#mls-glossary)。
+MTA
 
-**_MOTD_**
+ 看看邮件传输代理。
 
-见[今日消息](https://docs.freebsd.org/en/books/handbook/glossary/#motd-glossary)。
+MUA
 
-**_MTA_**
+ 请参阅邮件用户代理。
 
-见[邮件传输代理](https://docs.freebsd.org/en/books/handbook/glossary/#mta-glossary)。
+ 邮件传输代理
 
-**_MUA_**
+用于传输电子邮件的应用程序。MTA 传统上是 BSD 基本系统的一部分。今天 Sendmail 包含在基本系统中，但还有许多其他 MTA，如 postfix、qmail 和 Exim。
 
-见[邮件用户代理](https://docs.freebsd.org/en/books/handbook/glossary/#mua-glossary)。
+ 邮件用户代理
 
-**_Mail Transfer Agent，邮件传输代理_**
+用户用于显示和编写电子邮件的应用程序
 
-一个用于传输电子邮件的应用程序。传统上，MTA 是 BSD 基本系统的一部分。今天，Sendmail 被包含在基本系统中，但还有许多其他的 MTA，如 postfix、qmail 和 Exim。
+强制访问控制
 
-**_Mail User Agent，邮件用户代理_**
+麻省理工学院
 
-用户用于显示和书写电子邮件的应用程序。
+ 合并自当前
 
-**_Mandatory Access Control，强制访问控制_**
+将功能或补丁从当前分支合并到另一个分支，通常是稳定分支。
 
-**_Massachusetts Institute of Technology，麻省理工学院_**
+ 从头合并
 
-**_Merge From Current，从 Current 合并_**
+将功能或补丁从存储库的 HEAD 合并到较早的分支。
 
-将功能或补丁从 -CURRENT 分支合并到另一个分支，通常是 -STABLE。
+ 从稳定版合并
 
-**_Merge From Head，从 Head 合并_**
+在 FreeBSD 开发的正常过程中，更改将首先提交到-CURRENT 分支进行测试，然后才合并到-STABLE。在罕见情况下，更改会先进入-STABLE，然后再合并到-CURRENT。
 
-将版本库 HEAD 中的功能或补丁合并到一个较早的分支。
+当从-STABLE 合并到安全分支时，也使用这个术语。
 
-**_Merge From Stable，从 Stable 合并_**
+参见也合并自当前。
 
-在正常的 FreeBSD 开发过程中，一个修改在被合并到 -STABLE 之前会被提交到 -CURRENT 分支进行测试。在极少数情况下，一个改动会先进入 -STABLE，然后被合并到 -CURRENT。
+ 从供应商合并
 
-当一个补丁从 -STABLE 合并到安全分支时也会用到这个术语。
+今日消息
 
-另请参见[从 Current 合并](https://docs.freebsd.org/en/books/handbook/glossary/#mfc-glossary)。
+通常在登录时显示的一条消息，常用于向系统用户分发信息。
 
-**_Merge From Vendor，从 Vendor 处合并_**
+ 多级安全
 
-**_Message Of The Day，今日消息_**
+多个 APIC 描述表
 
-一条信息，通常在登录时显示，通常用于向系统的用户分发信息。
+## N
 
-**_Multi-Level Security，多级安全_**
+ 网络地址转换
 
-**_Multiple APIC Description Table，多 APIC 描述表_**
+见网络地址转换。
 
-**N**
+NDISulator
 
----
+ 查看“邪恶项目”。
 
-**_NAT_**
+NFS
 
-见[网络地址转换](https://docs.freebsd.org/en/books/handbook/glossary/#nat-glossary)。
+ 查看网络文件系统。
 
-**_NDISulator_**
+NTFS
 
-见 [Evil 项目](https://docs.freebsd.org/en/books/handbook/glossary/#projectevil-glossary)。
+新技术文件系统查看。
 
-**_NFS_**
+NTP
 
-见[网络文件系统](https://docs.freebsd.org/en/books/handbook/glossary/#nfs-glossary)。
+查看网络时间协议。
 
-**_NTFS_**
+网络地址转换
 
-见[新技术文件系统](https://docs.freebsd.org/en/books/handbook/glossary/#ntfs-glossary)。
+一种技术，在网关通过时重新编写 IP 数据包，使得网关后面的许多计算机能够有效地共享一个单一的 IP 地址。
 
-**_NTP_**
+ 网络文件系统
 
-见[网络时间协议](https://docs.freebsd.org/en/books/handbook/glossary/#ntp-glossary)。
+新技术文件系统
 
-**_Network Address Translation，网络地址转换_**
+由微软开发的文件系统，适用于其“新技术”操作系统，如 Windows® 2000、Windows NT®和 Windows® XP。
 
-一种技术，IP 数据包在通过网关时被改写，使网关后面的许多机器能够有效地共享一个 IP 地址。
+ 网络时间协议
 
-**_Network File System，网络文件系统_**
+一种通过网络同步时钟的方式。
 
-**_New Technology File System，新技术文件系统_**
+## O
 
-一种由微软开发的文件系统，可用于其“新技术”操作系统，如 Windows® 2000、Windows NT® 和 Windows® XP。
+ 被超越了的事件
 
-**_Network Time Protocol，网络时间协议_**
+ 看到超越了的事件。
 
-通过网络同步时钟的一种手段。
+ODMR
 
-**O**
+查看按需邮件中继。
 
----
+ 操作系统
 
-**_OBE_**
+ 查看操作系统。
 
-见[被事件所取代](https://docs.freebsd.org/en/books/handbook/glossary/#obe-glossary)。
+ 按需邮件中继
 
-**_ODMR_**
+ 操作系统
 
-见[按需邮件中继](https://docs.freebsd.org/en/books/handbook/glossary/#odmr-glossary)。
+一组程序、库和工具，用于访问计算机的硬件资源。当今的操作系统范围从仅支持一次运行一个程序，仅访问一个设备的简单设计，到完全支持多用户、多任务和多进程的系统，可以同时为成千上万的用户提供服务，每个用户运行几十个不同的应用程序。
 
-**_OS_**
+ 事件超越了
 
-见[操作系统](https://docs.freebsd.org/en/books/handbook/glossary/#os-glossary)。
+指出建议的更改（如问题报告或功能请求），由于 FreeBSD 的后续更改、网络标准的更改、受影响的硬件已经过时等原因，这些更改已不再相关或适用。
 
-**_On-Demand Mail Relay，按需邮件中继_**
+## P
 
-**_Operating System，操作系统_**
+ 物理地址扩展
 
-一组程序、库和工具，提供对计算机硬件资源的访问。今天，操作系统的范围从支持一次只运行一个程序、只访问一个设备的简单设计到完全的多用户、多任务和多进程系统，这些系统可以同时为成千上万的用户服务，每个用户都运行几十个不同的应用程序。
+参见物理地址扩展。
 
-**_Overtaken By Events，被事件所取代_**
+PAM
 
-表示建议的修改（例如问题报告或功能请求），由于后来 FreeBSD 的变化、 网络标准的变化、 受影响的硬件已经过时等原因，已经不再相关或适用。
+查看可插拔认证模块。
 
-**P**
+PAP
 
-**_PAE_**
+查看密码认证协议。
 
-见[物理地址扩展](https://docs.freebsd.org/en/books/handbook/glossary/#pae-glossary)。
+ 个人电脑
 
-**_PAM_**
+ 查看个人电脑。
 
-见[可插入式认证模块](https://docs.freebsd.org/en/books/handbook/glossary/#pam-glossary)。
+PCNSFD
 
-**_PAP_**
+查看个人计算机网络文件系统守护程序。
 
-见[密码认证协议](https://docs.freebsd.org/en/books/handbook/glossary/#pap-glossary)。
+PDF
 
-**_PC_**
+查看便携式文档格式。
 
-见[个人电脑](https://docs.freebsd.org/en/books/handbook/glossary/#pc-glossary)。
+ 进程标识符
 
-**_PCNSFD_**
+ 查看进程标识符
 
-见[个人计算机网络文件系统守护程序](https://docs.freebsd.org/en/books/handbook/glossary/#pcnfsd-glossary)。
+POLA
 
-**_PDF_**
+参见最小惊讶原则。
 
-见[便携式文档格式](https://docs.freebsd.org/en/books/handbook/glossary/#pdf-glossary)。
+POP
 
-**_PID_**
+参见邮局协议。
 
-见[进程 ID](https://docs.freebsd.org/en/books/handbook/glossary/#pid-glossary)。
+POP3
 
-**_POLA_**
+看到第三版的邮局协议。
 
-见[最小惊奇原则](https://docs.freebsd.org/en/books/handbook/glossary/#pola-glossary)。
+PPD
 
-**_POP_**
+查看后置脚本打印机说明。
 
-见[邮件协议](https://docs.freebsd.org/en/books/handbook/glossary/#pop-glossary)。
+PPP
 
-**_POP3_**
+查看点对点协议。
 
-见[邮件协议版本 3](https://docs.freebsd.org/en/books/handbook/glossary/#pop3-glossary)。
+PPPoA
 
-**_PPD_**
+ 查看 PPP over ATM.
 
-见 [PostScript 打印机描述](https://docs.freebsd.org/en/books/handbook/glossary/#ppd-glossary)。
+PPPoE
 
-**_PPP_**
+ 通过以太网上的 PPP 查看。
 
-见[点对点协议](https://docs.freebsd.org/en/books/handbook/glossary/#ppp-glossary)。
+ ATM 上的 PPP。
 
-**_PPPoA_**
+ 以太网上的 PPP。
 
-见 [ATM 上的 PPP](https://docs.freebsd.org/en/books/handbook/glossary/#pppoa-glossary)。
+PR
 
-**_PPPoE_**
+See [Problem Report](https://docs.freebsd.org/en/books/handbook/glossary/#pr-glossary).
 
-见[以太网上的 PPP](https://docs.freebsd.org/en/books/handbook/glossary/#pppoe-glossary)。
+PXE
 
-**_PPP over ATM，ATM 上的 PPP_**
+查看预启动执行环境。
 
-**_PPP over Ethernet，以太网上的 PPP_**
+密码认证协议
 
-**_PR_**
+ 个人电脑
 
-见[问题报告](https://docs.freebsd.org/en/books/handbook/glossary/#pr-glossary)。
+个人计算机网络文件系统守护程序
 
-**_PXE_**
+物理地址扩展
 
-见[预启动执行环境](https://docs.freebsd.org/en/books/handbook/glossary/#pxe-glossary)。
+一种能让在仅具有 32 位宽地址空间的系统上访问高达 64 GB RAM 的方法（否则会受到 4 GB 限制）
 
-**_Password Authentication Protocol，密码认证协议_**
+可插拔身份验证模块
 
-**_Personal Computer，个人电脑_**
+ 点对点协议
 
-**_Personal Computer Network File System Daemon，个人计算机网络文件系统守护程序_**
+ 尖帽
 
-**_Physical Address Extensions，物理地址扩展_**
+一个神话般的头饰，很像一个傻瓜帽，授予任何破坏构建、使修订号倒退或在源代码库中制造任何其他混乱的 FreeBSD 贡献者。任何值得其盐的贡献者很快就会积累大量这样的头饰。使用方式（几乎总是？）是幽默的。
 
-一种使系统能够访问高达 64GB 的 RAM 的方法，这些系统只具有 32 位宽的地址空间（因此在没有 PAE 的情况下会被限制在 4GB）。
+可移植文档格式
 
-**_Pluggable Authentication Modules，可插入式认证模块_**
+ 邮局协议
 
-**_Point-to-Point Protocol，点对点协议_**
+查看也可以通过使用电子邮件协议版本 3。
 
-**_Pointy Hat_**
+电子邮件协议版本 3
 
-一件神话般的头饰，很像一顶傻瓜帽，它被授予任何破坏构建、使修订号倒退或在源代码库中制造任何其他破坏的 FreeBSD 提交者。任何有价值的提交者都会很快积累起一个庞大的收藏。其用法是（几乎总是如此）幽默的。
+一种用于访问电子邮件服务器上电子邮件消息的协议，其特点是消息通常从服务器下载到客户端，而不是保留在服务器上。
 
-**_Portable Document Format，便携式文档格式_**
+查看 Internet 消息访问协议。
 
-**_Post Office Protocol，邮件协议_**
+PostScript 打印机说明
 
-[另见邮件协议版本 3](https://docs.freebsd.org/en/books/handbook/glossary/#imap-glossary)。
+预引导执行环境
 
-**_Post Office Protocol Version 3，邮件协议版本 3_**
+最小惊讶原则
 
-一种用于访问邮件服务器上的电子邮件信息的协议，其特点是信息通常从服务器下载到客户端，而不是留在服务器上。
+随着 FreeBSD 的发展，用户可见的变化应尽量保持不令人惊讶。例如，在/etc/defaults/rc.conf 中随意重新排列系统启动变量违反了最小惊讶原则。开发者在考虑用户可见的系统变更时会考虑到最小惊讶原则。
 
-另见互联网信息访问协议。
+ 问题报告
 
-**_PostScript Printer Description，PostScript 打印机描述_**
+已经在 FreeBSD 源代码或文档中发现的某种问题说明。请参阅撰写 FreeBSD 问题报告。
 
-**_Preboot eXecution Environment，预启动执行环境_**
+ 进程 ID
 
-**_Principle Of Least Astonishment,最小惊奇原则_**
+一个数字，对于系统上的特定进程是唯一的，它标识进程并能让采取针对它的行动。
 
-随着 FreeBSD 的发展，用户可以看到的变化应该尽可能地保持不令人惊讶。例如，在 **/etc/defaults/rc.conf** 中任意地重新安排系统启动变量就违反了 POLA。开发人员在考虑对用户可见的系统进行修改时应考虑 POLA。
+ 邪恶项目
 
-**_Problem Report_**
+NDISulator 的工作标题，由 Bill Paul 编写，他命名它是因为需要在首次需要像这样恶劣（从哲学角度看）的东西。NDISulator 是一个特殊的兼容性模块，能让使用 Microsoft Windows™ NDIS miniport 网络驱动程序与 FreeBSD/i386 一起使用。这通常是使用驱动程序为闭源的卡的唯一方式。见 src/sys/compat/ndis/subr_ndis.c。
 
-对 FreeBSD 源代码或文档中发现的某种问题的描述。参见撰写 FreeBSD 问题报告。
+## R
 
-**_Process ID_**
+ 路由器
 
-一个数字，对系统中的一个特定进程来说是唯一的，它可以识别它并允许对它采取行动。
+查看路由器广告。
 
-**_Evil 项目_**
+RAID
 
-NDISulator 的工作标题，由 Bill Paul 撰写，他的名字是指首先需要有这样的东西是多么的可怕 (从哲学的角度来看)。NDISulator 是一个特殊的兼容模块，允许 Microsoft Windows™ NDIS miniport 网络驱动程序在 FreeBSD/i386 上使用。这通常是使用驱动是闭源的卡的唯一方法。参见**src/sys/compat/ndis/subr_ndis.c**。
+参见廉价冗余磁盘阵列。
 
-**R**
+ 内存
 
----
+参见随机存取存储器。
 
-**_RA_**
+RD
 
-见[路由器通告](https://docs.freebsd.org/en/books/handbook/glossary/#ra-glossary)。
+ 查看接收到的数据。
 
-**_RAID_**
+RFC
 
-见[独立冗余磁盘阵列](https://docs.freebsd.org/en/books/handbook/glossary/#raid-glossary)。
+查看请求评论。
 
-**_RAM_**
+RISC
 
-见[随机存取存储器](https://docs.freebsd.org/en/books/handbook/glossary/#ram-glossary)。
+查看精简指令集计算机。
 
-**_RD_**
+RPC
 
-见[接收的数据](https://docs.freebsd.org/en/books/handbook/glossary/#rd-glossary)。
+参见远程过程调用。
 
-**_RFC_**
+RS232C
 
-见[征求意见稿](https://docs.freebsd.org/en/books/handbook/glossary/#rfc-glossary)。
+查看推荐标准 232C。
 
-**_RISC_**
+RTS
 
-见[精简指令集计算机](https://docs.freebsd.org/en/books/handbook/glossary/#risc-glossary)。
+ 查看请求发送。
 
-**_RPC_**
+ 随机存取内存
 
-见[远程过程调用](https://docs.freebsd.org/en/books/handbook/glossary/#rpc-glossary)。
+ 修订控制系统
 
-**_RS232C_**
+修订控制系统（RCS）是实现普通文件“修订控制”的最古老软件套件之一。它能让对每个文件的多个修订版本进行存储、检索、归档、记录、标识和合并。RCS 由许多小工具组成，这些工具共同工作。它缺少一些现代修订控制系统（如 Git）中的一些特性，但对于安装、配置和开始使用一小组文件来说非常简单。
 
-见推荐 [232C 标准](https://docs.freebsd.org/en/books/handbook/glossary/#rs232c-glossary)。
+ 参见 Subversion。
 
-**_RTS_**
+ 接收到的数据
 
-请看[请求发送](https://docs.freebsd.org/en/books/handbook/glossary/#rts-glossary)。
+用于接收数据的 RS232C 引脚或线。
 
-**_Random Access Memory_**
+查看也传输的数据。
 
-**_Revision Control System_**
+推荐标准 232C
 
-_修订控制系统（RCS）_ 是对普通文件实施“修订控制”的最古老的软件套件之一。它允许对每个文件进行存储、检索、归档、记录、识别和合并多个修订版。RCS 由许多小工具组成，它们一起工作。它缺少一些在更现代的修订控制系统中发现的功能，如 Git，但它的安装、配置和使用于一小部分文件非常简单。
+串行设备间通信的标准。
 
-[另见 Subversion](https://docs.freebsd.org/en/books/handbook/glossary/#svn-glossary)。
+简化指令集计算机
 
-**_Received Data_**
+一种处理器设计方法，其中硬件可以执行的操作被简化，但尽可能通用。这可以降低功耗、减少晶体管数量，并在某些情况下提升性能和增加代码密度。RISC 处理器的例子包括 Alpha、SPARC®、ARM®和 PowerPC®。
 
-接收数据的 RS232C 引脚或导线。
+廉价磁盘冗余阵列
 
-[另见传输的数据](https://docs.freebsd.org/en/books/handbook/glossary/#td-glossary)。
+ 远程过程调用
 
-**_Recommended Standard 232C，232C 标准_**
+ 请求评议
 
-串行设备之间的通信标准。
+定义互联网标准、协议等的一组文件。请参阅 www.rfc-editor.org。
 
-**_Reduced Instruction Set Computer，精简指令集计算机_**
+当某人提出改变建议并希望得到反馈时，也作为一般术语使用。
 
-一种处理器的设计方法，硬件可以执行的操作被简化，但尽可能做到通用。这可以导致更低的功耗，更少的晶体管，在某些情况下，更好的性能和增加代码密度。RISC 处理器的例子包括 Alpha、SPARC®、ARM® 和 PowerPC®。
+ 请求发送
 
-**_Redundant Array of Inexpensive Disks，独立冗余磁盘阵列_**
+RS232C 信号，请求远程系统开始传输数据。
 
-**_Remote Procedure Call，远程过程调用_**
+请参阅清除发送。
 
-**_Request For Comments，征求意见稿_**
+ 路由器通告
 
-一套定义互联网标准、协议等的文件。见 www.rfc-editor.org。
+## S
 
-当有人提出修改建议并希望得到反馈时，也可作为一个一般术语使用。
+SCI
 
-**_Request To Send，请求发送_**
+系统控制中断查看
 
-一个 RS232C 信号，要求远程系统开始传输数据。
+SCSI
 
-[另见清除发送](https://docs.freebsd.org/en/books/handbook/glossary/#cts-glossary)。
+参见小型计算机系统接口。
 
-**_Router Advertisement，路由器通告_**
+SG
 
-**S**
+ 参见信号地。
 
----
+SMB
 
-**_SCI_**
+查看服务器消息块。
 
-见[系统控制中断](https://docs.freebsd.org/en/books/handbook/glossary/#sci-glossary)。
+SMP
 
-**_SCSI_**
+查看对称多处理器。
 
-见[小型计算机系统接口](https://docs.freebsd.org/en/books/handbook/glossary/#scsi-glossary)。
+SMTP
 
-**_SG_**
+查看简单邮件传输协议。
 
-见[信号地线](https://docs.freebsd.org/en/books/handbook/glossary/#sg-glossary)。
+SMTP AUTH
 
-**_SMB_**
+ 查看 SMTP 身份验证。
 
-见[服务器消息区块](https://docs.freebsd.org/en/books/handbook/glossary/#smb-glossary)。
+SSH
 
-**_SMP_**
+ 看安全Shell。
 
-见[对称多处理器](https://docs.freebsd.org/en/books/handbook/glossary/#smp-glossary)。
+STR
 
-**_SMTP_**
+ 看挂起到 RAM。
 
-见[简单邮件传输协议](https://docs.freebsd.org/en/books/handbook/glossary/#smtp-glossary)。
+SVN
 
-**_SMTP AUTH_**
+ 查看 Subversion。
 
-见 [SMTP 认证](https://docs.freebsd.org/en/books/handbook/glossary/#smtpauth-glossary)。
+ SMTP 身份验证
 
-**_SSH_**
+ 服务器消息块
 
-见[安全 shell](https://docs.freebsd.org/en/books/handbook/glossary/#ssh-glossary)。
+ 信号地
 
-**_STR_**
+RS232 引脚或线是信号的地参考。
 
-见[挂起到内存](https://docs.freebsd.org/en/books/handbook/glossary/#str-glossary)。
+简单邮件传输协议
 
-**_SVN_**
+ 安全 Shell
 
-见 [Subversion](https://docs.freebsd.org/en/books/handbook/glossary/#svn-glossary)。
+小型计算机系统接口
 
-**_SMTP Authentication，SMTP 认证_**
+ 子版本
 
-**_Server Message Block，服务器消息区块_**
+Subversion 是当前由 FreeBSD 项目使用的版本控制系统。
 
-**_Signal Ground，信号地线_**
+ 暂停到 RAM
 
-RS232 引脚或导线，是信号的接地参考。
+对称多处理器
 
-**_Simple Mail Transfer Protocol，简单邮件传输协议_**
+系统控制中断
 
-**_Secure Shell，安全 shell_**
+## T
 
-**_Small Computer System Interface，小型计算机系统接口_**
+TCP
 
-**_Subversion_**
+见传输控制协议。
 
-Subversion 是 FreeBSD 项目目前使用的一个版本控制系统。
+TCP/IP
 
-**_Suspend To RAM，挂起到内存_**
+查看传输控制协议/因特网协议。
 
-**_Symmetric MultiProcessor，对称多处理器_**
+TD
 
-**_System Control Interrupt，系统控制中断_**
+ 查看传输数据。
 
-**T**
+TFTP
 
----
+ 简单文件传输协议
 
-**_TCP_**
+TGT
 
-见[传输控制协议](https://docs.freebsd.org/en/books/handbook/glossary/#tcp-glossary)。
+查看凭据授予票证。
 
-**_TCP/IP_**
+TSC
 
-见[传输控制协议/互联网协议](https://docs.freebsd.org/en/books/handbook/glossary/#tcpip-glossary)。
+ 查看时间戳计数器。
 
-**_TD_**
+ 凭据
 
-见[传输的数据](https://docs.freebsd.org/en/books/handbook/glossary/#td-glossary)。
+ 时间戳计数器
 
-**_TFTP_**
+现代奔腾®处理器内部的性能分析计数器，用于计算核心频率时钟周期。
 
-见[简单的 FTP](https://docs.freebsd.org/en/books/handbook/glossary/#tftp-glossary)。
+传输控制协议
 
-**_TGT_**
+坐在（例如）IP 协议顶部，并保证数据包以可靠、有序的方式传输的协议。
 
-见[凭据授予](https://docs.freebsd.org/en/books/handbook/glossary/#tgt-glossary)。
+传输控制协议/互联网协议
 
-**_TSC_**
+运行在 IP 协议之上的 TCP 协议的组合术语。大部分互联网运行在 TCP/IP 上。
 
-见[时间戳计数器](https://docs.freebsd.org/en/books/handbook/glossary/#tsc-glossary)。
+ 传输数据
 
-**_Ticket-Granting Ticket，凭据授予_**
+数据传输的 RS232C 引脚或电线。
 
-**_Time Stamp Counter，时间戳计数器_**
+ 查看已收到的数据。
 
-现代 Pentium® 处理器内部的剖析计数器，计算核心频率的时钟刻度。
+ 定制 FTP
 
-**_Transmission Control Protocol，传输控制协议_**
+## U 盘
 
-一种位于（例如）IP 协议之上的协议，保证数据包以可靠、有序的方式交付。
+UDP
 
-**_Transmission Control Protocol/Internet Protocol，传输控制协议/互联网协议_**
+见用户数据报协议。
 
-在 IP 协议上运行的 TCP 协议的组合术语。互联网的大部分内容都在 TCP/IP 上运行。
+UFS1
 
-**_Transmitted Data，传输的数据_**
+查看 Unix 文件系统版本 1。
 
-一个 RS232C 针脚或电线，数据通过它传输。
+UFS2
 
-[另见接收的数据](https://docs.freebsd.org/en/books/handbook/glossary/#rd-glossary)。
+查看 Unix 文件系统版本 2。
 
-**_Trivial FTP，简单的 FTP_**
+ 用户 ID
 
-**U**
+ 查看用户 ID。
 
----
+ 网址
 
-**_UDP_**
+查看统一资源定位符。
 
-见[用户数据报协议](https://docs.freebsd.org/en/books/handbook/glossary/#udp-glossary)。
+ 通用串行总线
 
-**_UFS1_**
+查看通用串行总线。
 
-见 [Unix 文件系统版本 1](https://docs.freebsd.org/en/books/handbook/glossary/#ufs1-glossary)。
+统一资源定位符
 
-**_UFS2_**
+一种定位资源的方法，例如互联网上的文档，以及识别该资源的手段。
 
-见 [Unix 文件系统第 2 版](https://docs.freebsd.org/en/books/handbook/glossary/#ufs2-glossary)。
+Unix 文件系统版本 1
 
-**_UID_**
+原始的 UNIX®文件系统，有时称为伯克利快速文件系统。
 
-见[用户 ID](https://docs.freebsd.org/en/books/handbook/glossary/#uid-glossary)。
+Unix 文件系统第 2 版
 
-**_URL_**
+UFS1 的扩展，引入于 FreeBSD 5-CURRENT。UFS2 添加了 64 位块指针（突破了 1T 的限制），支持扩展文件存储和其他功能。
 
-见[统一资源定位符](https://docs.freebsd.org/en/books/handbook/glossary/#url-glossary)。
+ 通用串行总线
 
-**_USB_**
+一种硬件标准，用于将各种计算机外围设备连接到通用接口。
 
-见[通用串行总线](https://docs.freebsd.org/en/books/handbook/glossary/#usb-glossary)。
+ 用户标识
 
-**_Uniform Resource Locator，统一资源定位符_**
+每位计算机用户分配的唯一编号，用于识别分配给该用户的资源和权限。
 
-一种定位资源的方法，如互联网上的文件和识别该资源的手段。
+ 用户数据包协议
 
-**_Unix File System Version 1，Unix 文件系统第 1 版_**
+一种简单、不可靠的数据包协议，用于在 TCP/IP 网络上交换数据。UDP 不像 TCP 那样提供错误检查和校正。
 
-最初的 UNIX® 文件系统，有时称为伯克利快速文件系统。
+## V
 
-**_Unix File System Version 2，Unix 文件系统第 2 版_**
+VPN
 
-UFS1 的扩展，在 FreeBSD 5-CURRENT 中引入。UFS2 增加了 64 位块指针（打破了 1T 的障碍），支持扩展文件存储和其他功能。
+请参阅虚拟专用网络。
 
-**_Universal Serial Bus，通用串行总线_**
+ 虚拟专用网络
 
-一种硬件标准，用于将各种计算机外围设备连接到一个通用接口。
-
-**_User ID，用户 ID_**
-
-分配给计算机的每个用户的唯一号码，通过它可以识别分配给该用户的资源和权限。
-
-**_User Datagram Protocol,用户数据报协议_**
-
-一种简单、不可靠的数据报协议，用于在 TCP/IP 网络上交换数据。UDP 不像 TCP 那样提供错误检查和纠正。
-
-**V**
-
----
-
-**_VPN_**
-
-见[虚拟专用网络](https://docs.freebsd.org/en/books/handbook/glossary/#vpn-glossary)。
-
-**_Virtual Private Network,虚拟专用网络_**
-
-一种使用公共电信（如互联网）的方法，以提供对局部网络（如公司局域网）的远程访问。
+利用公共电信设施（如互联网）提供远程访问局域网（如企业局域网）的一种方法。

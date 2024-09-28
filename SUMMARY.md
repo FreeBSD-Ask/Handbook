@@ -1,7 +1,11 @@
 # Table of contents
 
 * [FreeBSD 手册翻译项目](README.md)
+* [编辑日志](CHANGELOG.md)
 * [译者说明](yi-zhe-shuo-ming.md)
+
+## FreeBSD 手册
+
 * [FreeBSD 手册](freebsd-shou-ce.md)
 * [概述](gai-shu.md)
 
@@ -59,7 +63,7 @@
 * [4.1.概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)
 * [4.2.软件安装的概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.2.-ruan-jian-an-zhuang-de-gai-shu.md)
 * [4.3.寻找所需的应用程序](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.3.-xun-zhao-suo-xu-de-ying-yong-cheng-xu.md)
-* [4.4.使用 pkg 进行二进制包管理](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.4.-shi-yong-pkg-jin-hang-er-jin-zhi-bao-guan-li.md)
+* [4.4.使用 pkg 管理二进制包](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.4.-shi-yong-pkg-jin-hang-er-jin-zhi-bao-guan-li.md)
 * [4.5.使用 Ports](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.5.-shi-yong-ports.md)
 * [4.6.使用 Poudriere 构建软件包](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.6.-shi-yong-poudriere-gou-jian-ruan-jian-bao.md)
 * [4.7.安装后的注意事项](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.7.-an-zhuang-hou-de-zhu-yi-shi-xiang.md)
@@ -75,18 +79,15 @@
 
 ## 第6章 FreeBSD 中的 Wayland
 
-* [6.1. Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-gai-shu.md)
-* [6.2.Wayfire 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.2.wayfire-hun-cheng-qi.md)
-* [6.3.Hikari 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.3.hikari-hun-cheng-qi.md)
-* [6.4.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.sway-hun-cheng-qi.md)
-* [6.5.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.5.-shi-yong-xwayland.md)
-* [6.6.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.6.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
-* [6.7. Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.7.-wayland-deng-lu-guan-li-qi.md)
-* [6.8. 实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.8.-shi-yong-gong-ju.md)
-
-***
-
-* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
+* [6.1.简介](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-jian-jie.md)
+* [6.2.Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.2.-wayland-gai-shu.md)
+* [6.3.Wayfire 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.3.wayfire-hun-cheng-qi.md)
+* [6.4.Hikari 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.4.hikari-hun-cheng-qi.md)
+* [6.5.Sway 混成器](di-6-zhang-freebsd-zhong-de-wayland/6.5.sway-hun-cheng-qi.md)
+* [6.6.使用 Xwayland](di-6-zhang-freebsd-zhong-de-wayland/6.6.shi-yong-xwayland.md)
+* [6.7.使用 VNC 进行远程连接](di-6-zhang-freebsd-zhong-de-wayland/6.7.-shi-yong-vnc-jin-hang-yuan-cheng-lian-jie.md)
+* [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-wayland-deng-lu-guan-li-qi.md)
+* [6.9.实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.9.-shi-yong-gong-ju.md)
 
 ## 第7章 网络
 
@@ -98,13 +99,17 @@
 * [7.6.DNS](di-7-zhang-wang-luo/7.6.-dns.md)
 * [7.7.故障排除](di-7-zhang-wang-luo/7.7.-gu-zhang-pai-chu.md)
 
+***
+
+* [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
+
 ## 第8章 桌面环境
 
 * [8.1.概述](di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)
 * [8.2.桌面环境](di-8-zhang-zhuo-mian-huan-jing/8.2.-zhuo-mian-huan-jing.md)
 * [8.3.浏览器](di-8-zhang-zhuo-mian-huan-jing/8.3.-liu-lan-qi.md)
 * [8.4.开发工具](di-8-zhang-zhuo-mian-huan-jing/8.4.-kai-fa-gong-ju.md)
-* [8.5.桌面生产力工具](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
+* [8.5.桌面办公应用](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
 * [8.6.文档阅读器](di-8-zhang-zhuo-mian-huan-jing/8.6.-wen-dang-yue-du-qi.md)
 * [8.7.财务](di-8-zhang-zhuo-mian-huan-jing/8.7.-cai-wu.md)
 
@@ -120,17 +125,17 @@
 ## 第10章 配置 FreeBSD 内核
 
 * [10.1.概述](di-10-zhang-pei-zhi-freebsd-nei-he/10.1.-gai-shu.md)
-* [10.2.为什么要编译自定义内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
+* [10.2.为什么要构建定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
 * [10.3.浏览系统硬件](di-10-zhang-pei-zhi-freebsd-nei-he/10.3.-liu-lan-xi-tong-ying-jian.md)
 * [10.4.配置文件](di-10-zhang-pei-zhi-freebsd-nei-he/10.4.-pei-zhi-wen-jian.md)
-* [10.5.编译与安装定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
-* [10.6.如果发生了一些错误](di-10-zhang-pei-zhi-freebsd-nei-he/10.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
+* [10.5.构建并安装定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
+* [10.6.如果发生了错误](di-10-zhang-pei-zhi-freebsd-nei-he/10.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
 ## 第11章 打印
 
 * [11.1.快速入门](di-11-zhang-da-yin/11.1.-kuai-su-ru-men.md)
 * [11.2.连接打印机](di-11-zhang-da-yin/11.2.-lian-jie-da-yin-ji.md)
-* [11.3.常见的页面描述语言](di-11-zhang-da-yin/11.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
+* [11.3.常见的页面描述语言（PDL）](di-11-zhang-da-yin/11.3.-chang-jian-de-ye-mian-miao-shu-yu-yan.md)
 * [11.4.直接打印](di-11-zhang-da-yin/11.4.-zhi-jie-da-yin.md)
 * [11.5.LPD（行式打印机程序）](di-11-zhang-da-yin/11.5.-lpd-hang-shi-da-yin-ji-cheng-xu.md)
 * [11.6.其他打印系统](di-11-zhang-da-yin/11.6.-qi-ta-da-yin-xi-tong.md)
@@ -148,10 +153,10 @@
 * [13.2.WINE 概述和概念](di-13-zhang-wine/13.2.-wine-gai-shu-he-gai-nian.md)
 * [13.3.在 FreeBSD 上安装 WINE](di-13-zhang-wine/13.3.-zai-freebsd-shang-an-zhuang-wine.md)
 * [13.4.在 FreeBSD 上运行第一个 WINE 程序](di-13-zhang-wine/13.4.-zai-freebsd-shang-yun-hang-di-yi-ge-wine-cheng-xu.md)
-* [13.5.配置 WINE 安装](di-13-zhang-wine/13.5.-pei-zhi-wine-an-zhuang.md)
-* [13.6.WINE 图形管理用户界面](di-13-zhang-wine/13.6.-wine-tu-xing-guan-li-yong-hu-jie-mian.md)
-* [13.7.FreeBSD 多用户与 WINE](di-13-zhang-wine/13.7.-freebsd-duo-yong-hu-yu-wine.md)
-* [13.8.WINE 与 FreeBSD FAQ](di-13-zhang-wine/13.8.-wine-yu-freebsd-faq.md)
+* [13.5.配置 WINE 安装程序](di-13-zhang-wine/13.5.-pei-zhi-wine-an-zhuang.md)
+* [13.6.WINE 图形化用户管理界面](di-13-zhang-wine/13.6.-wine-tu-xing-guan-li-yong-hu-jie-mian.md)
+* [13.7.多用户 FreeBSD 与 WINE](di-13-zhang-wine/13.7.-freebsd-duo-yong-hu-yu-wine.md)
+* [13.8.FreeBSD 上的 WINE 常见问题](di-13-zhang-wine/13.8.-wine-yu-freebsd-faq.md)
 
 ***
 
@@ -160,16 +165,12 @@
 ## 第14章 配置与优化
 
 * [14.1.概述](di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)
-* [14.2.启动服务](di-14-zhang-pei-zhi-yu-you-hua/14.2.-qi-dong-fu-wu.md)
-* [14.3.配置 cron(8)](di-14-zhang-pei-zhi-yu-you-hua/14.3.-pei-zhi-cron8.md)
-* [14.4.管理 FreeBSD 中的服务](di-14-zhang-pei-zhi-yu-you-hua/14.4.-guan-li-freebsd-zhong-de-fu-wu.md)
+* [14.2.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.2.-pei-zhi-wen-jian.md)
+* [14.3.管理 FreeBSD 中的服务](di-14-zhang-pei-zhi-yu-you-hua/14.3.-guan-li-freebsd-zhong-de-fu-wu.md.md)
+* [14.4.Cron 和 Periodic](di-14-zhang-pei-zhi-yu-you-hua/14.4.-cron-he-peropdic.md)
 * [14.5.配置系统日志](di-14-zhang-pei-zhi-yu-you-hua/14.5.-pei-zhi-xi-tong-ri-zhi.md)
-* [14.6.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.6.-pei-zhi-wen-jian.md)
-* [14.7.使用 sysctl(8) 进行优化](di-14-zhang-pei-zhi-yu-you-hua/14.7.-shi-yong-sysctl8-jin-hang-you-hua.md)
-* [14.8.磁盘优化](di-14-zhang-pei-zhi-yu-you-hua/14.8.-ci-pan-you-hua.md)
-* [14.9.内核参数优化](di-14-zhang-pei-zhi-yu-you-hua/14.9.-nei-he-can-shu-you-hua.md)
-* [14.10.添加交换空间](di-14-zhang-pei-zhi-yu-you-hua/14.10.-tian-jia-jiao-huan-kong-jian.md)
-* [14.11.电源和资源管理](di-14-zhang-pei-zhi-yu-you-hua/14.11.-dian-yuan-he-zi-yuan-guan-li.md)
+* [14.6.电源和资源管理](di-14-zhang-pei-zhi-yu-you-hua/14.6.-dian-yuan-he-zi-yuan-guan-li.md)
+* [14.7.添加交换空间](di-14-zhang-pei-zhi-yu-you-hua/14.7.-tian-jia-jiao-huan-kong-jian.md)
 
 ## 第15章 FreeBSD 的引导过程
 
@@ -182,26 +183,32 @@
 
 * [16.1.概述](di-16-zhang-an-quan/16.1.-gai-shu.md)
 * [16.2.简介](di-16-zhang-an-quan/16.2.-jian-jie.md)
-* [16.3.TCP Wrapper](di-16-zhang-an-quan/16.3.-tcp-wrapper.md)
-* [16.4.Kerberos](di-16-zhang-an-quan/16.4.-kerberos.md)
-* [16.5.OpenSSL](di-16-zhang-an-quan/16.5.-openssl.md)
-* [16.6.IPsec VPN](di-16-zhang-an-quan/16.6.-ipsec-vpn.md)
+* [16.3.账户安全](di-16-zhang-an-quan/16.3.-zhang-hu-an-quan.md)
+* [16.4.入侵检测系统（IDS）](di-16-zhang-an-quan/16.4.-ru-qin-jian-ce-xi-tong-ids.md)
+* [16.5.安全等级](di-16-zhang-an-quan/16.5.-an-quan-deng-ji.md)
+* [16.6.文件标志位](di-16-zhang-an-quan/16.6.-wen-jian-biao-zhi-wei.md)
 * [16.7.OpenSSH](di-16-zhang-an-quan/16.7.-openssh.md)
-* [16.8.文件系统访问控制列表](di-16-zhang-an-quan/16.8.-wen-jian-xi-tong-fang-wen-kong-zhi-lie-biao.md)
-* [16.9.监测第三方安全问题](di-16-zhang-an-quan/16.9.-jian-ce-di-san-fang-an-quan-wen-ti.md)
-* [16.10.FreeBSD 安全公告](di-16-zhang-an-quan/16.10.-freebsd-an-quan-gong-gao.md)
-* [16.11.进程审计](di-16-zhang-an-quan/16.11.-jin-cheng-shen-ji.md)
-* [16.12.资源配额](di-16-zhang-an-quan/16.12.-zi-yuan-pei-e.md)
-* [16.13.使用 sudo 管理权限](di-16-zhang-an-quan/16.13.-shi-yong-sudo-guan-li-quan-xian.md)
+* [16.8.OpenSSL](di-16-zhang-an-quan/16.8.-openssl.md)
+* [16.9.Kerberos](di-16-zhang-an-quan/16.9.-kerberos.md)
+* [16.10.TCP 封装器（TCP Wrapper）](di-16-zhang-an-quan/16.10.-tcp-feng-zhuang-qi.md)
+* [16.11.访问控制列表（ACL）](di-16-zhang-an-quan/16.11.-fang-wen-kong-zhi-acl.md)
+* [16.12.Capsicum](di-16-zhang-an-quan/16.12.-capsicum.md)
+* [16.13.进程审计](di-16-zhang-an-quan/16.13.-jin-cheng-shen-ji.md)
+* [16.14.资源限制](di-16-zhang-an-quan/16.14.-zi-yuan-xian-zhi.md)
+* [16.15.监控第三方安全问题](di-16-zhang-an-quan/16.15.-jian-kong-di-san-fang-an-quan-wen-ti.md)
+* [16.16.FreeBSD 安全公告](di-16-zhang-an-quan/16.16.-freebsd-an-quan-gong-gao.md)
 
-## 第17章 Jail
+## 第17章 jail 与容器
 
 * [17.1.概述](di-17-zhang-jail/17.1.-gai-shu.md)
-* [17.2.与 Jail 有关的术语](di-17-zhang-jail/17.2.-yu-jail-you-guan-de-shu-yu.md)
-* [17.3.建立和控制 Jail](di-17-zhang-jail/17.3.-jian-li-he-kong-zhi-jail.md)
-* [17.4.微调和管理](di-17-zhang-jail/17.4.-wei-tiao-he-guan-li.md)
-* [17.5.更新多个 Jail](di-17-zhang-jail/17.5.-geng-xin-duo-ge-jail.md)
-* [17.6.使用 ezjail 管理 Jail](di-17-zhang-jail/17.6.-shi-yong-ezjail-guan-li-jail.md)
+* [17.2.jail 的类型](di-17-zhang-jail/17.2.jail-de-lei-xing.md)
+* [17.3.主机配置](di-17-zhang-jail/17.3.-zhu-ji-pei-zhi-jail.md)
+* [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-chuan-tong-jail-hou-jail.md)
+* [17.5.瘦 jail](di-17-zhang-jail/17.5.-shou-jail.md)
+* [17.6.管理 jail](di-17-zhang-jail/17.6.-guan-li-jail.md)
+* [17.7.更新 jail](di-17-zhang-jail/17.7.-geng-xin-jail.md)
+* [17.8.jail 资源限制](di-17-zhang-jail/17.8.-jail-zi-yuan-xian-zhi.md)
+* [17.9.jail 管理器与容器](di-17-zhang-jail/17.9.-jail-guan-li-qi-yu-rong-qi.md)
 
 ## 第18章 强制访问控制
 
@@ -274,7 +281,7 @@
 * [24.4.使用 VirtualBox™ 安装 FreeBSD](di-24-zhang-xu-ni-hua/24.4.-shi-yong-virtualbox-an-zhuang-freebsd.md)
 * [24.5.在 FreeBSD 上安装 VirtualBox™](di-24-zhang-xu-ni-hua/24.5.-zai-freebsd-shang-an-zhuang-virtualbox.md)
 * [24.6.使用 FreeBSD 上的 bhyve 虚拟机](di-24-zhang-xu-ni-hua/24.6.-shi-yong-freebsd-shang-de-bhyve-xu-ni-ji.md)
-* [24.7.使用 FreeBSD 上的 Xen™ 虚拟机](di-24-zhang-xu-ni-hua/24.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
+* [24.7.基于 FreeBSD 的 Xen™ 虚拟机](di-24-zhang-xu-ni-hua/24.7.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
 
 ## 第25章 本地化——i18n/L10n 的使用和设置
 
@@ -292,13 +299,15 @@
 * [26.5.追踪开发分支](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.5.-zhui-zong-kai-fa-fen-zhi.md)
 * [26.6.从源代码更新 FreeBSD](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.6.-cong-yuan-dai-ma-geng-xin-freebsd.md)
 * [26.7.多台机器的追踪](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.7.-duo-tai-ji-qi-de-zhui-zong.md)
+* [26.8.在非 FreeBSD 主机上进行构建](di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.8.-zai-fei-freebsd-zhu-ji-shang-jin-xing-gou-jian.md)
 
 ## 第27章 DTrace
 
 * [27.1.概述](di-27-zhang-dtrace/27.1.-gai-shu.md)
 * [27.2.实现上的差异](di-27-zhang-dtrace/27.2.-shi-xian-shang-de-cha-yi.md)
 * [27.3.开启 DTrace 支持](di-27-zhang-dtrace/27.3.-kai-qi-dtrace-zhi-chi.md)
-* [27.4.使用 DTrace](di-27-zhang-dtrace/27.4.-shi-yong-dtrace.md)
+* [27.4.启用内核外部模块 DTrace](di-27-zhang-dtrace/27.4.-nei-he-wai-bu-mo-kuai.md)
+* [27.5.使用 DTrace](di-27-zhang-dtrace/27.5.-shi-yong-dtrace.md)
 
 ## 第28章 USB 设备模式/USB OTG
 
@@ -332,16 +341,13 @@
 
 * [31.1.概述](di-31-zhang-dian-zi-you-jian/31.1.-gai-shu.md)
 * [31.2.邮件组件](di-31-zhang-dian-zi-you-jian/31.2.-you-jian-zu-jian.md)
-* [31.3.Sendmail 配置文件](di-31-zhang-dian-zi-you-jian/31.3.-sendmail-pei-zhi-wen-jian.md)
-* [31.4.改变邮件传输代理](di-31-zhang-dian-zi-you-jian/31.4.-gai-bian-you-jian-chuan-shu-dai-li.md)
-* [31.5.故障排除](di-31-zhang-dian-zi-you-jian/31.5.-gu-zhang-pai-chu.md)
-* [31.6.高级主题](di-31-zhang-dian-zi-you-jian/31.6.-gao-ji-zhu-ti.md)
-* [31.7.设置为仅发送](di-31-zhang-dian-zi-you-jian/31.7.-she-zhi-wei-jin-fa-song.md)
-* [31.8.在拨号连接中使用邮件](di-31-zhang-dian-zi-you-jian/31.8.-zai-bo-hao-lian-jie-zhong-shi-yong-you-jian.md)
-* [31.9.SMTP 认证](di-31-zhang-dian-zi-you-jian/31.9.-smtp-ren-zheng.md)
-* [31.10.邮件用户代理](di-31-zhang-dian-zi-you-jian/31.10.-you-jian-yong-hu-dai-li.md)
-* [31.11.使用 fetchmail](di-31-zhang-dian-zi-you-jian/31.11.-shi-yong-fetchmail.md)
-* [31.12.使用 procmail](di-31-zhang-dian-zi-you-jian/31.12.-shi-yong-procmail.md)
+* [31.3.DragonFly 邮件代理（DMA）](di-31-zhang-dian-zi-you-jian/31.3.-dma.md)
+* [31.4.Sendmail](di-31-zhang-dian-zi-you-jian/31.4.-sendmail.md)
+* [31.5.修改邮件传输代理](di-31-zhang-dian-zi-you-jian/31.5.-gai-bian-you-jian-chuan-shu-dai-li.md)
+* [31.6.邮件用户代理](di-31-zhang-dian-zi-you-jian/31.6.-you-jian-yong-hu-dai-li.md)
+* [31.7.高级主题](di-31-zhang-dian-zi-you-jian/31.7.-gao-ji-zhu-ti.md)
+
+
 
 ## 第32章 网络服务器
 
@@ -352,11 +358,12 @@
 * [32.5.轻型目录访问协议（LDAP）](di-32-zhang-wang-luo-fu-wu-qi/32.5.-qing-xing-mu-lu-fang-wen-xie-yi-ldap.md)
 * [32.6.动态主机设置协议（DHCP）](di-32-zhang-wang-luo-fu-wu-qi/32.6.-dong-tai-zhu-ji-she-zhi-xie-yi-dhcp.md)
 * [32.7.域名系统（DNS）](di-32-zhang-wang-luo-fu-wu-qi/32.7.-yu-ming-xi-tong-dns.md)
-* [32.8.Apache HTTP 服务器](di-32-zhang-wang-luo-fu-wu-qi/32.8.-apache-http-fu-wu-qi.md)
-* [32.9.文件传输协议（FTP）](di-32-zhang-wang-luo-fu-wu-qi/32.9.-wen-jian-chuan-shu-xie-yi-ftp.md)
-* [32.10.用于 Microsoft® Windows® 客户端的文件和打印服务（Samba）](di-32-zhang-wang-luo-fu-wu-qi/32.10.-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba.md)
-* [32.11.用 NTP 进行时钟同步](di-32-zhang-wang-luo-fu-wu-qi/32.11.-yong-ntp-jin-hang-shi-zhong-tong-bu.md)
-* [32.12.iSCSI target 和 initiator 的配置](di-32-zhang-wang-luo-fu-wu-qi/32.12.-iscsi-target-he-initiator-de-pei-zhi.md)
+* [32.8.零配置网络（mDNS/DNS-SD）](di-32-zhang-wang-luo-fu-wu-qi/32.8.-ling-pei-zhi-wang-luo.md)
+* [32.9.Apache HTTP 服务器](di-32-zhang-wang-luo-fu-wu-qi/32.9.-apache-http-fu-wu-qi.md)
+* [32.10.文件传输协议（FTP）](di-32-zhang-wang-luo-fu-wu-qi/32.10.-wen-jian-chuan-shu-xie-yi-ftp.md)
+* [32.11.用于 Microsoft® Windows® 客户端的文件和打印服务（Samba）](di-32-zhang-wang-luo-fu-wu-qi/32.11.-yong-yu-microsoft-windows-ke-hu-duan-de-wen-jian-he-da-yin-fu-wu-samba.md)
+* [32.12.用 NTP 进行时钟同步](di-32-zhang-wang-luo-fu-wu-qi/32.12.-yong-ntp-jin-hang-shi-zhong-tong-bu.md)
+* [32.13.iSCSI target 和 initiator 的配置](di-32-zhang-wang-luo-fu-wu-qi/32.13.-iscsi-target-he-initiator-de-pei-zhi.md)
 
 ## 第33章 防火墙
 
@@ -373,7 +380,7 @@
 * [34.2.网关和路由](di-34-zhang-gao-ji-wang-luo/34.2.-wang-guan-he-lu-you.md)
 * [34.3.虚拟主机](di-34-zhang-gao-ji-wang-luo/34.3.-xu-ni-zhu-ji.md)
 * [34.4.无线高级身份验证](di-34-zhang-gao-ji-wang-luo/34.4.-wu-xian-gao-ji-shen-fen-yan-zheng.md)
-* [34.5.无线点对点模式](di-34-zhang-gao-ji-wang-luo/34.5.-wu-xian-dian-dui-dian-mo-shi.md)
+* [34.5.无线自组织（Ad-hoc）模式](di-34-zhang-gao-ji-wang-luo/34.5.-wu-xian-dian-dui-dian-mo-shi.md)
 * [34.6.USB 网络共享](di-34-zhang-gao-ji-wang-luo/34.6.-usb-wang-luo-gong-xiang.md)
 * [34.7.蓝牙](di-34-zhang-gao-ji-wang-luo/34.7.-lan-ya.md)
 * [34.8.桥接](di-34-zhang-gao-ji-wang-luo/34.8.-qiao-jie.md)
@@ -386,27 +393,27 @@
 
 * [第五部分：附录](di-wu-bu-fen-fu-lu.md)
 
-## 附录 A. 获取 FreeBSD
+## 附录 A.获取 FreeBSD
 
 * [A.1.镜像站](fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan.md)
 * [A.2.使用 Git](fu-lu-a.-huo-qu-freebsd/a.2.-shi-yong-git.md)
 * [A.3.使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.3.-shi-yong-subversion.md)
-* [A.4.CD 和 DVD 套装](fu-lu-a.-huo-qu-freebsd/a.4.cd-he-dvd-tao-zhuang.md)
+* [A.4.光盘](fu-lu-a.-huo-qu-freebsd/a.4.cd-he-dvd-tao-zhuang.md)
 
-## 附录 B. 书目
+## 附录 B.书目
 
 * [B.1.FreeBSD 相关书籍](fu-lu-b.-shu-mu/b.1.freebsd-xiang-guan-shu-ji.md)
 * [B.2.安全性参考文献](fu-lu-b.-shu-mu/b.2.-an-quan-xing-can-kao-wen-xian.md)
 * [B.3.UNIX 历史](fu-lu-b.-shu-mu/b.3.unix-li-shi.md)
 * [B.4.期刊与杂志](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
 
-## 附录 C. 网络资源
+## 附录 C.网络资源
 
 * [C.1.网站](fu-lu-c.-wang-luo-zi-yuan/c.1.-wang-zhan.md)
 * [C.2.邮件列表](fu-lu-c.-wang-luo-zi-yuan/c.2.-you-jian-lie-biao.md)
 * [C.3.Usenet 新闻组](fu-lu-c.-wang-luo-zi-yuan/c.3.-usenet-xin-wen-zu.md)
 
-## 附录 D. OpenPGP 密钥
+## 附录 D.OpenPGP 密钥
 
 * [D.1.官方成员](fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan.md)
 
