@@ -2,6 +2,10 @@
 
 **正在施工**，具体进度请看[编辑日志](CHANGELOG.md)。
 
+>**旧版存档**
+>
+><https://www.alipan.com/s/9rUaCHKauvC>
+
 > **PDF 文档**
 >
 > - 使用由 [safreya](https://github.com/safreya) 提供的脚本：
