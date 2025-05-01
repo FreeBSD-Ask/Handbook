@@ -50,7 +50,7 @@
 * [3.6.磁盘结构](di-3-zhang-freebsd-ji-chu/3.6.-ci-pan-jie-gou.md)
 * [3.7.文件系统的挂载与卸载](di-3-zhang-freebsd-ji-chu/3.7.-wen-jian-xi-tong-de-gua-zai-yu-xie-zai.md)
 * [3.8.进程和守护进程](di-3-zhang-freebsd-ji-chu/3.8.-jin-cheng-he-shou-hu-jin-cheng.md)
-* [3.9.Shell](di-3-zhang-freebsd-ji-chu/3.9.shell.md)
+* [3.9.Shell](di-3-zhang-freebsd-ji-chu/3.9.-shell.md)
 * [3.10.文本编辑器](di-3-zhang-freebsd-ji-chu/3.10.-wen-ben-bian-ji-qi.md)
 * [3.11.设备和设备节点](di-3-zhang-freebsd-ji-chu/3.11.-she-bei-he-she-bei-jie-dian.md)
 * [3.12.手册页](di-3-zhang-freebsd-ji-chu/3.12.-shou-ce-ye.md)
