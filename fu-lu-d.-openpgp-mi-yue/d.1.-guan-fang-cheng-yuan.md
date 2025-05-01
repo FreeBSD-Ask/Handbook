@@ -1,4 +1,4 @@
-# D.1. 官方成员
+# D.1.官方成员
 
 FreeBSD.org 官员的 OpenPGP 密钥显示在这里。这些密钥可用于验证签名或发送加密电子邮件给其中一位官员。FreeBSD OpenPGP 密钥的完整列表可在 PGP Keys 文章中找到。完整的密钥环可以在 pgpkeyring.txt 下载。
 

@@ -1,4 +1,4 @@
-# B.3. UNIX® 历史
+# B.3.UNIX 历史
 
 * Lion, John *Lion’s Commentary on UNIX, 6th Ed. With Source Code*. ITP Media Group, 1996. ISBN 1573980137
 * Raymond, Eric S. *The New Hacker’s Dictionary, 3rd edition*. MIT Press, 1996. ISBN 0-262-68092-0. Also known as the [Jargon File](http://www.catb.org/~esr/jargon/html/index.html)

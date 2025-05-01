@@ -1,4 +1,4 @@
-# C.3. Usenet 新闻组
+# C.3.Usenet 新闻组
 
 除了两个专门讨论 FreeBSD 的新闻组外，还有许多讨论 FreeBSD 或与 FreeBSD 用户相关的新闻组。
 
