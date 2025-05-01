@@ -1,4 +1,4 @@
-# FreeBSD 手册翻译项目
+# FreeBSD 中文手册
 
 **正在施工**，具体进度请看[编辑日志](CHANGELOG.md)。
 
