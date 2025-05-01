@@ -234,14 +234,13 @@
 * [20.5.创建和使用 CD](di-20-zhang-cun-chu/20.5.-chuang-jian-he-shi-yong-cd.md)
 * [20.6.创建和使用 DVD](di-20-zhang-cun-chu/20.6.-chuang-jian-he-shi-yong-dvd.md)
 * [20.7.创建和使用软盘](di-20-zhang-cun-chu/20.7.-chuang-jian-he-shi-yong-ruan-pan.md)
-* [20.8.使用 NTFS 磁盘](di-20-zhang-cun-chu/20.8.-shi-yong-ntfs-ci-pan.md)
-* [20.9.备份的基础知识](di-20-zhang-cun-chu/20.9.-bei-fen-de-ji-chu-zhi-shi.md)
-* [20.10.内存盘](di-20-zhang-cun-chu/20.10.-nei-cun-pan.md)
-* [20.11.文件系统快照](di-20-zhang-cun-chu/20.11.-wen-jian-xi-tong-kuai-zhao.md)
-* [20.12.磁盘配额](di-20-zhang-cun-chu/20.12.-ci-pan-pei-e.md)
-* [20.13.加密磁盘分区](di-20-zhang-cun-chu/20.13.-jia-mi-ci-pan-fen-qu.md)
-* [20.14.加密交换分区](di-20-zhang-cun-chu/20.14.-jia-mi-jiao-huan-fen-qu.md)
-* [20.15.高可用性存储（HAST）](di-20-zhang-cun-chu/20.15.-gao-ke-yong-xing-cun-chu-hast.md)
+* [20.8.备份的基础知识](di-20-zhang-cun-chu/20.8.-shi-yong-ntfs-ci-pan.md)
+* [20.9.内存盘](di-20-zhang-cun-chu/20.9.-bei-fen-de-ji-chu-zhi-shi.md)
+* [20.10.文件系统快照](di-20-zhang-cun-chu/20.10.-nei-cun-pan.md)
+* [20.11.磁盘配额](di-20-zhang-cun-chu/20.11.-wen-jian-xi-tong-kuai-zhao.md)
+* [20.12.加密磁盘分区](di-20-zhang-cun-chu/20.12.-ci-pan-pei-e.md)
+* [20.13.加密交换分区](di-20-zhang-cun-chu/20.13.-jia-mi-ci-pan-fen-qu.md)
+* [20.14.高可用性存储（HAST）](di-20-zhang-cun-chu/20.14.-jia-mi-jiao-huan-fen-qu.md)
 
 ## 第21章 GEOM: 模块化磁盘转换框架
 
