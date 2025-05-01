@@ -1,4 +1,4 @@
-# FreeBSD 手册
+# FreeBSD 中文手册
 
 商标
 
