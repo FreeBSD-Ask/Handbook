@@ -3,9 +3,6 @@
 * [FreeBSD 手册翻译项目](README.md)
 * [编辑日志](CHANGELOG.md)
 * [译者说明](yi-zhe-shuo-ming.md)
-
-## FreeBSD 手册
-
 * [FreeBSD 手册](freebsd-shou-ce.md)
 * [概述](gai-shu.md)
 
