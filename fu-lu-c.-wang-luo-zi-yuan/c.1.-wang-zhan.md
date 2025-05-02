@@ -8,7 +8,7 @@ FreeBSD 用户社区提供了大量的技术支持 - 论坛、聊天和电子邮
 
 # C.1.网站
 
-* 自由 BSD 论坛为 FreeBSD 问题和技术讨论提供了一个基于 Web 的讨论论坛。
+* FreeBSD 论坛为 FreeBSD 问题和技术讨论提供了一个基于 Web 的讨论论坛。
 * FreeBSD Wiki 提供了各种尚未纳入手册的信息。
 * Documentation Portal 提供的不仅仅是 FreeBSD Handbook，还有四十多本书籍和文章。
 * FreeBSD Journal 是由 FreeBSD Foundation 发布的免费、专业编辑的双月技术杂志。
