@@ -18,7 +18,7 @@
 
 档案搜索界面包括：
 
-* https://lists.freebsd.org/search（FreeBSD，实验性）
+* <https://lists.freebsd.org/search（FreeBSD，实验性）>
 * [https://www.freebsd.org/search/](https://www.freebsd.org/search/) (DuckDuckGo)
 
 注意，这也意味着发送到 FreeBSD 邮件列表的消息将永久存档。当保护隐私是一个关注点时，请考虑使用一次性次要电子邮件地址，并仅发布公共信息。
@@ -33,13 +33,13 @@ FreeBSD 公共邮件列表可以在这里查阅。
 
 ### C.2.1. 如何订阅或取消订阅
 
-在 https://lists.freebsd.org 上，点击列表名称以显示其选项。
+在 <https://lists.freebsd.org> 上，点击列表名称以显示其选项。
 
 To post, after subscribing, send mail to `listname@FreeBSD.org`. The message will be redistributed to list members.
 
 ### C.2.2. Lists Basic Rules
 
-所有 FreeBSD 邮件列表都有一些基本规则，所有使用者必须遵守。如果不遵守这些指导方针，将会收到两封来自 FreeBSD 邮件管理员 postmaster@FreeBSD.org 的书面警告。在第三次违规后，将从所有 FreeBSD 邮件列表中删除该用户，并且不允许继续发布。我们很遗憾必须制定这些规则和措施，但今天的互联网环境似乎相当恶劣，许多人未能意识到一些机制是多么脆弱。
+所有 FreeBSD 邮件列表都有一些基本规则，所有使用者必须遵守。如果不遵守这些指导方针，将会收到两封来自 FreeBSD 邮件管理员 <postmaster@FreeBSD.org> 的书面警告。在第三次违规后，将从所有 FreeBSD 邮件列表中删除该用户，并且不允许继续发布。我们很遗憾必须制定这些规则和措施，但今天的互联网环境似乎相当恶劣，许多人未能意识到一些机制是多么脆弱。
 
 道路规则：
 

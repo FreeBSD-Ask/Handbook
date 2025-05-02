@@ -13,4 +13,3 @@
 * **UNIX and Linux System Administration Handbook**, Fifth Edition, published by [Pearson Education, Inc.](https://www.pearson.com/en-us/subject-catalog/p/unix-and-linux-system-administration-handbook/P200000000513/9780137460359), 2017. ISBN: 978-0134277554
 * **Designing BSD Rootkits**, published by [No Starch Press](https://nostarch.com/rootkits.htm), 2007. ISBN: 978-1593271428
 * **FreeBSD Jails using VNETs**, published in [gumroad](https://rderik.gumroad.com/l/uwOLZ)
-

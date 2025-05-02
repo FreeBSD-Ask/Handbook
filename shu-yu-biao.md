@@ -1,6 +1,5 @@
 # 术语表
 
-
 此术语表包含在 FreeBSD 社区和文档中使用的术语和缩写。
 
 ## A
@@ -459,7 +458,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 FreeBSD 内核使用多个资源锁来调节对这些资源的竞争。在 FreeBSD-CURRENT 内核中存在一个运行时锁诊断系统（在发布版中已移除），称为 witness(4)，用于检测由于锁定错误而导致死锁的潜在问题。（witness(4)实际上稍微保守，因此可能会产生误报。）真实的正报告表示，“如果你运气不好，死锁可能会在这里发生”。
 
-真实的正报告的锁定竞争条件（LOR）通常会被快速修复，请在发布到邮件列表之前检查 https://lists.FreeBSD.org/subscription/freebsd-current 和已看到的 LOR 页面。
+真实的正报告的锁定竞争条件（LOR）通常会被快速修复，请在发布到邮件列表之前检查 <https://lists.FreeBSD.org/subscription/freebsd-current> 和已看到的 LOR 页面。
 
 ## M
 
@@ -791,7 +790,7 @@ RTS
 
  请求评议
 
-定义互联网标准、协议等的一组文件。请参阅 www.rfc-editor.org。
+定义互联网标准、协议等的一组文件。请参阅 <www.rfc-editor.org。>
 
 当某人提出改变建议并希望得到反馈时，也作为一般术语使用。
 

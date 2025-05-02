@@ -39,7 +39,7 @@ Subversion 也可以作为一个软件包安装：
 |  | 在首次使用 checkout 之前，移动或删除现有的目标目录。对现有的非 svn 目录进行检出可能会导致现有文件与从存储库中带来的文件发生冲突。|
 | -- | ----------------------------------------------------------------------------------------------------------------------------------- |
 
-Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。路径的第一个组件是要访问的 FreeBSD 存储库。有三个不同的存储库，base 用于 FreeBSD 基本系统源代码，ports 用于 Ports ，doc 用于文档。例如，URL https://svn.FreeBSD.org/base/head/ 指定了 src 存储库的主分支，使用 https 协议。
+Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。路径的第一个组件是要访问的 FreeBSD 存储库。有三个不同的存储库，base 用于 FreeBSD 基本系统源代码，ports 用于 Ports ，doc 用于文档。例如，URL <https://svn.FreeBSD.org/base/head/> 指定了 src 存储库的主分支，使用 https 协议。
 
 从给定存储库执行检出的命令如下：
 
@@ -90,7 +90,7 @@ FreeBSD Subversion 仓库是：
 svn.FreeBSD.org
 ```
 
-这是一个使用 GeoDNS 选择适当后端服务器的公开访问镜像网络。要通过浏览器查看 FreeBSD Subversion 仓库，请使用 https://svnweb.FreeBSD.org/。
+这是一个使用 GeoDNS 选择适当后端服务器的公开访问镜像网络。要通过浏览器查看 FreeBSD Subversion 仓库，请使用 <https://svnweb.FreeBSD.org/。>
 
 HTTPS 是首选协议，但需要安装 security/ca_root_nss 包以自动验证证书。
 
