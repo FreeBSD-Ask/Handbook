@@ -10,12 +10,12 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 | **download.FreeBSD.org**             | [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/)              | Same content as `ftp.FreeBSD.org`, `ftp` is a legacy name; `download.FreeBSD.org` is recommended.                                   |
 | **git.FreeBSD.org**             | git over `https` and `ssh` | More details on [using git](https://docs.freebsd.org/en/books/handbook/mirrors/#git) section.                                                               |
 | **pkg.FreeBSD.org**             | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https`    | Official FreeBSD package repositories used by the [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) program.                             |
-| **vuxml.FreeBSD.org** / **www.VuXML.org**          | [https](https://www.vuxml.org/)               | FreeBSD Project VuXML web page. `pkg audit` fetches the list of vulnerabilities from this service. |
-| **www.FreeBSD.org**             | [https](https://www.freebsd.org/)               | FreeBSD Website.                         
+| **vuxml.FreeBSD.org** / **<www.VuXML.org>**          | [https](https://www.vuxml.org/)               | FreeBSD Project VuXML web page. `pkg audit` fetches the list of vulnerabilities from this service. |
+| **<www.FreeBSD.org>**             | [https](https://www.freebsd.org/)               | FreeBSD Website.
 
 所有官方镜像都支持 IPv4 和 IPv6。
 
-http://ftp-archive.FreeBSD.org 不在 GeoDNS 基础设施中，仅在一个位置（美国）托管。
+<http://ftp-archive.FreeBSD.org> 不在 GeoDNS 基础设施中，仅在一个位置（美国）托管。
 
 该项目正在寻找新的位置；愿意赞助的人，请联系集群管理员团队获取更多信息。
 

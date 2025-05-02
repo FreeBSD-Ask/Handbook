@@ -21,7 +21,7 @@ Git 可以从 Ports 中安装，或者作为软件包安装：
 
 要将源代码的干净副本提取到本地目录中，请使用 git clone。这些文件的目录称为工作树。
 
-Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 FreeBSD 系统源代码，doc 用于文档，ports 用于 FreeBSD Ports 。所有三个存储库都可以通过两种不同的协议访问：HTTPS 和 SSH。例如，URL https://git.FreeBSD.org/src.git 指定了 src 存储库的主分支，使用 https 协议。
+Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 FreeBSD 系统源代码，doc 用于文档，ports 用于 FreeBSD Ports 。所有三个存储库都可以通过两种不同的协议访问：HTTPS 和 SSH。例如，URL <https://git.FreeBSD.org/src.git> 指定了 src 存储库的主分支，使用 https 协议。
 
 表 1. FreeBSD Git 存储库 URL 表
 
@@ -62,7 +62,7 @@ Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 Fre
 
 ### A.2.4. 基于 Web 的仓库浏览器
 
-FreeBSD 项目使用 cgit 作为基于 web 的存储库浏览器：https://cgit.FreeBSD.org/。
+FreeBSD 项目使用 cgit 作为基于 web 的存储库浏览器：<https://cgit.FreeBSD.org/。>
 
 ### A.2.5. 对于开发人员
 
@@ -74,21 +74,21 @@ FreeBSD 项目使用 cgit 作为基于 web 的存储库浏览器：https://cgit.
 
 Codeberg
 
-* 文档: https://codeberg.org/FreeBSD/freebsd-doc
+* 文档: <https://codeberg.org/FreeBSD/freebsd-doc>
 * ports: [https://codeberg.org/FreeBSD/freebsd-ports](https://codeberg.org/FreeBSD/freebsd-ports)
-* 源码: https://codeberg.org/FreeBSD/freebsd-src
+* 源码: <https://codeberg.org/FreeBSD/freebsd-src>
 
 GitHub
 
-* 文档: https://github.com/freebsd/freebsd-doc
+* 文档: <https://github.com/freebsd/freebsd-doc>
 * ports: [https://github.com/freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports)
-* 源码：https://github.com/freebsd/freebsd-src
+* 源码：<https://github.com/freebsd/freebsd-src>
 
 GitLab
 
-* 文档：https://gitlab.com/FreeBSD/freebsd-doc
-* ports：https://gitlab.com/FreeBSD/freebsd-ports
-* src：https://gitlab.com/FreeBSD/freebsd-src
+* 文档：<https://gitlab.com/FreeBSD/freebsd-doc>
+* ports：<https://gitlab.com/FreeBSD/freebsd-ports>
+* src：<https://gitlab.com/FreeBSD/freebsd-src>
 
 ### A.2.7. 邮件列表
 
