@@ -4,7 +4,7 @@
 
 截至 2020 年 12 月，FreeBSD 使用 git 作为存储所有 FreeBSD 源代码和文档的主要版本控制系统。从 git 存储库中的 stable/11，stable/12 和相关的 releng 分支导出的更改被导出到 Subversion 存储库。这种导出将持续到这些分支的生命周期结束。从 2012 年 7 月到 2021 年 3 月，FreeBSD 使用 Subversion 作为存储所有 FreeBSD ports 的唯一版本控制系统。截至 2021 年 4 月，FreeBSD 使用 git 作为存储所有 FreeBSD ports 的唯一版本控制系统。
 
-|  | Subversion 一般是开发人员工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基础系统，以及 git （“使用ports ”）来更新 FreeBSD ports 。在 2021 年 3 月之后，Subversion 仅用于传统分支（ stable/11 和 stable/12 ）。|
+|  | Subversion 一般是开发人员工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统，以及 git （“使用ports ”）来更新 FreeBSD ports 。在 2021 年 3 月之后，Subversion 仅用于传统分支（ stable/11 和 stable/12 ）。|
 | -- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 本部分演示了在 FreeBSD 系统上安装 Subversion 并使用它创建 FreeBSD 存储库的本地副本。还包括有关使用 Subversion 的其他信息。
