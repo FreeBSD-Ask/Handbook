@@ -4,7 +4,7 @@ FreeBSD.org 官员的 OpenPGP 密钥显示在这里。这些密钥可用于验�
 
 ## D.1.1. 安全团队
 
-```
+```sh
 pub   rsa4096/D9AD2A18057474CB 2022-12-11 [C] [expires: 2026-01-24]
       Key fingerprint = 0BE3 3275 D74C 953C 79F8  1107 D9AD 2A18 0574 74CB
 uid                            FreeBSD Security Officer <security-officer@freebsd.org>
@@ -12,7 +12,7 @@ sub   rsa4096/6E58DE901F001AEF 2022-12-11 [S] [expires: 2025-01-15]
 sub   rsa4096/46DB26D62F6039B7 2022-12-11 [E] [expires: 2025-01-15]
 ```
 
-```
+```sh
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGOVdeUBEADHF5VGg1iPbACB+7lomX6aDytUf0k2k2Yc/Kp6lfYv7JKU+1nr
@@ -158,14 +158,14 @@ lIHlSwox7qfdO0Kz2XncSbIA
 
 ### D.1.2. 核心团队秘书 <<a href="mailto:core-secretary@FreeBSD.org">core-secretary@FreeBSD.org</a>>
 
-```
+```sh
 pub   rsa4096/4D632518C3546B05 2024-02-17 [SC] [expires: 2025-02-16]
       Key fingerprint = 1A23 6A92 528D 00DD 7965  76FE 4D63 2518 C354 6B05
 uid                            FreeBSD Core Team Secretary <core-secretary@FreeBSD.org>
 sub   rsa4096/CABFDE12CA516ED2 2024-02-17 [E] [expires: 2025-02-16]
 ```
 
-```
+```sh
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGXQ1o8BEAC+Rcg8cmVxuP17Vu+q5KgCx/XiulQuqKXAqqBlYCH2jqk6DINP
@@ -222,14 +222,14 @@ LnHz88gfdmaBM77YDZM/p23nmCrUxlE3kkbgjTY8NRjYyF8=
 
 ### D.1.3. Ports 管理团队秘书 <<a href="mailto:portmgr-secretary@FreeBSD.org">portmgr-secretary@FreeBSD.org</a>>
 
-```
+```sh
 pub   ed25519/E3C401F60D709D59 2023-03-06 [SC] [expires: 2027-03-05]
       Key fingerprint = BED4 A1D3 6555 B681 2E9F  ABDA E3C4 01F6 0D70 9D59
 uid                            FreeBSD Ports Management Team Secretary <portmgr-secretary@FreeBSD.org>
 sub   cv25519/2C92B55E27A641C3 2023-03-06 [E] [expires: 2027-03-05]
 ```
 
-```
+```sh
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZAXJvxYJKwYBBAHaRw8BAQdASFAC20WL3R1T6uNyGMZbfJCxDkcP4C5vi3Op
@@ -266,14 +266,14 @@ c7LnZycSRmbFiwEAndCMpAGOhDW8iVgDd0wLQq/ZMPe+xccfG1b3zFH2EgE=
 
 ### D.1.4. `doceng-secretary@FreeBSD.org`
 
-```
+```sh
 pub   rsa2048/E1C03580AEB45E58 2019-10-31 [SC] [expires: 2022-10-30]
       Key fingerprint = F24D 7B32 B864 625E 5541  A0E4 E1C0 3580 AEB4 5E58
 uid                            FreeBSD Doceng Team Secretary <doceng-secretary@freebsd.org>
 sub   rsa2048/9EA8D713509472FC 2019-10-31 [E] [expires: 2022-10-30]
 ```
 
-```
+```sh
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBF27FFcBCADeoSsIgyQUY8vREwkTikwFFlNg31MVy5s/Nq1cNK1PRfRMnprS

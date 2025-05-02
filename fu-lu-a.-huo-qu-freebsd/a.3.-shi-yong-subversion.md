@@ -21,14 +21,14 @@
 
 Subversion 可以从 Ports 安装：
 
-```
+```sh
 # cd /usr/ports/devel/subversion
 # make install clean
 ```
 
 Subversion 也可以作为一个软件包安装：
 
-```
+```sh
 # pkg install subversion
 ```
 
@@ -43,7 +43,7 @@ Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。
 
 从给定存储库执行检出的命令如下：
 
-```
+```sh
 # svn checkout https://svn.FreeBSD.org/repository/branch lwcdir
 ```
 
@@ -55,7 +55,7 @@ Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。
 
 此示例使用 HTTPS 协议从 FreeBSD 仓库签出源树，并将本地工作副本放置在 /usr/src。如果 /usr/src 已经存在但不是由 svn 创建的，请记得在签出前重命名或删除它。
 
-```
+```sh
 # svn checkout https://svn.FreeBSD.org/base/head /usr/src
 ```
 
@@ -63,13 +63,13 @@ Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。
 
 初次检出后，可以通过运行以下命令来更新本地工作副本：
 
-```
+```sh
 # svn update lwcdir
 ```
 
 要更新上面示例中创建的 /usr/src，请使用：
 
-```
+```sh
 # svn update /usr/src
 ```
 
@@ -77,7 +77,7 @@ Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。
 
 通过 Makefile 提供 /usr/ports、/usr/src 和 /usr/doc 目录中的 /usr/src，/usr/ports 的本地工作副本的更新方法。设置 SVN_UPDATE 并使用 update 目标。例如，要更新 /usr/src：
 
-```
+```sh
 # cd /usr/src
 # make update SVN_UPDATE=yes
 ```
@@ -86,7 +86,7 @@ Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。
 
 FreeBSD Subversion 仓库是：
 
-```
+```sh
 svn.FreeBSD.org
 ```
 

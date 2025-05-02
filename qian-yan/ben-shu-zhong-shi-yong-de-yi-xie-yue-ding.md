@@ -34,18 +34,18 @@
 
 以 **C:>** 开头的示例表示 MS-DOS® 命令。除非另有说明，否则这些命令一般可以在现代微软® Windows® 环境上的“命令提示符”窗口中执行。
 
-```
+```sh
 C:\> tools\fdimage floppies\kern.flp A:
 ```
 
 以 `#` 开头的示例表示该命令必须用 FreeBSD 中的超级用户身份调用。你可以以普通用户身份登录并以 `root` 键入命令，或以普通用户身份登录并使用 [su(1)](https://man.freebsd.org/cgi/man.cgi?query=su&sektion=1&format=html) 获得超级用户权限。
 
-```
+```sh
 # dd if=kern.flp of=/dev/fd0
 ```
 
 以 `%` 开头的示例表示应使用普通用户账户调用的命令。除非另有说明，否则一律使用 C-shell 语法来设置环境变量和其他 shell 命令。
 
-```
+```sh
 % top
 ```

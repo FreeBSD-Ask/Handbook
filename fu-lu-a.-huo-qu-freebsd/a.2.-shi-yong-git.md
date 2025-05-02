@@ -13,7 +13,7 @@
 
 Git 可以从 Ports 中安装，或者作为软件包安装：
 
-```
+```sh
 # pkg install git
 ```
 
@@ -38,7 +38,7 @@ Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 Fre
 
 克隆 FreeBSD 系统源代码存储库的副本：
 
-```
+```sh
 # git clone -o freebsd https://git.FreeBSD.org/src.git /usr/src
 ```
 
@@ -46,14 +46,14 @@ Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 Fre
 
 最初，工作树包含 main 分支的源代码，对应于 CURRENT。要改为使用 13-STABLE：
 
-```
+```sh
 # cd /usr/src
 # git checkout stable/13
 ```
 
 工作树可以使用 git pull 进行更新。要更新上面示例中创建的 /usr/src，请使用：
 
-```
+```sh
 # cd /usr/src
 # git pull --rebase
 ```
