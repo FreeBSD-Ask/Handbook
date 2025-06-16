@@ -1,7 +1,5 @@
 # B.1.FreeBSD 相关书籍
 
-# B.1. FreeBSD Bibliography
-
 * **Absolute FreeBSD: The Complete Guide To FreeBSD**, Third Edition, published by [No Starch Press](https://nostarch.com/absfreebsd3), 2018. ISBN: 978-1593278922
 * **FreeBSD Mastery: Storage Essentials**, published by [Tilted Windmill Press](https://www.tiltedwindmillpress.com/product/freebsd-mastery-storage-essentials/), 2014. ISBN: 978-1642350098
 * **FreeBSD Mastery: Specialty Filesystems**, published by [Tilted Windmill Press](https://www.tiltedwindmillpress.com/product/fmspf/), 2015. ISBN: 978-1642350111
