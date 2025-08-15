@@ -1,5 +1,6 @@
 # 编辑日志
 
+- 2025.8.15 同步至 <https://github.com/freebsd/freebsd-doc/commit/f6d5b57b005213d676aa958f48ea1315ee682aff> 
 - 2025.5.2 机器翻译至 <https://github.com/freebsd/freebsd-doc/commit/8f28a757b13aa8d1db6528453b4bd9df776271e9>
 - 2024.9.28
   - 2.1 校对完成
