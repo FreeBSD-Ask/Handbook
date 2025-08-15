@@ -1,1 +1,200 @@
 # 5.6 在 X Window 中使用字体
+
+**摘要**：可以从 [x11-fonts](https://cgit.freebsd.org/ports/tree/x11-fonts/) 分类安装额外字体，或者将其放置在 **\~/.fonts** 中。现代应用程序可以立即使用这些字体。对于旧版应用程序的配置方法也有说明。
+
+X Window 系统提供了 X FreeType 接口库 ([Xft(3)](https://man.freebsd.org/cgi/man.cgi?query=Xft&sektion=3&format=html)) 来渲染矢量或轮廓字体，同时也提供传统的 X Logical Font Description 系统，以保持对多代应用程序和字体的兼容性。
+
+用户主要关心两类字体：
+
+* OpenType 或 TrueType® 字体，用于屏幕显示。
+* Adobe® PostScript® Type 1 字体，用于打印输出。
+
+以上都是矢量或轮廓字体，同时还有位图字体。
+
+FreeBSD Ports 提供了一个丰富且不断增长的免费高质量字体目录，可从 [x11-fonts](https://cgit.freebsd.org/ports/tree/x11-fonts/) 安装。
+
+从 ports 集合安装的系统范围字体包位于 `<span class="filename">/usr/local/share/fonts/</span>`。单用户字体可以放在 `<span class="filename">~/.fonts/</span>` 或 `<span class="filename">~/.local/share/fonts/</span>`。
+
+这两个目录及其子目录中的字体在重建字体信息缓存后即可立即使用。可通过以下命令手动触发：
+
+```sh
+% fc-cache
+```
+
+Ports 树中有大量免费高质量字体可直接用于 X Window System。本章简要介绍这两类字体及 X FreeType 接口的配置。
+
+更多关于 FreeBSD 上字体安装和配置的信息，请参阅文章 [字体与 FreeBSD](https://docs.freebsd.org/en/articles/fonts/)。
+
+## 5.6.1. TrueType® 字体
+
+X.org 内置支持渲染 TrueType® 字体。有两个模块可启用此功能。示例中使用 freetype 模块，因为它与其他字体渲染后端更一致。要启用 freetype 模块，只需在 **/usr/local/etc/X11/xorg.conf.d/90-fonts.conf** 的 `"Module"` 部分添加以下行：
+
+```sh
+Load  "freetype"
+```
+
+然后为 TrueType® 字体创建目录（例如 **/usr/local/share/fonts/TrueType**），并将所有 TrueType® 字体复制到该目录。注意 TrueType® 字体不能直接从 Apple® Mac® 获取，必须是 UNIX®/MS-DOS®/Windows® 格式才能被 X.org 使用。复制完成后，使用 mkfontscale 创建 **fonts.dir**，以便 X 字体渲染器识别新字体。`mkfontscale` 可作为包安装：
+
+```sh
+# pkg install mkfontscale
+```
+
+然后在目录中创建 X 字体文件索引：
+
+```sh
+# cd /usr/local/share/fonts/TrueType
+# mkfontscale
+```
+
+接着将 TrueType® 目录添加到字体路径中，与 [Type1 Fonts](https://docs.freebsd.org/en/books/handbook/x11/#type1) 描述的方法相同：
+
+```sh
+% xset fp+ /usr/local/share/fonts/TrueType
+% xset fp rehash
+```
+
+或者在 **xorg.conf** 中添加 `FontPath` 这行。
+
+现在 Gimp、LibreOffice 及其他 X 应用程序应能识别已安装的 TrueType® 字体。非常小的字体（如高分辨率网页文本）和非常大的字体（如 LibreOffice 文档）显示效果会更好。
+
+## 5.6.2. Type1 字体
+
+URW 字体集合 ([x11-fonts/urwfonts](https://cgit.freebsd.org/ports/tree/x11-fonts/urwfonts/)) 提供标准 Type1 字体（Times Roman™、Helvetica™、Palatino™ 等）的高质量版本。Freefonts 集合 ([x11-fonts/freefonts](https://cgit.freebsd.org/ports/tree/x11-fonts/freefonts/)) 提供更多字体，但大多用于图形软件（如 Gimp），不足以作为屏幕字体使用。
+
+要从二进制包安装上述 Type1 字体集合，运行以下命令：
+
+```sh
+# pkg install urwfonts
+```
+
+同样适用于 freefont 或其他字体。若手动配置 X 服务器检测这些字体，可在 X 服务器配置文件 (**/usr/local/etc/X11/xorg.conf.d/90-fonts.conf**) 添加：
+
+```ini
+Section "Files"
+  FontPath "/usr/local/share/fonts/urwfonts/"
+EndSection
+```
+
+或者在 X 会话命令行运行：
+
+```sh
+% xset fp+ /usr/local/share/fonts/urwfonts
+% xset fp rehash
+```
+
+此方法有效，但 X 会话关闭后会丢失，除非将其添加到启动文件（普通 `startx` 会话的 **\~/.xinitrc** 或图形登录管理器 XDM 的 **\~/.xsession**）。第三种方法是使用新的 **/usr/local/etc/fonts/local.conf**，如 [Anti-Aliased Fonts](https://docs.freebsd.org/en/books/handbook/x11/#antialias) 所示。
+
+## 5.6.3. 字体抗锯齿
+
+X.org 中 **/usr/local/share/fonts/** 和 **\~/.fonts/** 的字体会自动对 Xft 兼容应用程序启用抗锯齿处理。大多数现代应用程序都是 Xft 兼容的，包括 KDE、GNOME 和 Firefox。
+
+要控制哪些字体启用抗锯齿处理，或配置抗锯齿属性，可创建或编辑 **/usr/local/etc/fonts/local.conf** 文件。Xft 字体系统的许多高级功能可以在该文件中调优，本节仅说明简单设置。详细信息请参阅 [fonts-conf(5)](https://man.freebsd.org/cgi/man.cgi?query=fonts-conf&sektion=5&format=html)。
+
+该文件必须为 XML 格式，注意大小写，并确保所有标签正确闭合。文件以标准 XML 头和 DOCTYPE 定义开始，然后是 `<fontconfig>` 标签：
+
+```xml
+<?xml version="1.0"?>
+      <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+      <fontconfig>
+```
+
+如前所述，**/usr/local/share/fonts/** 及 **\~/.fonts/** 下的所有字体已可供 Xft 兼容应用程序使用。若要添加其他目录，请在 **/usr/local/etc/fonts/local.conf** 添加：
+
+```ini
+<dir>/path/to/my/fonts</dir>
+```
+
+添加新字体或目录后，重建字体缓存：
+
+```sh
+# fc-cache -f
+```
+
+抗锯齿处理会使边缘略微模糊，提高小字号文本可读性，并消除大字号文本的“阶梯”效果，但在普通文本上可能引起视觉疲劳。若要排除小于 14 磅的字体，加入以下配置：
+
+```xml
+<match target="font">
+	    <test name="size" compare="less">
+		<double>14</double>
+	    </test>
+	    <edit name="antialias" mode="assign">
+		<bool>false</bool>
+	    </edit>
+	</match>
+	<match target="font">
+	    <test name="pixelsize" compare="less" qual="any">
+		<double>14</double>
+	    </test>
+	    <edit mode="assign" name="antialias">
+		<bool>false</bool>
+	    </edit>
+	</match>
+```
+
+某些等宽字体在抗锯齿处理下间距可能不合适，尤其在 KDE 中。可通过强制设置间距为 100 修正：
+
+```xml
+<match target="pattern" name="family">
+	   <test qual="any" name="family">
+	       <string>fixed</string>
+	   </test>
+	   <edit name="family" mode="assign">
+	       <string>mono</string>
+	   </edit>
+	</match>
+	<match target="pattern" name="family">
+	    <test qual="any" name="family">
+		<string>console</string>
+	    </test>
+	    <edit name="family" mode="assign">
+		<string>mono</string>
+	    </edit>
+	</match>
+```
+
+然后添加：
+
+```xml
+<match target="pattern" name="family">
+	     <test qual="any" name="family">
+		 <string>mono</string>
+	     </test>
+	     <edit name="spacing" mode="assign">
+		 <int>100</int>
+	     </edit>
+	 </match>
+```
+
+某些字体如 Helvetica 抗锯齿处理可能出现问题（字体垂直似乎被截断，严重时可能导致应用崩溃）。可在 **local.conf** 中添加以下内容避免：
+
+```xml
+<match target="pattern" name="family">
+	     <test qual="any" name="family">
+		 <string>Helvetica</string>
+	     </test>
+	     <edit name="family" mode="assign">
+		 <string>sans-serif</string>
+	     </edit>
+	 </match>
+```
+
+编辑 **local.conf** 后，务必以 `</fontconfig>` 结束文件，否则更改无效。
+
+用户可以通过 **\~/.config/fontconfig/fonts.conf** 添加个性化设置，该文件使用相同的 XML 格式。
+
+对于 LCD 屏幕，可启用子像素采样（sub-pixel sampling），分别处理水平排列的红、绿、蓝子像素以提高水平分辨率。启用方法，在 **local.conf** 中添加：
+
+```xml
+<match target="font">
+	     <test qual="all" name="rgba">
+		 <const>unknown</const>
+	     </test>
+	     <edit name="rgba" mode="assign">
+		 <const>rgb</const>
+	     </edit>
+	 </match>
+```
+
+>**注意**
+>
+>根据显示器类型，`rgb` 可能需要改为 `bgr`、`vrgb` 或 `vbgr`：可尝试不同设置，选择最合适的。
