@@ -74,7 +74,7 @@
 * [5.3.X Window 系统概览](di-5-zhang-xwindow-xi-tong/5.3.-xian-ka-qu-dong.md)
 * [5.4.安装 X.org 服务器](di-5-zhang-xwindow-xi-tong/5.4.-xorg-pei-zhi.md)
 * [5.5.配置 X.org](di-5-zhang-xwindow-xi-tong/5.5.-zai-x11-zhong-shi-yong-zi-ti.md)
-* [5.6 在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-md)
+* [5.6 在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-.md)
 
 ## 第6章 FreeBSD 中的 Wayland
 
