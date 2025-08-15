@@ -70,10 +70,11 @@
 ## 第5章 X Window 系统
 
 * [5.1.概述](di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)
-* [5.2.安装 Xorg](di-5-zhang-xwindow-xi-tong/5.2.-an-zhuang-xorg.md)
-* [5.3.显卡驱动](di-5-zhang-xwindow-xi-tong/5.3.-xian-ka-qu-dong.md)
-* [5.4.Xorg 配置](di-5-zhang-xwindow-xi-tong/5.4.-xorg-pei-zhi.md)
-* [5.5.在 X11 中使用字体](di-5-zhang-xwindow-xi-tong/5.5.-zai-x11-zhong-shi-yong-zi-ti.md)
+* [5.2.显卡驱动](di-5-zhang-xwindow-xi-tong/5.2.-an-zhuang-xorg.md)
+* [5.3.X Window 系统概览](di-5-zhang-xwindow-xi-tong/5.3.-xian-ka-qu-dong.md)
+* [5.4.安装 X.org 服务器](di-5-zhang-xwindow-xi-tong/5.4.-xorg-pei-zhi.md)
+* [5.5.配置 X.org](di-5-zhang-xwindow-xi-tong/5.5.-zai-x11-zhong-shi-yong-zi-ti.md)
+* [5.6 在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-md)
 
 ## 第6章 FreeBSD 中的 Wayland
 
