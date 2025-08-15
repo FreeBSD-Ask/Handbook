@@ -820,6 +820,10 @@ SMB
 
 查看服务器消息块。
 
+SLAAC 
+
+参见 [无状态地址自动配置（StateLess Address AutoConfiguration）](https://docs.freebsd.org/en/books/handbook/glossary/#slaac-glossary)。
+
 SMP
 
 查看对称多处理器。
@@ -842,11 +846,13 @@ STR
 
 SVN
 
- 查看 Subversion。
+ 参见 Subversion。
 
- SMTP 身份验证
+无状态地址自动配置
 
- 服务器消息块
+SMTP 身份验证
+
+服务器消息块
 
  信号地
 
