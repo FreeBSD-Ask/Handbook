@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 * [FreeBSD 中文手册](README.md)
 * [编辑日志](CHANGELOG.md)
@@ -165,7 +165,7 @@
 
 * [14.1.概述](di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)
 * [14.2.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.2.-pei-zhi-wen-jian.md)
-* [14.3.管理 FreeBSD 中的服务](di-14-zhang-pei-zhi-yu-you-hua/14.3.-guan-li-freebsd-zhong-de-fu-wu.md.md)
+* [14.3.管理 FreeBSD 中的服务](di-14-zhang-pei-zhi-yu-you-hua/14.3.-guan-li-freebsd-zhong-de-fu-wu.md)
 * [14.4.Cron 和 Periodic](di-14-zhang-pei-zhi-yu-you-hua/14.4.-cron-he-peropdic.md)
 * [14.5.配置系统日志](di-14-zhang-pei-zhi-yu-you-hua/14.5.-pei-zhi-xi-tong-ri-zhi.md)
 * [14.6.电源和资源管理](di-14-zhang-pei-zhi-yu-you-hua/14.6.-dian-yuan-he-zi-yuan-guan-li.md)
