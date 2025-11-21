@@ -21,14 +21,14 @@ jobs:
 
       # ================= 仓库检出部分 =================
       - name: 检出 Handbook 主仓库
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           path: Handbook
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: 检出 gitbook-pdf-export 工具
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           repository: FreeBSD-Ask/gitbook-pdf-export
           path: pdf-generator
