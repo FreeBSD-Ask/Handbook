@@ -1,6 +1,5 @@
 # A.4.光盘
 
-
 可从多家在线零售商处购买 FreeBSD 的光盘：
 
 * FreeBSD Mall, Inc.
