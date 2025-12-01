@@ -1,7 +1,9 @@
-name: 🔗 创建并发布 PDF
+name: 🔗 创建并发布 PDF & EPUB
 
 on:
-  workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '30 15 * * 0'  # 每周日 UTC 时间 15:30 运行
+  workflow_dispatch:  # 可手动触发
 
 jobs:
   build:
@@ -20,10 +22,10 @@ jobs:
           timedatectl
 
       # ================= 仓库检出部分 =================
-      - name: 检出 Handbook 主仓库
+      - name: 检出 FreeBSD-Ask 主仓库
         uses: actions/checkout@v6
         with:
-          path: Handbook
+          path: FreeBSD-Ask
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
@@ -35,7 +37,7 @@ jobs:
 
       # ================= 初始化标签检查 =================
       - name: 检查或创建初始标签
-        working-directory: Handbook
+        working-directory: FreeBSD-Ask
         run: |
           timedatectl
           if ! git describe --tags --abbrev=0 2>/dev/null; then
@@ -50,7 +52,8 @@ jobs:
       - name: 设置 Python 环境
         uses: actions/setup-python@v6
         with:
-          python-version: '3.13'
+          python-version: '3.14'
+          check-latest: true
 
       - name: 安装 Python 依赖
         run: |
@@ -64,7 +67,7 @@ jobs:
       - name: 生成 PDF 文档
         run: |
           cd pdf-generator
-          python mdconv.py ../Handbook
+          python mdconv.py ../FreeBSD-Ask
           mv build/final.pdf build/$(date +'%Y.%m.%d').pdf
           mv build/final.epub build/$(date +'%Y.%m.%d').epub
         env:
@@ -135,3 +138,4 @@ jobs:
               release_id: release.data.id,
               body: process.env.CHANGES_CONTENT
             });
+            
