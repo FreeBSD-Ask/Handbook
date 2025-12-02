@@ -22,22 +22,22 @@ jobs:
           timedatectl
 
       # ================= 仓库检出部分 =================
-      - name: 检出 FreeBSD-Ask 主仓库
+      - name: 检出 Handbook 主仓库
         uses: actions/checkout@v6
         with:
-          path: FreeBSD-Ask
+          path: Handbook
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: 检出 gitbook-pdf-export 工具
         uses: actions/checkout@v6
         with:
-          repository: FreeBSD-Ask/gitbook-pdf-export
+          repository: Handbook/gitbook-pdf-export
           path: pdf-generator
 
       # ================= 初始化标签检查 =================
       - name: 检查或创建初始标签
-        working-directory: FreeBSD-Ask
+        working-directory: Handbook
         run: |
           timedatectl
           if ! git describe --tags --abbrev=0 2>/dev/null; then
@@ -67,7 +67,7 @@ jobs:
       - name: 生成 PDF 文档
         run: |
           cd pdf-generator
-          python mdconv.py ../FreeBSD-Ask
+          python mdconv.py ../Handbook
           mv build/final.pdf build/$(date +'%Y.%m.%d').pdf
           mv build/final.epub build/$(date +'%Y.%m.%d').epub
         env:
