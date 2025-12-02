@@ -32,7 +32,7 @@ jobs:
       - name: 检出 gitbook-pdf-export 工具
         uses: actions/checkout@v6
         with:
-          repository: Handbook/gitbook-pdf-export
+          repository: FreeBSD-Ask/gitbook-pdf-export
           path: pdf-generator
 
       # ================= 初始化标签检查 =================
