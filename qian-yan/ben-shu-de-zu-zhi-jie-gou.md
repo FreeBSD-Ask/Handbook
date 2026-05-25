@@ -28,7 +28,7 @@
 
 **[网络](../di-7-zhang-wang-luo/7.1.-gai-shu.md)**
 
-涵盖基本的有线和无线网络配置，包括主机名、DNS 和故障排除。
+涉及基本的有线和无线网络配置，包括主机名、DNS 和故障排除。
 
 **[桌面环境](../di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)**
 
@@ -104,7 +104,7 @@
 
 **[FreeBSD 更新与升级](../di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.1.-gai-shu.md)**
 
-解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 间的区别。说明了哪些用户可以从跟踪开发系统中获益，并概述了该过程。涵盖了几种将系统更新到最新安全发行版本的方法。
+解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 间的区别。说明了哪些用户可以从跟踪开发系统中获益，并概述了该过程。涉及了几种将系统更新到最新安全发行版本的方法。
 
 **[DTrace](../di-27-zhang-dtrace/27.1.-gai-shu.md)**
 
