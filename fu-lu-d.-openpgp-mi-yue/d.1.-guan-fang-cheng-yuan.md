@@ -2,7 +2,7 @@
 
 `FreeBSD.org` 官员的 OpenPGP 密钥显示在这里。这些密钥可用于验证签名或发送加密电子邮件给其中一位官员。FreeBSD OpenPGP 密钥的完整列表可在 [PGP Keys](https://docs.freebsd.org/en/articles/pgpkeys/) 文章中找到。完整的密钥环可以在 [pgpkeyring.txt](https://docs.freebsd.org/pgpkeys/pgpkeys.txt) 下载。
 
-## D.1.1. 安全官团队 <<a href="mailto:security-officer@FreeBSD.org">security-officer@FreeBSD.org</a>>
+## D.1.1. 安全官团队
 
 ```sh
 pub   rsa4096/D9AD2A18057474CB 2022-12-11 [C] [expires: 2030-01-24]
@@ -156,7 +156,7 @@ lIHlSwox7qfdO0Kz2XncSbIA
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### D.1.2. 核心团队秘书 <<a href="mailto:core-secretary@FreeBSD.org">core-secretary@FreeBSD.org</a>>
+### D.1.2. 核心团队秘书
 
 ```sh
 pub   rsa4096/4D632518C3546B05 2024-02-17 [SC] [expires: 2028-02-08]
@@ -220,7 +220,7 @@ LnHz88gfdmaBM77YDZM/p23nmCrUxlE3kkbgjTY8NRjYyF8=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### D.1.3. Ports 管理团队秘书 <<a href="mailto:portmgr-secretary@FreeBSD.org">portmgr-secretary@FreeBSD.org</a>>
+### D.1.3. Ports 管理团队秘书
 
 ```sh
 pub   ed25519/E3C401F60D709D59 2023-03-06 [SC] [expires: 2027-03-05]
