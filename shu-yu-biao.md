@@ -856,7 +856,7 @@ SMTP AUTH
 
 SSH
 
- 看安全Shell。
+ 看安全 Shell。
 
 STR
 
