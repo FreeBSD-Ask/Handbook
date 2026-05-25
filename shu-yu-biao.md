@@ -54,7 +54,7 @@
 
 `ACPI Source Language`
 
-编写的编程语言 AML。
+编写 AML 的编程语言。
 
 `Access Control List`
 
@@ -74,15 +74,15 @@
 
 `Advanced Programmable Interrupt Controller`
 
-高级技术附件
+`Advanced Technology Attachment`
 
 `Asynchronous Transfer Mode`
 
-认证后的邮局协议
+`Authenticated Post Office Protocol`
 
 `Automatic Mount Daemon`
 
-当文件系统中的文件或目录被访问时自动挂载文件系统的守护程序
+当文件系统中的文件或目录被访问时自动挂载文件系统的守护程序。
 
 ## B
 
@@ -126,7 +126,7 @@ DNS 协议的实现。
 
 `CD`
 
- 参见载波检测。
+参见载波检测。
 
 `CHAP`
 
@@ -146,7 +146,7 @@ DNS 协议的实现。
 
 `CTS`
 
- 参见清空发送。
+参见清除发送。
 
 `Carrier Detect`
 
@@ -178,7 +178,7 @@ RS232C 信号，指示检测到载波。
 
 `DDB`
 
- 请参见调试器。
+参见调试器。
 
 `DES`
 
@@ -192,9 +192,9 @@ RS232C 信号，指示检测到载波。
 
 参见域名系统。
 
- `DRM`
+`DRM`
 
- 参见 [直接渲染管理器（Direct Rendering Manager）](https://docs.freebsd.org/en/books/handbook/glossary/#drm-glossary)。
+参见[直接渲染管理器（Direct Rendering Manager）](https://docs.freebsd.org/en/books/handbook/glossary/#drm-glossary)。
 
 `DSDT`
 
@@ -202,11 +202,11 @@ RS232C 信号，指示检测到载波。
 
 `DSR`
 
- 参见数据集准备。
+参见数据集准备。
 
 `DTR`
 
- 参见数据终端就绪。
+参见数据终端就绪。
 
 `DVMRP`
 
@@ -224,7 +224,7 @@ RS232C 信号，指示检测到载波。
 
 另请参阅数据终端就绪。
 
-D`ata Terminal Ready`
+`Data Terminal Ready`
 
 计算机或终端向调制解调器发送的 RS232C 信号，表示准备好发送和接收数据。
 
@@ -246,7 +246,7 @@ ACPI 表，提供关于基本系统配置信息的基本信息。
 
 当计算机（主机）从服务器请求 IP 地址时动态分配 IP 地址的协议。地址分配称为“租约”。
 
-`Direct Rendering Manager 直接渲染管理器`
+`Direct Rendering Manager`
 
 内核模块 [drm(7)](https://man.freebsd.org/cgi/man.cgi?query=drm&sektion=7&format=html) 能让客户端应用程序通过直接渲染基础设施（Direct Rendering Infrastructure）直接访问图形硬件。
 
@@ -306,7 +306,7 @@ TCP/IP 网络上传输文件时可用的高级协议族中的一员。
 
 `Giant`
 
-一个相互排斥机制的名称（一个睡眠 mutex ），用于保护大量内核资源。尽管在机器可能仅有几十个进程、一个网络卡，当然只有一个处理器的时代，简单的锁定机制是足够的，在当前时代，这是无法接受的性能瓶颈。FreeBSD 开发人员正在积极努力将其替换为保护各个资源的锁，这将能让单处理器和多处理器机器的更高程度的并行性。
+一个相互排斥机制的名称（一个睡眠 mutex ），用于保护大量内核资源。尽管在机器可能仅有几十个进程、一个网络卡，当然只有一个处理器的时代，简单的锁定机制是足够的，在当前时代，这是无法接受的性能瓶颈。FreeBSD 开发人员正在积极努力将其替换为保护各个资源的锁，这将使单处理器和多处理器机器实现更高程度的并行性。
 
 `Graphical User Interface`
 
@@ -320,19 +320,19 @@ TCP/IP 网络上传输文件时可用的高级协议族中的一员。
 
 `HUP`
 
- 看挂机。
+参见挂断。
 
 `HangUp`
 
-超文本标记语言
+`HyperText Markup Language`
 
 用于创建网页的标记语言。
 
-## 我
+## I
 
 `I/O`
 
- 看见输入/输出。
+参见输入/输出。
 
 `IASL`
 
@@ -428,11 +428,13 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Kbps`
 
-见每秒千比特。
+参见每秒千比特。
+
+`Kernel Mode Setting`
 
 在内核空间设置显示模式。
 
-`Kernel`[ld(1)](https://man.freebsd.org/cgi/man.cgi?query=ld&sektion=1&format=html)
+`Kernel ld(1)`
 
 一种在不重启系统的情况下将功能动态加载到 FreeBSD 内核的方法。
 
@@ -486,516 +488,516 @@ FreeBSD 内核使用多个资源锁来调节对这些资源的竞争。在 FreeB
 
 `MFC`
 
- 看到从当前合并。
+参见从当前合并。
 
 `MFH`
 
- 看到从头合并。
+参见从头合并。
 
-MFS
+`MFS`
 
- 从稳定版合并参见。
+参见从稳定版合并。
 
-MFV
+`MFV`
 
- 从供应商合并参见。
+参见从供应商合并。
 
- 麻省理工学院
+`MIT`
 
 参见麻省理工学院。
 
-MLS
+`MLS`
 
 参见多级安全。
 
-MOTD
+`MOTD`
 
 参见今日消息。
 
-MTA
+`MTA`
 
- 看看邮件传输代理。
+参见邮件传输代理。
 
-MUA
+`MUA`
 
- 请参阅邮件用户代理。
+参见邮件用户代理。
 
- 邮件传输代理
+`Mail Transfer Agent`
 
 用于传输电子邮件的应用程序。MTA 传统上是 BSD 基本系统的一部分。今天 Sendmail 包含在基本系统中，但还有许多其他 MTA，如 postfix、qmail 和 Exim。
 
- 邮件用户代理
+`Mail User Agent`
 
-用户用于显示和编写电子邮件的应用程序
+用户用于显示和编写电子邮件的应用程序。
 
-强制访问控制
+`Mandatory Access Control`
 
-麻省理工学院
+`Massachusetts Institute of Technology`
 
- 合并自当前
+`Merge From Current`
 
-将功能或补丁从当前分支合并到另一个分支，通常是稳定分支。
+将功能或补丁从 -CURRENT 分支合并到另一个分支，通常是 -STABLE。
 
- 从头合并
+`Merge From Head`
 
 将功能或补丁从存储库的 HEAD 合并到较早的分支。
 
- 从稳定版合并
+`Merge From Stable`
 
-在 FreeBSD 开发的正常过程中，更改将首先提交到-CURRENT 分支进行测试，然后才合并到-STABLE。在罕见情况下，更改会先进入-STABLE，然后再合并到-CURRENT。
+在 FreeBSD 开发的正常过程中，更改将首先提交到 -CURRENT 分支进行测试，然后才合并到 -STABLE。在罕见情况下，更改会先进入 -STABLE，然后再合并到 -CURRENT。
 
-当从-STABLE 合并到安全分支时，也使用这个术语。
+当从 -STABLE 合并到安全分支时，也使用这个术语。
 
-参见也合并自当前。
+另请参阅从当前合并。
 
- 从供应商合并
+`Merge From Vendor`
 
-今日消息
+`Message Of The Day`
 
 通常在登录时显示的一条消息，常用于向系统用户分发信息。
 
- 多级安全
+`Multi-Level Security`
 
-多个 APIC 描述表
+`Multiple APIC Description Table`
 
 ## N
 
- 网络地址转换
+`NAT`
 
-见网络地址转换。
+参见网络地址转换。
 
-NDISulator
+`NDISulator`
 
- 参见“邪恶项目”。
+参见“邪恶项目”。
 
-NFS
+`NFS`
 
- 参见网络文件系统。
+参见网络文件系统。
 
-NTFS
+`NTFS`
 
-新技术文件系统参见。
+参见新技术文件系统。
 
-NTP
+`NTP`
 
 参见网络时间协议。
 
-网络地址转换
+`Network Address Translation`
 
 一种技术，在网关通过时重新编写 IP 数据包，使得网关后面的许多计算机能够有效地共享一个单一的 IP 地址。
 
- 网络文件系统
+`Network File System`
 
-新技术文件系统
+`New Technology File System`
 
 由微软开发的文件系统，适用于其“新技术”操作系统，如 Windows® 2000、Windows NT®和 Windows® XP。
 
- 网络时间协议
+`Network Time Protocol`
 
 一种通过网络同步时钟的方式。
 
 ## O
 
- 被超越了的事件
+`OBE`
 
- 看到超越了的事件。
+参见被超越的事件。
 
-ODMR
+`ODMR`
 
 参见按需邮件中继。
 
- 操作系统
+`OS`
 
- 参见操作系统。
+参见操作系统。
 
- 按需邮件中继
+`On-Demand Mail Relay`
 
- 操作系统
+`Operating System`
 
-一组程序、库和工具，用于访问计算机的硬件资源。当今的操作系统范围从仅支持一次运行一个程序，仅访问一个设备的简单设计，到完全支持多用户、多任务和多进程的系统，可以同时为成千上万的用户提供服务，每个用户运行几十个不同的应用程序。
+一组程序、库和工具，用于访问计算机的硬件资源。当今的操作系统范围从仅支持一次运行一个程序、仅访问一个设备的简单设计，到完全支持多用户、多任务和多进程的系统，可以同时为成千上万的用户提供服务，每个用户运行几十个不同的应用程序。
 
- 事件超越了
+`Overtaken By Events`
 
 指出建议的更改（如问题报告或功能请求），由于 FreeBSD 的后续更改、网络标准的更改、受影响的硬件已经过时等原因，这些更改已不再相关或适用。
 
 ## P
 
- 物理地址扩展
+`PAE`
 
 参见物理地址扩展。
 
-PAM
+`PAM`
 
 参见可插拔认证模块。
 
-PAP
+`PAP`
 
 参见密码认证协议。
 
- 个人电脑
+`PC`
 
- 参见个人电脑。
+参见个人电脑。
 
-PCNSFD
+`PCNSFD`
 
 参见个人计算机网络文件系统守护程序。
 
-PDF
+`PDF`
 
 参见便携式文档格式。
 
- 进程标识符
+`PID`
 
- 参见进程标识符
+参见进程 ID。
 
-POLA
+`POLA`
 
 参见最小惊讶原则。
 
-POP
+`POP`
 
 参见邮局协议。
 
-POP3
+`POP3`
 
-看到第三版的邮局协议。
+参见邮局协议版本 3。
 
-PPD
+`PPD`
 
-参见后置脚本打印机说明。
+参见 PostScript 打印机说明。
 
-PPP
+`PPP`
 
 参见点对点协议。
 
-PPPoA
+`PPPoA`
 
- 参见 PPP over ATM.
+参见 ATM 上的 PPP。
 
-PPPoE
+`PPPoE`
 
- 通过以太网上的 PPP 参见。
+参见以太网上的 PPP。
 
- ATM 上的 PPP。
+`PPP over ATM`
 
- 以太网上的 PPP。
+`PPP over Ethernet`
 
-PR
+`PR`
 
-See [Problem Report](https://docs.freebsd.org/en/books/handbook/glossary/#pr-glossary).
+参见[问题报告](https://docs.freebsd.org/en/books/handbook/glossary/#pr-glossary)。
 
-PXE
+`PXE`
 
 参见预启动执行环境。
 
-密码认证协议
+`Password Authentication Protocol`
 
- 个人电脑
+`Personal Computer`
 
-个人计算机网络文件系统守护程序
+`Personal Computer Network File System Daemon`
 
-物理地址扩展
+`Physical Address Extensions`
 
-一种能让在仅具有 32 位宽地址空间的系统上访问高达 64 GB RAM 的方法（否则会受到 4 GB 限制）
+一种能让在仅具有 32 位宽地址空间的系统上访问高达 64 GB RAM 的方法（否则会受到 4 GB 限制）。
 
-可插拔身份验证模块
+`Pluggable Authentication Modules`
 
- 点对点协议
+`Point-to-Point Protocol`
 
- 尖帽
+`Pointy Hat`
 
 一个神话般的头饰，很像一个傻瓜帽，授予任何破坏构建、使修订号倒退或在源代码库中制造任何其他混乱的 FreeBSD 贡献者。任何值得其盐的贡献者很快就会积累大量这样的头饰。使用方式（几乎总是？）是幽默的。
 
-可移植文档格式
+`Portable Document Format`
 
- 邮局协议
+`Post Office Protocol`
 
-参见也可以通过使用电子邮件协议版本 3。
+另请参阅邮局协议版本 3。
 
-电子邮件协议版本 3
+`Post Office Protocol Version 3`
 
 一种用于访问电子邮件服务器上电子邮件消息的协议，其特点是消息通常从服务器下载到客户端，而不是保留在服务器上。
 
-参见 Internet 消息访问协议。
+另请参阅 Internet 消息访问协议。
 
-PostScript 打印机说明
+`PostScript Printer Description`
 
-预引导执行环境
+`Preboot eXecution Environment`
 
-最小惊讶原则
+`Principle Of Least Astonishment`
 
-随着 FreeBSD 的发展，用户可见的变化应尽量保持不令人惊讶。例如，在/etc/defaults/rc.conf 中随意重新排列系统启动变量违反了最小惊讶原则。开发者在考虑用户可见的系统变更时会考虑到最小惊讶原则。
+随着 FreeBSD 的发展，用户可见的变化应尽量保持不令人惊讶。例如，在 /etc/defaults/rc.conf 中随意重新排列系统启动变量违反了最小惊讶原则。开发者在考虑用户可见的系统变更时会考虑到最小惊讶原则。
 
-PRIME
+`PRIME`
 
 一种通过共享直接内存访问（DMA）缓冲区，使多个物理图形协处理器共存的方法。
 
- 问题报告
+`Problem Report`
 
 已经在 FreeBSD 源代码或文档中发现的某种问题说明。请参阅撰写 FreeBSD 问题报告。
 
- 进程 ID
+`Process ID`
 
 一个数字，对于系统上的特定进程是唯一的，它标识进程并能让采取针对它的行动。
 
- 邪恶项目
+`Project Evil`
 
 NDISulator 的工作标题，由 Bill Paul 编写，他命名它是因为需要在首次需要像这样恶劣（从哲学角度看）的东西。NDISulator 是一个特殊的兼容性模块，能让使用 Microsoft Windows™ NDIS miniport 网络驱动程序与 FreeBSD/i386 一起使用。这通常是使用驱动程序为闭源的卡的唯一方式。见 src/sys/compat/ndis/subr_ndis.c。
 
 ## R
 
- 路由器
+`RA`
 
-参见路由器广告。
+参见路由器通告。
 
-RAID
+`RAID`
 
-参见廉价冗余磁盘阵列。
+参见廉价磁盘冗余阵列。
 
- 内存
+`RAM`
 
 参见随机存取存储器。
 
-RD
+`RD`
 
- 参见接收到的数据。
+参见接收到的数据。
 
-RFC
+`RFC`
 
-参见请求评论。
+参见请求评议。
 
-RISC
+`RISC`
 
 参见精简指令集计算机。
 
-RPC
+`RPC`
 
 参见远程过程调用。
 
-RS232C
+`RS232C`
 
 参见推荐标准 232C。
 
-RTS
+`RTS`
 
- 参见请求发送。
+参见请求发送。
 
- 随机存取内存
+`Random Access Memory`
 
- 修订控制系统
+`Revision Control System`
 
 修订控制系统（RCS）是实现普通文件“修订控制”的最古老软件套件之一。它能让对每个文件的多个修订版本进行存储、检索、归档、记录、标识和合并。RCS 由许多小工具组成，这些工具共同工作。它缺少一些现代修订控制系统（如 Git）中的一些特性，但对于安装、配置和开始使用一小组文件来说非常简单。
 
- 参见 Subversion。
+另请参阅 Subversion。
 
- 接收到的数据
+`Received Data`
 
 用于接收数据的 RS232C 引脚或线。
 
-参见也传输的数据。
+另请参阅传输的数据。
 
-推荐标准 232C
+`Recommended Standard 232C`
 
 串行设备间通信的标准。
 
-简化指令集计算机
+`Reduced Instruction Set Computer`
 
 一种处理器设计方法，其中硬件可以执行的操作被简化，但尽可能通用。这可以降低功耗、减少晶体管数量，并在某些情况下提升性能和增加代码密度。RISC 处理器的例子包括 Alpha、SPARC®、ARM®和 PowerPC®。
 
-廉价磁盘冗余阵列
+`Redundant Array of Inexpensive Disks`
 
- 远程过程调用
+`Remote Procedure Call`
 
- 请求评议
+`Request For Comments`
 
-定义互联网标准、协议等的一组文件。请参阅 <www.rfc-editor.org。>
+定义互联网标准、协议等的一组文件。请参阅 <www.rfc-editor.org>。
 
 当某人提出改变建议并希望得到反馈时，也作为一般术语使用。
 
- 请求发送
+`Request To Send`
 
 RS232C 信号，请求远程系统开始传输数据。
 
-请参阅清除发送。
+另请参阅清除发送。
 
- 路由器通告
+`Router Advertisement`
 
 ## S
 
-SCI
+`SCI`
 
-系统控制中断参见
+参见系统控制中断。
 
-SCSI
+`SCSI`
 
 参见小型计算机系统接口。
 
-SG
+`SG`
 
- 参见信号地。
+参见信号地。
 
-SMB
+`SMB`
 
 参见服务器消息块。
 
-SLAAC
+`SLAAC`
 
-参见 [无状态地址自动配置（StateLess Address AutoConfiguration）](https://docs.freebsd.org/en/books/handbook/glossary/#slaac-glossary)。
+参见[无状态地址自动配置（StateLess Address AutoConfiguration）](https://docs.freebsd.org/en/books/handbook/glossary/#slaac-glossary)。
 
-SMP
+`SMP`
 
 参见对称多处理器。
 
-SMTP
+`SMTP`
 
 参见简单邮件传输协议。
 
-SMTP AUTH
+`SMTP AUTH`
 
- 参见 SMTP 身份验证。
+参见 SMTP 身份验证。
 
-SSH
+`SSH`
 
- 看安全 Shell。
+参见安全 Shell。
 
-STR
+`STR`
 
- 看挂起到 RAM。
+参见挂起到 RAM。
 
-SVN
+`SVN`
 
- 参见 Subversion。
+参见 Subversion。
 
-无状态地址自动配置
+`StateLess Address AutoConfiguration`
 
-SMTP 身份验证
+`SMTP Authentication`
 
-服务器消息块
+`Server Message Block`
 
- 信号地
+`Signal Ground`
 
 RS232 引脚或线是信号的地参考。
 
-简单邮件传输协议
+`Simple Mail Transfer Protocol`
 
- 安全 Shell
+`Secure Shell`
 
-小型计算机系统接口
+`Small Computer System Interface`
 
- 子版本
+`Subversion`
 
 Subversion 是当前由 FreeBSD 项目使用的版本控制系统。
 
- 暂停到 RAM
+`Suspend To RAM`
 
-对称多处理器
+`Symmetric MultiProcessor`
 
-系统控制中断
+`System Control Interrupt`
 
 ## T
 
-TCP
+`TCP`
 
-见传输控制协议。
+参见传输控制协议。
 
-TCP/IP
+`TCP/IP`
 
 参见传输控制协议/因特网协议。
 
-TD
+`TD`
 
- 参见传输数据。
+参见传输的数据。
 
-TFTP
+`TFTP`
 
- 简单文件传输协议
+参见简易 FTP。
 
-TGT
+`TGT`
 
 参见凭据授予票证。
 
-TSC
+`TSC`
 
- 参见时间戳计数器。
+参见时间戳计数器。
 
- 凭据
+`Ticket-Granting Ticket`
 
- 时间戳计数器
+`Time Stamp Counter`
 
 现代奔腾®处理器内部的性能分析计数器，用于计算核心频率时钟周期。
 
-传输控制协议
+`Transmission Control Protocol`
 
-坐在（例如）IP 协议顶部，并保证数据包以可靠、有序的方式传输的协议。
+位于（例如）IP 协议之上，并保证数据包以可靠、有序的方式传输的协议。
 
-传输控制协议/互联网协议
+`Transmission Control Protocol/Internet Protocol`
 
 运行在 IP 协议之上的 TCP 协议的组合术语。大部分互联网运行在 TCP/IP 上。
 
- 传输数据
+`Transmitted Data`
 
 数据传输的 RS232C 引脚或电线。
 
- 参见已收到的数据。
+另请参阅接收到的数据。
 
- 定制 FTP
+`Trivial FTP`
 
-## U 盘
+## U
 
-UDP
+`UDP`
 
-见用户数据报协议。
+参见用户数据报协议。
 
-UFS1
+`UFS1`
 
 参见 Unix 文件系统版本 1。
 
-UFS2
+`UFS2`
 
 参见 Unix 文件系统版本 2。
 
- 用户 ID
+`UID`
 
- 参见用户 ID。
+参见用户 ID。
 
- 网址
+`URL`
 
 参见统一资源定位符。
 
- 通用串行总线
+`USB`
 
 参见通用串行总线。
 
-统一资源定位符
+`Uniform Resource Locator`
 
 一种定位资源的方法，例如互联网上的文档，以及识别该资源的手段。
 
-Unix 文件系统版本 1
+`Unix File System Version 1`
 
 原始的 UNIX®文件系统，有时称为伯克利快速文件系统。
 
-Unix 文件系统第 2 版
+`Unix File System Version 2`
 
 UFS1 的扩展，引入于 FreeBSD 5-CURRENT。UFS2 添加了 64 位块指针（突破了 1T 的限制），支持扩展文件存储和其他功能。
 
- 通用串行总线
+`Universal Serial Bus`
 
 一种硬件标准，用于将各种计算机外围设备连接到通用接口。
 
- 用户标识
+`User ID`
 
 每位计算机用户分配的唯一编号，用于识别分配给该用户的资源和权限。
 
- 用户数据包协议
+`User Datagram Protocol`
 
-一种简单、不可靠的数据包协议，用于在 TCP/IP 网络上交换数据。UDP 不像 TCP 那样提供错误检查和校正。
+一种简单、不可靠的数据报协议，用于在 TCP/IP 网络上交换数据。UDP 不像 TCP 那样提供错误检查和校正。
 
 ## V
 
-VPN
+`VPN`
 
-请参阅虚拟专用网络。
+参见虚拟专用网络。
 
- 虚拟专用网络
+`Virtual Private Network`
 
 利用公共电信设施（如互联网）提供远程访问局域网（如企业局域网）的一种方法。

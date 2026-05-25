@@ -1,17 +1,18 @@
 # A.1.镜像站
 
-FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成，并通过 GeoDNS 在用户最接近的镜像上提供服务。当前的位置包括澳大利亚、巴西、德国、日本（两个站点）、马来西亚、南非、瑞典、台湾、英国、美国（加利福尼亚州、新泽西州和华盛顿州）。
+FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成，并通过 GeoDNS 在用户最接近的镜像上提供服务。当前的位置包括澳大利亚、巴西、日本（两个站点）、马来西亚、南非、瑞典、台湾、美国（加利福尼亚州——两个站点、伊利诺伊州——两个站点、新泽西州和华盛顿州）。
 
 官方镜像服务：
 
 | 服务名称 | 协议 | 更多信息 |
-| ------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------- |
-| **docs.FreeBSD.org** | [https](https://docs.freebsd.org/) | FreeBSD Documentation Portal. |
-| **download.FreeBSD.org** | [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/) | Same content as `ftp.FreeBSD.org`, `ftp` is a legacy name; `download.FreeBSD.org` is recommended. |
-| **git.FreeBSD.org** | git over `https` and `ssh` | More details on [using git](https://docs.freebsd.org/en/books/handbook/mirrors/#git) section. |
-| **pkg.FreeBSD.org** | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https` | Official FreeBSD package repositories used by the [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) program. |
-| **vuxml.FreeBSD.org** / **<www.VuXML.org>** | [https](https://www.vuxml.org/) | FreeBSD Project VuXML web page. `pkg audit` fetches the list of vulnerabilities from this service. |
-| **<www.FreeBSD.org>** | [https](https://www.freebsd.org/) | FreeBSD Website. |
+| -------- | ---- | -------- |
+| **cgit.FreeBSD.org** | [https](https://cgit.freebsd.org/) | FreeBSD Git 仓库的 Web 界面。 |
+| **docs.FreeBSD.org** | [https](https://docs.freebsd.org/) | FreeBSD 文档门户。 |
+| **download.FreeBSD.org** | [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/) | 与 `ftp.FreeBSD.org` 内容相同，`ftp` 是旧名称；推荐使用 `download.FreeBSD.org`。 |
+| **git.FreeBSD.org** | git over `https` and `ssh` | 更多详情请参阅[使用 Git](https://docs.freebsd.org/en/books/handbook/mirrors/#git)部分。 |
+| **pkg.FreeBSD.org** | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https` | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) 程序使用的 FreeBSD 官方软件包仓库。 |
+| **vuxml.FreeBSD.org** / **www.VuXML.org** | [https](https://www.vuxml.org/) | FreeBSD 项目 VuXML 网页。`pkg audit` 从此服务获取漏洞列表。 |
+| **www.FreeBSD.org** | [https](https://www.freebsd.org/) | FreeBSD 网站。 |
 
 所有官方镜像都支持 IPv4 和 IPv6。
 
@@ -19,10 +20,12 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 
 该项目正在寻找新的位置；愿意赞助的人，请联系集群管理员团队获取更多信息。
 
+[Fastly](https://www.fastly.com/) CDN 用于提供 **download.FreeBSD.org** 和 **pkg.FreeBSD.org** 服务，为 FreeBSD 镜像和软件包提供加速、缓存和全球带宽分发。
+
 社区和其他公司维护的镜像列表：
 
 | 区域 | 主机名 | 协议 |
-| ---------------- | -------- | ------------------------ |
+| ---- | ------ | ---- |
 | Australia | ftp.au.FreeBSD.org | [http](http://ftp.au.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.au.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.au.FreeBSD.org) [rsyncv6](rsync://ftp.au.FreeBSD.org) |
 | | ftp3.au.FreeBSD.org | [http](http://ftp3.au.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp3.au.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp3.au.FreeBSD.org) |
 | Austria | ftp.at.FreeBSD.org | [http](http://ftp.at.freebsd.org/pub/FreeBSD/) [httpv6](http://ftp.at.freebsd.org/pub/FreeBSD/) [ftp](ftp://ftp.at.freebsd.org/pub/FreeBSD/) [ftpv6](ftp://ftp.at.freebsd.org/pub/FreeBSD/) [rsync](rsync://ftp.at.FreeBSD.org/pub/FreeBSD/) [rsyncv6](rsync://ftp.at.FreeBSD.org/pub/FreeBSD/) |
@@ -76,4 +79,3 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 | | ftp5.FreeBSD.org | [http](http://ftp5.freebsd.org/pub/FreeBSD) [httpv6](http://ftp5.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp5.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp5.freebsd.org/pub/FreeBSD) |
 
 社区镜像支持的协议列表最后更新于 2022-01-31，不能保证是最新的。
-
