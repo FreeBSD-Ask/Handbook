@@ -51,7 +51,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ### 格式
 
 - **命令行前缀：** `#` 表示 root 权限，`$` 表示普通用户。不要使用 `sudo`。
-- **提示块：** tip/important/note/warning/caution 使用 `> ` 缩进引用，关键词**加粗**。
+- **提示块：** tip/important/note/warning/caution 使用 `>` 缩进引用，关键词**加粗**。
 - **代码块：** 使用 ` ```shell-session `，**不要**添加多余标记如 ` ```bash `。
 - **表格：** 一律居中。
 - **禁止 HTML：** 本项目不支持任何 HTML 语法。
@@ -72,9 +72,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ### 图片
 
 翻译者不要在正文中插入图片，在需要插图的位置标记：
+
 ```
 【——————————-此处需要插入图片­——————————————-】
 ```
+
 并主动告知维护者哪一小节需要插图。
 
 ### 翻译流程
