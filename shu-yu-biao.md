@@ -435,7 +435,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 在内核空间设置显示模式。
 
-`Kernel`​[ld(1)](https://man.freebsd.org/cgi/man.cgi?query=ld&sektion=1&format=html)
+`Kernel`[ld(1)](https://man.freebsd.org/cgi/man.cgi?query=ld&sektion=1&format=html)
 
 一种在不重启系统的情况下将功能动态加载到 FreeBSD 内核的方法。
 
