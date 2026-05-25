@@ -4,7 +4,7 @@
 
 截至 2020 年 12 月，FreeBSD 使用 git 作为存储所有 FreeBSD 基础源代码和文档的主要版本控制系统。截至 2021 年 4 月，FreeBSD 使用 git 作为存储所有 FreeBSD ports 的唯一版本控制系统。
 
-|  | Git 通常是开发者工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统。|
+| | Git 通常是开发者工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统。 |
 | -- | --------------------------------------------------------------------------------------------------------- |
 
 本节演示了如何在 FreeBSD 系统上安装 Git 并使用它创建 FreeBSD 源代码存储库的本地副本。
@@ -25,14 +25,14 @@ Git 使用 URL 来指定存储库。有三个不同的存储库，src 用于 Fre
 
 表 1. FreeBSD Git 存储库 URL 表
 
-| Item                                | Git URL |
+| Item | Git URL |
 | ------------------------------------- | --------- |
-| Read-only src repo via HTTPS        | [`https://git.FreeBSD.org/src.git`](https://git.freebsd.org/src.git)        |
-| 通过 anon-ssh 访问只读源代码存储库  | `ssh://anongit@git.FreeBSD.org/src.git`        |
-| 通过 HTTPS 访问只读文档存储库       | [`https://git.FreeBSD.org/doc.git`](https://git.freebsd.org/doc.git)        |
-| 通过 anon-ssh 访问只读文档存储库    | `ssh://anongit@git.FreeBSD.org/doc.git`        |
-| 通过 HTTPS 读取只读 ports 存储库    | [`https://git.FreeBSD.org/ports.git`](https://git.freebsd.org/ports.git)        |
-| 通过 anon-ssh 读取只读 ports 存储库 | `ssh://anongit@git.FreeBSD.org/ports.git`        |
+| Read-only src repo via HTTPS | [`https://git.FreeBSD.org/src.git`](https://git.freebsd.org/src.git) |
+| 通过 anon-ssh 访问只读源代码存储库 | `ssh://anongit@git.FreeBSD.org/src.git` |
+| 通过 HTTPS 访问只读文档存储库 | [`https://git.FreeBSD.org/doc.git`](https://git.freebsd.org/doc.git) |
+| 通过 anon-ssh 访问只读文档存储库 | `ssh://anongit@git.FreeBSD.org/doc.git` |
+| 通过 HTTPS 读取只读 ports 存储库 | [`https://git.FreeBSD.org/ports.git`](https://git.freebsd.org/ports.git) |
+| 通过 anon-ssh 读取只读 ports 存储库 | `ssh://anongit@git.FreeBSD.org/ports.git` |
 
 项目成员维护的外部镜像也可用；请参考外部镜像部分。
 
@@ -108,3 +108,4 @@ FreeBSD 项目中用于一般使用和关于 git 的问题的主邮件列表是 
   * RSA 密钥指纹为 SHA256:jBe6FQGoH4HjvrIVM23dcnLZk9kmpdezR/CvQzm7rJM
 
 这些也会作为 SSHFP 记录发布在 DNS 中。
+
