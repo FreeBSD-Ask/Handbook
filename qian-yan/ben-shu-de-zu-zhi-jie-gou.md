@@ -150,6 +150,6 @@
 
 涉及了供 FreeBSD 用户提出问题并参与有关 FreeBSD 的技术交流的论坛。
 
-**[OpenPGP 密钥](fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan)**
+**[OpenPGP 密钥](../fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan.md)**
 
 列出了几位 FreeBSD 开发人员的 PGP 指纹。
