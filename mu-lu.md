@@ -74,7 +74,7 @@
 * [5.3.X Window 系统概览](di-5-zhang-xwindow-xi-tong/5.3.-x-window-xi-tong-gai-lan.md)
 * [5.4.安装 X.org 服务器](di-5-zhang-xwindow-xi-tong/5.4.-an-zhuang-xorg-fu-wu-qi.md)
 * [5.5.配置 X.org](di-5-zhang-xwindow-xi-tong/5.5.-xorg-pei-zhi.md)
-* [5.6 在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-zai-x-window-zhong-shi-yong-zi-ti.md)
+* [5.6.在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-zai-x-window-zhong-shi-yong-zi-ti.md)
 
 ## 第6章 FreeBSD 中的 Wayland
 
@@ -108,7 +108,7 @@
 * [8.2.桌面环境](di-8-zhang-zhuo-mian-huan-jing/8.2.-zhuo-mian-huan-jing.md)
 * [8.3.浏览器](di-8-zhang-zhuo-mian-huan-jing/8.3.-liu-lan-qi.md)
 * [8.4.开发工具](di-8-zhang-zhuo-mian-huan-jing/8.4.-kai-fa-gong-ju.md)
-* [8.5.桌面办公应用](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
+* [8.5.桌面办公生产力应用](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
 * [8.6.文档阅读器](di-8-zhang-zhuo-mian-huan-jing/8.6.-wen-dang-yue-du-qi.md)
 * [8.7.财务](di-8-zhang-zhuo-mian-huan-jing/8.7.-cai-wu.md)
 
@@ -161,7 +161,7 @@
 
 * [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li.md)
 
-## 第14章 配置与优化
+## 第14章 配置、服务、日志与电源管理
 
 * [14.1.概述](di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)
 * [14.2.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.2.-pei-zhi-wen-jian.md)
@@ -200,7 +200,7 @@
 ## 第17章 jail 与容器
 
 * [17.1.概述](di-17-zhang-jail/17.1.-gai-shu.md)
-* [17.2.jail 的类型](di-17-zhang-jail/17.2.jail-de-lei-xing.md)
+* [17.2.jail 的类型](di-17-zhang-jail/17.2.-jail-de-lei-xing.md)
 * [17.3.主机配置](di-17-zhang-jail/17.3.-zhu-ji-pei-zhi-jail.md)
 * [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-chuan-tong-jail-hou-jail.md)
 * [17.5.瘦 jail](di-17-zhang-jail/17.5.-shou-jail.md)
@@ -233,8 +233,8 @@
 * [20.2.添加磁盘](di-20-zhang-cun-chu/20.2.-tian-jia-ci-pan.md)
 * [20.3.调整和增加磁盘大小](di-20-zhang-cun-chu/20.3.-tiao-zheng-he-zeng-jia-ci-pan-da-xiao.md)
 * [20.4.USB 存储设备](di-20-zhang-cun-chu/20.4.-usb-cun-chu-she-bei.md)
-* [20.5.创建和使用 CD](di-20-zhang-cun-chu/20.5.-chuang-jian-he-shi-yong-cd.md)
-* [20.6.创建和使用 DVD](di-20-zhang-cun-chu/20.6.-chuang-jian-he-shi-yong-dvd.md)
+* [20.5.创建和使用 CD 介质](di-20-zhang-cun-chu/20.5.-chuang-jian-he-shi-yong-cd.md)
+* [20.6.创建和使用 DVD 介质](di-20-zhang-cun-chu/20.6.-chuang-jian-he-shi-yong-dvd.md)
 * [20.7.创建和使用软盘](di-20-zhang-cun-chu/20.7.-chuang-jian-he-shi-yong-ruan-pan.md)
 * [20.8.备份的基础知识](di-20-zhang-cun-chu/20.8.-bei-fen-de-ji-chu-zhi-shi.md)
 * [20.9.内存盘](di-20-zhang-cun-chu/20.9.-nei-cun-pan.md)
@@ -270,8 +270,8 @@
 
 * [23.1.概述](di-23-zhang-qi-ta-wen-jian-xi-tong/23.1.-gai-shu.md)
 * [23.2.Linux® 文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.2.-linux-wen-jian-xi-tong.md)
-* [23.3.Windows® 文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.3-Windows.md)
-* [23.4.MacOS® 文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.4-macos.md)
+* [23.3.Windows® 文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.3.-Windows.md)
+* [23.4.MacOS® 文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.4.-macOS.md)
 
 ## 第24章 虚拟化
 
@@ -280,7 +280,7 @@
 * [24.3.使用 macOS® 上的 VMware Fusion 安装 FreeBSD](di-24-zhang-xu-ni-hua/24.3.-shi-yong-macos-shang-de-vmware-fusion-an-zhuang-freebsd.md)
 * [24.4.使用 VirtualBox™ 安装 FreeBSD](di-24-zhang-xu-ni-hua/24.4.-shi-yong-virtualbox-an-zhuang-freebsd.md)
 * [24.5.在 FreeBSD 上安装 VirtualBox™](di-24-zhang-xu-ni-hua/24.5.-zai-freebsd-shang-an-zhuang-virtualbox.md)
-* [24.6.使用 FreeBSD 上的 QEMU 虚拟化](di-24-zhang-xu-ni-hua/24.6-qemu.md)
+* [24.6.使用 FreeBSD 上的 QEMU 虚拟化](di-24-zhang-xu-ni-hua/24.6.-qemu.md)
 * [24.7.使用 FreeBSD 上的 bhyve 虚拟机](di-24-zhang-xu-ni-hua/24.7.-shi-yong-freebsd-shang-de-bhyve-xu-ni-ji.md)
 * [24.8.基于 FreeBSD 的 Xen™ 虚拟机](di-24-zhang-xu-ni-hua/24.8.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
 
@@ -308,7 +308,7 @@
 * [27.1.概述](di-27-zhang-dtrace/27.1.-gai-shu.md)
 * [27.2.实现上的差异](di-27-zhang-dtrace/27.2.-shi-xian-shang-de-cha-yi.md)
 * [27.3.开启 DTrace 支持](di-27-zhang-dtrace/27.3.-kai-qi-dtrace-zhi-chi.md)
-* [27.4.启用内核外部模块 DTrace](di-27-zhang-dtrace/27.4.-nei-he-wai-bu-mo-kuai.md)
+* [27.4.为内核外部模块启用 DTrace](di-27-zhang-dtrace/27.4.-nei-he-wai-bu-mo-kuai.md)
 * [27.5.使用 DTrace](di-27-zhang-dtrace/27.5.-shi-yong-dtrace.md)
 
 ## 第28章 USB 设备模式/USB OTG
@@ -398,14 +398,14 @@
 * [A.1.镜像站](fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan.md)
 * [A.2.使用 Git](fu-lu-a.-huo-qu-freebsd/a.2.-shi-yong-git.md)
 * [A.3.使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.3.-shi-yong-subversion.md)
-* [A.4.光盘](fu-lu-a.-huo-qu-freebsd/a.4.cd-he-dvd-tao-zhuang.md)
+* [A.4.光盘](fu-lu-a.-huo-qu-freebsd/a.4.-cd-he-dvd-tao-zhuang.md)
 
 ## 附录 B.书目
 
-* [B.1.FreeBSD 相关书籍](fu-lu-b.-shu-mu/b.1.freebsd-xiang-guan-shu-ji.md)
+* [B.1.FreeBSD 相关书籍](fu-lu-b.-shu-mu/b.1.-freebsd-xiang-guan-shu-ji.md)
 * [B.2.安全性参考文献](fu-lu-b.-shu-mu/b.2.-an-quan-xing-can-kao-wen-xian.md)
-* [B.3.UNIX 历史](fu-lu-b.-shu-mu/b.3.unix-li-shi.md)
-* [B.4.期刊与杂志](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
+* [B.3.UNIX 历史](fu-lu-b.-shu-mu/b.3.-unix-li-shi.md)
+* [B.4.期刊、学报与杂志](fu-lu-b.-shu-mu/b.4.-kai-fa-zhi-nan.md)
 
 ## 附录 C.网络资源
 
@@ -420,4 +420,4 @@
 ***
 
 * [术语表](shu-yu-biao.md)
-* [后记](hou-ji.md)
+* [出版说明](hou-ji.md)

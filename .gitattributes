@@ -13,3 +13,9 @@
 *.yml text eol=lf
 *.css text eol=lf
 *.json text eol=lf
+*.toml text eol=lf
+.gitignore text eol=lf
+.textlintrc text eol=lf
+.autocorrectrc text eol=lf
+LICENSE text eol=lf
+.yamllint text eol=lf

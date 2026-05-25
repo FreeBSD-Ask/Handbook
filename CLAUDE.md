@@ -14,8 +14,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### 核心文件
 
-- **`SUMMARY.md`** — 全书唯一数据源，定义完整目录结构和导航树。GitBook 用它来生成侧边栏。**第一行 `# Table of contents` 绝对不能变更**，否则 GitBook 同步失效。
-- **`mu-lu.md`** — 由 `mulu.yml` CI 工作流从 `SUMMARY.md` 自动复制生成，**不要手动编辑**。
+- **`SUMMARY.md`** — 全书唯一数据源，定义完整目录结构和导航树。GitBook 用它来生成侧边栏。 **第一行 `# Table of contents` 绝对不能变更** ，否则 GitBook 同步失效。
+- **`mu-lu.md`** — 由 `mulu.yml` CI 工作流从 `SUMMARY.md` 自动复制生成， **不要手动编辑** 。
 - **`yi-zhe-shuo-ming.md`** — 术语翻译对照表，所有术语翻译以此为准。
 - **`CHANGELOG.md`** — 编辑日志，记录翻译进度和同步上游的 commit。
 
@@ -29,30 +29,30 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### 标题管理（关键约束）
 
-`senc-headers.yml` 工作流会在每次 push 时自动将 `SUMMARY.md` 中的标题同步到对应 `.md` 文件的 H1。**这意味着直接编辑 `.md` 文件的 `# 标题` 会被 CI 覆盖。**修改章节标题时，只改 `SUMMARY.md` 中对应的 `* [标题](路径)` 条目即可。
+`senc-headers.yml` 工作流会在每次 push 时自动将 `SUMMARY.md` 中的标题同步到对应 `.md` 文件的 H1。 **这意味着直接编辑 `.md` 文件的 `# 标题` 会被 CI 覆盖。** 修改章节标题时，只改 `SUMMARY.md` 中对应的 `* [标题](路径)` 条目即可。
 
 ## CI/CD 工作流
 
 所有工作流位于 `.github/workflows/`：
 
 | 工作流 | 触发条件 | 说明 |
-| --- | --- | --- |
+| ------ | -------- | ---- |
 | `sync-headers.yml` | push | 从 SUMMARY.md 同步一级标题到各 .md 文件 |
 | `mulu.yml` | SUMMARY.md 变更时 push | 复制 SUMMARY.md → mu-lu.md |
 | `markdown-lint2.yml` | workflow_dispatch | markdownlint 检查，规则见 `.github/.markdownlint.json` |
 | `md-padding.yml` | workflow_dispatch | 自动在 CJK 与英文/数字间添加空格 |
-| `AutoCorrect.yml` | - | 自动修正常见中文笔误与格式问题 |
+| `AutoCorrect.yml` | --- | 自动修正常见中文笔误与格式问题 |
 | `links.yml` | 定时 + workflow_dispatch | lychee 死链检查，配置见 `.github/lychee.toml` |
-| `file-name-check.yml` | - | 检查 SUMMARY.md 中引用的文件是否存在 |
-| `create-pdf.yml` | - | 导出 PDF |
+| `file-name-check.yml` | --- | 检查 SUMMARY.md 中引用的文件是否存在 |
+| `create-pdf.yml` | --- | 导出 PDF |
 
 ## 编写规范
 
 ### 格式
 
 - **命令行前缀：** `#` 表示 root 权限，`$` 表示普通用户。不要使用 `sudo`。
-- **提示块：** tip/important/note/warning/caution 使用 `>` 缩进引用，关键词**加粗**。
-- **代码块：** 使用 ` ```shell-session `，**不要**添加多余标记如 ` ```bash `。
+- **提示块：** tip/important/note/warning/caution 使用 `>` 缩进引用，关键词 **加粗**。
+- **代码块：** 使用 ` ```sh `， **不要** 添加多余标记如 ` ```bash `。
 - **表格：** 一律居中。
 - **禁止 HTML：** 本项目不支持任何 HTML 语法。
 - **文件命名：** 使用拼音 slug，文件名中不得包含空格、中文字符或英文冒号 `:`。
@@ -71,13 +71,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### 图片
 
-翻译者不要在正文中插入图片，在需要插图的位置标记：
-
-```
-【——————————-此处需要插入图片­——————————————-】
-```
-
-并主动告知维护者哪一小节需要插图。
+翻译者在正文中插入图片，使用 markdown 格式。
 
 ### 翻译流程
 
@@ -94,7 +88,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 2. **逐句对照**：将中文翻译与英文原文逐句比对，重点检查以下问题类别：
 
    | 问题类型 | 示例 |
-   | --- | --- |
+   | -------- | ---- |
    | 事实性错误 | "large parts" 误译为"三个文件" |
    | 漏译 | 英文原版有但中文缺失的句子 |
    | 机翻腔/表达生硬 | "在阅读本章后，你将会收获" → "通过阅读本章，你将了解" |
@@ -120,4 +114,3 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **markdownlint**（`.github/.markdownlint.json`）：禁用了 MD013（行长度）、MD033（HTML）、MD010（tab）、MD036（无强调作标题）、MD040（围栏代码块语言）、MD045（无 alt 文本图片）等规则
 - **textlint**（`.textlintrc`）：仅启用 `ja-space-between-half-and-full-width` 规则，用于 CJK/英文空格检查
 - **lychee**（`.github/lychee.toml`）：6 线程、30 并发、30 秒超时、最多 3 次重试、Chrome UA、排除私有 IP 和 `ftp.freebsd.org`
-

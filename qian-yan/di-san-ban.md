@@ -1,10 +1,10 @@
 # 第三版
 
-当前版本的在线手册凝聚着过去十年间许多贡献者的不懈努力。自 2004 年两卷本的第三版出版以来，以下是一些重要变化：
+当前版本的在线手册体现了过去十年间数百名贡献者的累积努力。自 2004 年两卷本的第三版出版以来，以下是一些重要变化：
 
-- 新增了 [WINE](https://docs.freebsd.org/en/books/handbook/book/#wine)，介绍了如何在 FreeBSD 上运行 Windows® 应用程序。
-- 新增了 [DTrace](https://docs.freebsd.org/en/books/handbook/book/#dtrace) 的有关信息，它是一款功能强大的性能分析工具。
-- 新增了[其他文件系统](https://docs.freebsd.org/en/books/handbook/book/#filesystems)，介绍了 FreeBSD 中的非原生文件系统，如 Sun™ 的 ZFS。
-- 新增了[安全事件审计](https://docs.freebsd.org/en/books/handbook/book/#audit)，以涉及 FreeBSD 中新的审计功能并介绍其使用方法。
-- 增加了有关在[虚拟化](https://docs.freebsd.org/en/books/handbook/book/#virtualization)软件上安装 FreeBSD 的内容。
-- [安装 FreeBSD](https://docs.freebsd.org/en/books/handbook/book/#bsdinstall) 新增了使用新的安装工具——用 bsdinstall 安装 FreeBSD 的方法。
+- 新增了 [WINE](di-13-zhang-wine/13.1.-gai-shu)，介绍了如何在 FreeBSD 上运行 Windows® 应用程序。
+- 新增了 [DTrace](di-27-zhang-dtrace/27.1.-gai-shu)，介绍了功能强大的 DTrace 性能分析工具。
+- 新增了[其他文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.1.-gai-shu)，介绍了 FreeBSD 中的非原生文件系统，如 Sun™ 的 ZFS。
+- 新增了[安全事件审计](di-19-zhang-an-quan-shi-jian-shen-ji/19.1.-gai-shu)，以涵盖 FreeBSD 中新的审计功能并说明其使用方法。
+- 新增了[虚拟化](di-24-zhang-xu-ni-hua/24.1.-gai-shu)，介绍了在虚拟化软件上安装 FreeBSD 的信息。
+- 新增了[安装 FreeBSD](di-2-zhang-an-zhuang-freebsd/2.1.-gai-shu)，介绍了使用新安装工具 bsdinstall 安装 FreeBSD 的方法。
