@@ -35,16 +35,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 所有工作流位于 `.github/workflows/`：
 
-| 工作流 | 触发条件 | 说明 |
+|工作流|触发条件|说明|
 |---|---|---|
-| `sync-headers.yml` | push | 从 SUMMARY.md 同步一级标题到各 .md 文件 |
-| `mulu.yml` | SUMMARY.md 变更时 push | 复制 SUMMARY.md → mu-lu.md |
-| `markdown-lint2.yml` | workflow_dispatch | markdownlint 检查，规则见 `.github/.markdownlint.json` |
-| `md-padding.yml` | workflow_dispatch | 自动在 CJK 与英文/数字间添加空格 |
-| `AutoCorrect.yml` | - | 自动修正常见中文笔误与格式问题 |
-| `links.yml` | 定时 + workflow_dispatch | lychee 死链检查，配置见 `.github/lychee.toml` |
-| `file-name-check.yml` | - | 检查 SUMMARY.md 中引用的文件是否存在 |
-| `create-pdf.yml` | - | 导出 PDF |
+|`sync-headers.yml`|push|从 SUMMARY.md 同步一级标题到各 .md 文件|
+|`mulu.yml`|SUMMARY.md 变更时 push|复制 SUMMARY.md → mu-lu.md|
+|`markdown-lint2.yml`|workflow_dispatch|markdownlint 检查，规则见 `.github/.markdownlint.json`|
+|`md-padding.yml`|workflow_dispatch|自动在 CJK 与英文/数字间添加空格|
+|`AutoCorrect.yml`|-|自动修正常见中文笔误与格式问题|
+|`links.yml`|定时 + workflow_dispatch|lychee 死链检查，配置见 `.github/lychee.toml`|
+|`file-name-check.yml`|-|检查 SUMMARY.md 中引用的文件是否存在|
+|`create-pdf.yml`|-|导出 PDF|
 
 ## 编写规范
 
@@ -93,14 +93,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 2. **逐句对照**：将中文翻译与英文原文逐句比对，重点检查以下问题类别：
 
-   | 问题类型 | 示例 |
-   |---|---|
-   | 事实性错误 | "large parts" 误译为"三个文件" |
-   | 漏译 | 英文原版有但中文缺失的句子 |
-   | 机翻腔/表达生硬 | "在阅读本章后，你将会收获" → "通过阅读本章，你将了解" |
-   | 用词不当 | "独家优势"应为"主要优势"（原文 "particular strengths"） |
-   | 版本过时 | 15.0-CURRENT 未同步至 16.0-CURRENT |
-   | 语法/文字错误 | 重复字词、"非常地"应为"非常" |
+|问题类型|示例|
+|---|---|
+|事实性错误|"large parts" 误译为"三个文件"|
+|漏译|英文原版有但中文缺失的句子|
+|机翻腔/表达生硬|"在阅读本章后，你将会收获" → "通过阅读本章，你将了解"|
+|用词不当|"独家优势"应为"主要优势"（原文 "particular strengths"）|
+|版本过时|15.0-CURRENT 未同步至 16.0-CURRENT|
+|语法/文字错误|重复字词、"非常地"应为"非常"|
 
 3. **提交修改**：
    - 基于 `main` 创建分支 `fix/chapter-X-translation`
