@@ -1,3 +1,5 @@
+# 贡献指南
+
 见 <https://docs.qq.com/doc/DSUtxYmVwU29EdGVn>
 
 一些必要性和翻译说明的话请翻到最后。
