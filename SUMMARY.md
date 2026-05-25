@@ -37,7 +37,7 @@
 * [2.5.使用 bsdinstall](di-2-zhang-an-zhuang-freebsd/2.5.-shi-yong-bsdinstall.md)
 * [2.6.分配磁盘空间](di-2-zhang-an-zhuang-freebsd/2.6.-fen-pei-ci-pan-kong-jian.md)
 * [2.7.获取安装文件](di-2-zhang-an-zhuang-freebsd/2.7.-huo-qu-an-zhuang-wen-jian.md)
-* [2.8.账户、时区、服务和安全](di-2-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan.md)
+* [2.8.网络接口、账户、时区、服务和安全](di-2-zhang-an-zhuang-freebsd/2.8.-zhang-hu-shi-qu-fu-wu-he-an-quan.md)
 * [2.9.故障排除](di-2-zhang-an-zhuang-freebsd/2.9.-gu-zhang-pai-chu.md)
 * [2.10.使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.10.-shi-yong-live-cd.md)
 
