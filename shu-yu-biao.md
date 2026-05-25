@@ -194,7 +194,7 @@ RS232C 信号，指示检测到载波。
 
 `DRM`
 
-参见[直接渲染管理器（Direct Rendering Manager）](https://docs.freebsd.org/en/books/handbook/glossary/#drm-glossary)。
+参见[直接渲染管理器（Direct Rendering Manager）](./shu-yu-biao.md)。
 
 `DSDT`
 
