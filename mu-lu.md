@@ -1,4 +1,4 @@
-# 目录
+# Table of contents
 
 * [FreeBSD 中文手册](README.md)
 * [编辑日志](CHANGELOG.md)
