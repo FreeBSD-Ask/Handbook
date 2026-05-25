@@ -196,7 +196,6 @@ RS232C 信号，指示检测到载波。
 
  参见 [直接渲染管理器（Direct Rendering Manager）](https://docs.freebsd.org/en/books/handbook/glossary/#drm-glossary)。
 
-
 `DSDT`
 
 参见差异化系统描述表。
@@ -250,7 +249,6 @@ ACPI 表，提供关于基本系统配置信息的基本信息。
 `Direct Rendering Manager 直接渲染管理器`
 
 内核模块 [drm(7)](https://man.freebsd.org/cgi/man.cgi?query=drm&sektion=7&format=html) 能让客户端应用程序通过直接渲染基础设施（Direct Rendering Infrastructure）直接访问图形硬件。
-
 
 ## E
 
@@ -419,7 +417,6 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 `KMS`
 
 参见 [内核模式设置（Kernel Mode Setting）](https://docs.freebsd.org/en/books/handbook/glossary/#kms-glossary)。
-
 
 `KSE`
 
@@ -733,7 +730,6 @@ PRIME
 
 一种通过共享直接内存访问（DMA）缓冲区，使多个物理图形协处理器共存的方法。
 
-
  问题报告
 
 已经在 FreeBSD 源代码或文档中发现的某种问题说明。请参阅撰写 FreeBSD 问题报告。
@@ -842,7 +838,7 @@ SMB
 
 参见服务器消息块。
 
-SLAAC 
+SLAAC
 
 参见 [无状态地址自动配置（StateLess Address AutoConfiguration）](https://docs.freebsd.org/en/books/handbook/glossary/#slaac-glossary)。
 
