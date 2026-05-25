@@ -36,7 +36,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 所有工作流位于 `.github/workflows/`：
 
 | 工作流 | 触发条件 | 说明 |
-|---|---|---|
+| --- | --- | --- |
 | `sync-headers.yml` | push | 从 SUMMARY.md 同步一级标题到各 .md 文件 |
 | `mulu.yml` | SUMMARY.md 变更时 push | 复制 SUMMARY.md → mu-lu.md |
 | `markdown-lint2.yml` | workflow_dispatch | markdownlint 检查，规则见 `.github/.markdownlint.json` |
@@ -94,7 +94,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 2. **逐句对照**：将中文翻译与英文原文逐句比对，重点检查以下问题类别：
 
    | 问题类型 | 示例 |
-   |---|---|
+   | --- | --- |
    | 事实性错误 | "large parts" 误译为"三个文件" |
    | 漏译 | 英文原版有但中文缺失的句子 |
    | 机翻腔/表达生硬 | "在阅读本章后，你将会收获" → "通过阅读本章，你将了解" |
@@ -120,3 +120,4 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **markdownlint**（`.github/.markdownlint.json`）：禁用了 MD013（行长度）、MD033（HTML）、MD010（tab）、MD036（无强调作标题）、MD040（围栏代码块语言）、MD045（无 alt 文本图片）等规则
 - **textlint**（`.textlintrc`）：仅启用 `ja-space-between-half-and-full-width` 规则，用于 CJK/英文空格检查
 - **lychee**（`.github/lychee.toml`）：6 线程、30 并发、30 秒超时、最多 3 次重试、Chrome UA、排除私有 IP 和 `ftp.freebsd.org`
+
