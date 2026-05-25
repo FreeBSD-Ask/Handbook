@@ -416,7 +416,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `KMS`
 
-参见 [内核模式设置（Kernel Mode Setting）](https://docs.freebsd.org/en/books/handbook/glossary/#kms-glossary)。
+参见 [内核模式设置（Kernel Mode Setting）](./shu-yu-biao.md)。
 
 `KSE`
 
@@ -684,7 +684,7 @@ FreeBSD 内核使用多个资源锁来调节对这些资源的竞争。在 FreeB
 
 `PR`
 
-参见[问题报告](https://docs.freebsd.org/en/books/handbook/glossary/#pr-glossary)。
+参见[问题报告](./shu-yu-biao.md)。
 
 `PXE`
 
