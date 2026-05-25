@@ -18,7 +18,7 @@
 
 涉及使用 FreeBSD 创新的 "Ports" 和标准二进制包来安装第三方软件的方法。
 
-**[X Window 系统](di-5-zhang-xwindow-xi-tong/5.1.-gai-shu)**
+**[X Window 系统](../di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)**
 
 介绍 X Window 系统，并说明如何在 FreeBSD 上使用 X11。还涉及常见的桌面环境，如 KDE 和 GNOME。
 
@@ -30,7 +30,7 @@
 
 涵盖基本的有线和无线网络配置，包括主机名、DNS 和故障排除。
 
-**[桌面环境](di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu)**
+**[桌面环境](../di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)**
 
 列出了一些常见的桌面应用程序，例如网络浏览器和办公软件套件，并说明如何在 FreeBSD 上进行安装。
 
@@ -50,7 +50,7 @@
 
 说明了 FreeBSD 的 Linux® 兼容层功能。还为许多常用的 Linux® 应用程序（如 Oracle®、Mathematica®）提供了详细的安装说明。
 
-**[WINE](di-13-zhang-wine/13.1.-gai-shu)**
+**[WINE](../di-13-zhang-wine/13.1.-gai-shu.md)**
 
 说明了什么是 WINE 以及详细的安装教程。还涉及了 WINE 的操作方式，如何安装 GUI 助手，如何在 FreeBSD 上运行 Windows® 应用程序，并包含了其他注意事项和解决方案。
 
@@ -70,7 +70,7 @@
 
 说明了 FreeBSD 中 jail 框架的功能，以及 jail 相较于传统的 chroot 所做的改进。
 
-**[强制访问控制](di-18-zhang-qiang-zhi-fang-wen-kong-zhi/18.1.-gai-shu)**
+**[强制访问控制](../di-18-zhang-qiang-zhi-fang-wen-kong-zhi/18.1.-gai-shu.md)**
 
 说明了什么是强制访问控制（MAC），以及如何使用这种机制来保护 FreeBSD 系统。
 
@@ -82,23 +82,23 @@
 
 说明了如何使用 FreeBSD 管理存储介质和文件系统。包括物理磁盘、RAID 阵列、光盘和磁带介质、内存盘和网络文件系统。
 
-**[GEOM：模块化磁盘转换框架](di-21-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/21.1.-gai-shu)**
+**[GEOM：模块化磁盘转换框架](../di-21-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/21.1.-gai-shu.md)**
 
 说明了在 FreeBSD 中什么是 GEOM 框架，以及如何配置各种受支持级别的 RAID。
 
-**[Z 文件系统（ZFS）](di-22-zhang-z-wen-jian-xi-tong-zfs/22.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong)**
+**[Z 文件系统（ZFS）](../di-22-zhang-z-wen-jian-xi-tong-zfs/22.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong.md)**
 
 说明了 Z 文件系统，并提供了在 FreeBSD 下运行 ZFS 的快速入门指南和高级主题信息。
 
-**[其他文件系统](di-23-zhang-qi-ta-wen-jian-xi-tong/23.1.-gai-shu)**
+**[其他文件系统](../di-23-zhang-qi-ta-wen-jian-xi-tong/23.1.-gai-shu.md)**
 
 检查 FreeBSD 对非原生文件系统（如 ext2、ext3 和 ext4）的支持。
 
-**[虚拟化](di-24-zhang-xu-ni-hua/24.1.-gai-shu)**
+**[虚拟化](../di-24-zhang-xu-ni-hua/24.1.-gai-shu.md)**
 
 说明了虚拟化系统提供的内容，以及如何在 FreeBSD 中使用虚拟化。
 
-**[本地化——i18n/L10n 的使用和设置](di-25-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/25.1.-gai-shu)**
+**[本地化——i18n/L10n 的使用和设置](../di-25-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/25.1.-gai-shu.md)**
 
 说明了如何配置 FreeBSD 使用除英语以外的其他语言，涉及系统和应用程序级别的本地化。
 
@@ -118,7 +118,7 @@
 
 介绍了如何在 FreeBSD 中使用串行通信。
 
-**[PPP](di-30-zhang-ppp/30.1.-gai-shu)**
+**[PPP](../di-30-zhang-ppp/30.1.-gai-shu.md)**
 
 介绍了如何在 FreeBSD 中使用 PPP 连接远程设备。
 
