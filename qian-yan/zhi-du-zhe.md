@@ -4,4 +4,4 @@ FreeBSD 新手会发现本书的第一部分引导你完成 FreeBSD 安装过程
 
 完成这一部分后，手册的第二部分篇幅大得多，是全方位覆盖的主题参考，包含了 FreeBSD 系统管理员所有可能感兴趣的内容。其中某些章节可能建议你先阅读一些前置内容，这在每章开头的概述中有所注明。
 
-如需其他信息来源，请参阅[书目](fu-lu-b.-shu-mu/b.1.-freebsd-xiang-guan-shu-ji)。
+如需其他信息来源，请参阅[书目](../fu-lu-b.-shu-mu/b.1.-freebsd-xiang-guan-shu-ji.md)。
