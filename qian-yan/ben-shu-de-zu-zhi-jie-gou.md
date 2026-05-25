@@ -138,7 +138,7 @@
 
 涉及许多网络主题，包括在局域网上与其他计算机共享互联网连接、高级路由主题、无线网络、蓝牙、ATM、IPv6 等。
 
-**[获取 FreeBSD](fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan)**
+**[获取 FreeBSD](../fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan.md)**
 
 列出了获取 FreeBSD 光盘和 DVD 的多种方法，以及多个能让你在互联网上下载并安装 FreeBSD 的网站。
 
