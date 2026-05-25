@@ -109,7 +109,7 @@
 * [8.3.浏览器](di-8-zhang-zhuo-mian-huan-jing/8.3.-liu-lan-qi.md)
 * [8.4.开发工具](di-8-zhang-zhuo-mian-huan-jing/8.4.-kai-fa-gong-ju.md)
 * [8.5.桌面办公生产力应用](di-8-zhang-zhuo-mian-huan-jing/8.5.-zhuo-mian-sheng-chan-li-gong-ju.md)
-* [8.6.文档阅读器](di-8-zhang-zhuo-mian-huan-jing/8.6.-wen-dang-yue-du-qi.md)
+* [8.6.文档查看器](di-8-zhang-zhuo-mian-huan-jing/8.6.-wen-dang-yue-du-qi.md)
 * [8.7.财务](di-8-zhang-zhuo-mian-huan-jing/8.7.-cai-wu.md)
 
 ## 第9章 多媒体
@@ -233,8 +233,8 @@
 * [20.2.添加磁盘](di-20-zhang-cun-chu/20.2.-tian-jia-ci-pan.md)
 * [20.3.调整和增加磁盘大小](di-20-zhang-cun-chu/20.3.-tiao-zheng-he-zeng-jia-ci-pan-da-xiao.md)
 * [20.4.USB 存储设备](di-20-zhang-cun-chu/20.4.-usb-cun-chu-she-bei.md)
-* [20.5.创建和使用 CD 介质](di-20-zhang-cun-chu/20.5.-chuang-jian-he-shi-yong-cd.md)
-* [20.6.创建和使用 DVD 介质](di-20-zhang-cun-chu/20.6.-chuang-jian-he-shi-yong-dvd.md)
+* [20.5.创建和使用 CD 光盘](di-20-zhang-cun-chu/20.5.-chuang-jian-he-shi-yong-cd.md)
+* [20.6.创建和使用 DVD 光盘](di-20-zhang-cun-chu/20.6.-chuang-jian-he-shi-yong-dvd.md)
 * [20.7.创建和使用软盘](di-20-zhang-cun-chu/20.7.-chuang-jian-he-shi-yong-ruan-pan.md)
 * [20.8.备份的基础知识](di-20-zhang-cun-chu/20.8.-bei-fen-de-ji-chu-zhi-shi.md)
 * [20.9.内存盘](di-20-zhang-cun-chu/20.9.-nei-cun-pan.md)
