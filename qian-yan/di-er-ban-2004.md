@@ -8,7 +8,7 @@
 * [存储](../di-20-zhang-cun-chu/20.1.-gai-shu.md)已扩充，包括有关 USB 存储设备、文件系统快照、文件系统配额、基于文件和网络的文件系统以及加密磁盘分区的新内容。
 * [PPP](../di-30-zhang-ppp/30.1.-gai-shu.md)中新增了故障排除部分。
 * [电子邮件](../di-31-zhang-dian-zi-you-jian/31.1.-gai-shu.md)已扩充，包括了有关使用替代传输代理、SMTP 身份验证、UUCP、fetchmail、procmail 以及其他高级主题的新内容。
-* 此版新增了[网络服务器](../di-32-zhang-wang-luo-fu-wu-qi/32.1.-gai-shu.md)章节。本章包含了有关设置 Apache HTTP 服务器、ftpd 以及使用 Samba 为 Microsoft® Windows® 客户端设置服务器的方法。有些来自[高级网络](di-34-zhang-gao-ji-wang-luo/34.1.-gai-shu)部分的内容被移至此处，以改进章节排布。
-* [高级网络](di-34-zhang-gao-ji-wang-luo/34.1.-gai-shu)已扩充，新增了有关在 FreeBSD 上使用蓝牙®设备、设置无线网络以及异步传输模式（ATM）网络的内容。
+* 此版新增了[网络服务器](../di-32-zhang-wang-luo-fu-wu-qi/32.1.-gai-shu.md)章节。本章包含了有关设置 Apache HTTP 服务器、ftpd 以及使用 Samba 为 Microsoft® Windows® 客户端设置服务器的方法。有些来自[高级网络](../di-34-zhang-gao-ji-wang-luo/34.1.-gai-shu.md)部分的内容被移至此处，以改进章节排布。
+* [高级网络](../di-34-zhang-gao-ji-wang-luo/34.1.-gai-shu.md)已扩充，新增了有关在 FreeBSD 上使用蓝牙®设备、设置无线网络以及异步传输模式（ATM）网络的内容。
 * 书中增加了一个术语表，为全书所用技术术语的定义提供了一个集中的位置。
 * 对全书的表格和图表进行了诸多外观改进。
