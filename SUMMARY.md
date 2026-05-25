@@ -70,11 +70,11 @@
 ## 第5章 X Window 系统
 
 * [5.1.概述](di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)
-* [5.2.显卡驱动](di-5-zhang-xwindow-xi-tong/5.2.-an-zhuang-xorg.md)
-* [5.3.X Window 系统概览](di-5-zhang-xwindow-xi-tong/5.3.-xian-ka-qu-dong.md)
-* [5.4.安装 X.org 服务器](di-5-zhang-xwindow-xi-tong/5.4.-xorg-pei-zhi.md)
-* [5.5.配置 X.org](di-5-zhang-xwindow-xi-tong/5.5.-zai-x11-zhong-shi-yong-zi-ti.md)
-* [5.6 在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-.md)
+* [5.2.显卡驱动](di-5-zhang-xwindow-xi-tong/5.2.-xian-ka-qu-dong.md)
+* [5.3.X Window 系统概览](di-5-zhang-xwindow-xi-tong/5.3.-x-window-xi-tong-gai-lan.md)
+* [5.4.安装 X.org 服务器](di-5-zhang-xwindow-xi-tong/5.4.-an-zhuang-xorg-fu-wu-qi.md)
+* [5.5.配置 X.org](di-5-zhang-xwindow-xi-tong/5.5.-xorg-pei-zhi.md)
+* [5.6 在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-zai-x-window-zhong-shi-yong-zi-ti.md)
 
 ## 第6章 FreeBSD 中的 Wayland
 
@@ -236,13 +236,13 @@
 * [20.5.创建和使用 CD](di-20-zhang-cun-chu/20.5.-chuang-jian-he-shi-yong-cd.md)
 * [20.6.创建和使用 DVD](di-20-zhang-cun-chu/20.6.-chuang-jian-he-shi-yong-dvd.md)
 * [20.7.创建和使用软盘](di-20-zhang-cun-chu/20.7.-chuang-jian-he-shi-yong-ruan-pan.md)
-* [20.8.备份的基础知识](di-20-zhang-cun-chu/20.8.-shi-yong-ntfs-ci-pan.md)
-* [20.9.内存盘](di-20-zhang-cun-chu/20.9.-bei-fen-de-ji-chu-zhi-shi.md)
-* [20.10.文件系统快照](di-20-zhang-cun-chu/20.10.-nei-cun-pan.md)
-* [20.11.磁盘配额](di-20-zhang-cun-chu/20.11.-wen-jian-xi-tong-kuai-zhao.md)
-* [20.12.加密磁盘分区](di-20-zhang-cun-chu/20.12.-ci-pan-pei-e.md)
-* [20.13.加密交换分区](di-20-zhang-cun-chu/20.13.-jia-mi-ci-pan-fen-qu.md)
-* [20.14.高可用性存储（HAST）](di-20-zhang-cun-chu/20.14.-jia-mi-jiao-huan-fen-qu.md)
+* [20.8.备份的基础知识](di-20-zhang-cun-chu/20.8.-bei-fen-de-ji-chu-zhi-shi.md)
+* [20.9.内存盘](di-20-zhang-cun-chu/20.9.-nei-cun-pan.md)
+* [20.10.文件系统快照](di-20-zhang-cun-chu/20.10.-wen-jian-xi-tong-kuai-zhao.md)
+* [20.11.磁盘配额](di-20-zhang-cun-chu/20.11.-ci-pan-pei-e.md)
+* [20.12.加密磁盘分区](di-20-zhang-cun-chu/20.12.-jia-mi-ci-pan-fen-qu.md)
+* [20.13.加密交换分区](di-20-zhang-cun-chu/20.13.-jia-mi-jiao-huan-fen-qu.md)
+* [20.14.高可用性存储（HAST）](di-20-zhang-cun-chu/20.14.-gao-ke-yong-xing-cun-chu-hast.md)
 
 ## 第21章 GEOM: 模块化磁盘转换框架
 
