@@ -1,0 +1,33 @@
+name: 🔗 自动分配 issue & PR
+
+permissions:
+  contents: read    # 读取仓库内容（包括配置文件）
+  issues: write     # 写入 issues
+  pull-requests: write  # 写入 pull requests
+on:
+  issues:
+    types: [opened, reopened]
+  pull_request:
+    types: [opened, ready_for_review, reopened, synchronize]
+  workflow_dispatch:
+
+jobs:
+  assign-issue:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'issues' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: pozil/auto-assign-issue@v3.0.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: ykla
+          numOfAssignee: 1
+
+  assign-pr:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Auto Assign PR
+        uses: kentaro-m/auto-assign-action@v2.0.2
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          configuration-path: '.github/auto_assign.yml'
