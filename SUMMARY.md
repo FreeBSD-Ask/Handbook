@@ -185,7 +185,7 @@
 * [16.3.账户安全](di-16-zhang-an-quan/16.3.-zhang-hu-an-quan.md)
 * [16.4.入侵检测系统（IDS）](di-16-zhang-an-quan/16.4.-ru-qin-jian-ce-xi-tong-ids.md)
 * [16.5.安全等级](di-16-zhang-an-quan/16.5.-an-quan-deng-ji.md)
-* [16.6.文件标志位](di-16-zhang-an-quan/16.6.-wen-jian-biao-zhi-wei.md)
+* [16.6.文件标志](di-16-zhang-an-quan/16.6.-wen-jian-biao-zhi-wei.md)
 * [16.7.OpenSSH](di-16-zhang-an-quan/16.7.-openssh.md)
 * [16.8.OpenSSL](di-16-zhang-an-quan/16.8.-openssl.md)
 * [16.9.Kerberos](di-16-zhang-an-quan/16.9.-kerberos.md)
