@@ -842,7 +842,7 @@ RS232C 信号，请求远程系统开始传输数据。
 
 `SLAAC`
 
-参见[无状态地址自动配置（StateLess Address AutoConfiguration）](https://docs.freebsd.org/en/books/handbook/glossary/#slaac-glossary)。
+参见[无状态地址自动配置（StateLess Address AutoConfiguration）](./shu-yu-biao.md)。
 
 `SMP`
 
