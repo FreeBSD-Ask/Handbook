@@ -13,30 +13,6 @@
 | build | 构建/编译 | | |
 | caution | 当心 | 应该缩进 **加粗** 使用 | |
 | channels | 信道 | | |
-| cluster | 集群 | | |
-| committers | 提交者 | | |
-| connection handle | 连接句柄 | 不知道怎么翻译 | |
-| copyleft | 著佐权 | copyleft 即施加类似于 GPL 这种版权协议的限制，如强制开源等。 | |
-| core files | 核心转储文件 | 等于 core dump | |
-| custom kernel | 定制内核 | | |
-| describe | 说明 | | |
-| disk | 磁盘 | | |
-| Disk Organization | 磁盘结构 | 3.6. Disk Organization | |
-| Distribution Files | 安装文件/分发文件 | 结合语境 | |
-| drive | 结合语境可能是"磁盘"/驱动器装置/设备 | 结合语境 | |
-| embedded boards | 嵌入式板卡 | | |
-| Enter | 回车键 | `回车键` | |
-| Export Regulations | 出口管制 | | |
-| facility | 设施/机制/工具 | | |
-| flag | 标签/标志 | ACL | |
-| fork | 复刻/派生 | [github 命令参考此处](https://linux.cn/article-12245-1.html) | |
-| fully-qualified | 完全限定 | | |
-| glossary | 术语表 | | |
-| GPT | 全局唯一标识分区表 | | |
-| hardened | 加固 | 如，APK 加固，JAVA 加固 | |
-| Hardening Security | 强化安全性 | | |
-| hash | 哈希\散列 | 有时代指“加密方式” | |
-| checkout | 检出 | [github 命令参考此处](https://linux.cn/article-12245-1.html) | |
 | image | 镜像 | | |
 | important | 重要 | 应该缩进 **加粗** 使用 | |
 | inode | 索引节点 | | |
@@ -105,6 +81,54 @@
 | warning | 警告 | 应该缩进 **加粗** 使用 | |
 | world | 世界 | 指除了内核以外的基本系统的所有部分 | |
 | Wrapper | Wrapper | 专有名词，维持英文 | |
+| checkout | 检出 | [github 命令参考此处](https://linux.cn/article-12245-1.html) | | | |
+| cluster | 集群 | | | | |
+| command | 命令 | 术语在线收录：计算机科学技术 (2018) |
+| committers | 提交者 | | | | |
+| connection handle | 连接句柄 | 不知道怎么翻译 | | | |
+| console | 控制台 | 术语在线收录：计算机科学技术 (2018) |
+| copyleft | 著佐权 | copyleft 即施加类似于 GPL 这种版权协议的限制，如强制开源等。 | | | |
+| core files | 核心转储文件 | 等于 core dump | | | |
+| custom kernel | 定制内核 | | | | |
+| debug | 调试 | 术语在线收录：计算机科学技术 (2018) |
+| describe | 说明 | | | | |
+| desktop | 桌面 | 术语在线收录：计算机科学技术 (2018) |
+| disk | 磁盘 | | | | |
+| Disk Organization | 磁盘结构 | 3.6. Disk Organization | | | |
+| Distribution Files | 安装文件/分发文件 | 结合语境 | | | |
+| domain | 域 | 术语在线收录：计算机科学技术 (2018) |
+| drive | 结合语境可能是"磁盘"/驱动器装置/设备 | 结合语境 | | | |
+| embedded boards | 嵌入式板卡 | | | | |
+| Enter | 回车键 | `回车键` | | | |
+| Export Regulations | 出口管制 | | | | |
+| facility | 设施/机制/工具 | | | | |
+| file | 文件 | 术语在线收录：计算机科学技术 (2018) |
+| flag | 标签/标志 | ACL | | | |
+| fork | 复刻/派生 | [github 命令参考此处](https://linux.cn/article-12245-1.html) | | | |
+| slices | 分片/切片 | 结合语境 | | | |
+| snapshot | 快照 | 术语在线收录：计算机科学技术 (2018) |
+| sound sink | 声音/音频接收器 | 第 7.2 节出现 | | | |
+| space | 空格键 | `空格键` | | | |
+| stateful firewall | 状态防火墙 | | | | |
+| sticky directories | 目录粘滞位 | | | | |
+| storage | 存储 | 术语在线收录：计算机科学技术 (2018) |
+| stripe | 条带 | 结合具体语境 | | | |
+| swap | 交换 | 术语在线收录：计算机科学技术 (2018) |
+| system | 设备/系统 | | | | |
+| tarball | 源码包/压缩文件 | ？ | | | |
+| Ticket | 凭据 | | | | |
+| tip | 技巧 | 应该缩进 **加粗** 使用 | | | |
+| Tuning | 调整 | 不是"调优" | | | |
+| UEFI | 统一可扩展固件接口 | | | | |
+| URL | 网址 | | | | |
+| USB dongle | USB 适配器 | 需要结合语境判断是具体是什么 | | | |
+| USB stick | U 盘/优盘 | | | | |
+| user | 用户 | 术语在线收录：计算机科学技术 (2018) |
+| utility | 工具 | 不是"实用程序" | | | |
+| Video Modes | 分辨率 | | | | |
+| warning | 警告 | 应该缩进 **加粗** 使用 | | | |
+| world | 世界 | 指除了内核以外的基本系统的所有部分 | | | |
+| Wrapper | Wrapper | 专有名词，维持英文 | | | |
 
 涵盖/涵盖了——>涉及
 
