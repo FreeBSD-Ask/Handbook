@@ -107,6 +107,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
    - 保持术语一致性，参考 `yi-zhe-shuo-ming.md`
    - 英文原文可能比翻译版本更新，版本号差异（如 15.0 vs 16.0）应以英文原版为准
    - 添加新内容（如英文原版新增的段落）时，确保翻译风格与上下文一致
+   - 禁止篡改带圈数字，如 ①②③ 等，确保其位置、数量和英语原文一致
 
 ## Lint 配置
 
