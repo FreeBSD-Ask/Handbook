@@ -49,8 +49,8 @@
 | advanced users | 专业用户 | |
 | print spooler | 打印后台处理程序 | 台湾是说法“列印排存器”，列印即打印，排存器不知道是什么东西 |
 | partition schemes | 分区表/分区方案 | |
-| stripe | 条带/剥离 | 结合具体语境 |
-| drive | 结合语境可能是“磁盘”/驱动器装置/设备 | 结合语境 |
+| stripe | 条带 | 结合具体语境 |
+| drive | 结合语境可能是"磁盘"/驱动器装置/设备 | 结合语境 |
 | Distribution Files | 安装文件/分发文件 | 结合语境 |
 | Hardening Security | 强化安全性 | |
 | scroll-back buffer | 回滚缓冲区 | |
@@ -70,7 +70,7 @@
 | heckout | 检出 | [github 命令参考此处](https://linux.cn/article-12245-1.html) |
 | log rotation | 日志轮替/日志滚动 | 都可以 |
 | fork | 复刻/派生 | [github 命令参考此处](https://linux.cn/article-12245-1.html) |
-| Tuning | 优化/调整/调谐 | # 15.4. 中为“调整” |
+| Tuning | 调整 | 不是"调优" |
 | Kernel Limits | 内核参数 | [内核限制实际上就是内核参数](https://eloquence.marxmeier.com/sdb/html/linux_limits.html) |
 | boot | 引导 | 不是“启动” |
 | Process Accounting | 进程审计 | “进程记账”看起来不相干。“审计”更符合原意 |
@@ -85,7 +85,7 @@
 | security advisory | 安全公告 | |
 | per-user calls | 每用户调用数 | |
 | core files | 核心转储文件 | 等于 core dump |
-| utility | 软件/工具 | 实际上就是软件 |
+| utility | 工具 | 不是"实用程序" |
 | jail | jail | 一般应该小写 |
 | inode | 索引节点 | |
 | loopback | 回环 | |
@@ -104,7 +104,7 @@
 | bootstrap | 自举 | |
 | custom kernel | 定制内核 | |
 | stateful firewall | 状态防火墙 | |
-| cluster | 集群/族 | |
+| cluster | 集群 | |
 | | | |
 | | | |
 | | | |
@@ -128,4 +128,4 @@
 
 一旦——>若、如、如果、假如、xx 后、xx 以后、xx 之后
 
-`The copyleft to 著佐权. The BSD to BSD. The FreeBSD to FreeBSD. The ports to ports. The port to port. The Wrapper to Wrapper. The USB stick to U 盘. The tip to 技巧. The Video Modes to 分辨率. The tarball to 压缩包. The Procedure to 过程. The log rotation to 日志轮替. The Tuning to 调优. Kernel Limits to 内核参数. The jail to jail. The jails to jail. The disk to 磁盘. The bootstrap to 自举. The cluster to 集群/簇. The world to 世界. The reduction to 精选. The Mandatory Access Control	to 强制访问控制. The committers to 提交者. The committer to 提交者. The IP masquerading to IP 伪装. The load balancing to 负载均衡. The URL to 网址. The inquiry to 轮询. The USB dongle to USB 适配器. The Ticket to 凭据. The raw device to 裸设备. The image to 镜像. The caution	 to 当心. The Backspace to 退格键. The keymap to 键盘布局.  The key bindings to 组合键. The sticky directories  to 目录粘滞位. The fork to 复刻.The hardened to 加固.The Process Accounting to 进程审计. The Disk Organization to 磁盘结构.The issue command to 执行命令.The Patchkit  to 补丁包.`
+`The copyleft to 著佐权. The BSD to BSD. The FreeBSD to FreeBSD. The ports to ports. The port to port. The Wrapper to Wrapper. The USB stick to U 盘. The tip to 技巧. The Video Modes to 分辨率. The tarball to 压缩包. The Procedure to 过程. The log rotation to 日志轮替. The Tuning to 调整. Kernel Limits to 内核参数. The jail to jail. The jails to jail. The disk to 磁盘. The bootstrap to 自举. The cluster to 集群. The world to 世界. The reduction to 精选. The Mandatory Access Control	to 强制访问控制. The committers to 提交者. The committer to 提交者. The IP masquerading to IP 伪装. The load balancing to 负载均衡. The URL to 网址. The inquiry to 轮询. The USB dongle to USB 适配器. The Ticket to 凭据. The raw device to 裸设备. The image to 镜像. The caution	 to 当心. The Backspace to 退格键. The keymap to 键盘布局.  The key bindings to 组合键. The sticky directories  to 目录粘滞位. The fork to 复刻. The hardened to 加固. The Process Accounting to 进程审计. The Disk Organization to 磁盘结构. The issue command to 执行命令. The Patchkit  to 补丁包. The custom kernel to 定制内核. The boot to 引导. The Login Classes to 登录分级. The stateful firewall to 状态防火墙. The loopback to 回环. The monitoring to 监控. The describe to 说明. The advanced users to 专业用户. The utility to 工具.`
