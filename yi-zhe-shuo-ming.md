@@ -36,7 +36,7 @@
 | hardened | 加固 | 如，APK 加固，JAVA 加固 | |
 | Hardening Security | 强化安全性 | | |
 | hash | 哈希\散列 | 有时代指“加密方式” | |
-| heckout | 检出 | [github 命令参考此处](https://linux.cn/article-12245-1.html) | |
+| checkout | 检出 | [github 命令参考此处](https://linux.cn/article-12245-1.html) | |
 | image | 镜像 | | |
 | important | 重要 | 应该缩进 **加粗** 使用 | |
 | inode | 索引节点 | | |
