@@ -6,7 +6,7 @@
 
 `ACL`
 
- 参见访问控制列表。
+参见访问控制列表。
 
 `ACPI`
 
@@ -194,7 +194,7 @@ RS232C 信号，指示检测到载波。
 
 `DRM`
 
-参见[直接渲染管理器（Direct Rendering Manager）](https://docs.freebsd.org/en/books/handbook/glossary/#drm-glossary)。
+参见[直接渲染管理器（Direct Rendering Manager）](./shu-yu-biao.md)。
 
 `DSDT`
 
@@ -348,7 +348,7 @@ TCP/IP 网络上传输文件时可用的高级协议族中的一员。
 
 `IPFW`
 
- 参见 IP 防火墙。
+参见 IP 防火墙。
 
 `IPP`
 
@@ -356,7 +356,7 @@ TCP/IP 网络上传输文件时可用的高级协议族中的一员。
 
 `IPv4`
 
- 参见 IP 版本 4。
+参见 IP 版本 4。
 
 `IPv6`
 
@@ -412,11 +412,11 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `KLD`
 
- 参见内核 ld(1)。
+参见内核 ld(1)。
 
 `KMS`
 
-参见 [内核模式设置（Kernel Mode Setting）](https://docs.freebsd.org/en/books/handbook/glossary/#kms-glossary)。
+参见 [内核模式设置（Kernel Mode Setting）](./shu-yu-biao.md)。
 
 `KSE`
 
@@ -458,7 +458,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `LOR`
 
- 参见锁定顺序颠倒。
+参见锁定顺序颠倒。
 
 `LPD`
 
@@ -684,7 +684,7 @@ FreeBSD 内核使用多个资源锁来调节对这些资源的竞争。在 FreeB
 
 `PR`
 
-参见[问题报告](https://docs.freebsd.org/en/books/handbook/glossary/#pr-glossary)。
+参见[问题报告](./shu-yu-biao.md)。
 
 `PXE`
 
@@ -842,7 +842,7 @@ RS232C 信号，请求远程系统开始传输数据。
 
 `SLAAC`
 
-参见[无状态地址自动配置（StateLess Address AutoConfiguration）](https://docs.freebsd.org/en/books/handbook/glossary/#slaac-glossary)。
+参见[无状态地址自动配置（StateLess Address AutoConfiguration）](./shu-yu-biao.md)。
 
 `SMP`
 

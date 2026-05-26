@@ -84,7 +84,7 @@ Subversion 使用 URL 来指定存储库，格式为 protocol://hostname/path。
 # make update SVN_UPDATE=yes
 ```
 
-### A.3.5. Subversion 镜像站点
+### A.3.5. Subversion 镜像站
 
 FreeBSD Subversion 仓库是：
 
