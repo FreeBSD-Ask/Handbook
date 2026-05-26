@@ -397,8 +397,6 @@
 
 * [A.1.镜像站](fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan.md)
 * [A.2.使用 Git](fu-lu-a.-huo-qu-freebsd/a.2.-shi-yong-git.md)
-* [A.3.使用 Subversion](fu-lu-a.-huo-qu-freebsd/a.3.-shi-yong-subversion.md)
-* [A.4.光盘](fu-lu-a.-huo-qu-freebsd/a.4.-cd-he-dvd-tao-zhuang.md)
 
 ## 附录 B.书目
 
