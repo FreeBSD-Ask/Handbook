@@ -2,7 +2,7 @@
 
 FreeBSD 发展迅猛，印刷媒体难以有效传递最新信息。跟踪发展动态，电子方式远胜印刷品。
 
-FreeBSD 用户社区提供了大量的技术支持——论坛、聊天和电子邮件是其中最流行、最有效的交流方式。
+FreeBSD 用户社区提供大量技术支持——论坛、聊天和电子邮件是其中最流行、最有效的交流方式。
 
 以下是几个最重要的联系渠道。[社区维基](https://wiki.freebsd.org/Community)上的信息可能更为及时。
 
@@ -16,5 +16,5 @@ FreeBSD 用户社区提供了大量的技术支持——论坛、聊天和电子
 * [FreeBSD 状态报告](https://www.freebsd.org/status/)每三个月发布一次，追踪 FreeBSD 的开发进展。
 * r/freebsd 有一个 [FreeBSD 主题的 Reddit 小组](https://www.reddit.com/r/freebsd/)。
 * [Super User](https://superuser.com/questions/tagged/freebsd) 和 [Server Fault](https://serverfault.com/questions/tagged/freebsd)，Stack Exchange 平台上为系统管理员设立的服务。
-* [FreeBSD Discord 服务器](https://wiki.freebsd.org/Discord)，一个通讯与社区建设服务平台，FreeBSD 社区成员可以在此交流、互帮互助、学习、贡献、协作，并跟踪与 FreeBSD 相关的一切动态。
+* [FreeBSD Discord 服务器](https://wiki.freebsd.org/Discord)，一个通讯与社区建设服务平台，FreeBSD 社区成员可以在此交流、互帮互助、学习、贡献、协作，并关注与 FreeBSD 相关的一切动态。
 * [IRC 频道](https://wiki.freebsd.org/IRC/Channels)，一种部署广泛、技术成熟、开放标准的文本聊天方式。
