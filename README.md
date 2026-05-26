@@ -10,6 +10,4 @@
 
 官方原址：<https://docs.freebsd.org/en/books/handbook/>
 
-> **旧版存档**
->
-> <https://www.alipan.com/s/9rUaCHKauvC>
+旧版存档：<https://www.alipan.com/s/9rUaCHKauvC>
