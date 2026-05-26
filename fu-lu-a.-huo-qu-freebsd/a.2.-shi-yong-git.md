@@ -6,7 +6,7 @@
 
 > **注意**
 >
-> Git 通常是开发者工具。用户可能更喜欢使用 freebsd-update （"FreeBSD Update"）来更新 FreeBSD 基本系统。
+> Git 通常是开发者工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统。
 
 本节演示了如何在 FreeBSD 系统上安装 Git 并使用它创建 FreeBSD 源代码存储库的本地副本。
 
