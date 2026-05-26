@@ -232,3 +232,4 @@ $RECYCLE.BIN/
 *.spec
 /scripts
 *.txt
+*.adoc

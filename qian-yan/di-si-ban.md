@@ -10,7 +10,7 @@
 * [Ports](../di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)章节已更新，简化了软件包搜索，更新了软件示例（Nginx 替代了 Apache），改进了 pkg(8) 引导过程，并添加了配置和管理软件包的新说明，包括阻止和取消阻止。
 * [X Window](../di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)章节已更新以反映 FreeBSD 中图形系统的当前状态，移除了对旧 Intel 驱动程序、配置和 compiz 的过时引用，并将桌面环境说明（如 KDE Plasma 和 GNOME）移至桌面环境章节，因为这些环境现在除了 X11 外还支持 Wayland。
 * 新增了 [Wayland](../di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-jian-jie.md)章节，包含在 FreeBSD 上安装和配置 Wayland 的信息。
-* [网络](../di-7-zhang-wang-luo/7.1.-gai-shu.md)章节已创建，涵盖基本的有线和无线网络配置，包括主机名、DNS 和故障排除。有线网络、无线和 IPv6 相关章节已迁移并更新，改进了命令输出，使用了 sysrc，并采用了更好的 AsciiDoc 语法。
+* [网络](../di-7-zhang-wang-luo/7.1.-gai-shu.md)章节已创建，涉及基本的有线和无线网络配置，包括主机名、DNS 和故障排除。有线网络、无线和 IPv6 相关章节已迁移并更新，改进了命令输出，使用了 sysrc，并采用了更好的 AsciiDoc 语法。
 * [桌面环境](../di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)章节已更新，升级了 KDE Plasma、GNOME、XFCE、MATE、Cinnamon 和 LXQT 的安装说明，扩展了浏览器选项，新增了开发工具部分，并更新了桌面办公、文档阅读器和财务部分。
 * [多媒体](../di-9-zhang-duo-mei-ti/9.1.-gai-shu.md)章节已重构，更新了声音部分，新增了声音混音器、音频播放器和视频播放器的表格，添加了自动耳机切换的指导，新增了视频会议部分，并修订了图像扫描仪部分。
 * [Linux 二进制兼容层](../di-12-zhang-linux-er-jin-zhi-jian-rong-ceng/12.1.-gai-shu.md)章节已改进，更新了使用 debootstrap 设置 Debian/Ubuntu 基本系统的说明。
