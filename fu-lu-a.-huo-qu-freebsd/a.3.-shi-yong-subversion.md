@@ -6,7 +6,7 @@
 
 > **注意**
 >
-> Subversion 一般是开发人员工具。用户可能更喜欢使用 freebsd-update （"FreeBSD Update"）来更新 FreeBSD 基本系统，以及 git （“使用ports”）来更新 FreeBSD ports 。在 2021 年 3 月之后，Subversion 仅用于传统分支（ stable/11 和 stable/12 ）。
+> Subversion 一般是开发人员工具。用户可能更喜欢使用 freebsd-update （“FreeBSD Update”）来更新 FreeBSD 基本系统，以及 git （“使用ports”）来更新 FreeBSD ports 。在 2021 年 3 月之后，Subversion 仅用于传统分支（ stable/11 和 stable/12 ）。
 
 本部分演示了在 FreeBSD 系统上安装 Subversion 并使用它创建 FreeBSD 存储库的本地副本。还包括有关使用 Subversion 的其他信息。
 
