@@ -1,6 +1,6 @@
 # A.1.镜像站
 
-FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成，并通过 GeoDNS 在用户最接近的镜像上提供服务。当前的位置包括澳大利亚、巴西、日本（两个站点）、马来西亚、南非、瑞典、台湾、美国（加利福尼亚州——两个站点、伊利诺伊州——两个站点、新泽西州和华盛顿州）。
+FreeBSD 项目的官方镜像站由项目集群管理员运维的多台机器组成，背后通过 GeoDNS 将用户导向最近的可用镜像。目前的站点分布在澳大利亚、巴西、日本（两个站点）、马来西亚、南非、瑞典、台湾、美国（加利福尼亚州——两个站点、伊利诺伊州——两个站点、新泽西州和华盛顿州）。
 
 官方镜像服务：
 
@@ -8,27 +8,26 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 | -------- | ---- | -------- |
 | **cgit.FreeBSD.org** | [https](https://cgit.freebsd.org/) | FreeBSD Git 仓库的 Web 界面。 |
 | **docs.FreeBSD.org** | [https](https://docs.freebsd.org/) | FreeBSD 文档门户。 |
-| **download.FreeBSD.org** | [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/) | 与 `ftp.FreeBSD.org` 内容相同，`ftp` 是旧名称；推荐使用 `download.FreeBSD.org`。 |
-| **git.FreeBSD.org** | git over `https` and `ssh` | 更多详情请参阅[使用 Git](./a.1.-jing-xiang-zhan.md)部分。 |
-| **pkg.FreeBSD.org** | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` and `https` | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) 程序使用的 FreeBSD 官方软件包仓库。 |
-| **vuxml.FreeBSD.org** / **<https://www.VuXML.org>** | [https](https://www.vuxml.org/) | FreeBSD 项目 VuXML 网页。`pkg audit` 从此服务获取漏洞列表。 |
-| **<https://www.FreeBSD.org>** | [https](https://www.freebsd.org/) | FreeBSD 网站。 |
+| **download.FreeBSD.org** | [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/) | 内容与 `ftp.FreeBSD.org` 相同，`ftp` 是旧名称；推荐使用 `download.FreeBSD.org`。 |
+| **git.FreeBSD.org** | git over `https` 和 `ssh` | 更多详情见[使用 Git](./a.2.-shi-yong-git.md)一节。 |
+| **pkg.FreeBSD.org** | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` 和 `https` | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) 程序使用的 FreeBSD 官方软件包仓库。 |
+| **vuxml.FreeBSD.org** / **www.VuXML.org** | [https](https://www.vuxml.org/) | FreeBSD 项目 VuXML 网页。`pkg audit` 从此服务获取漏洞列表。 |
+| **www.FreeBSD.org** | [https](https://www.freebsd.org/) | FreeBSD 网站。 |
 
-所有官方镜像都支持 IPv4 和 IPv6。
+所有官方镜像站均支持 IPv4 和 IPv6。
 
-<http://ftp-archive.FreeBSD.org> 不在 GeoDNS 基础设施中，仅在一个位置（美国）托管。
+http://ftp-archive.FreeBSD.org 不在 GeoDNS 基础设施内，仅托管于单一地点（美国）。
 
-该项目正在寻找新的位置；愿意赞助的人，请联系集群管理员团队获取更多信息。
+项目正在寻找新的站点；有意赞助者请联系集群管理员团队了解更多信息。
 
-[Fastly](https://www.fastly.com/) CDN 用于提供 **download.FreeBSD.org** 和 **pkg.FreeBSD.org** 服务，为 FreeBSD 镜像和软件包提供加速、缓存和全球带宽分发。
+**download.FreeBSD.org** 和 **pkg.FreeBSD.org** 通过 [Fastly](https://www.fastly.com/) CDN 提供服务，为 FreeBSD 镜像和软件包提供加速、缓存与全球带宽分发。
 
-社区和其他公司维护的镜像列表：
+社区及其他公司维护的镜像列表：
 
 | 区域 | 主机名 | 协议 |
 | ---- | ------ | ---- |
 | Australia | ftp.au.FreeBSD.org | [http](http://ftp.au.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.au.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.au.FreeBSD.org) [rsyncv6](rsync://ftp.au.FreeBSD.org) |
 | | ftp3.au.FreeBSD.org | [http](http://ftp3.au.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp3.au.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp3.au.FreeBSD.org) |
-| Austria | ftp.at.FreeBSD.org | [http](http://ftp.at.freebsd.org/pub/FreeBSD/) [httpv6](http://ftp.at.freebsd.org/pub/FreeBSD/) [ftp](ftp://ftp.at.freebsd.org/pub/FreeBSD/) [ftpv6](ftp://ftp.at.freebsd.org/pub/FreeBSD/) [rsync](rsync://ftp.at.FreeBSD.org/pub/FreeBSD/) [rsyncv6](rsync://ftp.at.FreeBSD.org/pub/FreeBSD/) |
 | Brazil | ftp2.br.FreeBSD.org | [http](http://ftp2.br.freebsd.org/FreeBSD) [rsync](rsync://ftp2.br.FreeBSD.org) [rsyncv6](rsync://ftp2.br.FreeBSD.org) |
 | | ftp3.br.FreeBSD.org | [http](http://ftp3.br.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp3.br.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp3.br.FreeBSD.org) |
 | Bulgaria | ftp.bg.FreeBSD.org | [ftp](ftp://ftp.bg.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.bg.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.bg.FreeBSD.org) [rsyncv6](rsync://ftp.bg.FreeBSD.org) |
@@ -38,7 +37,7 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 | France | ftp.fr.FreeBSD.org | [http](http://ftp.fr.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.fr.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.fr.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.fr.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.fr.FreeBSD.org) [rsyncv6](rsync://ftp.fr.FreeBSD.org) |
 | | ftp3.fr.FreeBSD.org | [ftp](ftp://ftp3.fr.freebsd.org/pub/FreeBSD) |
 | | ftp6.fr.FreeBSD.org | [http](http://ftp6.fr.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp6.fr.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp6.fr.FreeBSD.org) |
-| Germany | ftp.de.FreeBSD.org | [ftp](ftp://ftp.de.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.de.FreeBSD.org) [rsyncv6](rsync://ftp.de.FreeBSD.org) |
+| Germany | ftp.de.FreeBSD.org | [http](http://ftp.de.freebsd.org/FreeBSD) [httpv6](http://ftp.de.freebsd.org/FreeBSD) [https](https://ftp.de.freebsd.org/FreeBSD) [httpsv6](https://ftp.de.freebsd.org/FreeBSD) [ftp](ftp://ftp.de.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.de.FreeBSD.org) [rsyncv6](rsync://ftp.de.FreeBSD.org) |
 | | ftp1.de.FreeBSD.org | [http](http://ftp1.de.freebsd.org/pub/FreeBSD) [httpv6](http://ftp1.de.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp1.de.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp1.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp1.de.FreeBSD.org) [rsyncv6](rsync://ftp1.de.FreeBSD.org) |
 | | ftp2.de.FreeBSD.org | [http](http://ftp2.de.freebsd.org/pub/FreeBSD) [httpv6](http://ftp2.de.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp2.de.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp2.de.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp2.de.FreeBSD.org) [rsyncv6](rsync://ftp2.de.FreeBSD.org) |
 | | ftp5.de.FreeBSD.org | [ftp](ftp://ftp5.de.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp5.de.freebsd.org/pub/FreeBSD) |
@@ -64,8 +63,7 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 | Russia | ftp.ru.FreeBSD.org | [http](http://ftp.ru.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.ru.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.ru.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.ru.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.ru.FreeBSD.org) [rsyncv6](rsync://ftp.ru.FreeBSD.org) |
 | | ftp2.ru.FreeBSD.org | [https](https://ftp2.ru.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp2.ru.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp2.ru.FreeBSD.org) |
 | Slovenia | ftp.si.FreeBSD.org | [http](http://ftp.si.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.si.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.si.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.si.freebsd.org/pub/FreeBSD) |
-| South Africa | ftp.za.FreeBSD.org | [https](https://ftp.za.freebsd.org/pub/FreeBSD) [httpsv6](https://ftp.za.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.za.FreeBSD.org) [rsyncv6](rsync://ftp.za.FreeBSD.org) |
-| | ftp2.za.FreeBSD.org | [http](http://ftp2.za.freebsd.org/pub/FreeBSD) [httpv6](http://ftp2.za.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp2.za.freebsd.org/pub/FreeBSD) |
+| South Africa | ftp2.za.FreeBSD.org | [http](http://ftp2.za.freebsd.org/pub/FreeBSD) [httpv6](http://ftp2.za.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp2.za.freebsd.org/pub/FreeBSD) |
 | | ftp4.za.FreeBSD.org | [http](http://ftp4.za.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp4.za.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp4.za.FreeBSD.org) |
 | Sweden | ftp.se.FreeBSD.org | [http](http://ftp.se.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.se.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp.se.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.se.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.se.FreeBSD.org) [rsyncv6](rsync://ftp.se.FreeBSD.org) |
 | | mirror.se.altushost.com | [https](https://mirror.se.altushost.com/FreeBSD) |
@@ -78,4 +76,4 @@ FreeBSD 项目的官方镜像由项目集群管理员操作的多台机器组成
 | | ftp14.FreeBSD.org | [ftp](ftp://ftp14.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp14.FreeBSD.org) (Former official tier 1) |
 | | ftp5.FreeBSD.org | [http](http://ftp5.freebsd.org/pub/FreeBSD) [httpv6](http://ftp5.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp5.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp5.freebsd.org/pub/FreeBSD) |
 
-社区镜像支持的协议列表最后更新于 2022-01-31，不能保证是最新的。
+社区镜像支持的协议列表最后更新于 2022-01-31，不保证是最新的。

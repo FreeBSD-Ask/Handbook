@@ -1,6 +1,6 @@
 # B.1.FreeBSD 相关书籍
 
-虽然手册页为 FreeBSD 操作系统的各个部分提供了权威参考，但它们很少说明如何将各个部分组合在一起，使整个操作系统平稳运行。对此，一本关于 UNIX® 系统管理的优秀书籍或用户手册是无可替代的。
+手册页为 FreeBSD 各组件提供了权威参考，却很少演示如何将这些组件组合起来、让整个操作系统顺畅运行。要弥补这一局限，一本出色的 UNIX® 系统管理书籍或用户手册不可或缺。
 
 * **Absolute FreeBSD: The Complete Guide To FreeBSD**, Third Edition, published by [No Starch Press](https://nostarch.com/absfreebsd3), 2018. ISBN: 978-1593278922
 * **FreeBSD Mastery: Storage Essentials**, published by [Tilted Windmill Press](https://www.tiltedwindmillpress.com/product/freebsd-mastery-storage-essentials/), 2014. ISBN: 978-1642350098

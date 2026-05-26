@@ -1,6 +1,6 @@
 # D.1.官方成员
 
-`FreeBSD.org` 官员的 OpenPGP 密钥显示在这里。这些密钥可用于验证签名或发送加密电子邮件给其中一位官员。FreeBSD OpenPGP 密钥的完整列表可在 [PGP Keys](https://docs.freebsd.org/en/articles/pgpkeys/) 文章中找到。完整的密钥环可以在 [pgpkeyring.txt](https://docs.freebsd.org/pgpkeys/pgpkeys.txt) 下载。
+这里列出了 `FreeBSD.org` 官方成员的 OpenPGP 密钥。这些密钥可用来验证签名，或向某位官方成员发送加密邮件。FreeBSD OpenPGP 密钥的完整列表见 [PGP Keys](https://docs.freebsd.org/en/articles/pgpkeys/) 文章。完整的密钥环可在 [pgpkeyring.txt](https://docs.freebsd.org/pgpkeys/pgpkeys.txt) 下载。
 
 ## D.1.1. 安全官团队
 
@@ -68,7 +68,7 @@ sAGm+MpH7zcaMf2Tw1K08u7+5gyObgzUzQmGLCgo9VIncnDis0s4gfTmtrr5jCeV
 7LYDQX+2fApMtXbVXeKJem1PS+Z6LPbW2HklxYuG5nFgewCYlQjKujfiwW1Clhi4
 JQeE1Naobbaar99V/VeoHrOYAEWP0bkUyrFcocLJ+0g3KpjSkctIptgGGpMBKe4U
 9O7pWoTki8Yz/uYQn/p0iZcG8SfKM8I4283jdsi5SUiNNJJZCBQTVA7d8MxUVv5+
-qpX/v5XqYM3pHza2DLXzwfAE9O2dgN1OMZYIld+OnWcpm2PxIwARAQABiQRyBBgB
+qpX/v5XqYM3pHza2DLXzwfAE9O2dgN1OMZYIld+OnWcpm2PjIwARAQABiQRyBBgB
 CgAmFiEEC+MydddMlTx5+BEH2a0qGAV0dMsFAmOVdskCGwIFCQICKQACQAkQ2a0q
 GAV0dMvBdCAEGQEKAB0WIQS2FSd+gQh991yBgztuWN6QHwAa7wUCY5V2yQAKCRBu
 WN6QHwAa77gbEADpUBT14cesITuMsOWYsyEtNmB4UlTFWCktk/YzyCotasZxIhMP
