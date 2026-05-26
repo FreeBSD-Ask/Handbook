@@ -16,7 +16,7 @@
 
 **[安装应用程序：软件包和 Ports](../di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)**
 
-涉及使用 FreeBSD 创新的 “Ports” 和标准二进制包来安装第三方软件的方法。
+涉及使用 FreeBSD 创新的“Ports”和标准二进制包来安装第三方软件的方法。
 
 **[X Window 系统](../di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)**
 
