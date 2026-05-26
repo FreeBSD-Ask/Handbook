@@ -52,10 +52,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **命令行前缀：** `#` 表示 root 权限，`$` 表示普通用户。不要使用 `sudo`。
 - **提示块：** tip/important/note/warning/caution 使用 `>` 缩进引用，关键词 **加粗**。
-- **代码块：** 使用 ` ```sh `， **不要** 添加多余标记如 ` ```bash `。
+- **代码块：** 使用 ` ```sh ` 兜底，禁止使用 text 作为代码块标记
 - **表格：** 一律居中。
 - **禁止 HTML：** 本项目不支持任何 HTML 语法。
-- **文件命名：** 使用拼音 slug，文件名中不得包含空格、中文字符或英文冒号 `:`。
+- **文件命名：** 使用拼音 slug，文件名中不得包含空格、中文字符或英文冒号 `:`，必须兼容 Windows 操作系统对文件名的要求。
 
 ### 术语
 
@@ -71,13 +71,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### 图片
 
-翻译者在正文中插入图片，使用 markdown 格式。
+在正文中插入图片，使用 markdown 格式。
 
 ### 翻译流程
 
-1. 使用 DeepL 机器翻译（<https://www.deepl.com/zh/translator>），严禁其他翻译网站
-2. 参考官方英文手册原文进行人工校对
-3. 提交 PR 到 main 分支
+1. 参考官方英文手册原文进行人工校对
+2. 提交 PR 到 main 分支
 
 ### 翻译校对工作流程（Claude Code）
 
@@ -111,6 +110,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Lint 配置
 
-- **markdownlint**（`.github/.markdownlint.json`）：禁用了 MD013（行长度）、MD033（HTML）、MD010（tab）、MD036（无强调作标题）、MD040（围栏代码块语言）、MD045（无 alt 文本图片）等规则
+- **markdownlint**（`.github/.markdownlint.json`）
 - **textlint**（`.textlintrc`）：仅启用 `ja-space-between-half-and-full-width` 规则，用于 CJK/英文空格检查
 - **lychee**（`.github/lychee.toml`）：6 线程、30 并发、30 秒超时、最多 3 次重试、Chrome UA、排除私有 IP 和 `ftp.freebsd.org`
