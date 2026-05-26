@@ -430,7 +430,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Internet Protocol`
 
-互联网上的基本数据传输协议，是 TCP/IP 协议栈的核心组成部分。最初由美国国防部开发。没有互联网协议，互联网不会成为今天的模样。更多信息，请参阅 RFC 791。
+互联网上的基本数据传输协议，是 TCP/IP 协议栈的核心组成部分。最初由美国国防部开发。没有互联网协议，互联网不会是如今的样子。更多信息，请参阅 RFC 791。
 
 `Internet Service Provider`
 
@@ -666,7 +666,7 @@ FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-C
 
 `Operating System`
 
-一组程序、库和工具，用于访问计算机的硬件资源。如今的操​​作系统范围广泛，从一次只支持运行一个程序、访问一个设备的简单设计，到能同时服务数千用户、每个用户可运行数十个不同应用的完全多用户、多任务、多进程系统。
+一组程序、库和工具，用于访问计算机的硬件资源。如今的操作系统范围广泛，从一次只支持运行一个程序、访问一个设备的简单设计，到能同时服务数千用户、每个用户可运行数十个不同应用的完全多用户、多任务、多进程系统。
 
 `Overtaken By Events`
 
@@ -814,7 +814,7 @@ PostScript 打印机描述。
 
 `Project Evil`
 
-NDISulator 的工作代号，由 Bill Paul 命名——他之所以取这个名字，是因为需要某种在哲学层面上"邪恶"的东西，这尚属首次。NDISulator 是一个特殊的兼容模块，让 Microsoft Windows NDIS miniport 网络驱动程序能在 FreeBSD/i386 上使用。这通常是使用闭源驱动程序网卡的唯一途径。参见 `src/sys/compat/ndis/subr_ndis.c`。
+NDISulator 的工作代号，由 Bill Paul 命名——他取这个名字，是因为需要某种从哲学角度讲"邪恶"的东西，这尚属首次。NDISulator 是一个特殊的兼容模块，让 Microsoft Windows NDIS miniport 网络驱动程序能在 FreeBSD/i386 上使用。这通常是使用闭源驱动程序网卡的唯一途径。参见 `src/sys/compat/ndis/subr_ndis.c`。
 
 ## R
 
