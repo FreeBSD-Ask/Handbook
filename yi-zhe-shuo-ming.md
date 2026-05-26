@@ -48,7 +48,7 @@
 | Kernel Limits | 内核参数 | [内核限制实际上就是内核参数](https://eloquence.marxmeier.com/sdb/html/linux_limits.html) | |
 | key bindings | 组合键 | | |
 | keymap | 键盘布局 | | |
-| Latest Branche | 最新分支 | | |
+| Latest Branch | 最新分支 | | |
 | layer 4-7 | 第 4-7 层 | | |
 | load balancing | 负载均衡 | | |
 | log rotation | 日志轮替/日志滚动 | 都可以 | |
