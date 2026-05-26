@@ -77,7 +77,7 @@
 | Process Accounting | 进程审计 | “进程记账”看起来不相干。“审计”更符合原意 | |
 | programmatic method | 计划任务 | 14.10. 监测第三方安全问题 | |
 | provider | provider | 专有名词，A provider is “a disk-like thing which appears in /dev” | |
-| Quarterly Branche | 季度分支 | | |
+| Quarterly Branch | 季度分支 | | |
 | raw device | 裸设备 | 原始设备？ | |
 | realm | 领域 | Kerberos | |
 | reduction | 精选或精简 | 用于安全审计 | |
