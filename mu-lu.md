@@ -383,7 +383,7 @@
 * [34.5.无线自组织（Ad-hoc）模式](di-34-zhang-gao-ji-wang-luo/34.5.-wu-xian-dian-dui-dian-mo-shi.md)
 * [34.6.USB 网络共享](di-34-zhang-gao-ji-wang-luo/34.6.-usb-wang-luo-gong-xiang.md)
 * [34.7.蓝牙](di-34-zhang-gao-ji-wang-luo/34.7.-lan-ya.md)
-* [34.8.桥接](di-34-zhang-gao-ji-wang-luo/34.8.-qiao-jie.md)
+* [34.8.网桥](di-34-zhang-gao-ji-wang-luo/34.8.-qiao-jie.md)
 * [34.9.链路聚合与故障转移](di-34-zhang-gao-ji-wang-luo/34.9.-lian-lu-ju-he-yu-gu-zhang-zhuan-yi.md)
 * [34.10.使用 PXE 进行无盘操作](di-34-zhang-gao-ji-wang-luo/34.10.-shi-yong-pxe-jin-hang-wu-pan-cao-zuo.md)
 * [34.11.共用地址冗余协议（CARP）](di-34-zhang-gao-ji-wang-luo/34.11.-gong-yong-di-zhi-rong-yu-xie-yi-carp.md)
