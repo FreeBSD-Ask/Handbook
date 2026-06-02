@@ -1,5 +1,6 @@
 # 编辑日志
 
+- 2026.6.2 第 32-34 章校对完成
 - 2026.6.2 第 17-25 章校对完成
 - 2026.5.26 进行更新
 - 2025.12.1 仅更新 handbook/cutting-edge 到 <https://cgit.freebsd.org/doc/commit/?id=099e57c42a>
