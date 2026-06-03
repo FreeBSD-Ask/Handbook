@@ -1,20 +1,18 @@
 # FreeBSD 中文手册
 
-[![翻译进度](https://img.shields.io/badge/翻译进度-校对中-blue)](CHANGELOG.md)
+[![翻译进度](https://img.shields.io/badge/翻译进度-校对完成-brightgreen)](CHANGELOG.md)
 [![GitHub stars](https://img.shields.io/github/stars/FreeBSD-Ask/Handbook)](https://github.com/FreeBSD-Ask/Handbook/stargazers)
 
 FreeBSD 官方手册（FreeBSD Handbook）的中文翻译项目，基于 GitBook 格式，发布在 <https://handbook.bsdcn.org>。
 
 ## 项目状态
 
-**翻译基准：** 以 FreeBSD 最新 RELEASE 版本为准，翻译源为 <https://docs.freebsd.org/en/books/handbook/book/>。
+翻译基准为 FreeBSD 最新 RELEASE 版本，英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
 
-**校对进度：**
-- ✅ 第 1-34 章已完成机器翻译
-- ✅ 第 1-9 章已完成人工校对
-- ✅ 第 10-34 章已完成人工校对（2026.6.2）
+- ✅ 第 1-34 章翻译完成
+- ✅ 全部章节校对完成（2026.6.2）
 
-**当前状态：** 翻译校对工作已基本完成，持续进行质量改进和英文原版同步。
+目前持续进行质量改进和英文原版同步。
 
 ## 快速开始
 
@@ -71,11 +69,9 @@ Handbook/
 
 ### 校对工作流程
 
-参考 [CLAUDE.md](CLAUDE.md) 中的翻译校对工作流程：
-
-1. 通过 WebFetch 获取英文原版
-2. 逐句对照，检查翻译问题
-3. 提交修改并创建 PR
+1. 打开 [英文原版](https://docs.freebsd.org/en/books/handbook/) 对照阅读
+2. 逐句检查翻译，重点关注：事实性错误、漏译、表达生硬、版本过时
+3. 修改后提交 PR，描述中列出修改原因
 
 ## 相关链接
 
