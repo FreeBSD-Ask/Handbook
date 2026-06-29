@@ -21,11 +21,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### 目录结构
 
-- 章节目录遵循 `di-X-zhang-<主题>/` 命名模式（拼音 slug），当前正文共 35 章（第 1-35 章）
+- 章节目录遵循 `di-X-zhang-<主题>/` 命名模式（拼音 slug）
 - 每节为独立 `.md` 文件，如 `di-1-zhang-jian-jie/1.1.-gai-shu.md`
 - 前言在 `qian-yan/`，附录在 `fu-lu-X/`
 - 分部介绍页如 `di-yi-bu-fen-kuai-su-kai-shi.md`
 - `.gitbook/assets/` — GitBook 静态资源（logo 等）
+- 全书共 35 章（Ch1-Ch35），中文章号与英文原版 1:1 对应；Ch18 为「OCI 容器」，于 2026-06 由英文原版补译
+- 章节结构对比脚本位于 `script/compare_structure_v2.py`，可检测中英文版本子章节级差异
 - `en/` — 英文 AsciiDoc 原版归档（40 个子目录，每个含 `_index.adoc`），用于翻译对照参考；不要修改或翻译其中的内容
 
 ### 标题管理（关键约束）
