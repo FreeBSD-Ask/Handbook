@@ -9,8 +9,8 @@ FreeBSD 官方手册（FreeBSD Handbook）的中文翻译项目，基于 GitBook
 
 翻译基准为 FreeBSD 最新 RELEASE 版本，英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
 
-- ✅ 第 1-34 章翻译完成
-- ✅ 全部章节校对完成（2026.6.2）
+- ✅ 第 1-35 章翻译完成
+- ✅ 全部章节校对完成（2026.6.29）
 
 目前持续进行质量改进和英文原版同步。
 
