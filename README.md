@@ -30,7 +30,7 @@ gitbook serve
 
 ### 目录结构
 
-```
+```sh
 Handbook/
 ├── SUMMARY.md          # 全书目录结构（GitBook 数据源）
 ├── CHANGELOG.md        # 编辑日志和翻译进度
