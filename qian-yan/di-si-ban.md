@@ -17,5 +17,5 @@
 * [配置与优化](../di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)章节已更名以提高准确性，更新了服务管理、cron 和 periodic、syslog、电源管理和交换分区部分。新增了配置文件条目，并移除了过时的优化部分。
 * [安全](../di-16-zhang-an-quan/16.1.-gai-shu.md)章节已更新，增强了基于 IPSec 的 VPN、账户安全、密码哈希、sudo/doas 和 OpenSSH/OpenSSL。新增了涉及 IDS、安全等级、文件标志位、Capsicum、NFSv4 ACL 和资源限制的章节。
 * [jail](../di-17-zhang-jail/17.1.-gai-shu.md)章节已更新，包含了 jail 类型（厚 jail、瘦 jail、VNET 和 Linux Jail）的详细信息、主机系统配置、网络选项、jail 配置文件、设置过程、升级方法、资源限制，以及不同的 jail 管理器和容器方案。
-* [电子邮件](../di-31-zhang-dian-zi-you-jian/31.1.-gai-shu.md)章节已更新，包含了 DMA 的信息、Sendmail 的升级、将 DMA 和 Sendmail 更改为使用不同 MTA 的说明，并移除了拨号和 Fetchmail 部分，同时重新组织了章节。
+* [电子邮件](../di-32-zhang-dian-zi-you-jian/32.1.-gai-shu.md)章节已更新，包含了 DMA 的信息、Sendmail 的升级、将 DMA 和 Sendmail 更改为使用不同 MTA 的说明，并移除了拨号和 Fetchmail 部分，同时重新组织了章节。
 * [书目](../fu-lu-b.-shu-mu/b.1.-freebsd-xiang-guan-shu-ji.md)得到了大规模更新。

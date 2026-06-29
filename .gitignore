@@ -233,3 +233,5 @@ $RECYCLE.BIN/
 /scripts
 *.txt
 *.adoc
+/en
+/script

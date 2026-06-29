@@ -70,71 +70,71 @@
 
 说明了 FreeBSD 中 jail 框架的功能，以及 jail 相较于传统的 chroot 所做的改进。
 
-**[强制访问控制](../di-18-zhang-qiang-zhi-fang-wen-kong-zhi/18.1.-gai-shu.md)**
+**[强制访问控制](../di-19-zhang-qiang-zhi-fang-wen-kong-zhi/19.1.-gai-shu.md)**
 
 说明了什么是强制访问控制（MAC），以及如何使用这种机制来保护 FreeBSD 系统。
 
-**[安全事件审计](../di-19-zhang-an-quan-shi-jian-shen-ji/19.1.-gai-shu.md)**
+**[安全事件审计](../di-20-zhang-an-quan-shi-jian-shen-ji/20.1.-gai-shu.md)**
 
 说明了什么是 FreeBSD 事件审计，如何安装、配置，以及如何检查和监控审计日志。
 
-**[存储](../di-20-zhang-cun-chu/20.1.-gai-shu.md)**
+**[存储](../di-21-zhang-cun-chu/21.1.-gai-shu.md)**
 
 说明了如何使用 FreeBSD 管理存储介质和文件系统。包括物理磁盘、RAID 阵列、光盘和磁带介质、内存盘和网络文件系统。
 
-**[GEOM：模块化磁盘转换框架](../di-21-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/21.1.-gai-shu.md)**
+**[GEOM：模块化磁盘转换框架](../di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.1.-gai-shu.md)**
 
 说明了在 FreeBSD 中什么是 GEOM 框架，以及如何配置各种受支持级别的 RAID。
 
-**[Z 文件系统（ZFS）](../di-22-zhang-z-wen-jian-xi-tong-zfs/22.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong.md)**
+**[Z 文件系统（ZFS）](../di-23-zhang-z-wen-jian-xi-tong-zfs/23.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong.md)**
 
 说明了 Z 文件系统，并提供了在 FreeBSD 下运行 ZFS 的快速入门指南和高级主题信息。
 
-**[其他文件系统](../di-23-zhang-qi-ta-wen-jian-xi-tong/23.1.-gai-shu.md)**
+**[其他文件系统](../di-24-zhang-qi-ta-wen-jian-xi-tong/24.1.-gai-shu.md)**
 
 检查 FreeBSD 对非原生文件系统（如 ext2、ext3 和 ext4）的支持。
 
-**[虚拟化](../di-24-zhang-xu-ni-hua/24.1.-gai-shu.md)**
+**[虚拟化](../di-25-zhang-xu-ni-hua/25.1.-gai-shu.md)**
 
 说明了虚拟化系统提供的内容，以及如何在 FreeBSD 中使用虚拟化。
 
-**[本地化——i18n/L10n 的使用和设置](../di-25-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/25.1.-gai-shu.md)**
+**[本地化——i18n/L10n 的使用和设置](../di-26-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/26.1.-gai-shu.md)**
 
 说明了如何配置 FreeBSD 使用除英语以外的其他语言，涉及系统和应用程序级别的本地化。
 
-**[FreeBSD 更新与升级](../di-26-zhang-freebsd-geng-xin-yu-sheng-ji/26.1.-gai-shu.md)**
+**[FreeBSD 更新与升级](../di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.1.-gai-shu.md)**
 
 解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 间的区别。说明了哪些用户可以从跟踪开发系统中获益，并概述了该过程。涉及了几种将系统更新到最新安全发行版本的方法。
 
-**[DTrace](../di-27-zhang-dtrace/27.1.-gai-shu.md)**
+**[DTrace](../di-28-zhang-dtrace/28.1.-gai-shu.md)**
 
 介绍了如何在 FreeBSD 上配置和使用 Sun™ 开发的 DTrace 工具。动态跟踪可执行实时系统分析，用于帮助定位性能问题。
 
-**[USB 设备模式/USB OTG](../di-28-zhang-usb-she-bei-mo-shi-usb-otg/28.1.-gai-shu.md)**
+**[USB 设备模式/USB OTG](../di-29-zhang-usb-she-bei-mo-shi-usb-otg/29.1.-gai-shu.md)**
 
 介绍了在 FreeBSD 上使用 USB 设备模式和 USB On-The-Go（USB OTG）。
 
-**[串行通信](../di-29-zhang-chuan-hang-tong-xin/29.1.-gai-shu.md)**
+**[串行通信](../di-30-zhang-chuan-hang-tong-xin/30.1.-gai-shu.md)**
 
 介绍了如何在 FreeBSD 中使用串行通信。
 
-**[PPP](../di-30-zhang-ppp/30.1.-gai-shu.md)**
+**[PPP](../di-31-zhang-ppp/31.1.-gai-shu.md)**
 
 介绍了如何在 FreeBSD 中使用 PPP 连接远程设备。
 
-**[电子邮件](../di-31-zhang-dian-zi-you-jian/31.1.-gai-shu.md)**
+**[电子邮件](../di-32-zhang-dian-zi-you-jian/32.1.-gai-shu.md)**
 
 介绍了电子邮件服务器的构成和组件，并深入探讨了最常见的邮件服务器软件：sendmail 的简单配置话题。
 
-**[网络服务器](../di-32-zhang-wang-luo-fu-wu-qi/32.1.-gai-shu.md)**
+**[网络服务器](../di-33-zhang-wang-luo-fu-wu-qi/33.1.-gai-shu.md)**
 
 提供了详细的说明和示例配置文件，以将你的 FreeBSD 设备配置成网络文件系统服务器、域名服务器、网络信息系统服务器和时间同步服务器。
 
-**[防火墙](../di-33-zhang-fang-huo-qiang/33.1.-gai-shu.md)**
+**[防火墙](../di-34-zhang-fang-huo-qiang/34.1.-gai-shu.md)**
 
 解释了软件防火墙背后的理念，并提供了适用于 FreeBSD 的多种防火墙的详细配置信息。
 
-**[高级网络](../di-34-zhang-gao-ji-wang-luo/34.1.-gai-shu.md)**
+**[高级网络](../di-35-zhang-gao-ji-wang-luo/35.1.-gai-shu.md)**
 
 涉及许多网络主题，包括在局域网上与其他计算机共享互联网连接、高级路由主题、无线网络、蓝牙、ATM、IPv6 等。
 
