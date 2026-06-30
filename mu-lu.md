@@ -22,13 +22,13 @@
 
 * [第一部分：快速开始](di-yi-bu-fen-kuai-su-kai-shi.md)
 
-## 第1章 简介
+## 第 1 章 简介
 
 * [1.1.概述](di-1-zhang-jian-jie/1.1.-gai-shu.md)
 * [1.2.欢迎来到 FreeBSD！](di-1-zhang-jian-jie/1.2.-huan-ying-lai-dao-freebsd.md)
 * [1.3.关于 FreeBSD 项目](di-1-zhang-jian-jie/1.3.-guan-yu-freebsd-xiang-mu.md)
 
-## 第2章 安装 FreeBSD
+## 第 2 章 安装 FreeBSD
 
 * [2.1.概述](di-2-zhang-an-zhuang-freebsd/2.1.-gai-shu.md)
 * [2.2.最低硬件要求](di-2-zhang-an-zhuang-freebsd/2.2.-zui-di-ying-jian-yao-qiu.md)
@@ -41,7 +41,7 @@
 * [2.9.故障排除](di-2-zhang-an-zhuang-freebsd/2.9.-gu-zhang-pai-chu.md)
 * [2.10.使用 Live CD](di-2-zhang-an-zhuang-freebsd/2.10.-shi-yong-live-cd.md)
 
-## 第3章 FreeBSD 基础
+## 第 3 章 FreeBSD 基础
 
 * [3.1.概述](di-3-zhang-freebsd-ji-chu/3.1.-gai-shu.md)
 * [3.2.虚拟控制台和终端](di-3-zhang-freebsd-ji-chu/3.2.-xu-ni-kong-zhi-tai-he-zhong-duan.md)
@@ -56,7 +56,7 @@
 * [3.11.设备和设备节点](di-3-zhang-freebsd-ji-chu/3.11.-she-bei-he-she-bei-jie-dian.md)
 * [3.12.手册页](di-3-zhang-freebsd-ji-chu/3.12.-shou-ce-ye.md)
 
-## 第4章 安装应用程序：软件包和 Ports
+## 第 4 章 安装应用程序：软件包和 Ports
 
 * [4.1.概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)
 * [4.2.软件安装的概述](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.2.-ruan-jian-an-zhuang-de-gai-shu.md)
@@ -67,7 +67,7 @@
 * [4.7.安装后的注意事项](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.7.-an-zhuang-hou-de-zhu-yi-shi-xiang.md)
 * [4.8.如何处理损坏的 port](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.8.-ru-he-chu-li-sun-huai-de-port.md)
 
-## 第5章 X Window 系统
+## 第 5 章 X Window 系统
 
 * [5.1.概述](di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)
 * [5.2.显卡驱动](di-5-zhang-xwindow-xi-tong/5.2.-xian-ka-qu-dong.md)
@@ -76,7 +76,7 @@
 * [5.5.配置 X.org](di-5-zhang-xwindow-xi-tong/5.5.-xorg-pei-zhi.md)
 * [5.6.在 X Window 中使用字体](di-5-zhang-xwindow-xi-tong/5.6.-zai-x-window-zhong-shi-yong-zi-ti.md)
 
-## 第6章 FreeBSD 中的 Wayland
+## 第 6 章 FreeBSD 中的 Wayland
 
 * [6.1.概述](di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-jian-jie.md)
 * [6.2.Wayland 概述](di-6-zhang-freebsd-zhong-de-wayland/6.2.-wayland-gai-shu.md)
@@ -88,7 +88,7 @@
 * [6.8.Wayland 登录管理器](di-6-zhang-freebsd-zhong-de-wayland/6.8.-wayland-deng-lu-guan-li-qi.md)
 * [6.9.实用工具](di-6-zhang-freebsd-zhong-de-wayland/6.9.-shi-yong-gong-ju.md)
 
-## 第7章 网络
+## 第 7 章 网络
 
 * [7.1.概述](di-7-zhang-wang-luo/7.1.-gai-shu.md)
 * [7.2.设置网络](di-7-zhang-wang-luo/7.2.-she-zhi-wang-luo.md)
@@ -102,7 +102,7 @@
 
 * [第二部分：常见任务](di-er-bu-fen-chang-jian-ren-wu.md)
 
-## 第8章 桌面环境
+## 第 8 章 桌面环境
 
 * [8.1.概述](di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)
 * [8.2.桌面环境](di-8-zhang-zhuo-mian-huan-jing/8.2.-zhuo-mian-huan-jing.md)
@@ -112,7 +112,7 @@
 * [8.6.文档查看器](di-8-zhang-zhuo-mian-huan-jing/8.6.-wen-dang-yue-du-qi.md)
 * [8.7.财务](di-8-zhang-zhuo-mian-huan-jing/8.7.-cai-wu.md)
 
-## 第9章 多媒体
+## 第 9 章 多媒体
 
 * [9.1.概述](di-9-zhang-duo-mei-ti/9.1.-gai-shu.md)
 * [9.2.设置声卡](di-9-zhang-duo-mei-ti/9.2.-she-zhi-sheng-ka.md)
@@ -121,7 +121,7 @@
 * [9.5.视频会议](di-9-zhang-duo-mei-ti/9.5.-shi-pin-hui-yi.md)
 * [9.6.图像扫描仪](di-9-zhang-duo-mei-ti/9.6.-tu-xiang-sao-miao-yi.md)
 
-## 第10章 配置 FreeBSD 内核
+## 第 10 章 配置 FreeBSD 内核
 
 * [10.1.概述](di-10-zhang-pei-zhi-freebsd-nei-he/10.1.-gai-shu.md)
 * [10.2.为什么要构建定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.2.-wei-shi-mo-yao-bian-yi-zi-ding-yi-nei-he.md)
@@ -130,7 +130,7 @@
 * [10.5.构建并安装定制内核](di-10-zhang-pei-zhi-freebsd-nei-he/10.5.-bian-yi-yu-an-zhuang-ding-zhi-nei-he.md)
 * [10.6.如果发生了错误](di-10-zhang-pei-zhi-freebsd-nei-he/10.6.-ru-guo-fa-sheng-le-yi-xie-cuo-wu.md)
 
-## 第11章 打印
+## 第 11 章 打印
 
 * [11.1.快速入门](di-11-zhang-da-yin/11.1.-kuai-su-ru-men.md)
 * [11.2.连接打印机](di-11-zhang-da-yin/11.2.-lian-jie-da-yin-ji.md)
@@ -139,14 +139,14 @@
 * [11.5.LPD（行式打印机程序）](di-11-zhang-da-yin/11.5.-lpd-hang-shi-da-yin-ji-cheng-xu.md)
 * [11.6.其他打印系统](di-11-zhang-da-yin/11.6.-qi-ta-da-yin-xi-tong.md)
 
-## 第12章 Linux 二进制兼容层
+## 第 12 章 Linux 二进制兼容层
 
 * [12.1.概述](di-12-zhang-linux-er-jin-zhi-jian-rong-ceng/12.1.-gai-shu.md)
 * [12.2.配置 Linux 二进制兼容层](di-12-zhang-linux-er-jin-zhi-jian-rong-ceng/12.2.-pei-zhi-linux-er-jin-zhi-jian-rong-ceng.md)
 * [12.3.Linux 用户空间](di-12-zhang-linux-er-jin-zhi-jian-rong-ceng/12.3.-linux-yong-hu-kong-jian.md)
 * [12.4.高级主题](di-12-zhang-linux-er-jin-zhi-jian-rong-ceng/12.4.-gao-ji-zhu-ti.md)
 
-## 第13章 WINE
+## 第 13 章 WINE
 
 * [13.1.概述](di-13-zhang-wine/13.1.-gai-shu.md)
 * [13.2.WINE 概述和概念](di-13-zhang-wine/13.2.-wine-gai-shu-he-gai-nian.md)
@@ -161,7 +161,7 @@
 
 * [第三部分：系统管理](di-san-bu-fen-xi-tong-guan-li.md)
 
-## 第14章 配置、服务、日志与电源管理
+## 第 14 章 配置、服务、日志与电源管理
 
 * [14.1.概述](di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)
 * [14.2.配置文件](di-14-zhang-pei-zhi-yu-you-hua/14.2.-pei-zhi-wen-jian.md)
@@ -171,14 +171,14 @@
 * [14.6.电源和资源管理](di-14-zhang-pei-zhi-yu-you-hua/14.6.-dian-yuan-he-zi-yuan-guan-li.md)
 * [14.7.添加交换空间](di-14-zhang-pei-zhi-yu-you-hua/14.7.-tian-jia-jiao-huan-kong-jian.md)
 
-## 第15章 FreeBSD 的引导过程
+## 第 15 章 FreeBSD 的引导过程
 
 * [15.1.概述](di-15-zhang-freebsd-de-yin-dao-guo-cheng/15.1.-gai-shu.md)
 * [15.2.FreeBSD 的引导过程](di-15-zhang-freebsd-de-yin-dao-guo-cheng/15.2.-freebsd-de-yin-dao-guo-cheng.md)
 * [15.3.Device Hints](di-15-zhang-freebsd-de-yin-dao-guo-cheng/15.3.-device-hints.md)
 * [15.4.关机流程](di-15-zhang-freebsd-de-yin-dao-guo-cheng/15.4.-guan-ji-liu-cheng.md)
 
-## 第16章 安全
+## 第 16 章 安全
 
 * [16.1.概述](di-16-zhang-an-quan/16.1.-gai-shu.md)
 * [16.2.简介](di-16-zhang-an-quan/16.2.-jian-jie.md)
@@ -197,7 +197,7 @@
 * [16.15.监控第三方安全问题](di-16-zhang-an-quan/16.15.-jian-kong-di-san-fang-an-quan-wen-ti.md)
 * [16.16.FreeBSD 安全公告](di-16-zhang-an-quan/16.16.-freebsd-an-quan-gong-gao.md)
 
-## 第17章 jail 与容器
+## 第 17 章 jail 与容器
 
 * [17.1.概述](di-17-zhang-jail/17.1.-gai-shu.md)
 * [17.2.jail 的类型](di-17-zhang-jail/17.2.-jail-de-lei-xing.md)
@@ -209,12 +209,12 @@
 * [17.8.jail 资源限制](di-17-zhang-jail/17.8.-jail-zi-yuan-xian-zhi.md)
 * [17.9.jail 管理器与容器](di-17-zhang-jail/17.9.-jail-guan-li-qi-yu-rong-qi.md)
 
-## 第18章 OCI 容器
+## 第 18 章 OCI 容器
 
 * [18.1.概述](di-18-zhang-oci-rong-qi/18.1.-gai-shu.md)
 * [18.2.容器镜像命名和标签](di-18-zhang-oci-rong-qi/18.2.-rong-qi-jing-xiang-ming-ming-he-biao-qian.md)
 
-## 第19章 强制访问控制
+## 第 19 章 强制访问控制
 
 * [19.1.概述](di-19-zhang-qiang-zhi-fang-wen-kong-zhi/19.1.-gai-shu.md)
 * [19.2.关键术语](di-19-zhang-qiang-zhi-fang-wen-kong-zhi/19.2.-guan-jian-shu-yu.md)
@@ -225,14 +225,14 @@
 * [19.7.MAC Jail 中的 Nagios](di-19-zhang-qiang-zhi-fang-wen-kong-zhi/19.7.-mac-jail-zhong-de-nagios.md)
 * [19.8.MAC 框架的故障排除](di-19-zhang-qiang-zhi-fang-wen-kong-zhi/19.8.-mac-kuang-jia-de-gu-zhang-pai-chu.md)
 
-## 第20章 安全事件审计
+## 第 20 章 安全事件审计
 
 * [20.1.概述](di-20-zhang-an-quan-shi-jian-shen-ji/20.1.-gai-shu.md)
 * [20.2.关键术语](di-20-zhang-an-quan-shi-jian-shen-ji/20.2.-guan-jian-shu-yu.md)
 * [20.3.审计配置](di-20-zhang-an-quan-shi-jian-shen-ji/20.3.-shen-ji-pei-zhi.md)
 * [20.4.使用审计跟踪](di-20-zhang-an-quan-shi-jian-shen-ji/20.4.-shi-yong-shen-ji-gen-zong.md)
 
-## 第21章 存储
+## 第 21 章 存储
 
 * [21.1.概述](di-21-zhang-cun-chu/21.1.-gai-shu.md)
 * [21.2.添加磁盘](di-21-zhang-cun-chu/21.2.-tian-jia-ci-pan.md)
@@ -249,7 +249,7 @@
 * [21.13.加密交换分区](di-21-zhang-cun-chu/21.13.-jia-mi-jiao-huan-fen-qu.md)
 * [21.14.高可用性存储（HAST）](di-21-zhang-cun-chu/21.14.-gao-ke-yong-xing-cun-chu-hast.md)
 
-## 第22章 GEOM: 模块化磁盘转换框架
+## 第 22 章 GEOM: 模块化磁盘转换框架
 
 * [22.1.概述](di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.1.-gai-shu.md)
 * [22.2.RAID0——条带](di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.2.-raid0-tiao-dai.md)
@@ -260,7 +260,7 @@
 * [22.7.为磁盘设备添加卷标](di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.7.-wei-ci-pan-she-bei-tian-jia-juan-biao.md)
 * [22.8.通过 GEOM 实现 UFS 日志](di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.8.-tong-guo-geom-shi-xian-ufs-ri-zhi.md)
 
-## 第23章 Z 文件系统（ZFS）
+## 第 23 章 Z 文件系统（ZFS）
 
 * [23.1.是什么使 ZFS 与众不同](di-23-zhang-z-wen-jian-xi-tong-zfs/23.1.-shi-shi-mo-shi-zfs-yu-zhong-bu-tong.md)
 * [23.2.快速入门指南](di-23-zhang-z-wen-jian-xi-tong-zfs/23.2.-kuai-su-ru-men-zhi-nan.md)
@@ -271,14 +271,14 @@
 * [23.7.更多资源](di-23-zhang-z-wen-jian-xi-tong-zfs/23.7.-geng-duo-zi-yuan.md)
 * [23.8.ZFS 特性和术语](di-23-zhang-z-wen-jian-xi-tong-zfs/23.8.-zfs-te-xing-he-shu-yu.md)
 
-## 第24章 其他文件系统
+## 第 24 章 其他文件系统
 
 * [24.1.概述](di-24-zhang-qi-ta-wen-jian-xi-tong/24.1.-gai-shu.md)
 * [24.2.Linux® 文件系统](di-24-zhang-qi-ta-wen-jian-xi-tong/24.2.-linux-wen-jian-xi-tong.md)
 * [24.3.Windows® 文件系统](di-24-zhang-qi-ta-wen-jian-xi-tong/24.3.-Windows.md)
 * [24.4.MacOS® 文件系统](di-24-zhang-qi-ta-wen-jian-xi-tong/24.4.-macOS.md)
 
-## 第25章 虚拟化
+## 第 25 章 虚拟化
 
 * [25.1.概述](di-25-zhang-xu-ni-hua/25.1.-gai-shu.md)
 * [25.2.使用 macOS® 上的 Parallels Desktop 安装 FreeBSD](di-25-zhang-xu-ni-hua/25.2.-shi-yong-macos-shang-de-parallels-desktop-an-zhuang-freebsd.md)
@@ -289,14 +289,14 @@
 * [25.7.使用 FreeBSD 上的 bhyve 虚拟机](di-25-zhang-xu-ni-hua/25.7.-shi-yong-freebsd-shang-de-bhyve-xu-ni-ji.md)
 * [25.8.基于 FreeBSD 的 Xen™ 虚拟机](di-25-zhang-xu-ni-hua/25.8.-shi-yong-freebsd-shang-de-xen-xu-ni-ji.md)
 
-## 第26章 本地化——i18n/L10n 的使用和设置
+## 第 26 章 本地化——i18n/L10n 的使用和设置
 
 * [26.1.概述](di-26-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/26.1.-gai-shu.md)
 * [26.2.使用本地化](di-26-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/26.2.-shi-yong-ben-di-hua.md)
 * [26.3.寻找 i18n 应用程序](di-26-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/26.3.-xun-zhao-i18n-ying-yong-cheng-xu.md)
 * [26.4.特定语言的区域配置](di-26-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/26.4.-te-ding-yu-yan-de-qu-yu-pei-zhi.md)
 
-## 第27章 FreeBSD 更新与升级
+## 第 27 章 FreeBSD 更新与升级
 
 * [27.1.概述](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.1.-gai-shu.md)
 * [27.2.更新 FreeBSD](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.2.-geng-xin-freebsd.md)
@@ -308,7 +308,7 @@
 * [27.8.多台机器的追踪](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.8.-duo-tai-ji-qi-de-zhui-zong.md)
 * [27.9.在非 FreeBSD 主机上进行构建](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.9.-zai-fei-freebsd-zhu-ji-shang-jin-xing-gou-jian.md)
 
-## 第28章 DTrace
+## 第 28 章 DTrace
 
 * [28.1.概述](di-28-zhang-dtrace/28.1.-gai-shu.md)
 * [28.2.实现上的差异](di-28-zhang-dtrace/28.2.-shi-xian-shang-de-cha-yi.md)
@@ -316,7 +316,7 @@
 * [28.4.为内核外部模块启用 DTrace](di-28-zhang-dtrace/28.4.-nei-he-wai-bu-mo-kuai.md)
 * [28.5.使用 DTrace](di-28-zhang-dtrace/28.5.-shi-yong-dtrace.md)
 
-## 第29章 USB 设备模式/USB OTG
+## 第 29 章 USB 设备模式/USB OTG
 
 * [29.1.概述](di-29-zhang-usb-she-bei-mo-shi-usb-otg/29.1.-gai-shu.md)
 * [29.2.USB 虚拟串行端口](di-29-zhang-usb-she-bei-mo-shi-usb-otg/29.2.-usb-xu-ni-chuan-hang-duan-kou.md)
@@ -327,7 +327,7 @@
 
 * [第四部分：网络通讯](di-si-bu-fen-wang-luo-tong-xun.md)
 
-## 第30章 串行通信
+## 第 30 章 串行通信
 
 * [30.1.概述](di-30-zhang-chuan-hang-tong-xin/30.1.-gai-shu.md)
 * [30.2.串行术语和硬件](di-30-zhang-chuan-hang-tong-xin/30.2.-chuan-hang-shu-yu-he-ying-jian.md)
@@ -336,7 +336,7 @@
 * [30.5.拨出服务](di-30-zhang-chuan-hang-tong-xin/30.5.-bo-chu-fu-wu.md)
 * [30.6.设置串行控制台](di-30-zhang-chuan-hang-tong-xin/30.6.-she-zhi-chuan-hang-kong-zhi-tai.md)
 
-## 第31章 PPP
+## 第 31 章 PPP
 
 * [31.1.概述](di-31-zhang-ppp/31.1.-gai-shu.md)
 * [31.2.配置 PPP](di-31-zhang-ppp/31.2.-pei-zhi-ppp.md)
@@ -344,7 +344,7 @@
 * [31.4.使用以太网 PPP（PPPoE）](di-31-zhang-ppp/31.4.-shi-yong-yi-tai-wang-ppppppoe.md)
 * [31.5.使用 ATM 上的 PPP (PPPoA)](di-31-zhang-ppp/31.5.-shi-yong-atm-shang-de-ppp-pppoa.md)
 
-## 第32章 电子邮件
+## 第 32 章 电子邮件
 
 * [32.1.概述](di-32-zhang-dian-zi-you-jian/32.1.-gai-shu.md)
 * [32.2.邮件组件](di-32-zhang-dian-zi-you-jian/32.2.-you-jian-zu-jian.md)
@@ -354,7 +354,7 @@
 * [32.6.邮件用户代理](di-32-zhang-dian-zi-you-jian/32.6.-you-jian-yong-hu-dai-li.md)
 * [32.7.高级主题](di-32-zhang-dian-zi-you-jian/32.7.-gao-ji-zhu-ti.md)
 
-## 第33章 网络服务器
+## 第 33 章 网络服务器
 
 * [33.1.概述](di-33-zhang-wang-luo-fu-wu-qi/33.1.-gai-shu.md)
 * [33.2.inetd 超级服务器](di-33-zhang-wang-luo-fu-wu-qi/33.2.-inetd-chao-ji-fu-wu-qi.md)
@@ -370,7 +370,7 @@
 * [33.12.用 NTP 进行时钟同步](di-33-zhang-wang-luo-fu-wu-qi/33.12.-yong-ntp-jin-hang-shi-zhong-tong-bu.md)
 * [33.13.iSCSI target 和 initiator 的配置](di-33-zhang-wang-luo-fu-wu-qi/33.13.-iscsi-target-he-initiator-de-pei-zhi.md)
 
-## 第34章 防火墙
+## 第 34 章 防火墙
 
 * [34.1.概述](di-34-zhang-fang-huo-qiang/34.1.-gai-shu.md)
 * [34.2.防火墙的概念](di-34-zhang-fang-huo-qiang/34.2.-fang-huo-qiang-de-gai-nian.md)
@@ -379,7 +379,7 @@
 * [34.5.IPFILTER（IPF）](di-34-zhang-fang-huo-qiang/34.5.-ipfilter-ipf.md)
 * [34.6.blocklistd](di-34-zhang-fang-huo-qiang/34.6.-blocklistd.md)
 
-## 第35章 高级网络
+## 第 35 章 高级网络
 
 * [35.1.概述](di-35-zhang-gao-ji-wang-luo/35.1.-gai-shu.md)
 * [35.2.网关和路由](di-35-zhang-gao-ji-wang-luo/35.2.-wang-guan-he-lu-you.md)
