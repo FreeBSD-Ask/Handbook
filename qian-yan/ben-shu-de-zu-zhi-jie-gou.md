@@ -26,10 +26,6 @@
 
 介绍 Wayland 显示服务器以及如何在 FreeBSD 上使用 Wayland。还涉及常见的混成器，如 Wayfire、Hikari 和 Sway。
 
-**[网络](../di-7-zhang-wang-luo/7.1.-gai-shu.md)**
-
-涉及基本的有线和无线网络配置，包括主机名、DNS 和故障排除。
-
 **[桌面环境](../di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)**
 
 列出了一些常见的桌面应用程序，例如网络浏览器和办公软件套件，并说明如何在 FreeBSD 上进行安装。
