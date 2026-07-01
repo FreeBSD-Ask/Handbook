@@ -594,7 +594,7 @@ FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-C
 
 `Merge From Vendor`
 
-从上游（vendor）合并。
+从 vendor 合并。
 
 `Message Of The Day`
 
