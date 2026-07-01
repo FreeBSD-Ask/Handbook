@@ -540,7 +540,7 @@ FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-C
 
 `MFV`
 
-参见[从上游合并](./shu-yu-biao.md)。
+参见[从 vendor 合并](./shu-yu-biao.md)。
 
 `MIT`
 
