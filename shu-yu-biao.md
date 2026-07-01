@@ -798,7 +798,7 @@ PostScript 打印机描述。
 
 `Principle Of Least Astonishment`
 
-随着 FreeBSD 的发展，用户可见的变更应尽可能不令人惊讶。例如，在 `/etc/defaults/rc.conf` 中随意重新排列系统启动变量就违反了 POLA。开发者在考虑用户可见的系统变更时会遵循 POLA。
+随着 FreeBSD 的发展，用户可见的变更应尽可能不令人惊讶。例如，在 **/etc/defaults/rc.conf** 中随意重新排列系统启动变量就违反了 POLA。开发者在考虑用户可见的系统变更时会遵循 POLA。
 
 `PRIME`
 
@@ -814,7 +814,7 @@ PostScript 打印机描述。
 
 `Project Evil`
 
-NDISulator 的工作代号，由 Bill Paul 命名——他取这个名字，是因为需要某种从哲学角度讲"邪恶"的东西，这尚属首次。NDISulator 是一个特殊的兼容模块，让 Microsoft Windows NDIS miniport 网络驱动程序能在 FreeBSD/i386 上使用。这通常是使用闭源驱动程序网卡的唯一途径。参见 `src/sys/compat/ndis/subr_ndis.c`。
+NDISulator 的工作代号，由 Bill Paul 编写并命名——他如此命名，是指从哲学角度来看，竟然需要这样的东西本身就是一件糟糕的事。NDISulator 是一个特殊的兼容模块，让 Microsoft Windows NDIS miniport 网络驱动程序能在 FreeBSD/i386 上使用。这通常是使用闭源驱动程序网卡的唯一途径。参见 **src/sys/compat/ndis/subr_ndis.c**。
 
 ## R
 
