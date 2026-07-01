@@ -1,6 +1,6 @@
 # D.1.官方成员
 
-这里列出了 `FreeBSD.org` 官方成员的 OpenPGP 密钥。这些密钥可用来验证签名，或向某位官方成员发送加密邮件。FreeBSD OpenPGP 密钥的完整列表见 [PGP Keys](https://docs.freebsd.org/en/articles/pgpkeys/) 文章。完整的密钥环可在 [pgpkeyring.txt](https://docs.freebsd.org/pgpkeys/pgpkeys.txt) 下载。
+这里列出了 `FreeBSD.org` 官方成员的 OpenPGP 密钥。这些密钥可用来验证签名，或向某位官方成员发送加密邮件。FreeBSD OpenPGP 密钥的完整列表见 [PGP Keys](https://docs.freebsd.org/en/articles/pgpkeys/) 文章。完整的密钥环可在 [pgpkeys.txt](https://docs.freebsd.org/pgpkeys/pgpkeys.txt) 下载。
 
 ## D.1.1. 安全官团队
 

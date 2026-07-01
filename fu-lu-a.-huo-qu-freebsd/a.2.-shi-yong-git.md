@@ -10,7 +10,7 @@
 
 本节介绍如何在 FreeBSD 系统上安装 Git，并用它创建 FreeBSD 源代码仓库的本地副本。
 
-### A.2.2. 安装
+## A.2.2. 安装
 
 Git 可以通过 Ports 安装，也可以作为软件包安装：
 
@@ -18,7 +18,7 @@ Git 可以通过 Ports 安装，也可以作为软件包安装：
 # pkg install git
 ```
 
-### A.2.3. 运行 Git
+## A.2.3. 运行 Git
 
 要将源码的干净副本获取到本地目录，可使用 `git clone`。这一目录称为*工作树*。
 
@@ -52,7 +52,7 @@ Git 使用 URL 来指代仓库。共有三个不同的仓库：`src` 存放 Free
 # git checkout stable/13
 ```
 
-工作树可通过 `git pull` 更新。要更新上例中创建的 `/usr/src`，使用：
+工作树可通过 `git pull` 更新。要更新上例中创建的 **/usr/src**，使用：
 
 ```sh
 # cd /usr/src
@@ -61,28 +61,28 @@ Git 使用 URL 来指代仓库。共有三个不同的仓库：`src` 存放 Free
 
 更新比首次检出快得多，仅传输发生变更的文件。
 
-### A.2.4. 基于 Web 的仓库浏览器
+## A.2.4. 基于 Web 的仓库浏览器
 
 FreeBSD 项目使用 cgit 作为基于 Web 的仓库浏览器：<https://cgit.FreeBSD.org/>。
 
-### A.2.5. 面向开发者
+## A.2.5. 面向开发者
 
 关于仓库写权限，请参阅 [Committer's Guide](https://docs.freebsd.org/en/articles/committers-guide/#git-mini-primer)。
 
-### A.2.6. 外部镜像
+## A.2.6. 外部镜像
 
 这些镜像不托管在 FreeBSD.org 上，但仍由项目成员维护。欢迎用户和开发者从这些镜像拉取或浏览仓库。`doc` 和 `src` 的 GitHub 仓库接受拉取请求；除此以外，这些镜像对应的项目工作流仍在讨论中。
 
 Codeberg
 
 * doc：<https://codeberg.org/FreeBSD/freebsd-doc>
-* ports：[https://codeberg.org/FreeBSD/freebsd-ports](https://codeberg.org/FreeBSD/freebsd-ports)
+* ports：<https://codeberg.org/FreeBSD/freebsd-ports>
 * src：<https://codeberg.org/FreeBSD/freebsd-src>
 
 GitHub
 
 * doc：<https://github.com/freebsd/freebsd-doc>
-* ports：[https://github.com/freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports)
+* ports：<https://github.com/freebsd/freebsd-ports>
 * src：<https://github.com/freebsd/freebsd-src>
 
 GitLab
@@ -91,11 +91,11 @@ GitLab
 * ports：<https://gitlab.com/FreeBSD/freebsd-ports>
 * src：<https://gitlab.com/FreeBSD/freebsd-src>
 
-### A.2.7. 邮件列表
+## A.2.7. 邮件列表
 
-FreeBSD 项目中讨论 git 通用用法及问题的邮件列表是 [freebsd-git](https://lists.freebsd.org/subscription/freebsd-git)。更多详情（包括提交记录邮件列表）请参阅[邮件列表](https://docs.freebsd.org/en/books/handbook/handbook/eresources/#eresources-mail)一章。
+FreeBSD 项目中讨论 git 通用用法及问题的邮件列表是 [freebsd-git](https://lists.freebsd.org/subscription/freebsd-git)。更多详情（包括提交记录邮件列表）请参阅[邮件列表](https://docs.freebsd.org/en/books/handbook/eresources/#eresources-mail)一章。
 
-### A.2.8. SSH 主机密钥
+## A.2.8. SSH 主机密钥
 
 * gitrepo.FreeBSD.org 主机密钥指纹：
 
