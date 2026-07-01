@@ -514,7 +514,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Lock Order Reversal`
 
-FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-CURRENT 内核中包含一个运行时锁诊断系统（在发布版本中已移除），名为 witness(4)，用于检测锁错误可能导致的死锁。（witness(4) 实际上偏保守，因此可能产生误报。）真正的正报表示"如果运气不好，这里本来会死锁"。真正的 LOR 通常会迅速修复。
+FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-CURRENT 内核中包含一个运行时锁诊断系统（在发布版本中已移除），名为 [witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)，用于检测锁错误可能导致的死锁。（[witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上偏保守，因此可能产生误报。）真正的正报表示"如果运气不好，这里本来会死锁"。真正的 LOR 通常会迅速修复，因此在向邮件列表发帖之前，请先查阅 https://lists.FreeBSD.org/subscription/freebsd-current 和 [LORs Seen](http://sources.zabbadoz.net/freebsd/lor.html) 页面。
 
 ## M
 
