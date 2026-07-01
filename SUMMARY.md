@@ -65,7 +65,7 @@
 * [4.5.使用 Ports](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.5.-shi-yong-ports.md)
 * [4.6.使用 Poudriere 构建软件包](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.6.-shi-yong-poudriere-gou-jian-ruan-jian-bao.md)
 * [4.7.安装后的注意事项](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.7.-an-zhuang-hou-de-zhu-yi-shi-xiang.md)
-* [4.8.如何处理损坏的 port](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.8.-ru-he-chu-li-sun-huai-de-port.md)
+* [4.8.如何处理损坏的 Port](di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.8.-ru-he-chu-li-sun-huai-de-port.md)
 
 ## 第 5 章 X Window 系统
 
