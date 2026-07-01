@@ -124,7 +124,7 @@ DNS 协议的一种实现。
 
 `Berkeley Software Distribution`
 
-加利福尼亚大学伯克利分校计算机系统研究组（CSRG）对其在 AT&T 32V UNIX 上所做的改进和修改的命名。FreeBSD 是 CSRG 工作的后继者。
+[加利福尼亚大学伯克利分校](http://www.berkeley.edu)计算机系统研究组（CSRG）对其在 AT&T 32V UNIX 上所做的改进和修改的命名。FreeBSD 是 CSRG 工作的后继者。
 
 `Bikeshed Building`
 
