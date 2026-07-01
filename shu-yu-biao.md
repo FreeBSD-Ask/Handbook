@@ -78,7 +78,7 @@
 
 `Advanced Technology Attachment`
 
-高级技术附件（一种存储设备接口标准）。
+高级技术附件。
 
 `Asynchronous Transfer Mode`
 
@@ -430,7 +430,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Internet Protocol`
 
-互联网上的基本数据传输协议，是 TCP/IP 协议栈的核心组成部分。最初由美国国防部开发。没有互联网协议，互联网不会是如今的样子。更多信息，请参阅 RFC 791。
+互联网上的基本数据传输协议，是 TCP/IP 协议栈的核心组成部分。最初由美国国防部开发。没有互联网协议，互联网不会是如今的样子。更多信息，请参阅 [RFC 791](ftp://ftp.rfc-editor.org/in-notes/rfc791.txt)。
 
 `Internet Service Provider`
 
@@ -476,7 +476,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Kernel Scheduler Entities`
 
-一种内核支持的线程系统。
+一种内核支持的线程系统。更多详情请参阅 [KSE 项目主页](https://people.freebsd.org/~kuriyama/www/kse)。
 
 `Kernel Virtual Address`
 
@@ -744,7 +744,7 @@ ATM 上的 PPP。
 
 `PXE`
 
-参见[预启动执行环境](./shu-yu-biao.md)。
+参见[预引导执行环境](./shu-yu-biao.md)。
 
 `Password Authentication Protocol`
 
@@ -794,7 +794,7 @@ PostScript 打印机描述。
 
 `Preboot eXecution Environment`
 
-预启动执行环境。
+预引导执行环境。
 
 `Principle Of Least Astonishment`
 
