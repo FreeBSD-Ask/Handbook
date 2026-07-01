@@ -384,7 +384,7 @@
 * [35.1.概述](di-35-zhang-gao-ji-wang-luo/35.1.-gai-shu.md)
 * [35.2.网关和路由](di-35-zhang-gao-ji-wang-luo/35.2.-wang-guan-he-lu-you.md)
 * [35.3.虚拟主机](di-35-zhang-gao-ji-wang-luo/35.3.-xu-ni-zhu-ji.md)
-* [35.4.无线高级身份验证](di-35-zhang-gao-ji-wang-luo/35.4.-wu-xian-gao-ji-shen-fen-yan-zheng.md)
+* [35.4.无线高级认证](di-35-zhang-gao-ji-wang-luo/35.4.-wu-xian-gao-ji-shen-fen-yan-zheng.md)
 * [35.5.无线自组织（Ad-hoc）模式](di-35-zhang-gao-ji-wang-luo/35.5.-wu-xian-dian-dui-dian-mo-shi.md)
 * [35.6.USB 网络共享](di-35-zhang-gao-ji-wang-luo/35.6.-usb-wang-luo-gong-xiang.md)
 * [35.7.蓝牙](di-35-zhang-gao-ji-wang-luo/35.7.-lan-ya.md)
