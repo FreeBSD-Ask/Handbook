@@ -7,5 +7,5 @@
 * Don Libes, Sandy Ressler *Life with UNIX* - special edition. Prentice-Hall, Inc., 1989. ISBN 0-13-536657-7
 * *The BSD family tree*. [https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree](https://cgit.freebsd.org/src/tree/share/misc/bsd-family-tree)，亦可在 FreeBSD 系统的 **/usr/share/misc/bsd-family-tree** 中找到。
 * *Networked Computer Science Technical Reports Library*.
-* *Old BSD releases from the Computer Systems Research group (CSRG)*. [https://www.mckusick.com/csrg/](https://www.mckusick.com/csrg/): 这套 4CD 合集涵盖了从 1BSD 到 4.4BSD 及 4.4BSD-Lite2 的所有 BSD 版本（遗憾的是不含 2.11BSD）。最后一张光盘还收录了最终源代码及 SCCS 文件。
+* *Old BSD releases from the Computer Systems Research group (CSRG)*. [https://www.mckusick.com/csrg/](https://www.mckusick.com/csrg/): 这套 4CD 合集涉及从 1BSD 到 4.4BSD 及 4.4BSD-Lite2 的所有 BSD 版本（遗憾的是不含 2.11BSD）。最后一张光盘还收录了最终源代码及 SCCS 文件。
 * Kernighan, Brian *Unix: A History and a Memoir*. Kindle Direct Publishing, 2020. ISBN 978-169597855-3
