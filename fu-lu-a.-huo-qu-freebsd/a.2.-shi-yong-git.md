@@ -76,13 +76,13 @@ FreeBSD 项目使用 cgit 作为基于 Web 的仓库浏览器：<https://cgit.Fr
 Codeberg
 
 * doc：<https://codeberg.org/FreeBSD/freebsd-doc>
-* ports：<https://codeberg.org/FreeBSD/freebsd-ports>
+* Ports：<https://codeberg.org/FreeBSD/freebsd-ports>
 * src：<https://codeberg.org/FreeBSD/freebsd-src>
 
 GitHub
 
 * doc：<https://github.com/freebsd/freebsd-doc>
-* ports：<https://github.com/freebsd/freebsd-ports>
+* Ports：<https://github.com/freebsd/freebsd-ports>
 * src：<https://github.com/freebsd/freebsd-src>
 
 GitLab
