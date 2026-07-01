@@ -32,8 +32,8 @@ Git 使用 URL 来指代仓库。共有三个不同的仓库：`src` 存放 Free
 | 通过 anon-ssh 访问只读 src 仓库 | `ssh://anongit@git.FreeBSD.org/src.git` |
 | 通过 HTTPS 访问只读 doc 仓库 | [`https://git.FreeBSD.org/doc.git`](https://git.freebsd.org/doc.git) |
 | 通过 anon-ssh 访问只读 doc 仓库 | `ssh://anongit@git.FreeBSD.org/doc.git` |
-| 通过 HTTPS 访问只读 ports 仓库 | [`https://git.FreeBSD.org/ports.git`](https://git.freebsd.org/ports.git) |
-| 通过 anon-ssh 访问只读 ports 仓库 | `ssh://anongit@git.FreeBSD.org/ports.git` |
+| 通过 HTTPS 访问只读 Ports 仓库 | [`https://git.FreeBSD.org/ports.git`](https://git.freebsd.org/ports.git) |
+| 通过 anon-ssh 访问只读 Ports 仓库 | `ssh://anongit@git.FreeBSD.org/ports.git` |
 
 项目成员维护的外部镜像同样可用，请参阅[外部镜像](#a.2.6.-外部镜像)一节。
 
