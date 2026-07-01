@@ -124,7 +124,7 @@ DNS 协议的一种实现。
 
 `Berkeley Software Distribution`
 
-[加利福尼亚大学伯克利分校](http://www.berkeley.edu)计算机系统研究组（CSRG）对其在 AT&T 32V UNIX 上所做的改进和修改的命名。FreeBSD 是 CSRG 工作的后继者。
+[加利福尼亚大学伯克利分校](https://www.berkeley.edu)计算机系统研究组（CSRG）对其在 AT&T 32V UNIX 上所做的改进和修改的命名。FreeBSD 是 CSRG 工作的后继者。
 
 `Bikeshed Building`
 
@@ -430,7 +430,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Internet Protocol`
 
-互联网上的基本数据传输协议，是 TCP/IP 协议栈的核心组成部分。最初由美国国防部开发。没有互联网协议，互联网不会是如今的样子。更多信息，请参阅 [RFC 791](ftp://ftp.rfc-editor.org/in-notes/rfc791.txt)。
+互联网上的基本数据传输协议，是 TCP/IP 协议栈的核心组成部分。最初由美国国防部开发。没有互联网协议，互联网不会是如今的样子。更多信息，请参阅 [RFC 791](https://www.rfc-editor.org/rfc/rfc791.txt)。
 
 `Internet Service Provider`
 
@@ -514,7 +514,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Lock Order Reversal`
 
-FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-CURRENT 内核中包含一个运行时锁诊断系统（在发布版本中已移除），名为 [witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)，用于检测锁错误可能导致的死锁。（[witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上偏保守，因此可能产生误报。）真正的正报表示"如果运气不好，这里本来会死锁"。真正的 LOR 通常会迅速修复，因此在向邮件列表发帖之前，请先查阅 https://lists.FreeBSD.org/subscription/freebsd-current 和 [LORs Seen](http://sources.zabbadoz.net/freebsd/lor.html) 页面。
+FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-CURRENT 内核中包含一个运行时锁诊断系统（在发布版本中已移除），名为 [witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)，用于检测锁错误可能导致的死锁。（[witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上偏保守，因此可能产生误报。）真正的正报表示"如果运气不好，这里本来会死锁"。真正的 LOR 通常会迅速修复，因此在向邮件列表发帖之前，请先查阅 https://lists.FreeBSD.org/subscription/freebsd-current 和 [LORs Seen](https://sources.zabbadoz.net/freebsd/lor.html) 页面。
 
 ## M
 
@@ -888,7 +888,7 @@ RS232C 引脚或线路，数据通过它接收。
 
 `Request For Comments`
 
-一系列定义互联网标准、协议等的文档。参见 <www.rfc-editor.org>。
+一系列定义互联网标准、协议等的文档。参见 [www.rfc-editor.org](https://www.rfc-editor.org)。
 
 也用作一般性术语，表示某人提出更改建议并希望获得反馈。
 

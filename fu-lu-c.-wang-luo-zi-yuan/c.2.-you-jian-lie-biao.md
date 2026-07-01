@@ -6,7 +6,9 @@
 
 所有 FreeBSD 的用户和开发者都应该订阅 [FreeBSD 公告邮件列表](https://lists.freebsd.org/subscription/freebsd-announce)。
 
-> **注意**：如需测试 FreeBSD 邮件列表功能，请发往 [FreeBSD 测试邮件列表](https://lists.freebsd.org/subscription/freebsd-test)，不要向其他列表发送测试消息。
+> **注意**
+>
+> 如需测试 FreeBSD 邮件列表功能，请发往 [FreeBSD 测试邮件列表](https://lists.freebsd.org/subscription/freebsd-test)，不要向其他列表发送测试消息。
 
 不确定该向哪个列表提问时，可参考[《如何从 FreeBSD-questions 邮件列表获得最佳结果》](https://docs.freebsd.org/en/articles/freebsd-questions/)。
 
