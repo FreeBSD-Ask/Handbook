@@ -57,7 +57,7 @@
 | raw device | 裸设备 | 原始设备？ |
 | realm | 领域 | Kerberos |
 | reduction | 精选或精简 | 用于安全审计 |
-| remote groups | 异地团体? | 不知道怎么翻译，结合语境远程团队或离岸团队或远程组 |
+| remote groups | 异地团体？ | 不知道怎么翻译，结合语境远程团队或离岸团队或远程组 |
 | root-on-ZFS | 使用 ZFS 作为 root 分区/ root 分区使用 ZFS | |
 | scroll-back buffer | 回滚缓冲区 | |
 | security advisory | 安全公告 | |
