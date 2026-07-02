@@ -112,11 +112,11 @@
 
 **[PPP](../di-31-zhang-ppp/31.1.-gai-shu.md)**
 
-介绍了如何在 FreeBSD 中使用 PPP 连接远程设备。
+介绍了如何在 FreeBSD 中使用 PPP 连接远程系统。
 
 **[电子邮件](../di-32-zhang-dian-zi-you-jian/32.1.-gai-shu.md)**
 
-介绍了电子邮件服务器的构成和组件，并深入探讨了最常见的邮件服务器软件：sendmail 的简单配置话题。
+介绍了电子邮件服务器的构成和组件，并深入探讨了最受欢迎的邮件服务器软件：sendmail 的简单配置话题。
 
 **[网络服务器](../di-33-zhang-wang-luo-fu-wu-qi/33.1.-gai-shu.md)**
 
