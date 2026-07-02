@@ -16,6 +16,6 @@
 * [高级网络](../di-35-zhang-gao-ji-wang-luo/35.1.-gai-shu.md)中添加了许多新章节。
 * [电子邮件](../di-32-zhang-dian-zi-you-jian/32.1.-gai-shu.md)已扩充，包括有关配置 sendmail 的更多信息。
 * [Linux® 二进制兼容层](../di-12-zhang-linux-er-jin-zhi-jian-rong-ceng/12.1.-gai-shu.md)已扩充，包括了有关安装 Oracle® 和 SAP® R/3® 的信息。
-* 第二版涉及以下新主题：
+* 第二版涵盖以下新主题：
   * [配置与优化](../di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)。
   * [多媒体](../di-9-zhang-duo-mei-ti/9.1.-gai-shu.md)。

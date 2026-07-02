@@ -361,7 +361,7 @@
 * [33.3.网络文件系统（NFS）](di-33-zhang-wang-luo-fu-wu-qi/33.3.-wang-luo-wen-jian-xi-tong-nfs.md)
 * [33.4.网络信息系统（NIS）](di-33-zhang-wang-luo-fu-wu-qi/33.4.-wang-luo-xin-xi-xi-tong-nis.md)
 * [33.5.轻型目录访问协议（LDAP）](di-33-zhang-wang-luo-fu-wu-qi/33.5.-qing-xing-mu-lu-fang-wen-xie-yi-ldap.md)
-* [33.6.动态主机设置协议（DHCP）](di-33-zhang-wang-luo-fu-wu-qi/33.6.-dong-tai-zhu-ji-she-zhi-xie-yi-dhcp.md)
+* [33.6.动态主机配置协议（DHCP）](di-33-zhang-wang-luo-fu-wu-qi/33.6.-dong-tai-zhu-ji-she-zhi-xie-yi-dhcp.md)
 * [33.7.域名系统（DNS）](di-33-zhang-wang-luo-fu-wu-qi/33.7.-yu-ming-xi-tong-dns.md)
 * [33.8.零配置网络（mDNS/DNS-SD）](di-33-zhang-wang-luo-fu-wu-qi/33.8.-ling-pei-zhi-wang-luo.md)
 * [33.9.Apache HTTP 服务器](di-33-zhang-wang-luo-fu-wu-qi/33.9.-apache-http-fu-wu-qi.md)
@@ -376,7 +376,7 @@
 * [34.2.防火墙的概念](di-34-zhang-fang-huo-qiang/34.2.-fang-huo-qiang-de-gai-nian.md)
 * [34.3.PF](di-34-zhang-fang-huo-qiang/34.3.-pf.md)
 * [34.4.IPFW](di-34-zhang-fang-huo-qiang/34.4.-ipfw.md)
-* [34.5.IPFILTER（IPF）](di-34-zhang-fang-huo-qiang/34.5.-ipfilter-ipf.md)
+* [34.5.IPFILTER (IPF)](di-34-zhang-fang-huo-qiang/34.5.-ipfilter-ipf.md)
 * [34.6.blocklistd](di-34-zhang-fang-huo-qiang/34.6.-blocklistd.md)
 
 ## 第 35 章 高级网络

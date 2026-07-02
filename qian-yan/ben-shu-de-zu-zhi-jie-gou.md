@@ -1,6 +1,6 @@
 # 本书的组织结构
 
-全书在逻辑上分为五个独立的部分。第一部分是 **快速开始**，涉及 FreeBSD 的安装和基本用法。期望读者按顺序阅读这些章节（可跳过已熟悉的话题）。第二部分是 **常见任务**，涉及一些 FreeBSD 的常用功能。第二及后续所有部分都可以不按顺序阅读。每章都以简洁的概述开头，说明该章涉及的内容以及读者应该已经了解的知识。这样设计是为了让跳读的读者也能够找到感兴趣的章节。第三部分是 **系统管理**，涉及管理主题。第四部分是 **网络通信**，涉及网络和服务器主题。第五部分是包含参考信息的附录。
+全书在逻辑上分为五个独立的部分。第一部分是 **快速开始**，涵盖 FreeBSD 的安装和基本用法。期望读者按顺序阅读这些章节（可跳过已熟悉的话题）。第二部分是 **常见任务**，涵盖一些 FreeBSD 的常用功能。第二及后续所有部分都可以不按顺序阅读。每章都以简洁的概述开头，说明该章涵盖的内容以及读者应该已经了解的知识。这样设计是为了让跳读的读者也能够找到感兴趣的章节。第三部分是 **系统管理**，涵盖管理主题。第四部分是 **网络通信**，涵盖网络和服务器主题。第五部分是包含参考信息的附录。
 
 **[简介](../di-1-zhang-jian-jie/1.1.-gai-shu.md)**
 
@@ -12,19 +12,19 @@
 
 **[FreeBSD 基础](../di-3-zhang-freebsd-ji-chu/3.1.-gai-shu.md)**
 
-涉及 FreeBSD 操作系统的基础命令和功能。如果你熟悉 Linux® 或其他版本的 UNIX®，那么你可以跳过本章节。
+涵盖 FreeBSD 操作系统的基础命令和功能。如果你熟悉 Linux® 或其他版本的 UNIX®，那么你可以跳过本章节。
 
 **[安装应用程序：软件包和 Ports](../di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)**
 
-涉及使用 FreeBSD 创新的“Ports”和标准二进制包来安装第三方软件的方法。
+涵盖使用 FreeBSD 创新的“Ports”和标准二进制包来安装第三方软件的方法。
 
 **[X Window 系统](../di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)**
 
-介绍 X Window 系统，并说明如何在 FreeBSD 上使用 X11。还涉及常见的桌面环境，如 KDE 和 GNOME。
+介绍 X Window 系统，并说明如何在 FreeBSD 上使用 X11。还介绍常见的桌面环境，如 KDE 和 GNOME。
 
 **[FreeBSD 中的 Wayland](../di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-jian-jie.md)**
 
-介绍 Wayland 显示服务器以及如何在 FreeBSD 上使用 Wayland。还涉及常见的混成器，如 Wayfire、Hikari 和 Sway。
+介绍 Wayland 显示服务器以及如何在 FreeBSD 上使用 Wayland。还介绍常见的混成器，如 Wayfire、Hikari 和 Sway。
 
 **[桌面环境](../di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)**
 
@@ -48,11 +48,11 @@
 
 **[WINE](../di-13-zhang-wine/13.1.-gai-shu.md)**
 
-说明了什么是 WINE 以及详细的安装教程。还涉及了 WINE 的操作方式，如何安装 GUI 助手，如何在 FreeBSD 上运行 Windows® 应用程序，并包含了其他注意事项和解决方案。
+说明了什么是 WINE 以及详细的安装教程。还介绍了 WINE 的操作方式，如何安装 GUI 助手，如何在 FreeBSD 上运行 Windows® 应用程序，并包含了其他注意事项和解决方案。
 
 **[配置与优化](../di-14-zhang-pei-zhi-yu-you-hua/14.1.-gai-shu.md)**
 
-说明了系统管理员可用于调整 FreeBSD 系统以获得最佳性能的各种参数。还涉及了 FreeBSD 中使用的各种配置文件以及它们的位置。
+说明了系统管理员可用于调整 FreeBSD 系统以获得最佳性能的各种参数。还介绍了 FreeBSD 中使用的各种配置文件以及它们的位置。
 
 **[FreeBSD 的引导过程](../di-15-zhang-freebsd-de-yin-dao-guo-cheng/15.1.-gai-shu.md)**
 
@@ -96,11 +96,11 @@
 
 **[本地化——i18n/L10n 的使用和设置](../di-26-zhang-ben-di-hua-i18nl10n-de-shi-yong-he-she-zhi/26.1.-gai-shu.md)**
 
-说明了如何配置 FreeBSD 使用除英语以外的其他语言，涉及系统和应用程序级别的本地化。
+说明了如何配置 FreeBSD 使用除英语以外的其他语言，涵盖系统和应用程序级别的本地化。
 
 **[FreeBSD 更新与升级](../di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.1.-gai-shu.md)**
 
-解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 间的区别。说明了哪些用户可以从跟踪开发系统中获益，并概述了该过程。涉及了几种将系统更新到最新安全发行版本的方法。
+解释了 FreeBSD-STABLE、FreeBSD-CURRENT 和 FreeBSD-RELEASE 间的区别。说明了哪些用户可以从跟踪开发系统中获益，并概述了该过程。涵盖了几种将系统更新到最新安全发行版本的方法。
 
 **[DTrace](../di-28-zhang-dtrace/28.1.-gai-shu.md)**
 
@@ -109,10 +109,6 @@
 **[USB 设备模式/USB OTG](../di-29-zhang-usb-she-bei-mo-shi-usb-otg/29.1.-gai-shu.md)**
 
 介绍了在 FreeBSD 上使用 USB 设备模式和 USB On-The-Go（USB OTG）。
-
-**[串行通信](../di-30-zhang-chuan-hang-tong-xin/30.1.-gai-shu.md)**
-
-介绍了如何在 FreeBSD 中使用串行通信。
 
 **[PPP](../di-31-zhang-ppp/31.1.-gai-shu.md)**
 
@@ -124,7 +120,7 @@
 
 **[网络服务器](../di-33-zhang-wang-luo-fu-wu-qi/33.1.-gai-shu.md)**
 
-提供了详细的说明和示例配置文件，以将你的 FreeBSD 设备配置成网络文件系统服务器、域名服务器、网络信息系统服务器和时间同步服务器。
+提供了详细的说明和示例配置文件，以将你的 FreeBSD 机器配置成网络文件系统服务器、域名服务器、网络信息系统服务器和时间同步服务器。
 
 **[防火墙](../di-34-zhang-fang-huo-qiang/34.1.-gai-shu.md)**
 
@@ -132,7 +128,7 @@
 
 **[高级网络](../di-35-zhang-gao-ji-wang-luo/35.1.-gai-shu.md)**
 
-涉及许多网络主题，包括在局域网上与其他计算机共享互联网连接、高级路由主题、无线网络、蓝牙、ATM、IPv6 等。
+介绍许多网络主题，包括在局域网上与其他计算机共享互联网连接、高级路由主题、无线网络、蓝牙、ATM、IPv6 等。
 
 **[获取 FreeBSD](../fu-lu-a.-huo-qu-freebsd/a.1.-jing-xiang-zhan.md)**
 
@@ -144,7 +140,7 @@
 
 **[网络资源](../fu-lu-c.-wang-luo-zi-yuan/c.1.-wang-zhan.md)**
 
-涉及了供 FreeBSD 用户提出问题并参与有关 FreeBSD 的技术交流的论坛。
+介绍了供 FreeBSD 用户提出问题并参与有关 FreeBSD 的技术交流的论坛。
 
 **[OpenPGP 密钥](../fu-lu-d.-openpgp-mi-yue/d.1.-guan-fang-cheng-yuan.md)**
 
