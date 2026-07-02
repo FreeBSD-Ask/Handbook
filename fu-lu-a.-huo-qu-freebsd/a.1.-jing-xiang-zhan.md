@@ -11,8 +11,8 @@ FreeBSD 项目的官方镜像站由项目集群管理员运维的多台机器组
 | **download.FreeBSD.org** | [https](https://download.freebsd.org/) [ftp](ftp://download.freebsd.org/pub/FreeBSD/) | 内容与 `ftp.FreeBSD.org` 相同，`ftp` 是旧名称；推荐使用 `download.FreeBSD.org`。 |
 | **git.FreeBSD.org** | git over `https` 和 `ssh` | 更多详情见[使用 Git](./a.2.-shi-yong-git.md)一节。 |
 | **pkg.FreeBSD.org** | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) over `http` 和 `https` | [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) 程序使用的 FreeBSD 官方软件包仓库。 |
-| **vuxml.FreeBSD.org** / **<www.VuXML.org>** | [https](https://www.vuxml.org/) | FreeBSD 项目 VuXML 网页。`pkg audit` 从此服务获取漏洞列表。 |
-| **<www.FreeBSD.org>** | [https](https://www.freebsd.org/) | FreeBSD 网站。 |
+| **vuxml.FreeBSD.org** / **www.VuXML.org** | [https](https://www.vuxml.org/) | FreeBSD 项目 VuXML 网页。`pkg audit` 从此服务获取漏洞列表。 |
+| **www.FreeBSD.org** | [https](https://www.freebsd.org/) | FreeBSD 网站。 |
 
 所有官方镜像站均支持 IPv4 和 IPv6。
 

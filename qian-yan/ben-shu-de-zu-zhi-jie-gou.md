@@ -26,10 +26,6 @@
 
 介绍 Wayland 显示服务器以及如何在 FreeBSD 上使用 Wayland。还涉及常见的混成器，如 Wayfire、Hikari 和 Sway。
 
-**[网络](../di-7-zhang-wang-luo/7.1.-gai-shu.md)**
-
-涉及基本的有线和无线网络配置，包括主机名、DNS 和故障排除。
-
 **[桌面环境](../di-8-zhang-zhuo-mian-huan-jing/8.1.-gai-shu.md)**
 
 列出了一些常见的桌面应用程序，例如网络浏览器和办公软件套件，并说明如何在 FreeBSD 上进行安装。
@@ -80,7 +76,7 @@
 
 **[存储](../di-21-zhang-cun-chu/21.1.-gai-shu.md)**
 
-说明了如何使用 FreeBSD 管理存储介质和文件系统。包括物理磁盘、RAID 阵列、光盘和磁带介质、内存盘和网络文件系统。
+说明了如何使用 FreeBSD 管理存储设备和文件系统。包括物理磁盘、RAID 阵列、光盘和磁带、内存盘和网络文件系统。
 
 **[GEOM：模块化磁盘转换框架](../di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.1.-gai-shu.md)**
 
