@@ -55,7 +55,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **命令行前缀：** `#` 表示 root 权限，`$` 表示普通用户。不要使用 `sudo`。
 - **提示块：** tip/important/note/warning/caution 使用 `>` 缩进引用，关键词 **加粗**。
-- **代码块：** 使用 ` ```sh ` 兜底，禁止使用 text 作为代码块标记
+- **代码块：** 无法判断的，再使用 ` ```sh ` 兜底，禁止使用 text 作为代码块标记，不窜改既有的 ` ```ini ` 标记。
 - **表格：** 一律居中。
 - **禁止 HTML：** 本项目不支持任何 HTML 语法。
 - **文件命名：** 使用拼音 slug，文件名中不得包含空格、中文字符或英文冒号 `:`，必须兼容 Windows 操作系统对文件名的要求。
