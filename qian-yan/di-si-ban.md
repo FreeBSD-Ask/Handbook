@@ -6,8 +6,8 @@
 * 创建了 [FreeBSD 文档门户](https://docs.freebsd.org/)。
 * [简介](../di-1-zhang-jian-jie/1.1.-gai-shu.md)章节更新了，改进了 FreeBSD 历史部分并修正了小的拼写错误。
 * [安装](../di-2-zhang-an-zhuang-freebsd/2.1.-gai-shu.md)章节更新了，升级了概述，包含了安装程序的最新更改，刷新了图片，为图片添加了替代文本，并移除了对特定版本的引用。
-* [基础](../di-3-zhang-freebsd-ji-chu/3.1.-gai-shu.md)章节更新了表格、命令输出，以及根据 man:hier 更新了目录结构。
-* [Ports](../di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)章节更新了，简化了软件包搜索，更新了软件示例（Nginx 替代了 Apache），改进了 pkg(8) 引导过程，并添加了配置和管理软件包的新说明，包括阻止和取消阻止。
+* [基础](../di-3-zhang-freebsd-ji-chu/3.1.-gai-shu.md)章节更新了表格、命令输出，以及根据 [hier(7)](https://man.freebsd.org/cgi/man.cgi?query=hier&sektion=7&format=html) 更新了目录结构。
+* [Ports](../di-4-zhang-an-zhuang-ying-yong-cheng-xu-ruan-jian-bao-he-ports/4.1.-gai-shu.md)章节更新了，简化了软件包搜索，更新了软件示例（Nginx 替代了 Apache），改进了 [pkg(8)](https://man.freebsd.org/cgi/man.cgi?query=pkg&sektion=8&format=html) 引导过程，并添加了配置和管理软件包的新说明，包括阻止和取消阻止。
 * [X Window](../di-5-zhang-xwindow-xi-tong/5.1.-gai-shu.md)章节更新以反映 FreeBSD 中图形系统的当前状态，移除了对旧 Intel 驱动程序、配置和 compiz 的过时引用，并将桌面环境说明（如 KDE Plasma 和 GNOME）移至桌面环境章节，因为这些环境现在除了 X11 外还支持 Wayland。
 * 新增了 [Wayland](../di-6-zhang-freebsd-zhong-de-wayland/6.1.-wayland-jian-jie.md)章节，包含在 FreeBSD 上安装和配置 Wayland 的信息。
 * [网络](../di-7-zhang-wang-luo/7.1.-gai-shu.md)章节为新增，涵盖基本的有线和无线网络配置，包括主机名、DNS 和故障排除。有线网络、无线和 IPv6 相关章节迁移并更新，改进了命令输出，使用了 sysrc，并采用了更好的 AsciiDoc 语法。
