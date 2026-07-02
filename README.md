@@ -10,23 +10,11 @@ FreeBSD 官方手册（FreeBSD Handbook）的中文翻译项目，基于 GitBook
 翻译基准为 FreeBSD 最新 RELEASE 版本，英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
 
 - ✅ 第 1-35 章翻译完成
-- ✅ 全部章节校对完成（2026.6.29）
+- ✅ 全部章节校对完成（2026.7.2）
 
 目前持续进行质量改进和英文原版同步。
 
 ## 快速开始
-
-### 本地预览
-
-本项目基于 GitBook 格式，可通过 GitBook 平台或本地工具预览：
-
-```bash
-# 安装 GitBook CLI
-npm install -g gitbook-cli
-
-# 本地预览
-gitbook serve
-```
 
 ### 目录结构
 
@@ -79,7 +67,6 @@ Handbook/
 - **中文发布：** <https://handbook.bsdcn.org>
 - **编辑日志：** [CHANGELOG.md](CHANGELOG.md)
 - **术语对照：** [yi-zhe-shuo-ming.md](yi-zhe-shuo-ming.md)
-- **旧版存档：** <https://www.alipan.com/s/9rUaCHKauvC>
 
 ## 许可证
 
