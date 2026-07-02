@@ -71,12 +71,12 @@
 | tarball | 源码包/压缩文件 | ？ |
 | Ticket | 凭据 | |
 | tip | 技巧 | 应该缩进 **加粗** 使用 |
-| Tuning | 调整 | 不是"调优" |
+| Tuning | 调整 | 不是“调优” |
 | UEFI | 统一可扩展固件接口 | |
 | URL | 网址 | |
 | USB dongle | USB 适配器 | 需要结合语境判断是具体是什么 |
 | USB stick | U 盘/优盘 | |
-| utility | 工具 | 不是"实用程序" |
+| utility | 工具 | 不是“实用程序” |
 | Video Modes | 分辨率 | |
 | warning | 警告 | 应该缩进 **加粗** 使用 |
 | world | 世界 | 指除了内核以外的基本系统的所有部分 |
@@ -97,7 +97,7 @@
 | Disk Organization | 磁盘结构 | 3.6. Disk Organization |
 | Distribution Files | 安装文件/分发文件 | 结合语境 |
 | domain | 域 | 术语在线收录：计算机科学技术 (2018) |
-| drive | 结合语境可能是"磁盘"/驱动器装置/设备 | 结合语境 |
+| drive | 结合语境可能是“磁盘”/驱动器装置/设备 | 结合语境 |
 | embedded boards | 嵌入式板卡 | |
 | Enter | 回车键 | `回车键` |
 | Export Regulations | 出口管制 | |
@@ -118,13 +118,13 @@
 | tarball | 源码包/压缩文件 | ？ |
 | Ticket | 凭据 | |
 | tip | 技巧 | 应该缩进 **加粗** 使用 |
-| Tuning | 调整 | 不是"调优" |
+| Tuning | 调整 | 不是“调优” |
 | UEFI | 统一可扩展固件接口 | |
 | URL | 网址 | |
 | USB dongle | USB 适配器 | 需要结合语境判断是具体是什么 |
 | USB stick | U 盘/优盘 | |
 | user | 用户 | 术语在线收录：计算机科学技术 (2018) |
-| utility | 工具 | 不是"实用程序" |
+| utility | 工具 | 不是“实用程序” |
 | Video Modes | 分辨率 | |
 | warning | 警告 | 应该缩进 **加粗** 使用 |
 | world | 世界 | 指除了内核以外的基本系统的所有部分 |
