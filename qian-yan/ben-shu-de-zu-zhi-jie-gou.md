@@ -76,7 +76,7 @@
 
 **[存储](../di-21-zhang-cun-chu/21.1.-gai-shu.md)**
 
-说明了如何使用 FreeBSD 管理存储介质和文件系统。包括物理磁盘、RAID 阵列、光盘和磁带介质、内存盘和网络文件系统。
+说明了如何使用 FreeBSD 管理存储设备和文件系统。包括物理磁盘、RAID 阵列、光盘和磁带、内存盘和网络文件系统。
 
 **[GEOM：模块化磁盘转换框架](../di-22-zhang-geom-mo-kuai-hua-ci-pan-zhuan-huan-kuang-jia/22.1.-gai-shu.md)**
 
