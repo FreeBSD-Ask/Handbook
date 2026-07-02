@@ -376,7 +376,7 @@
 * [34.2.防火墙的概念](di-34-zhang-fang-huo-qiang/34.2.-fang-huo-qiang-de-gai-nian.md)
 * [34.3.PF](di-34-zhang-fang-huo-qiang/34.3.-pf.md)
 * [34.4.IPFW](di-34-zhang-fang-huo-qiang/34.4.-ipfw.md)
-* [34.5.IPFILTER（IPF）](di-34-zhang-fang-huo-qiang/34.5.-ipfilter-ipf.md)
+* [34.5.IPFILTER (IPF)](di-34-zhang-fang-huo-qiang/34.5.-ipfilter-ipf.md)
 * [34.6.blocklistd](di-34-zhang-fang-huo-qiang/34.6.-blocklistd.md)
 
 ## 第 35 章 高级网络
