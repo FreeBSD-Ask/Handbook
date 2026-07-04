@@ -1,13 +1,15 @@
 # FreeBSD 中文手册
 
+面向 FreeBSD 用户，持续演进的全面资源。
+
 [![翻译进度](https://img.shields.io/badge/翻译进度-校对完成-brightgreen)](CHANGELOG.md)
 [![GitHub stars](https://img.shields.io/github/stars/FreeBSD-Ask/Handbook)](https://github.com/FreeBSD-Ask/Handbook/stargazers)
 
 FreeBSD 官方手册（FreeBSD Handbook）的中文翻译项目，基于 GitBook 格式，发布在 <https://handbook.bsdcn.org>。
 
-## 项目状态
+翻译基准为 FreeBSD 最新 RELEASE 版本（https://github.com/freebsd/freebsd-doc git 版本 93d98e91f6bfaacd7fae40dd398efe47d44f085b），英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
 
-翻译基准为 FreeBSD 最新 RELEASE 版本，英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
+## 项目状态
 
 - ✅ 第 1-35 章翻译完成
 - ✅ 全部章节校对完成（2026.7.2）
