@@ -70,7 +70,7 @@
 
 `Advanced Power Management`
 
-一套 API，让操作系统与 BIOS 协同工作以实现电源管理。在大多数应用场景中，APM 已由更通用、功能更强大的 ACPI 规范所取代。
+一套 API，让操作系统与 BIOS 协同工作以实现电源管理。在大多数应用场景中，APM 由更通用、功能更强大的 ACPI 规范取代。
 
 `Advanced Programmable Interrupt Controller`
 
@@ -90,7 +90,7 @@
 
 `Automatic Mount Daemon`
 
-一种守护进程，在访问文件系统内的文件或目录时自动挂载该文件系统。
+守护进程，在访问文件系统内的文件或目录时自动挂载该文件系统。
 
 ## B
 
@@ -116,11 +116,11 @@
 
 `Basic Input/Output System`
 
-BIOS 的定义依上下文有所不同。有人视其为一块 ROM 芯片，内含一组基本例程，为软件与硬件之间提供接口。也有人视其为芯片中的一组例程，用于辅助系统自举。还有人视其为配置自举过程的设置界面。BIOS 是 PC 特有的，但其他系统也有类似机制。
+BIOS 的定义依上下文有所不同。有人视其为一块 ROM 芯片，内含一组基本例程，在软件与硬件之间提供接口。也有人视其为芯片中的一组例程，用于辅助系统自举。还有人视其为配置自举过程的设置界面。BIOS 是 PC 特有的，但其他系统也有类似机制。
 
 `Berkeley Internet Name Domain`
 
-DNS 协议的一种实现。
+DNS 协议的实现。
 
 `Berkeley Software Distribution`
 
@@ -128,7 +128,7 @@ DNS 协议的一种实现。
 
 `Bikeshed Building`
 
-单车棚效应：一种现象，即人们热衷于对一个简单话题发表大量意见，而对复杂话题却少有讨论。关于该术语的起源，请参阅常见问题解答。
+单车棚效应：人们热衷于对简单话题发表大量意见，而对复杂话题却少有讨论。关于该术语的起源，请参阅常见问题解答。
 
 ## C
 
@@ -234,17 +234,17 @@ RS232C 信号，授予远程系统发送数据的权限。
 
 `Data Set Ready`
 
-RS232C 信号，由调制解调器向计算机或终端发送，表示已准备好收发数据。
+RS232C 信号，由调制解调器向计算机或终端发送，表示准备好收发数据。
 
 另请参阅[数据终端就绪](./shu-yu-biao.md)。
 
 `Data Terminal Ready`
 
-RS232C 信号，由计算机或终端向调制解调器发送，表示已准备好收发数据。
+RS232C 信号，由计算机或终端向调制解调器发送，表示准备好收发数据。
 
 `Debugger`
 
-一种交互式内核内工具，用于检查系统状态，常在系统崩溃后使用，以查明导致故障的事件。
+交互式内核内工具，用于检查系统状态，常在系统崩溃后使用，以查明导致故障的事件。
 
 `Differentiated System Description Table`
 
@@ -334,11 +334,11 @@ TCP/IP 网络上用于传输文件的高级协议族成员之一。
 
 `Giant`
 
-一种互斥机制（睡眠 mutex）的名称，用于保护大量内核资源。在机器仅有几十个进程、一块网卡、且只有一个处理器的年代，简单的锁定机制尚可应付。但到了今天，这已成为难以接受的性能瓶颈。FreeBSD 开发者正积极将其替换为保护单个资源的锁，这将让单处理器和多处理器机器都能实现更高程度的并行。
+一种互斥机制（睡眠 mutex）的名称，用于保护大量内核资源。在机器仅有几十个进程、一块网卡、且只有一个处理器的年代，简单的锁定机制尚可应付。但到了今天，这成为难以接受的性能瓶颈。FreeBSD 开发者正积极将其替换为保护单个资源的锁，这将让单处理器和多处理器机器都能实现更高程度的并行。
 
 `Graphical User Interface`
 
-用户与计算机通过图形进行交互的系统。
+用户与计算机通过图形交互的系统。
 
 ## H
 
@@ -514,7 +514,7 @@ Intel 的编译器，用于将 ASL 转换为 AML。
 
 `Lock Order Reversal`
 
-FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-CURRENT 内核中包含一个运行时锁诊断系统（在发布版本中已移除），名为 [witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)，用于检测锁错误可能导致的死锁。（[witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上偏保守，因此可能产生误报。）真正的正报表示“如果运气不好，这里本来会死锁”。真正的 LOR 通常会迅速修复，因此在向邮件列表发帖之前，请先查阅 https://lists.FreeBSD.org/subscription/freebsd-current 和 [LORs Seen](https://sources.zabbadoz.net/freebsd/lor.html) 页面。
+FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-CURRENT 内核中包含一个运行时锁诊断系统（在发布版本中移除），名为 [witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html)，用于检测锁错误可能导致的死锁。（[witness(4)](https://man.freebsd.org/cgi/man.cgi?query=witness&sektion=4&format=html) 实际上偏保守，因此可能产生误报。）真正的正报表示“如果运气不好，这里本来会死锁”。真正的 LOR 通常会迅速修复，因此在向邮件列表发帖之前，请先查阅 https://lists.FreeBSD.org/subscription/freebsd-current 和 [LORs Seen](https://sources.zabbadoz.net/freebsd/lor.html) 页面。
 
 ## M
 
@@ -670,7 +670,7 @@ FreeBSD 内核使用多个资源锁来协调对这些资源的争用。FreeBSD-C
 
 `Overtaken By Events`
 
-指某项建议的更改（如问题报告或功能请求）因 FreeBSD 的后续变更、网络标准的更新、相关硬件已淘汰等原因而不再适用。
+指某项建议的更改（如问题报告或功能请求）因 FreeBSD 的后续变更、网络标准的更新、相关硬件淘汰等原因而不再适用。
 
 ## P
 
