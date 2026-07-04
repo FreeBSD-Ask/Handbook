@@ -93,7 +93,7 @@ GitLab
 
 ## A.2.7. 邮件列表
 
-FreeBSD 项目中讨论 git 通用用法及问题的邮件列表是 [freebsd-git](https://lists.freebsd.org/subscription/freebsd-git)。更多详情（包括提交记录邮件列表）请参阅[邮件列表](https://docs.freebsd.org/en/books/handbook/eresources/#eresources-mail)一章。
+FreeBSD 项目中讨论 git 通用用法及问题的主要邮件列表是 [freebsd-git](https://lists.freebsd.org/subscription/freebsd-git)。更多详情（包括提交记录邮件列表）请参阅[邮件列表](https://docs.freebsd.org/en/books/handbook/eresources/#eresources-mail)一章。
 
 ## A.2.8. SSH 主机密钥
 
