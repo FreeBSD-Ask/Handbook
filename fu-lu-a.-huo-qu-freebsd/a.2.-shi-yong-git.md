@@ -75,8 +75,8 @@ FreeBSD 项目使用 cgit 作为基于 Web 的仓库浏览器：<https://cgit.Fr
 
 Codeberg
 
-* doc：<https://codeberg.org/FreeBSD/freebsd-doc>
-* Ports：<https://codeberg.org/FreeBSD/freebsd-ports>
+* doc:<https://codeberg.org/FreeBSD/freebsd-doc>
+* Ports:<https://codeberg.org/FreeBSD/freebsd-ports>
 * src：<https://codeberg.org/FreeBSD/freebsd-src>
 
 GitHub
