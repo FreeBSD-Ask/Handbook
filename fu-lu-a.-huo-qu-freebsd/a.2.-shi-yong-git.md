@@ -87,9 +87,9 @@ GitHub
 
 GitLab
 
-* doc：<https://gitlab.com/FreeBSD/freebsd-doc>
-* Ports：<https://gitlab.com/FreeBSD/freebsd-ports>
-* src：<https://gitlab.com/FreeBSD/freebsd-src>
+* doc: <https://gitlab.com/FreeBSD/freebsd-doc>
+* Ports: <https://gitlab.com/FreeBSD/freebsd-ports>
+* src: <https://gitlab.com/FreeBSD/freebsd-src>
 
 ## A.2.7. 邮件列表
 
