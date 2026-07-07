@@ -77,7 +77,7 @@ Codeberg
 
 * doc:<https://codeberg.org/FreeBSD/freebsd-doc>
 * Ports:<https://codeberg.org/FreeBSD/freebsd-ports>
-* src：<https://codeberg.org/FreeBSD/freebsd-src>
+* src:<https://codeberg.org/FreeBSD/freebsd-src>
 
 GitHub
 
