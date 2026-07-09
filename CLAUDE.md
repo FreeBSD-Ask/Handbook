@@ -38,7 +38,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 前言在 `qian-yan/`，附录在 `fu-lu-X/`
 - 分部介绍页如 `di-yi-bu-fen-kuai-su-kai-shi.md`
 - `.gitbook/assets/` — GitBook 静态资源（logo 等）
-- 全书共 35 章（Ch1-Ch35），中文章号与英文原版 1:1 对应；Ch18 为「OCI 容器」，于 2026-06 由英文原版补译
+- 全书共 35 章（Ch1-Ch35），中文章号与英文原版 1:1 对应；Ch18 为“OCI 容器”，于 2026-06 由英文原版补译
 - 章节结构对比脚本位于 `script/compare_structure_v2.py`，可检测中英文版本子章节级差异
 - `en/` — 英文 AsciiDoc 原版归档（40 个子目录，每个含 `_index.adoc`），用于翻译对照参考；不要修改或翻译其中的内容
 
@@ -79,6 +79,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **避免章节交叉引用：** 正文不要出现具体的章节交叉引用（如"参见第 5 章"），改用语义化链接。
 - **代码块注释翻译：** 代码块（` ``` ` 围栏）内的英文注释必须翻译为中文（如 shell 注释 `# This is a comment` → `# 这是一个注释`）。只翻译注释部分，不修改实际命令或代码。保持代码结构和格式不变。
 - **fstab 不翻译：** fstab 文件表头（如 `# Device Mountpoint FStype Options Dump Pass#`）及其相关内容保持英文原样，不翻译。
+- **禁止「」引号：** 正文中不允许出现「」引号，一律替换为“”（中文双引号）。禁止机械替换，需逐个手动修改。
+- **禁止双冒号链接语法：** 不允许使用 AsciiDoc 风格的双冒号链接语法（如 `mini-memstick::`、`xref:file[文本]`、`link:file[文本]`），必须使用标准 markdown 链接 `[文本](路径)` 指向真实位置。
+- **禁止软换行：** 不允许使用 AsciiDoc 风格的行尾 `+` 软换行，所有段落必须在同一行内完成，不得跨行拼接。
 
 ### 术语
 
@@ -86,6 +89,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - "Jail" 保持英文（不翻译为"监狱"、"监牢"）禁止机械替换。
 - "拷贝" → "复制"，"壳/外壳" → "shell"。禁止机械替换。
 - 第二人称一律使用"你"而非"您"
+- `pkgbase` 保持英文不翻译（禁止译为"打包基系统"等任何中文形式），相关概念可表述为"基本系统的软件包"。
+- `base system` 统一翻译为"基本系统"（禁止译为"基础系统"、"基系统"等变体）。
+- `The FreeBSD Foundation` 翻译为"FreeBSD 基金会"（注意前后空格自动调整，省去 The）。
 - 所有术语翻译见 `yi-zhe-shuo-ming.md` 对照表
 
 ### CJK 空格
