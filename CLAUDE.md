@@ -92,6 +92,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `pkgbase` 保持英文不翻译（禁止译为"打包基系统"等任何中文形式），相关概念可表述为"基本系统的软件包"。
 - `base system` 统一翻译为"基本系统"（禁止译为"基础系统"、"基系统"等变体）。
 - `The FreeBSD Foundation` 翻译为"FreeBSD 基金会"（注意前后空格自动调整，省去 The）。
+- `repository` 统一翻译为"存储库"（禁止译为"仓库"等变体）。
 - 所有术语翻译见 `yi-zhe-shuo-ming.md` 对照表
 
 ### CJK 空格
