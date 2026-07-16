@@ -204,10 +204,17 @@
 * [17.3.主机配置](di-17-zhang-jail/17.3.-zhu-ji-pei-zhi-jail.md)
 * [17.4.传统 jail（厚 jail）](di-17-zhang-jail/17.4.-chuan-tong-jail-hou-jail.md)
 * [17.5.瘦 jail](di-17-zhang-jail/17.5.-shou-jail.md)
-* [17.6.管理 jail](di-17-zhang-jail/17.6.-guan-li-jail.md)
-* [17.7.升级 jail](di-17-zhang-jail/17.7.-geng-xin-jail.md)
-* [17.8.jail 资源限制](di-17-zhang-jail/17.8.-jail-zi-yuan-xian-zhi.md)
-* [17.9.jail 管理器与容器](di-17-zhang-jail/17.9.-jail-guan-li-qi-yu-rong-qi.md)
+* [17.6.VNET jail](di-17-zhang-jail/17.6.-vnet-jail.md)
+* [17.7.Linux jail](di-17-zhang-jail/17.7.-linux-jail.md)
+* [17.8.NAT 和端口转发](di-17-zhang-jail/17.8.-nat-he-duan-kou-zhuan-fa.md)
+* [17.9.服务 jail](di-17-zhang-jail/17.9.-fu-wu-jail.md)
+* [17.10.管理 jail](di-17-zhang-jail/17.10.-guan-li-jail.md)
+* [17.11.从 jail 内部管理](di-17-zhang-jail/17.11.-cong-jail-nei-bu-guan-li.md)
+* [17.12.升级 jail](di-17-zhang-jail/17.12.-geng-xin-jail.md)
+* [17.13.jail 资源限制](di-17-zhang-jail/17.13.-jail-zi-yuan-xian-zhi.md)
+* [17.14.更多 jail 选项](di-17-zhang-jail/17.14.-geng-duo-jail-xuan-xiang.md)
+* [17.15.jail 与 ZFS](di-17-zhang-jail/17.15.-jail-yu-zfs.md)
+* [17.16.jail 管理器与容器](di-17-zhang-jail/17.16.-jail-guan-li-qi-yu-rong-qi.md)
 
 ## 第 18 章 OCI 容器
 
