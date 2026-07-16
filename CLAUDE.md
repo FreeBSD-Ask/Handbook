@@ -12,7 +12,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 流程：拉取 git 项目（注意，因为部分文件存在英文冒号，在 Windows 下无法拉取，需要下载 zip 压缩包）：https://github.com/freebsd/freebsd-doc
 
-当前翻译 git 版本：93d98e91f6bfaacd7fae40dd398efe47d44f085b
+当前翻译 git 版本：56ba04a704e911e7f8f87be271f31f1dedc8f793
 
 路径：**documentation/content/en/books/handbook**
 
