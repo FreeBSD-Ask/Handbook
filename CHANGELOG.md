@@ -1,5 +1,6 @@
 # 编辑日志
 
+- 2026.7.16 同步第 17 章 jail 至 <https://github.com/freebsd/freebsd-doc/commit/56ba04a704e911e7f8f87be271f31f1dedc8f793>（H2 从 9 节扩展到 16 节，新增 VNET jail、Linux jail、NAT 和端口转发、服务 jail、从 jail 内部管理、更多 jail 选项、jail 与 ZFS 等章节）
 - 2026.6.29 同步最新
 - 2026.6.2 第 32-34 章校对完成
 - 2026.6.2 第 17-25 章校对完成
