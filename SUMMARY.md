@@ -274,9 +274,11 @@
 * [23.3.zpool 管理](di-23-zhang-z-wen-jian-xi-tong-zfs/23.3.-zpool-guan-li.md)
 * [23.4.zfs 管理](di-23-zhang-z-wen-jian-xi-tong-zfs/23.4.-zfs-guan-li.md)
 * [23.5.委托管理](di-23-zhang-z-wen-jian-xi-tong-zfs/23.5.-wei-tuo-guan-li.md)
-* [23.6.高级主题](di-23-zhang-z-wen-jian-xi-tong-zfs/23.6.-gao-ji-zhu-ti.md)
-* [23.7.更多资源](di-23-zhang-z-wen-jian-xi-tong-zfs/23.7.-geng-duo-zi-yuan.md)
-* [23.8.ZFS 特性和术语](di-23-zhang-z-wen-jian-xi-tong-zfs/23.8.-zfs-te-xing-he-shu-yu.md)
+* [23.6.ZFS 原生加密](di-23-zhang-z-wen-jian-xi-tong-zfs/23.6.-zfs-yuan-sheng-jia-mi.md)
+* [23.7.引导环境](di-23-zhang-z-wen-jian-xi-tong-zfs/23.7.-yin-dao-huan-jing.md)
+* [23.8.高级主题](di-23-zhang-z-wen-jian-xi-tong-zfs/23.8.-gao-ji-zhu-ti.md)
+* [23.9.更多资源](di-23-zhang-z-wen-jian-xi-tong-zfs/23.9.-geng-duo-zi-yuan.md)
+* [23.10.ZFS 特性和术语](di-23-zhang-z-wen-jian-xi-tong-zfs/23.10.-zfs-te-xing-he-shu-yu.md)
 
 ## 第 24 章 其他文件系统
 

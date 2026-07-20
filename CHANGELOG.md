@@ -1,5 +1,6 @@
 # 编辑日志
 
+- 2026.7.20 同步第 23 章 ZFS 至 <https://github.com/freebsd/freebsd-doc/commit/f8d86635bc2f2d2706a1f084c0bbc260468e489f>（H2 从 8 节扩展到 10 节，新增 ZFS 原生加密、引导环境等章节；重写 Tuning；删除 ZFS on i386；新增 RAID-Z 扩展、dRAID、特殊分配类、热备与 zfsd、TRIM、池检查点、块克隆、书签、快照持有、可恢复传输、纠错接收、项目配额、重写已有数据、NFSv4 ACL、ARC 大小与监控、同步写入 ZIL 与 SLOG、直接 I/O、recordsize 与 volblocksize、导入 GELI 加密池等小节）
 - 2026.7.16 同步第 17 章 jail 至 <https://github.com/freebsd/freebsd-doc/commit/56ba04a704e911e7f8f87be271f31f1dedc8f793>（H2 从 9 节扩展到 16 节，新增 VNET jail、Linux jail、NAT 和端口转发、服务 jail、从 jail 内部管理、更多 jail 选项、jail 与 ZFS 等章节）
 - 2026.6.29 同步最新
 - 2026.6.2 第 32-34 章校对完成
