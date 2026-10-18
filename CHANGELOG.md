@@ -1,5 +1,6 @@
 # 编辑日志
 
+- 2026.10.18 同步上游至 <https://github.com/freebsd/freebsd-doc/commit/e050e65347c6967f74ed9ff20f19e3eef91c0857>（第 18 章 OCI 容器从 2 节扩展到 17 节，新增官方镜像存储库位置、Podman 简介与安装、配置网络、导入并运行容器、构建自定义镜像、高级用法、跨架构测试、故障排除等章节；第 27 章新增 27.2 介绍节（主要版本与次要版本、更新与升级、升级路径），原 27.2-27.9 顺延为 27.3-27.10，`make kernel` 拆分为 `make buildkernel` 与 `make installkernel`；概述版本号更新为 15.1/14.5-RELEASE；第 5 章新增 NVIDIA 驱动 580；第 9 章 Jitsi 状态更新并新增 Discord；第 2 章镜像菜单 HTTP 改 HTTPS；第 13 章 Ports 路径 emulator 改 emulators；第 21 章删除过时的 sysinstall/gbde 注意事项；第 34 章及附录 A/B 链接升级 HTTPS；附录 A 官方站点新增法国、社区镜像新增阿塞拜疆）
 - 2026.7.20 同步第 23 章 ZFS 至 <https://github.com/freebsd/freebsd-doc/commit/f8d86635bc2f2d2706a1f084c0bbc260468e489f>（H2 从 8 节扩展到 10 节，新增 ZFS 原生加密、引导环境等章节；重写 Tuning；删除 ZFS on i386；新增 RAID-Z 扩展、dRAID、特殊分配类、热备与 zfsd、TRIM、池检查点、块克隆、书签、快照持有、可恢复传输、纠错接收、项目配额、重写已有数据、NFSv4 ACL、ARC 大小与监控、同步写入 ZIL 与 SLOG、直接 I/O、recordsize 与 volblocksize、导入 GELI 加密池等小节）
 - 2026.7.16 同步第 17 章 jail 至 <https://github.com/freebsd/freebsd-doc/commit/56ba04a704e911e7f8f87be271f31f1dedc8f793>（H2 从 9 节扩展到 16 节，新增 VNET jail、Linux jail、NAT 和端口转发、服务 jail、从 jail 内部管理、更多 jail 选项、jail 与 ZFS 等章节）
 - 2026.6.29 同步最新
