@@ -325,13 +325,13 @@
 * [27.1.概述](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.1.-gai-shu.md)
 * [27.2.介绍](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.2.-jie-shao.md)
 * [27.3.更新 FreeBSD](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.3.-geng-xin-freebsd.md)
-* [27.3.更新 Bootcode](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.4.-geng-xin-bootcode.md)
-* [27.4.更新文档](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.5.-geng-xin-wen-dang.md)
-* [27.5.追踪开发分支](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.6.-zhui-zong-kai-fa-fen-zhi.md)
-* [27.6.从源代码更新 FreeBSD](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.7.-cong-yuan-dai-ma-geng-xin-freebsd.md)
-* [27.7.使用软件包更新 FreeBSD](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.8.-pkgbase.md)
-* [27.8.多台机器的追踪](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.9.-duo-tai-ji-qi-de-zhui-zong.md)
-* [27.9.在非 FreeBSD 主机上进行构建](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.10.-zai-fei-freebsd-zhu-ji-shang-jin-xing-gou-jian.md)
+* [27.4.更新 Bootcode](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.4.-geng-xin-bootcode.md)
+* [27.5.更新文档](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.5.-geng-xin-wen-dang.md)
+* [27.6.追踪开发分支](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.6.-zhui-zong-kai-fa-fen-zhi.md)
+* [27.7.从源代码更新 FreeBSD](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.7.-cong-yuan-dai-ma-geng-xin-freebsd.md)
+* [27.8.使用软件包更新 FreeBSD](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.8.-pkgbase.md)
+* [27.9.多台机器的追踪](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.9.-duo-tai-ji-qi-de-zhui-zong.md)
+* [27.10.在非 FreeBSD 主机上进行构建](di-27-zhang-freebsd-geng-xin-yu-sheng-ji/27.10.-zai-fei-freebsd-zhu-ji-shang-jin-xing-gou-jian.md)
 
 ## 第 28 章 DTrace
 
