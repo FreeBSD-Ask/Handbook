@@ -1,6 +1,6 @@
 # A.1.镜像站
 
-FreeBSD 项目的官方镜像站由项目集群管理员运维的多台机器组成，并通过 GeoDNS 将用户导向最近的可用镜像。目前的站点分布在澳大利亚、巴西、日本（两个站点）、马来西亚、南非、瑞典、台湾、美国（加利福尼亚州——两个站点、伊利诺伊州——两个站点、新泽西州和华盛顿州）。
+FreeBSD 项目的官方镜像站由项目集群管理员运维的多台机器组成，并通过 GeoDNS 将用户导向最近的可用镜像。目前的站点分布在澳大利亚、巴西、法国、日本（两个站点）、马来西亚、南非、瑞典、台湾、美国（加利福尼亚州——两个站点、伊利诺伊州——两个站点、新泽西州和华盛顿州）。
 
 官方镜像服务：
 
@@ -28,6 +28,7 @@ FreeBSD 项目的官方镜像站由项目集群管理员运维的多台机器组
 | ---- | ------ | ---- |
 | Australia | ftp.au.FreeBSD.org | [http](http://ftp.au.freebsd.org/pub/FreeBSD) [httpv6](http://ftp.au.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.au.FreeBSD.org) [rsyncv6](rsync://ftp.au.FreeBSD.org) |
 | | ftp3.au.FreeBSD.org | [http](http://ftp3.au.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp3.au.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp3.au.FreeBSD.org) |
+| Azerbaijan | ftp1.az.FreeBSD.org | [http](http://ftp1.az.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp1.az.FreeBSD.org) |
 | Brazil | ftp2.br.FreeBSD.org | [http](http://ftp2.br.freebsd.org/FreeBSD) [rsync](rsync://ftp2.br.FreeBSD.org) [rsyncv6](rsync://ftp2.br.FreeBSD.org) |
 | | ftp3.br.FreeBSD.org | [http](http://ftp3.br.freebsd.org/pub/FreeBSD) [ftp](ftp://ftp3.br.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp3.br.FreeBSD.org) |
 | Bulgaria | ftp.bg.FreeBSD.org | [ftp](ftp://ftp.bg.freebsd.org/pub/FreeBSD) [ftpv6](ftp://ftp.bg.freebsd.org/pub/FreeBSD) [rsync](rsync://ftp.bg.FreeBSD.org) [rsyncv6](rsync://ftp.bg.FreeBSD.org) |
