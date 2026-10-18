@@ -7,7 +7,7 @@
 
 FreeBSD 官方手册（FreeBSD Handbook）的中文翻译项目，基于 GitBook 格式，发布在 <https://handbook.bsdcn.org>。
 
-翻译基准为 FreeBSD 最新 RELEASE 版本（https://github.com/freebsd/freebsd-doc git 版本 93d98e91f6bfaacd7fae40dd398efe47d44f085b），英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
+翻译基准为 FreeBSD 最新 RELEASE 版本（<https://github.com/freebsd/freebsd-doc> git 版本 e050e65347c6967f74ed9ff20f19e3eef91c0857），英文原版见 <https://docs.freebsd.org/en/books/handbook/book/>。
 
 ## 项目状态
 
