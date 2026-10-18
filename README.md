@@ -3,7 +3,6 @@
 面向 FreeBSD 用户，持续演进的全面资源。
 
 [![翻译进度](https://img.shields.io/badge/翻译进度-校对完成-brightgreen)](CHANGELOG.md)
-[![GitHub stars](https://img.shields.io/github/stars/FreeBSD-Ask/Handbook)](https://github.com/FreeBSD-Ask/Handbook/stargazers)
 
 FreeBSD 官方手册（FreeBSD Handbook）的中文翻译项目，基于 GitBook 格式，发布在 <https://handbook.bsdcn.org>。
 
